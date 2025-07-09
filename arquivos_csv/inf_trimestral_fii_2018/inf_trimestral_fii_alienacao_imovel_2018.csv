@@ -1,0 +1,422 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
+01.235.622/0001-61;2018-03-29;3;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2018-03-29;341.62;3;Construção própria;0.029722;0.0005
+01.235.622/0001-61;2018-03-29;3;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2018-03-29;61.54;3;Construção própria;0.013008;0.0003
+01.235.622/0001-61;2018-03-29;3;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;2018-03-29;151.35;5;Construção própria;0.021927;0.0023
+01.235.622/0001-61;2018-03-29;3;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2018-03-29;202.36;4;Construção própria;0.0184;0.0024
+01.235.622/0001-61;2018-03-29;3;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2018-03-29;326.36;4;Aquisição de unidades prontas;0.02775;0.0006
+01.235.622/0001-61;2018-03-29;3;Riserva;Rua Constante Sodré, 1313 - Praia do Canto, Vitória - ES;2018-03-29;672.52;4;Construção própria;0.097153;0.001
+01.235.622/0001-61;2018-03-29;3;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2018-03-29;213.88;8;Construção própria;0.018242;0.0015
+01.235.622/0001-61;2018-03-29;3;Highline Square;Rua José Alexandre Buaiz, 230, Enseada do Suá, Vitória - ES;2018-03-29;3220;89;Construção própria;0.33784;0.002
+01.235.622/0001-61;2018-03-29;3;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2018-03-29;203.32;2;Aquisição de unidades prontas;0.022431;0.0099
+01.235.622/0001-61;2018-06-29;2;Arete;Praia Rasa, Buzios - RJ;2018-06-29;2056;9;Construção própria;0.178497;0.006426
+01.235.622/0001-61;2018-06-29;2;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2018-06-29;34.12;1;Construção própria;0.004639;0.000167
+01.235.622/0001-61;2018-06-29;2;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;2018-06-29;34.15;1;Construção própria;0.004693;0.000169
+01.235.622/0001-61;2018-06-29;2;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2018-06-29;76.06;2;Construção própria;0.006404;0.000231
+01.235.622/0001-61;2018-06-29;2;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2018-06-29;232.59;3;Aquisição de unidades prontas;0.019649;0.000707
+01.235.622/0001-61;2018-06-29;2;Innovita;Rua do Matoso, 104, Tijuca, Rio de Janeiro - RJ;2018-06-29;315.92;2;Construção própria;0.024958;0.000899
+01.235.622/0001-61;2018-06-29;2;Riserva;Rua Constante Sodré, 1313 - Praia do Canto, Vitória - ES;2018-06-29;160.64;1;Construção própria;0.021042;0.000758
+01.235.622/0001-61;2018-06-29;2;Estoque Diversos;Av. Carlos Moreira Lima, nº 460, Vitória-ES /  Av. Central, nº 265, Colinas de Laranjeiras, Serra-ES / Rua Dona Tereza Cristina, no. 179, Colinas de Laranjeiras, Município da Serra/ES;2018-06-29;167.74;1;Construção própria;0.007778;0.00028
+01.235.622/0001-61;2018-06-29;2;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2018-06-29;85.08;1;Aquisição de unidades prontas;0.004671;0.000168
+01.235.622/0001-61;2018-06-29;2;Highline Square;Rua José Alexandre Buaiz, 230, Enseada do Suá, Vitória - ES;2018-06-29;1761.43;20;Construção própria;0.223697;0.008053
+01.235.622/0001-61;2018-06-29;2;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2018-06-29;710.16;5;Aquisição de unidades prontas;0.063641;0.002291
+01.235.622/0001-61;2018-09-28;3;Arete;Praia Rasa, Buzios - RJ;2018-09-28;2;954;Construção própria;0.003175;0.000961
+01.235.622/0001-61;2018-09-28;3;Ícono Parque;Rua do Pinheiro 50, Flamengo, Rio de Janeiro - RJ;2018-09-28;158;12530;Construção própria;0.240098;0.072712
+01.235.622/0001-61;2018-09-28;3;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;2018-09-28;3;99;Construção própria;0.001548;0.000469
+01.235.622/0001-61;2018-09-28;3;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2018-09-28;11;872;Aquisição de unidades prontas;0.008014;0.002427
+01.235.622/0001-61;2018-09-28;3;Riserva;Rua Constante Sodré, 1313 - Praia do Canto, Vitória - ES;2018-09-28;12;2018;Construção própria;0.029315;0.008878
+01.235.622/0001-61;2018-09-28;3;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2018-09-28;33;2200;Construção própria;0.027945;0.008463
+01.235.622/0001-61;2018-09-28;3;Thai Condominium Club;Rua Antero Manoel de Sá Filho, 191, Recreio, Rio de Janeiro - RJ;2018-09-28;1;181;Aquisição de unidades prontas;0.001092;0.000331
+01.235.622/0001-61;2018-09-28;3;SEASONS;Estrada dos Bandeirantes, 5837 - Jacarepaguá - Rio de Janeiro - RJ;2018-09-28;2;2;Aquisição de unidades prontas;0.00092;0.000278
+01.235.622/0001-61;2018-12-31;3;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2018-12-31;532.2;4;Construção própia;0.007259;0.001548
+01.235.622/0001-61;2018-12-31;3;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2018-12-31;1504.19;22;Construção própia;0.030631;0.00653
+01.235.622/0001-61;2018-12-31;3;Estoque Diversos;Av. Carlos Moreira Lima, nº 460, Vitória-ES /  Av. Central, nº 265, Colinas de Laranjeiras, Serra-ES / Rua Dona Tereza Cristina, no. 179, Colinas de Laranjeiras, Município da Serra/ES;2018-12-31;102.68;1;Aquisição de unidades prontas;0.000564;0.00012
+01.235.622/0001-61;2018-12-31;3;Le Quartier;Bloco "A", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2018-12-31;20863.61;236;Construção própia;0.5;0.106598
+01.235.622/0001-61;2018-12-31;3;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2018-12-31;204.83;3;Construção própia;0.001859;0.000396
+01.235.622/0001-61;2018-12-31;3;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2018-12-31;99.71;1;Construção própia;0.001388;0.000296
+01.235.622/0001-61;2018-12-31;3;Innovitá;Rua do Matoso, 104, Tijuca, Rio de Janeiro - RJ;2018-12-31;221.5;2;Aquisição de unidades prontas;0.002879;0.000614
+01.235.622/0001-61;2018-12-31;3;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2018-12-31;277.8;3;Aquisição de unidades prontas;0.004656;0.000993
+01.235.622/0001-61;2018-12-31;3;Aretê;Praia Rasa, Buzios - RJ;2018-12-31;1749.76;3;Construção própia;0.007837;0.001671
+01.235.622/0001-61;2018-12-31;3;Icono Parque;Rua Machado de Assis, 40;2018-12-31;13548.62;159;Construção própia;0.390977;0.083354
+01.235.622/0001-61;2018-12-31;3;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2018-12-31;160.19;3;Construção própia;0.002156;0.00046
+01.235.622/0001-61;2018-12-31;3;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;2018-12-31;174.14;6;Construção própia;0.004552;0.00097
+01.235.622/0001-61;2018-12-31;3;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2018-12-31;2287.99;29;Construção própia;0.045241;0.009645
+07.583.627/0001-61;2018-03-31;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2018-06-30;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2018-09-30;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2018-12-31;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+08.098.114/0001-28;2018-12-31;1;CPK - Shopping Parque Dom Pedro;Av. Guilherme Campos - Bloco 1B (EUC A-013);2018-12-21;3322.42;1;Não possui caracteristicas que destoem dos demais;0.01476;0.009415
+08.706.065/0001-69;2018-03-31;1;Ibis Congonhas;Rua Baronesa de Bela Vista,801 apto 617;2018-01-12;24.98;1;Ibis Congonhas;0.000957;0.000971
+08.706.065/0001-69;2018-03-31;1;Ibis Budget Jardins;Av. Nove de Julho,3957 - Apto 807;2018-03-01;12.72;1;Ibis Budget Jardins;0.000369;0.000373
+08.706.065/0001-69;2018-03-31;1;Ibis Budget Jardins;Av. Nove de Julho,3957 - Apto 1017;2018-01-18;12.72;1;Ibis Budget Jardins;0.000341;0.000346
+08.706.065/0001-69;2018-09-28;1;Blue Tree Faria Lima;Av. Briga Faria Lima, 3989 - unidade 1604;2018-08-02;28.08;1604;Fundo de Renda;0.2242;0.1088
+08.706.065/0001-69;2018-09-28;1;Ibis Budget Jardins;Av. Nove de Julho, 3957 - unidade 1115;2018-08-28;12.72;1115;Fundo de Renda;0.0595;0.0289
+08.706.065/0001-69;2018-09-28;1;Ibis Budget Jardins;Av. Nove de Julho, 3957 - unidade 1321;2018-09-19;12.72;1321;Fundo de Renda;0.0623;0.0302
+08.706.065/0001-69;2018-12-31;2;Ibis Budget Jardins - 215;Av. Nove de Julho, 3957. São Paulo;2018-10-08;12.72;1;Direito de Propriedade;0.000678;0.000329
+08.706.065/0001-69;2018-12-31;2;Blue Tree Faria Lima - unid 808;Av. Brigadeiro Faria lima, 3989. São Paulo.;2018-10-08;25.82;1;Direito de Propriedade;0.002279;0.001104
+08.706.065/0001-69;2018-12-31;2;Ibis Budget Jardins - und 713;Av. Nove de Julho, 3957. São Paulo;2018-10-11;12.72;1;Direito de Propriedade;0.000678;0.000329
+08.706.065/0001-69;2018-12-31;2;Ibis São Paulo Paulista - 712;Rua da Consolação, 2303. São Paulo;2018-11-23;12.72;1;Direito de Propriedade;0.001765;0.000853
+08.706.065/0001-69;2018-12-31;2;Intercity Nações Unidas 403;Rua Fernandes Moreira, 1372. São Paulo;2018-11-26;25.35;1;Direito de Propriedade;0.000681;0.000329
+08.706.065/0001-69;2018-12-31;2;Intercity Nações Unidas 511;Rua Fernandes Moreira, 1372. São Paulo;2018-12-12;25.35;1;Direito de Propriedade;0.000877;0.00424
+08.706.065/0001-69;2018-12-31;2;Intercity Nações Unidas 1201;Rua Fernandes Moreira, 1372. São Paulo;2018-12-06;25.35;1;Direito de Propriedade;0.000927;0.000449
+08.706.065/0001-69;2018-12-31;2;Meliá Jardim Europa 413;Rua João Cachoeira, 111. São Paulo;2018-12-07;33.82;1;Direito de Propriedade;0.001657;0.000801
+10.456.810/0001-00;2018-03-31;1;Edifício Brasilinterpart;Av. das Nações Unidas, 11633, SP;2018-03-07;887;4;NA;1.3;0.09919
+11.268.335/0001-01;2018-06-29;1;Sítio Porteira de Ferro;Morro Torto, Indaiatuba - SP;2018-05-16;167068.00;1;Nenhuma característica relevante.;0.143098;0.100405362406659
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-21;58.02;1;TORRE 1, 22;0.005486;0.003761
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-14;56.19;1;TORRE 1, 113;0.005486;0.003745
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-08;58.02;1;TORRE 1, 145;0.005486;0.003808
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-01-29;58.02;1;TORRE 2, 52;0.005486;0.003471
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-12;56.19;1;TORRE 2, 66;0.005486;0.003593
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-02-21;56.19;1;TORRE 2, 83;0.005486;0.003359
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-26;56.19;1;TORRE 2, 146;0.005486;0.00338
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-07;56.19;1;TORRE 3, 146;0.005486;0.003672
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-02-27;58.02;1;TORRE 4, 24;0.005486;0.003412
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-02-26;58.02;1;TORRE 4, 25;0.005486;0.003781
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-20;58.02;1;TORRE 4, 32;0.005486;0.003781
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-26;58.02;1;TORRE 4, 34;0.005486;0.003781
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-02-20;58.02;1;TORRE 4, 42;0.005486;0.003502
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-03-21;56.19;1;TORRE 4, 43;0.005486;0.003614
+11.945.604/0001-27;2018-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-02-08;56.19;1;TORRE 4, 83;0.005486;0.003337
+11.945.604/0001-27;2018-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-01-18;102.63;1;TORRE 2, 5;0.00751;0.004378
+11.945.604/0001-27;2018-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-02-20;76.93;1;TORRE 2, 62;0.00751;0.005138
+11.945.604/0001-27;2018-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-02-01;76.93;1;TORRE 2, 85;0.00751;0.004423
+11.945.604/0001-27;2018-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-02-01;66.41;1;TORRE 2, 166;0.00751;0.003839
+11.945.604/0001-27;2018-03-31;1;Empreendimento Ameixeiras;Av. Ver. João de Luca, 1515 - Jardim Prudência, São Paulo - SP;2018-02-21;58.86;1;TORRE 1, 78;0.005669;0.005071
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-11;56.19;1;TORRE 2, 156;0.005485;0.004127
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-23;56.19;1;TORRE 3, 156;0.005485;0.004229
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-23;58.02;1;TORRE 1, 121;0.005664;0.004632
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-06;58.02;1;TORRE 4, 12;0.005664;0.00466
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-18;56.19;1;TORRE 3, 123;0.005485;0.00455
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-11;58.02;1;TORRE 3, 165;0.005664;0.005964
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-11;58.02;1;TORRE 4, 101;0.005664;0.005732
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-18;56.19;1;TORRE 1, 26;0.005485;0.005074
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-13;58.02;1;TORRE 1, 111;0.005664;0.005573
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-04-16;58.02;1;TORRE 1, 42;0.005664;0.005575
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-15;58.02;1;TORRE 1, 14;0.005664;0.004577
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-17;58.02;1;TORRE 1, 24;0.005664;0.004079
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-30;58.02;1;TORRE 1, 152;0.005664;0.004422
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-30;56.19;1;TORRE 1, 123;0.005485;0.004255
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-15;56.19;1;TORRE 1, 153;0.005485;0.004322
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-03;56.19;1;TORRE 1, 133;0.005485;0.004685
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-09;56.19;1;TORRE 1, 63;0.005485;0.005263
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-09;56.19;1;TORRE 2, 143;0.005485;0.006003
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-15;56.19;1;TORRE 4, 23;0.005485;0.004817
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-25;56.19;1;TORRE 4, 63;0.005485;0.005383
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-05-07;58.02;1;TORRE 2, 135;0.005664;0.006467
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-06-28;58.02;1;TORRE 2, 95;0.005664;0.00464
+11.945.604/0001-27;2018-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-06-22;58.02;1;TORRE 3, 21;0.005664;0.004134
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-27;76.93;1;TORRE 1, 82;0.00751;0.004255
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-12;76.93;1;TORRE 2, 45;0.00751;0.004488
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-28;76.93;1;TORRE 1, 55;0.00751;0.004138
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-22;76.93;1;TORRE 1, 95;0.00751;0.00447
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-06;76.93;1;TORRE 2, 92;0.00751;0.00455
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-25;66.41;1;TORRE 2, 63;0.006483;0.005063
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-27;76.93;1;TORRE 2, 75;0.00751;0.005507
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-22;76.93;1;TORRE 1, 151;0.00751;0.005552
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-08;76.93;1;TORRE 1, 74;0.00751;0.005697
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-27;76.93;1;TORRE 1, 52;0.00751;0.004338
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-05;76.93;1;TORRE 1, 125;0.00751;0.005175
+11.945.604/0001-27;2018-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-06-19;66.41;1;TORRE 1, 106;0.006483;0.004578
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-26;58.02;1;TORRE 1, 114;0.015386;0.007153
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-13;58.02;1;TORRE 1, 82;0.015386;0.007153
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-27;58.02;1;TORRE 1, 102;0.015386;0.007153
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-18;56.19;1;TORRE 1, 16;0.013188;0.006131
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-06;58.02;1;TORRE 2, 111;0.014892;0.006923
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-20;56.19;1;TORRE 2, 16;0.013441;0.006249
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-12;56.19;1;TORRE 2, 103;0.013738;0.006387
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-24;58.02;1;TORRE 3, 115;0.014562;0.00677
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-06;56.19;1;TORRE 4, 103;0.013902;0.006463
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-20;56.19;1;TORRE 4, 76;0.012858;0.005978
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-10;58.02;1;TORRE 1, 164;0.015111;0.007025
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-21;58.02;1;TORRE 1, 134;0.015723;0.00731
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-26;58.02;1;TORRE 1, 122;0.01537;0.007145
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-27;58.02;1;TORRE 1, 74;0.01537;0.007145
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-25;58.02;1;TORRE 1, 12;0.013463;0.006259
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-07;56.19;1;TORRE 1, 146;0.013738;0.006387
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-31;58.02;1;TORRE 1, 64;0.01537;0.007145
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-26;58.02;1;TORRE 1, 101;0.014507;0.006744
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-17;58.02;1;TORRE 1, 92;0.015166;0.007051
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-23;58.02;1;TORRE 2, 115;0.014892;0.006923
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-20;58.02;1;TORRE 2, 62;0.014287;0.006642
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-03;58.02;1;TORRE 2, 22;0.01392;0.006471
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-03;56.19;1;TORRE 2, 86;0.013683;0.006361
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-11;58.02;1;TORRE 2, 162;0.015156;0.007046
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-13;58.02;1;TORRE 3, 154;0.015166;0.007051
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-30;58.02;1;TORRE 3, 121;0.014287;0.006642
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-21;56.19;1;TORRE 4, 153;0.013902;0.006463
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-03;58.02;1;TORRE 4, 154;0.015386;0.007153
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-22;56.19;1;TORRE 4, 73;0.013738;0.006387
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-18;56.19;1;TORRE 4, 53;0.01338;0.006221
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-03;56.19;1;TORRE 4, 123;0.013408;0.006233
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-14;58.02;1;TORRE 4, 162;0.015722;0.007309
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-14;58.02;1;TORRE 4, 14;0.014012;0.006514
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-10;58.02;1;TORRE 4, 124;0.014782;0.006872
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-18;56.19;1;TORRE 4, 33;0.012913;0.006003
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-26;56.19;1;TORRE 4, 133;0.013902;0.006463
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-11;56.19;1;TORRE 4, 113;0.013902;0.006463
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-07;58.02;1;TORRE 4, 71;0.015111;0.007025
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-09-10;56.19;1;TORRE 4, 143;0.013875;0.00645
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-08-14;58.02;1;TORRE 4, 122;0.015106;0.007023
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-23;58.02;1;TORRE 4, 112;0.014837;0.006898
+11.945.604/0001-27;2018-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-07-19;56.19;1;TORRE 4, 13;0.012748;0.005927
+11.945.604/0001-27;2018-09-30;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2018-07-25;58.07;1;TORRE 1, 46;0.017859;0.008303
+11.945.604/0001-27;2018-09-30;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2018-07-27;58.86;1;TORRE 1, 38;0.018079;0.008405
+11.945.604/0001-27;2018-09-30;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2018-07-18;58.07;1;TORRE 1, 45;0.017859;0.008303
+11.945.604/0001-27;2018-09-30;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2018-09-18;58.86;1;TORRE 1, 88;0.017584;0.008175
+11.945.604/0001-27;2018-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-07-12;76.93;1;TORRE 1, 25;0.017859;0.008303
+11.945.604/0001-27;2018-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-09-27;76.93;1;TORRE 1, 135;0.018304;0.00851
+11.945.604/0001-27;2018-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-08-14;66.41;1;TORRE 2, 33;0.015161;0.007048
+11.945.604/0001-27;2018-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-07-24;76.93;1;TORRE 1, 12;0.016595;0.007715
+11.945.604/0001-27;2018-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-08-24;66.41;1;TORRE 2, 123;0.015806;0.007348
+11.945.604/0001-27;2018-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-07-05;76.93;1;TORRE 2, 14;0.017864;0.008305
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-08;56.19;1;TORRE 1, 13;0.010478;0.005476
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-12-24;58.02;1;TORRE 1, 45;0.015359;0.008027
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-08;58.02;1;TORRE 1, 65;0.010478;0.005476
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-02;58.02;1;TORRE 1, 74;0.016847;0.008804
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-01;58.02;1;TORRE 1, 82;0.016865;0.008814
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-03;58.02;1;TORRE 1, 84;0.016865;0.008814
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-02;58.02;1;TORRE 1, 122;0.016847;0.008804
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-12-27;58.02;1;TORRE 2, 152;0.016263;0.008499
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-12-05;56.19;1;TORRE 3, 96;0.014456;0.007555
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-31;58.02;1;TORRE 3, 152;0.015998;0.008361
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-12-21;58.02;1;TORRE 3, 162;0.016618;0.008685
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-11-05;58.02;1;TORRE 4, 64;0.016847;0.008804
+11.945.604/0001-27;2018-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2018-10-08;58.02;1;TORRE 4, 144;0.010796;0.005642
+11.945.604/0001-27;2018-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-11-01;76.93;1;TORRE 2, 32;0.019015;0.009938
+11.945.604/0001-27;2018-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-11-09;76.93;1;TORRE 1, 124;0.019007;0.009934
+11.945.604/0001-27;2018-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-10-02;76.93;1;TORRE 1, 135;0.020063;0.010485
+11.945.604/0001-27;2018-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-11-16;66.41;1;TORRE 2, 46;0.016147;0.008439
+11.945.604/0001-27;2018-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2018-12-19;76.93;1;TORRE 1, 32;0.017187;0.008982
+11.945.604/0001-27;2018-12-31;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2018-11-22;58.86;1;TORRE 1, 34;0.019365;0.01012
+11.945.604/0001-27;2018-12-31;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2018-11-19;58.86;1;TORRE 1, 83;0.019365;0.01012
+12.005.956/0001-65;2018-03-29;1;Lavradio;Rua do Lavradio, 132, Centro, Rio de Janeiro - RJ;2018-02-02;17839.29;13;N/A;1.20797367301356;0.0782804564231255
+12.989.974/0001-29;2018-12-31;1;BTS L´Oréal;Avenida Venezuela, nº 154 e 156, Bairro Saúde, Município do Rio de Janeiro, Estado do Rio de Janeiro;2018-12-14;17400;20;O Caixa Fundo de Investimento Imobiliário Porto Maravilha - FII PM detinha uma fração ideal do empreendimento corporativo, em permuta pela vinculação de Certificados de Potencial Adicional de Construção - CEPAC. Empreendimento corporativo, com 15.725,00m ²  de área privativa, mais 1.808,21m ² entre lajes corporativas e lojas. Edifício composto por 20 pavimentos.;0;0.018
+14.665.312/0001-29;2018-03-31;1;HAPPY VIDA APTO 504;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;2018-01-16;69.96;1;Imóvel Residencial;0.020173;0.0107
+14.665.312/0001-29;2018-03-31;1;TLCH - BL3 APTO905;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;2018-02-05;73.57;1;Imóvel Residencial;0.017862;0.0092
+14.665.312/0001-29;2018-12-31;1;TLCH - BL1 APTO1204;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;2018-10-15;73.57;1;Escritura;0.0160688564585517;0.0089
+14.665.312/0001-29;2018-12-31;1;TLCH - BL2 APTO1301;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;2018-11-29;73.57;1;Escritura;0.0223156163165447;0.0118
+14.665.312/0001-29;2018-12-31;1;TLCH - BL2 APTO 901;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;2018-12-11;73.57;1;Escritura;0.0223101294379036;0.0118
+14.733.211/0001-48;2018-09-30;1;Edifcio Pedro Mariz - conj. 601;Avenida Brigadeiro Faria Lima, 3900 - 6º andar - conj. 601 e 18 vagas de garagens - São Paulo/SP;2018-07-25;818.18;1;Imovel adquirido em regime de condominio, regido por convenção registrada por escritura pública declaratória;1;0.179381
+15.006.267/0001-63;2018-12-31;1;GT Plaza;Rua Eng. Francisco Pitta Brito 779, , São Paulo, SP, 04753-080;2018-12-19;6548.23;13;Não possui caracteristicas que destoem dos demais;0.3722;0.8316
+16.915.968/0001-88;2018-12-31;2;Imóvel Boituva SP;Estrada Municipal BTV 250, Boituva - SP;;187233.58;644;-;1;0.078705
+17.209.378/0001-00;2018-06-30;1;Unidade 1309 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-05-19;52.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0059;0.0072
+17.209.378/0001-00;2018-06-30;1;Unidade 705 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-24;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.005;0.0062
+17.209.378/0001-00;2018-06-30;1;Unidade 1806 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-05-30;39.33;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0043;0.0053
+17.209.378/0001-00;2018-06-30;1;Unidade 905 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-05-19;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0051;0.0063
+17.209.378/0001-00;2018-06-30;1;Unidade 704 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-03;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0045;0.0056
+17.209.378/0001-00;2018-06-30;1;Unidade 901 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-18;39.33;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0042;0.0052
+17.209.378/0001-00;2018-06-30;1;Unidade 903 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-11;39.09;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.004;0.0049
+17.209.378/0001-00;2018-06-30;1;Unidade 1305 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-29;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0052;0.0064
+17.209.378/0001-00;2018-06-30;1;Unidade 1307 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-22;39.46;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0043;0.0053
+17.209.378/0001-00;2018-06-30;1;Unidade 2501 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-09;39.33;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0046;0.0057
+17.209.378/0001-00;2018-06-30;1;Unidade 2603 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-03;39.09;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0046;0.0056
+17.209.378/0001-00;2018-06-30;1;Unidade 2604 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-18;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0052;0.0064
+17.209.378/0001-00;2018-06-30;1;Unidade 2605 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-18;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0052;0.0064
+17.209.378/0001-00;2018-06-30;1;Unidade 1809 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-03;52.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0061;0.0075
+17.209.378/0001-00;2018-06-30;1;Unidade 1101 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-04-14;39.33;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0037;0.0045
+17.209.378/0001-00;2018-06-30;1;Unidade 2505 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-05-19;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0055;0.0068
+17.209.378/0001-00;2018-06-30;1;Unidade 2504 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-05-19;46.89;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0055;0.0068
+17.209.378/0001-00;2018-06-30;1;Unidade 907 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2018-05-19;39.46;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0042;0.0052
+17.209.378/0001-00;2018-06-30;1;Unidade 1102 - Torre I - Urban Resort;Rua Vitória e Praça Júlio de Mesquita - São Paulo;2018-04-04;60;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0045;0.0056
+17.282.011/0001-04;2018-06-29;1;Galpão Cachoeirinha;Rua Lenine Queiroz 333, Galpão, Cachoeirinha, RS, 94931-350;2018-07-02;38.41;1;Imóvel vendido por escritura pública;0.1897;0.3927
+17.282.011/0001-04;2018-06-29;1;Galpão Indusrial de Americana;Rua João de Pádula 245, Gleba B, Americana, SP, 13473-610;2018-07-02;29.991;1;Imóvel vendido por escritura pública;0.1111;0.2301
+17.282.011/0001-04;2018-12-31;1;Edíficio JK1455;Av. Juscelino Kubitschek, 1455. Bairro: Vila Olímpia - São Paulo, SP.;2018-10-08;828.13;1;Direito de Propriedade;0.0483;0.0812
+19.442.626/0001-86;2018-12-31;1;GOOGLE BRASIL INTERNET LTDA;AVENIDA DOS ANDRADAS, N° 3000 - SALAS 171 A 174 161 A 164 151 A 154 141 A 144 e 51 A 54;2018-12-14;6007.7;20;Contrato de Compra e Venda;0.294117647058824;
+19.442.626/0001-86;2018-12-31;1;THOUGHTWORKS BRASIL SOFTWARE LTDA;AVENIDA DOS ANDRADAS, N° 3000 - SALAS 61 A 64;2018-12-14;1201.54;4;Contrato de Compra e Venda;0.0588235294117647;
+19.442.626/0001-86;2018-12-31;1;WBR CONSULTORIA S.A.;AVENIDA DOS ANDRADAS, N° 3000 - SALAS 41 A 44;2018-12-14;1201.54;4;Contrato de Compra e Venda;0.0588235294117647;
+19.442.626/0001-86;2018-12-31;1;CI&T SOFTWARE S.A.;AVENIDA DOS ANDRADAS, N° 3000 - SALAS 31 A 34 e 21 A 24;2018-12-14;2403.08;8;Contrato de Compra e Venda;0.117647058823529;
+19.722.048/0001-31;2018-12-31;2;FR 917 31;Alameda Franca, 917 - 31;2018-11-30;98;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2018-12-31;2;GUA 538 91;Rua Guarará, 538 - 91;2018-11-01;123;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2018-12-31;2;JEL 1601 32;Alameda Joaquim Eugênio de Lima, 1601 - 32;2018-11-19;103;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2018-12-31;2;JML 1003 123;Rua José Maria, 1003 - 123;;137;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2018-12-31;2;FR 1282 44;Alameda Franca, 1282 - 44;2018-12-27;109.42;1;Apartamento residencial pronto para venda;;
+20.265.467/0001-70;2018-03-31;1;Ville Celestine - Residence Service 601;Rua Guaicui, 594, Luxemburgo, Belo horizonte.;2018-01-04;77.23;1;Promessa de compra e venda da unidade 601. A matricula da unidade é 140.419. A unidade tem área privativa real de 77,23m²;0.0209;0.0356
+21.126.204/0001-43;2018-03-31;1;Loja 184;Rua Espirito Santo, 318 e 322,Belo Horizonte-MG;2018-03-02;1480;1;Venda Realizada no 1º Tri de 2018;0.009059;0.008949
+22.888.670/0001-29;2018-03-31;1;Pax Perdizes;R. Urbanizadora, 232 -Apto 84 - Sumaré, São Paulo - SP, 01252-020;2018-03-23;55;1;Pax Perdizes;0.3674;0.1872
+22.888.670/0001-29;2018-03-31;1;VN Campinas;Alameda Campinas, 708 - Apto 72 - Jardim Paulista, São Paulo - SP, 01404-001;2018-02-15;72.27;1;VN Campinas;0.4178;0.2129
+22.888.670/0001-29;2018-03-31;1;VN Campinas;Alameda Campinas, 708 - Apto 102 Jardim Paulista, São Paulo - SP, 01404-001;2018-03-07;72.27;1;VN Campinas;0.4178;0.2129
+22.888.670/0001-29;2018-03-31;1;VN Campinas;Alameda Campinas, 708 - Apto 92 Jardim Paulista, São Paulo - SP, 01404-001;2018-03-07;72.27;1;VN Campinas;0.4178;0.2129
+22.888.670/0001-29;2018-03-31;1;VN Campinas;Alameda Campinas, 708- Apto 82 - Jardim Paulista, São Paulo - SP, 01404-001;2018-03-07;72.27;1;VN Campinas;0.4178;0.2129
+22.888.670/0001-29;2018-09-28;1;Pax Perdizes Unidade 82;Rua Urbanizadora 232, unidade 82, São Paulo, SP,  01252-020;2018-08-14;136.196;1;Direito de Propriedade;0.510625;0.283104
+22.888.670/0001-29;2018-09-28;1;Pax Perdizes Unidade 83;Rua Urbanizadora 232, unidade 83, São Paulo, SP,  01252-020;2018-07-25;107.21;1;Direito de Propriedade;0.49118;0.411191
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2203;SP TORRE 3 - 2203;2018-07-04;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000694
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2204;SPT3 - 2204;2018-07-04;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000717
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2205;SPT3 - 2205;2018-07-05;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001045
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2307;SPT3 - 2307;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000644
+23.964.908/0001-10;2018-09-28;1;SPT2 - 811;SPT2 - 811;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000617
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2003;SPT3 - 2003;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000687
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2005;SPT3 - 2005;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001042
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2014;SPT3 - 2014;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000634
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2202;SPT3 - 2202;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000717
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2002;SPT3 - 2002;2018-07-12;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000717
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2102;SPT3 - 2102;2018-07-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000717
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2103;SPT3 - 2103;2018-07-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000694
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2006;SPT3 - 2006;2018-07-26;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00062
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2009;SPT3 - 2009;2018-07-26;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000681
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2013;SPT3 - 2013;2018-07-26;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00062
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2503;SPT3 - 2503;2018-07-26;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000712
+23.964.908/0001-10;2018-09-28;1;SPT3 - 114;SPT3 - 114;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000595
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1307;SPT3 - 1307;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000666
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1513;SPT3 - 1513;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000678
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1806;SPT3 - 1806;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000696
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1808;SPT3 - 1808;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000982
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1906;SPT3 - 1906;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000702
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2613;SPT3 - 2613;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000744
+23.964.908/0001-10;2018-09-28;1;SPT3 - 312;SPT3 - 312;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000996
+23.964.908/0001-10;2018-09-28;1;SPT3 - 913;SPT3 - 913;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000643
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2407;SPT3 - 2407;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000625
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2505;SPT3 - 2505;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00107
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2712;SPT3 - 2712;2018-07-30;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001056
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2004;SPT3 - 2004;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000717
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2113;SPT3 - 2113;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00062
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2414;SPT3 - 2414;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000653
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2502;SPT3 - 2502;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000729
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2603;SPT3 - 2603;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000723
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2605;SPT3 - 2605;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001071
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2803;SPT3 - 2803;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000723
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2805;SPT3 - 2805;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001071
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1101;SPT3 - 1101;2018-07-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001071
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2701;SPT3 - 2701;2018-08-06;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.011132
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2110;SPT3 - 2110;2018-08-07;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006599
+23.964.908/0001-10;2018-09-28;1;SPT2 - 2607;SPT2 - 2607;2018-08-08;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006325
+23.964.908/0001-10;2018-09-28;1;SPT2 - 2707;SPT2 - 2707;2018-08-08;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006325
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1102;SPT3 - 1102;2018-08-08;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.007224
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2104;SPT3 - 2104;2018-08-08;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.007177
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2303;SPT3 - 2303;2018-08-08;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006949
+23.964.908/0001-10;2018-09-28;1;SPT3 - 503;SPT3 - 503;2018-08-08;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006859
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1913;SPT3 - 1913;2018-08-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006381
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1413;SPT3 - 1413;2018-08-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006191
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1702;SPT3 - 1702;2018-08-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006986
+23.964.908/0001-10;2018-09-28;1;SPT3 - 405;SPT3 - 405;2018-08-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.011797
+23.964.908/0001-10;2018-09-28;1;SPCM - 1215;SPCM - 1215;2018-08-20;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.004663
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1505;SPT3 - 1505;2018-08-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.010846
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1706;SPT3 - 1706;2018-08-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006145
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2010;SPT3 - 2010;2018-08-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.006599
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2602;SPT3 - 2602;2018-08-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.007242
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2714;SPT3 - 2714;2018-08-31;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00658
+23.964.908/0001-10;2018-09-28;1;SPT2 - 2503;SPT2 - 2503;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000708
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1502;SPT3 - 1502;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000714
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1705;SPT3 - 1705;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001075
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1712;SPT3 - 1712;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001005
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1804;SPT3 - 1804;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000667
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1902;SPT3 - 1902;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000724
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2504;SPT3 - 2504;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00072
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2604;SPT3 - 2604;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00072
+23.964.908/0001-10;2018-09-28;1;SPT3 - 809;SPT3 - 809;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.00061
+23.964.908/0001-10;2018-09-28;1;SPT3 - 905;SPT3 - 905;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001047
+23.964.908/0001-10;2018-09-28;1;SPT1 - 2811;SPT1 - 2811;2018-09-10;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000731
+23.964.908/0001-10;2018-09-28;1;SPT2 - 2314;SPT2 - 2314;2018-09-27;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000648
+23.964.908/0001-10;2018-09-28;1;SPT3 - 1202;SPT3 - 1202;2018-09-27;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000724
+23.964.908/0001-10;2018-09-28;1;SPT3 - 2612;SPT3 - 2612;2018-09-27;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.001029
+23.964.908/0001-10;2018-09-28;1;SPT3 - 514;SPT3 - 514;2018-09-27;48.95;1;Contrato global de reconhecimento de obrigações, compromisso de dação em pagamento, obrigações de fazer e outras avenças.;0.000691;0.000616
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2802;Av. Tancredo Neves, 199-2802 CEP: 42820020 Salvador BA;2018-11-30;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2506;Av. Tancredo Neves, 199-2506 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2406;Av. Tancredo Neves, 199-2406 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2405;Av. Tancredo Neves, 199-2405 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2404;Av. Tancredo Neves, 199-2404 CEP: 42820020 Salvador BA;2018-11-30;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2312;Av. Tancredo Neves, 199-2312 CEP: 42820020 Salvador BA;2018-11-30;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2310;Av. Tancredo Neves, 199-2310 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2209;Av. Tancredo Neves, 199-2209 CEP: 42820020 Salvador BA;2018-11-30;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2111;Av. Tancredo Neves, 199-2111 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2011;Av. Tancredo Neves, 199-2011 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2009;Av. Tancredo Neves, 199-2009 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1813;Av. Tancredo Neves, 199-1813 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1812;Av. Tancredo Neves, 199-1812 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1802;Av. Tancredo Neves, 199-1802 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1713;Av. Tancredo Neves, 199-1713 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1711;Av. Tancredo Neves, 199-1711 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1710;Av. Tancredo Neves, 199-1710 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1709;Av. Tancredo Neves, 199-1709 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 711;Av. Tancredo Neves, 199-711 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1104;Av. Tancredo Neves, 199-1104 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;COMERCIAL-1018;Av. Tancredo Neves, 199-1018 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 906;Av. Tancredo Neves, 199-906 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;TORRE 3 - 114;Av. Tancredo Neves, 199 CEP: 41820021 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 310;Av. Tancredo Neves, 199-310 CEP: 42820020 Salvador BA;2018-12-31;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1213;Av. Tancredo Neves, 199-1213 CEP: 42820020 Salvador BA;2018-12-17;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 103;Av. Tancredo Neves, 199-103 CEP: 42820020 Salvador BA;2018-12-17;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1109;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2018-12-31;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1612;Av. Tancredo Neves, 199-1612 CEP: 42820020 Salvador BA;2018-12-31;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2804;Av. Tancredo Neves, 199-2804 CEP: 42820020 Salvador BA;2018-12-31;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;TORRE 3 - 913;Av. Tancredo Neves, 199 CEP: 41820021 SALVADOR BA;2018-12-24;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2510;Av. Tancredo Neves, 199-2510 CEP: 42820020 Salvador BA;2018-12-24;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1409;Av. Tancredo Neves, 199-1409 CEP: 42820020 Salvador BA;2018-12-07;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1304;Av. Tancredo Neves, 199-1304 CEP: 42820020 Salvador BA;2018-12-07;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1210;Av. Tancredo Neves, 199-1210 CEP: 42820020 Salvador BA;2018-12-07;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1410;Av. Tancredo Neves, 199-1410 CEP: 42820020 Salvador BA;2018-12-06;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2313;Av. Tancredo Neves, 199-2313 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;TORRE 3 - 1307;Av. Tancredo Neves, 199 CEP: 41820021 SALVADOR BA;2018-12-24;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 510;Av. Tancredo Neves, 199-510 CEP: 42820020 Salvador BA;2018-12-17;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2513;Av. Tancredo Neves, 199-2513 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2512;Av. Tancredo Neves, 199-2512 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1611;Av. Tancredo Neves, 199-1611 CEP: 42820020 Salvador BA;2018-12-31;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1509;Av. Tancredo Neves, 199-1509 CEP: 42820020 Salvador BA;2018-12-24;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1310;Av. Tancredo Neves, 199-1310 CEP: 42820020 Salvador BA;2018-12-24;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1209;Av. Tancredo Neves, 199-1209 CEP: 42820020 Salvador BA;2018-12-17;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1205;Av. Tancredo Neves, 199-1205 CEP: 42820020 Salvador BA;2018-12-24;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;TORRE 3 - 2613;Av. Tancredo Neves, 199 CEP: 41820021 SALVADOR BA;2018-11-30;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 605;Av. Tancredo Neves, 199-605 CEP: 42820020 Salvador BA;2018-12-17;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 212;Av. Tancredo Neves, 199-212 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2706;Av. Tancredo Neves, 199-2706 CEP: 42820020 Salvador BA;2018-12-31;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2413;Av. Tancredo Neves, 199-2413 CEP: 42820020 Salvador BA;2018-12-13;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 911;Av. Tancredo Neves, 199-911 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1512;Av. Tancredo Neves, 199-1512 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;COMERCIAL-1017;Av. Tancredo Neves, 199-1017 CEP: 42820020 Salvador BA;2018-11-20;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1604;Av. Tancredo Neves, 199-1604 CEP: 42820020 Salvador BA;2018-11-20;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2412;Av. Tancredo Neves, 199-2412 CEP: 42820020 Salvador BA;2018-11-20;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2610;Av. Tancredo Neves, 199-2610 CEP: 42820020 Salvador BA;2018-11-20;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1613;Av. Tancredo Neves, 199-1613 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1609;Av. Tancredo Neves, 199-1609 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1510;Av. Tancredo Neves, 199-1510 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1504;Av. Tancredo Neves, 199-1504 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1412;Av. Tancredo Neves, 199-1412 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1106;Av. Tancredo Neves, 199-1106 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 908;Av. Tancredo Neves, 199-908 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 703;Av. Tancredo Neves, 199-703 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 412;Av. Tancredo Neves, 199-412 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 410;Av. Tancredo Neves, 199-410 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 113;Av. Tancredo Neves, 199-113 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 1013;Av. Tancredo Neves, 199-1013 CEP: 42820020 Salvador BA;2018-11-30;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2018-12-31;1;Torre 3 - 2907;Av. Tancredo Neves, 199-2907 CEP: 42820020 Salvador BA;2018-11-29;0.00;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+26.502.761/0001-35;2018-12-31;1;ESCRITÓRIO 1901;AVENIDA NAÇÕES UNIDAS, 12901, BLOCO C, SÃO PAULO - SP;2018-08-28;520.34;1;conjunto comercial;1;
+26.502.761/0001-35;2018-12-31;1;ESCRITÓRIO 1902;AVENIDA NAÇÕES UNIDAS, 12901, BLOCO C, SÃO PAULO - SP;2018-08-28;504.48;1;conjunto comercial;1;
+28.152.272/0001-26;2018-03-31;2;Não aplicável;Não aplicável;1899-12-31;0;1;Não aplicável;0;0
+28.152.272/0001-26;2018-06-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.516.650/0001-03;2018-03-31;1;Não aplicável;Não aplicável;1899-12-31;0;1;Não aplicável;0;0
+28.516.650/0001-03;2018-06-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.516.650/0001-03;2018-09-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.516.650/0001-03;2018-12-31;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2018-03-31;1;Não Aplicavel;Não Aplicavel;1899-12-31;0;1;0;0;0
+28.693.595/0001-27;2018-06-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2018-09-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2018-12-31;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.893.734/0001-66;2018-06-29;1;LUMIERE_75179;Avenida Engenheiro Miguel Gemma, 1399, 12º Andar, Apto 123, Socoro, Mogi das Cruzes - SP;2018-05-08;100.12;1;Nenhuma característica relevante.;0.025509;0.008403
+28.893.734/0001-66;2018-09-28;1;LUMIERE_75185;Avenida Engenheiro Miguel Gemma, 1399, 14º Andar, Apto 141, Socoro, Mogi das Cruzes - SP;2018-08-06;100.12;1;Nenhuma característica relevante.;0.008651;0.008402
+28.893.734/0001-66;2018-09-28;1;RESERVATTO_121029;Rua Estácio de Sá, 755- Apto nº 1203 - 12 andar - Gutierrez - Belo Horizonte - MG;2018-09-26;159.64;1;Nenhuma característica relevante.;0.023911;0.022785
+28.893.734/0001-66;2018-09-28;1;RESERVATTO_121030;Rua Estácio de Sá, 755- Apto nº 1301 - 13 andar - Gutierrez - Belo Horizonte - MG;2018-08-17;154.84;1;Nenhuma característica relevante.;0.023509;0.022785
+28.893.734/0001-66;2018-09-28;1;RESERVATTO_121032;Rua Estácio de Sá, 755- Apto nº 1303 - 13 andar - Gutierrez - Belo Horizonte - MG;2018-09-05;159.64;1;Nenhuma característica relevante;0.023836;0.022963
+28.893.734/0001-66;2018-09-28;1;RESERVATTO_121039;Rua Estácio de Sá, 755- Apto nº 1601 - 16 andar - Gutierrez - Belo Horizonte - MG;2018-09-05;154.84;1;Nenhuma característica relevante.;0.024021;0.023141
+28.893.734/0001-66;2018-09-28;1;RESERVATTO_121048;Rua Estácio de Sá, 755- Apto nº 1901 - 19 andar - Gutierrez - Belo Horizonte - MG;2018-08-30;15484.00;1;Nenhuma característica relevante;0.023917;0.023141
+28.893.734/0001-66;2018-09-28;1;SELETTOD_158390;Av. Nossa Senhora do Carmo, 644 - Apto nº 1503 - 15 andar -Centro - Betim - MG;2018-09-21;72.18;1;Nenhuma característica relevante;0.005255;0.005022
+28.893.734/0001-66;2018-09-28;1;SELETTOD_158356;Av. Nossa Senhora do Carmo, 644 - Apto nº 701 - 7 andar -Centro - Betim - MG;2018-09-13;72.18;1;Nenhuma característica relevante;0.004866;0.004664
+28.893.734/0001-66;2018-09-28;1;SELETTOD_158359;Av. Nossa Senhora do Carmo, 644 - Apto nº 704 - 7 andar -Centro - Betim - MG;2018-09-13;72.18;1;Nenhuma característica relevante;0.004866;0.004664
+28.893.734/0001-66;2018-09-28;1;SELETTOD_158360;Av. Nossa Senhora do Carmo, 644 - Apto nº 801 - 8 andar -Centro - Betim - MG;2018-09-18;72.18;1;Nenhuma característica relevante;0.004876;0.004664
+28.893.734/0001-66;2018-09-28;1;SELETTOD_158362;Av. Nossa Senhora do Carmo, 644 - Apto nº 803 - 8 andar -Centro - Betim - MG;2018-09-14;72.18;1;Nenhuma característica relevante;0.004981;0.004767
+28.893.734/0001-66;2018-09-28;1;SELETTOD_158363;Av. Nossa Senhora do Carmo, 644 - Apto nº 804 - 8 andar -Centro - Betim - MG;2018-09-13;72.18;1;Nenhuma característica relevante;0.004866;0.004664
+28.893.734/0001-66;2018-09-28;1;SELETTOS_158400;Av. Nossa Senhora do Carmo, 644 - Apto nº 301 - 3 andar -Centro - Betim - MG;2018-09-13;121.26;1;Nenhuma característica relevante;0.006153;0.005897
+28.893.734/0001-66;2018-09-28;1;SELETTOS_158403;Av. Nossa Senhora do Carmo, 644 - Apto nº 304 - 3 andar -Centro - Betim - MG;2018-09-13;111.76;1;Nenhuma característica relevante;0.005981;0.005732
+28.893.734/0001-66;2018-09-28;1;SELETTOS_158413;Av. Nossa Senhora do Carmo, 644 - Apto nº 602 - 6 andar -Centro - Betim - MG;2018-09-20;84.36;1;Nenhuma característica relevante;0.005788;0.005534
+28.893.734/0001-66;2018-09-28;1;SELETTOS_158418;Av. Nossa Senhora do Carmo, 644 - Apto nº 703 - 7 andar -Centro - Betim - MG;2018-09-13;84.36;1;Nenhuma característica relevante;0.005832;0.005589
+28.893.734/0001-66;2018-09-28;1;SELETTOS_158420;Av. Nossa Senhora do Carmo, 644 - Apto nº 801 - 8 andar -Centro - Betim - MG;2018-09-14;84.36;1;Nenhuma característica relevante;0.005782;0.005534
+28.893.734/0001-66;2018-09-28;1;SELETTOS_158424;Av. Nossa Senhora do Carmo, 644 - Apto nº 901 - 9 andar -Centro - Betim - MG;2018-09-14;84.36;1;Nenhuma característica relevante;0.006138;0.005874
+28.893.734/0001-66;2018-12-31;1;ALLEGRO_86366;Rua Capitão Paulino Freire, 300, 1º Andar, Apto 12, Centro, Mogi das Cruzes - SP;2018-11-01;70.76;1;Nenhuma característica relevante.;0.004141;0.002024
+28.893.734/0001-66;2018-12-31;1;ALLEGRO_86368;Rua Capitão Paulino Freire, 300, 1º Andar, Apto 14, Centro, Mogi das Cruzes - SP;2018-11-01;70.76;1;Nenhuma característica relevante.;0.004221;0.002063
+28.893.734/0001-66;2018-12-31;1;ALLEGRO_86386;Rua Capitão Paulino Freire, 300, 6º Andar, Apto 63, Centro, Mogi das Cruzes - SP;2018-12-24;70.76;1;Nenhuma característica relevante.;0.002065;0.002113
+28.893.734/0001-66;2018-12-31;1;ALLEGRO_86394;Rua Capitão Paulino Freire, 300, 8º Andar, Apto 83, Centro, Mogi das Cruzes - SP;2018-10-02;70.76;1;Nenhuma característica relevante.;0.006386;0.002257
+28.893.734/0001-66;2018-12-31;1;ALLEGRO_86404;Rua Capitão Paulino Freire, 300, 11º Andar, Apto 111, Centro, Mogi das Cruzes - SP;2018-10-26;70.76;1;Nenhuma característica relevante.;0.006176;0.002179
+28.893.734/0001-66;2018-12-31;1;FELICITTA_72466;Rua Presidente Campos Salles, 1370, 11º Andar, Apto 111, Alto Ipiranga, Mogi das Cruzes - SP;2018-11-23;126.60;1;Nenhuma característica relevante.;0.009382;0.004602
+28.893.734/0001-66;2018-12-31;1;SELETTOD_158370;Av. Nossa Senhora do Carmo, 644 - Apto nº 1003 - 10 andar -Centro - Betim - MG;2018-10-18;72.18;1;Nenhuma característica relevante;0.005287;0.001866
+28.893.734/0001-66;2018-12-31;1;SELETTOD_158379;Av. Nossa Senhora do Carmo, 644 - Apto nº 1204 - 12 andar -Centro - Betim - MG;2018-12-04;72.18;1;Nenhuma característica relevante;0.003845;0.001885
+28.893.734/0001-66;2018-12-31;1;SELETTOD_158391;Av. Nossa Senhora do Carmo, 644 - Apto nº 1504 - 15 andar -Centro - Betim - MG;2018-10-29;72.18;1;Nenhuma característica relevante;0.003857;0.001866
+28.893.734/0001-66;2018-12-31;1;SELETTOD_158394;Av. Nossa Senhora do Carmo, 644 - Apto nº 1603 - 16 andar -Centro - Betim - MG;2018-11-26;72.18;1;Nenhuma característica relevante;0.003946;0.001935
+28.893.734/0001-66;2018-12-31;1;SELETTOS_158415;Av. Nossa Senhora do Carmo, 644 - Apto nº 604 - 6 andar -Centro - Betim - MG;2018-11-08;84.36;1;Nenhuma característica relevante;0.004321;0.002118
+28.893.734/0001-66;2018-12-31;1;SELETTOS_158427;Av. Nossa Senhora do Carmo, 644 - Apto nº 904 - 9 andar -Centro - Betim - MG;2018-10-18;84.36;1;Nenhuma característica relevante;0.006048;0.002135

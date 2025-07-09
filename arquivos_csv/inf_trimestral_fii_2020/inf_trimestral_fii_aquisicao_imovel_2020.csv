@@ -1,0 +1,906 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
+01.235.622/0001-61;2020-06-30;3;Guilhermina;Rua Rainha Guilhermina, 75;300;4;Construção Propria;1;Renda
+03.683.056/0001-86;2020-03-31;1;Edifício Alameda Santos;Alameda Santos, 1.800 - Jardins;5835;;Lajes Corporativas - Imóvel em retrofit;0.129388;Renda
+08.098.114/0001-28;2020-03-31;2;Shopping ABC;Av. Pereira Barreto, 42 - Santo André - SP;47375;270;Aréa total construida 28.840 m²;0.619048;Renda
+08.098.114/0001-28;2020-03-31;2;Shopping Patio Belém;Trav. Padre Eutíquio, 1078 - Belém - PA;21650.29;189;Aréa total construida 126251,0 m²;0.380952;Renda
+08.431.747/0001-06;2020-12-31;1;Franca Shopping - 0,3673897836%;Av. Rio Negro 1.100, Franca - SP;18651.32;96;-;;Renda
+11.728.688/0001-47;2020-09-30;1;Extrema;Estrada Municipal José Geraldo Aparecido e Rua Josepha Gomes de Souza, Extrema - MG;34101;3;-;0.042973;Renda
+11.728.688/0001-47;2020-09-30;1;Itupeva;Estrada Joaquim Bueno Neto, 9835, Itupeva - SP;58828;4;-;0.0722034564116099;Renda
+11.728.688/0001-47;2020-09-30;1;Betim;Avenida Parque B, 347, Betim - MG;62587;1;-;0.092516695484805;Renda
+11.728.688/0001-47;2020-12-31;1;GR Louveira;Rua Atílio Biscuola, 1831, Louveira - SP;55202;13;-;0.067935;Renda
+11.728.688/0001-47;2020-12-31;1;CONE G06;Rodovia BR 101, 5225, Cabo de Santo Agostinho - PE;21550;11;-;0.015596;Renda
+11.839.593/0001-09;2020-06-30;1;BRF Fortaleza;BR 116, nº 2.271, Bairro Verife, Município de Itaitinga - CE.;23273;1;Não possui caracteristicas que destoem dos demais;0.38;Renda
+12.005.956/0001-65;2020-03-31;1;Boulevard Corporate Tower;Avenida dos Andradas, 3000, Santa Efigênia, Belo Horizonte - MG;4806.16;16;NA;1;Renda
+12.005.956/0001-65;2020-09-30;1;Edifício Joaquim Floriano;Rua Joaquim Floriano, 913 - Itaim/SP;234;1;-;0.0009;Renda
+12.005.956/0001-65;2020-12-31;1;Edifício Joaquim Floriano;Rua Joaquim Floriano, 913 - Itaim/SP;468;2;-;0.0021;Renda
+12.516.185/0001-70;2020-03-31;1;C&A - Alphaville;Alameda Araguaia, 617, Alphaville, Barueri/SP;7900;1;O Fundo possui 70% do imóvel.;1;Renda
+12.516.185/0001-70;2020-03-31;1;LAB 1404;Rua Mourato Coelho, 1404, na Vila Madalena, São Paulo/SP;1382.44;1;Aquisição de 20,11%. da fração ideal do ativo.;1;Renda
+12.516.185/0001-70;2020-09-30;2;BMA Corporate;Largo do Ibam, 1, Humaitá, Rio de Janeiro/RJ;0;1;Aquisição de 30% do imóvel.;0.20346646;Renda
+12.516.185/0001-70;2020-12-31;2;Haddock  Lobo;Rua Haddock Lobo, nº 347,  São Paulo - SP;8140;1;Direito de propriedade;0.1772;Renda
+13.371.132/0001-71;2020-03-31;1;Ed. Tower Bridge Corporate;Av. Jornalista Roberto Marinho, 85, Cidade Monções, Sao Paulo - SP;56447.68;76;-;0.468441;Renda
+13.974.819/0001-00;2020-03-31;1;Imóvel Duque de Caxias - Galpão 01;Rod. Washington Luiz, km 113, Via Projetada Aterial PD04,  nº 3777;49627.38;1;N/A;0.5936;Renda
+15.489.509/0001-17;2020-12-31;1;LOJA 67;Avenida Leopoldino de Oliveira, n° 3.661,  Uberaba/MG;2393;1;Prédio;0.0045;Renda
+15.576.907/0001-70;2020-12-31;1;GPA - Rebouças;Rua Alves Guimarães, nº 50, Pinheiros - SP;2935;1;imóvel para renda;0.013196;Renda
+16.671.412/0001-93;2020-06-30;1;Onepark Guarulhos;Rua Prof. João Cavalheiro Salem, 1.289 Bonsucesso, Guarulhos/SP;22825;2;N/A;0.101107055448516;Renda
+17.161.979/0001-82;2020-09-30;1;Edifício Century Tower;Rua Maria Luiza Santiago, 200 - Belo Horizonte MG;702;1;Sala 401;1;Renda
+17.161.979/0001-82;2020-09-30;1;Edifício Century Tower;Rua Maria Luiza Santiago, 200 - Belo Horizonte MG;702;1;Sala 501;1;Renda
+17.209.378/0001-00;2020-03-31;1;TREND HIGIENÓPOLIS-UNID-2204;Rua Santa Isabel, nº 272, Higienópolis, São Paulo - SP;81;1;MAT - 90.443 - Apartamento Residencial;1;Venda
+17.209.378/0001-00;2020-06-30;1;TREND HIGIENÓPOLIS-UNID-2204;Rua Santa Isabel, nº 272, Higienópolis, São Paulo - SP;81;1;MAT - 90.443 - Apartamento Residencial;1;Venda
+17.209.378/0001-00;2020-09-30;1;TREND HIGIENÓPOLIS-UNID-2204;Rua Santa Isabel, nº 272, Higienópolis, São Paulo - SP;81;1;MAT - 90.443 - Apartamento Residencial;1;Venda
+17.209.378/0001-00;2020-12-31;1;TREND HIGIENÓPOLIS-UNID-2204;Rua Santa Isabel, nº 272, Higienópolis, São Paulo - SP;81;1;MAT - 90.443 - Apartamento Residencial;1;Venda
+17.554.274/0001-25;2020-03-31;1;Shopping ABC;Av. Pereira Barreto, 42 - Santo André - SP;47375;270;Aréa total construida 28.840 m²;0.619047619047619;Renda
+17.554.274/0001-25;2020-03-31;1;7,7881% Shopping Patio Belém;Trav. Padre Eutíquio, 1078 - Belém - PA;21650.29;189;Aréa total construida 126251,0 m²;0.380952380952381;Renda
+17.554.274/0001-25;2020-09-30;1;Shopping Praia da Costa;Avenida Doutor Olivio Lira, 353 - Praia da Costa, Vila Velha/ES;40580;200;98,5% adquirido;0.126311541050714;Renda
+17.554.274/0001-25;2020-09-30;1;Shopping Ribeirão;Avenida Coronel Fernando Ferreira Leite nº 1.540 - Ribeirão Preto/SP;74998;340;3,25% adquirido;0.0167825343166025;Renda
+17.554.274/0001-25;2020-12-31;2;Shopping Praia da Costa;Avenida Doutor Olivio Lira, 353 - Praia da Costa, Vila Velha/ES;40580;200;Direito de propriedade;0.143412680685925;Renda
+17.554.274/0001-25;2020-12-31;2;Shopping Ribeirão;Avenida Coronel Fernando Ferreira Leite nº 1.540 - Ribeirão Preto/SP;74998;340;Direito de propriedade;0.105359746718343;Renda
+19.722.048/0001-31;2020-03-31;1;AF 109 12;Rua Antônio Felício, 109 - 12;110.95;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;BAT 170 13;Rua Batataes, 170  - 13;101.1;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;BV 592 136;Rua Baltazar da Veiga 592 - 136;35.77;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;CAC 49 53;Rua Caconde, 49  - 53;159.9;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;CAC 74 72;Rua Caconde 74 - 72;100.55;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;CON 2801 102;Rua da Consolação 2801 - 102;100.38;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;FR 162 121;Alameda Franca 162 - 121;113.515;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;INA 17 11;Rua Inajaroba 17 - 11;209.98;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JAU 88 54;Alameda Jaú 88 - 54;130.9;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JEL 1075 31;Alameda Joaquim Eugênio de Lima 1075 - 31;86.62;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JEL 1095 63;Alameda Joaquim Eugênio de Lima 1095 - 63;105.47;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JF 626 801;Rua Jaques Félix 626 - 801;42.3483;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JML 463 73;Rua José Maria Lisboa 463 - 73;153.88;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;LO 853 102B;Alameda Lorena 853 - 102B;89;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;MF 220 8;Rua Dr. Mario Ferraz, 220 - 8;240.7;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;MGD 475 23;Rua Manuel Guedes 475 - 23;130.96;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;PG 1769 63;Rua Peixoto Gomide 1769 - 63;109.42;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;QUE 70 102;Rua Queluz 70 - 102;84.57;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;RPB 319 14;Rua Doutor Renato Paes de Barros 319 - 107;107.88;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;TIE 471 103;Alameda Tietê 471 - 103;109.42;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;MRA 932 71;Alameda Min. Rocha Azevedo 932 - 71;191.06;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JEL 834 41;Alameda Joaquim Eugênio de Lima 834 - 41;184.66;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;OBR 75 21;Rua Ouro Branco 75 - 21;194.28;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;ITU 1329 71;Alameda Itu 1329 - 71;195.64;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;CON 3665 22;Rua da Consolação 3665 - 22;203.18;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;BAT 362 71;Rua Batataes, 362 - 71;209.84;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JML 1055 5;Rua José Maria Lisboa 1055 - 5;207.2;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;BPA 780 71;Rua Bandeira Paulista 780 - 71;182;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JAU 1486 9;Alameda Jaú 1486 - 9;239;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;JML 852 21;Rua José Maria Lisboa 852 - 21;198.075;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-03-31;1;BAT 362 91;Rua Batataes, 362 - 91;209.84;1;Apartamento residencial pronto para venda;;Venda
+19.722.048/0001-31;2020-06-30;2;ABI 1363 44;Rua Abílio Soares 1363 - 44;110;1;Apartamento residencial pronto para venda;0.00404454224886143;Venda
+19.722.048/0001-31;2020-06-30;2;JOI 55 2104;Rua Joinville 55 - 2104;40.11;1;Apartamento residencial pronto para venda;0.0017605138204281;Venda
+19.722.048/0001-31;2020-06-30;2;JMO 975 124;Rua João Moura 975 - 124;86.79;1;Apartamento residencial pronto para venda;0.00345645565060433;Venda
+19.722.048/0001-31;2020-06-30;2;FR 1645 82;Alameda Franca 1645 - 82;33.5;1;Apartamento residencial pronto para venda;0.00156023838724203;Venda
+19.722.048/0001-31;2020-06-30;2;SC 168 31;Rua Silva Correia 168 - 31;161.43;1;Apartamento residencial pronto para venda;0.0102276475362829;Venda
+19.722.048/0001-31;2020-06-30;2;MRA 523 252;Alameda Ministro Rocha Azevedo 523 - 252;42;1;Apartamento residencial pronto para venda;0.00172053130870434;Venda
+19.722.048/0001-31;2020-06-30;2;LCM 539 51;Rua Leopoldo Couto de Magalhães Júnior, 539 - 51;46.75;1;Apartamento residencial pronto para venda;0.00240841197503712;Venda
+19.722.048/0001-31;2020-06-30;2;QUA 936 32;Rua Quatá 936 - 32;57.29;1;Apartamento residencial pronto para venda;0.00242077039773738;Venda
+19.722.048/0001-31;2020-06-30;2;PAI 1003 51;Rua Professor Atilio Innocenti 1003 - 51;101.8605;1;Apartamento residencial pronto para venda;0.00393859694082657;Venda
+19.722.048/0001-31;2020-06-30;2;PED 328 62;Rua Pedroso Alvarenga, 328 - 62;154.965;1;Apartamento residencial pronto para venda;0.00637895795277231;Venda
+19.722.048/0001-31;2020-06-30;2;COP 569 81;Rua Coronel Oscar Porto 569 - 81;200.29;1;Apartamento residencial pronto para venda;0.00681864940341759;Venda
+19.722.048/0001-31;2020-06-30;2;FID 74 11;Rua Fidêncio Ramos, 74 - 11;124.06;1;Apartamento residencial pronto para venda;0.00521567671326112;Venda
+19.722.048/0001-31;2020-06-30;2;BRA 120 7;Rua Brasília, 120 - 7;131.59;1;Apartamento residencial pronto para venda;0.0082433778412494;Venda
+19.722.048/0001-31;2020-06-30;2;CRV 671 133;Rua Cristiano Viana 671 - 133;69.42;1;Apartamento residencial pronto para venda;0.00346951045818712;Venda
+19.722.048/0001-31;2020-06-30;2;DID 40 22;Doutor Ivo Define Frasca 40 - 22;91.698;1;Apartamento residencial pronto para venda;0.00471942112766839;Venda
+19.722.048/0001-31;2020-06-30;2;FIR 128 112;Rua Fidêncio Ramos 128 - 112;121.33;1;Apartamento residencial pronto para venda;0.00533348965454562;Venda
+19.722.048/0001-31;2020-06-30;2;CLD 506 183;Rua Clodomiro Amazonas, 506 - 183;67.34;1;Apartamento residencial pronto para venda;0.00597015285451755;Venda
+19.722.048/0001-31;2020-06-30;2;TOM 880 151;Rua Doutor Tomás Carvalhal 880 - 151;296.37;1;Apartamento residencial pronto para venda;0.014659584735918;Venda
+19.722.048/0001-31;2020-06-30;2;CAC 50 82;Rua Caconde, 50 - 82;128.78;1;Apartamento residencial pronto para venda;0.00385333548312722;Venda
+19.722.048/0001-31;2020-06-30;2;SAJ 244 161;Rua Santa Justina 244 - 161;96.96;1;Apartamento residencial pronto para venda;0.0040849801576636;Venda
+19.722.048/0001-31;2020-06-30;2;ITU 745 42;Alameda Itu 745 - 42;172.66;1;Apartamento residencial pronto para venda;0.00807758731985832;Venda
+19.722.048/0001-31;2020-06-30;2;BAL 63 12;Rua Baluarte 63 - 12;93.7122;1;Apartamento residencial pronto para venda;0.00292332993566697;Venda
+19.722.048/0001-31;2020-06-30;2;TAB 452 73;Rua Tabapuã 452 - 73;77.44;1;Apartamento residencial pronto para venda;0.00269430557536693;Venda
+19.722.048/0001-31;2020-06-30;2;CON 2801 43;Rua da Consolação 2801 - 43;100.38;1;Apartamento residencial pronto para venda;0.00413839501082966;Venda
+19.722.048/0001-31;2020-09-30;1;AFE 61 41;Rua André Fernandes 51,61 n 41;196.42;1;Apartamento para venda;0.00979;Venda
+19.722.048/0001-31;2020-09-30;1;BC 1760 34;Rua Bela Cintra 1760 - 34;112.35;1;Apartamento para venda;0.006059;Venda
+19.722.048/0001-31;2020-09-30;1;BPA 747 104;Rua Bandeira Paulista 747 - 104;54.45;1;Apartamento para venda;0.002636;Venda
+19.722.048/0001-31;2020-09-30;1;BV 273 11;Rua Baltazar da Veiga 273 - 11;126.29;1;Apartamento para venda;0.008319;Venda
+19.722.048/0001-31;2020-09-30;1;CAM 1176 71;Alameda Campinas 1176 - 71;109.8;1;Apartamento para venda;0.004797;Venda
+19.722.048/0001-31;2020-09-30;1;CAT 891 64;Rua Casa do Ator 891 - 64;57.34;1;Apartamento para venda;0.003017;Venda
+19.722.048/0001-31;2020-09-30;1;COP 114 32;Rua Coronel Oscar Porto 114 - 32;132.67;1;Apartamento para venda;0.005072;Venda
+19.722.048/0001-31;2020-09-30;1;DMA 265 112;Rua Doutor Melo Alves 265 - 112;110;1;Apartamento para venda;0.005048;Venda
+19.722.048/0001-31;2020-09-30;1;FC 395 103;Alameda Fernão Cardim 395 - 103;45;1;Apartamento para venda;0.003844;Venda
+19.722.048/0001-31;2020-09-30;1;FC 98 102;Alameda Fernão Cardim 98 - 102;125.17;1;Apartamento para venda;0.003552;Venda
+19.722.048/0001-31;2020-09-30;1;FR 1331 92;Alameda Franca 1331 - 92;188.22;1;Apartamento para venda;0.006965;Venda
+19.722.048/0001-31;2020-09-30;1;HL 1141 92;Rua Haddock Lobo 1141 - 92;144.2;1;Apartamento para venda;0.005197;Venda
+19.722.048/0001-31;2020-09-30;1;HL 971 14;Rua Haddock Lobo 971 - 14;113.59;1;Apartamento para venda;0.004505;Venda
+19.722.048/0001-31;2020-09-30;1;JF 162 31;Rua Jaques Félix 162 - 31;156;1;Apartamento para venda;0.009584;Venda
+19.722.048/0001-31;2020-09-30;1;LO 280 34;Alameda Lorena, 280 - 34;58.79;1;Apartamento para venda;0.003067;Venda
+19.722.048/0001-31;2020-09-30;1;PED 1004 92;Rua Pedroso Alvarenga 1004  - 92;67.09;1;Apartamento para venda;0.00314;Venda
+19.722.048/0001-31;2020-09-30;1;QUA 960 53;Rua Quatá 960 - 53;54.9336;1;Apartamento para venda;0.002948;Venda
+19.722.048/0001-31;2020-09-30;1;RPB 1054 22;Rua Doutor Renato Paes de Barros 1054 - 22;105.51;1;Apartamento para venda;0.004124;Venda
+19.722.048/0001-31;2020-09-30;1;VIR 97 54;Rua Viradouro 97 - 54;92.72;1;Apartamento para venda;0.004399;Venda
+19.722.048/0001-31;2020-12-31;1;IA 84 84;Rua Iara 84 - 84;44.45;1;Apartamento residencial pronto para venda;0;Venda
+19.722.048/0001-31;2020-12-31;1;PJM 494 111;Rua Padre João Manuel 494 - 111;140;1;Apartamento residencial pronto para venda;0.004863;Venda
+19.722.048/0001-31;2020-12-31;1;CPRU 161 12;Rua Capitão Prudente 161 - 12;160.18;1;Apartamento residencial pronto para venda;0.005528;Venda
+19.722.048/0001-31;2020-12-31;1;SAR 173 21;Alameda Sarutaiá 173 - 21;222.28;1;Apartamento residencial pronto para venda;0.009764;Venda
+19.722.048/0001-31;2020-12-31;1;JML 20 1004;Rua José Maria Lisboa  20 - 1004;33.8;1;Apartamento residencial pronto para venda;0.001819;Venda
+19.722.048/0001-31;2020-12-31;1;URI 111 11;Rua Urimonduba 111 - 11;142.02;1;Apartamento residencial pronto para venda;0.006592;Venda
+19.722.048/0001-31;2020-12-31;1;FC 369 92;Rua Francisco Leitão 369 - 92;101.05;1;Apartamento residencial pronto para venda;0;Venda
+19.722.048/0001-31;2020-12-31;1;QUA 746 54;Rua Quatá 746 - 54;111.44;1;Apartamento residencial pronto para venda;0.0044;Venda
+19.722.048/0001-31;2020-12-31;1;ALV 735 41;Rua Alvorada 735 - 41;103.82;1;Apartamento residencial pronto para venda;0.003718;Venda
+19.722.048/0001-31;2020-12-31;1;TC 362 61;Rua Tomás Carvalhal 362 - 61;130.02;1;Apartamento residencial pronto para venda;0.005057;Venda
+19.722.048/0001-31;2020-12-31;1;TAB 281 92;Rua Tabapuã 281 - 92;121.69;1;Apartamento residencial pronto para venda;0.005059;Venda
+19.722.048/0001-31;2020-12-31;1;CEL 524 44;Rua Cônego Eugênio Leite 524 - 44;113;1;Apartamento residencial pronto para venda;0.004095;Venda
+19.722.048/0001-31;2020-12-31;1;ABI 951 12;Rua Abílio Soares 951 - 12;104.6;1;Apartamento residencial pronto para venda;0.003245;Venda
+19.722.048/0001-31;2020-12-31;1;PED 271 92;Rua Pedroso Alvarenga 271 - 92;122.5;1;Apartamento residencial pronto para venda;0.00781;Venda
+19.722.048/0001-31;2020-12-31;1;BLA 2759 31;Avenida Brigadeiro Luís Antônio 2759 - 31;111.79;1;Apartamento residencial pronto para venda;0.003744;Venda
+19.722.048/0001-31;2020-12-31;1;SANT 1126 503;Alameda Santos 1126 - 503;99.4;1;Apartamento residencial pronto para venda;0;Venda
+19.722.048/0001-31;2020-12-31;1;GUA 100 84;Rua Guarará 100 - 84;71.13;1;Apartamento residencial pronto para venda;0;Venda
+19.722.048/0001-31;2020-12-31;1;JLO 754 82;Rua João Lourenço 754 - 82;66;1;Apartamento residencial pronto para venda;0.002627;Venda
+19.872.887/0001-36;2020-03-31;2;Centro Universitário UNA - UNA;Rua dos Aimorés, nº 1451-A, Lourdes, Belo Horizonte/MG  CEP: 30.140-072;10059.61;1;Matrícula nº 3043, do 2º Ofício de Registro de Imóveis de Belo Horizonte - Minas Gerais. O imóvel está cadastrado na Prefeitura Municipal de BH com a Classificação Fiscal nº 13.001.19.0004866 e 13.001.19.0558605 e Identificação nº  004015020001-8 e 0040150200026, tendo-lhes sido atribuído no exercício de 2019 o valor venal de R$506.767,00 e R$16.131.779,00.;1;Renda
+19.872.887/0001-36;2020-06-30;1;Centro Universitário UNA - UNA;Rua dos Aimorés, nº 1451-A, Lourdes, Belo Horizonte/MG  CEP: 30.140-072;10059.61;1;Matrícula nº 3043, do 2º Ofício de Registro de Imóveis de Belo Horizonte - Minas Gerais. O imóvel está cadastrado na Prefeitura Municipal de BH com a Classificação Fiscal nº 13.001.19.0004866 e 13.001.19.0558605 e Identificação nº  004015020001-8 e 0040150200026, tendo-lhes sido atribuído no exercício de 2019 o valor venal de R$506.767,00 e R$16.131.779,00.;1;Renda
+19.872.887/0001-36;2020-09-30;1;Escola Parque;Rua Pedra de Itaúna nº 111, Rio de Janeiro/RJ, CEP 22.793-390;8982.81;1;Matrícula nº 132.954, do 9º Ofício de Registro de Imóveis de Rio de Janeiro - Rio de Janeiro.;1;Renda
+20.118.470/0001-61;2020-12-31;1;BH OUTLET;Rod BR 356, 7.515, Belo Horizonte/MG;24383.86;7;Matrículas: 73.217, 73.219, 73.220, 73.221, 73.222, 73.223, 73.224 e 73.226;0.5001;Renda
+20.118.470/0001-61;2020-12-31;1;GUARULHOS OUTLET;Rodovia Presidente Dutra, KM 395, Guarulhos/SP;13945.87;1;Matrícula: 55.147;0.5;Renda
+20.748.515/0001-81;2020-12-31;3;Bresco Bahia G100;Rod. BA-535. km 23, Lauro de Freitas - BA;38141.97;1;Galpão Logístico;1;Renda
+21.408.063/0001-51;2020-06-30;2;Edíficio Mario Garneiro Torre Sul;Av. Brigadeiro Faria Lima nº 1.461,  Pinheiros, São Paulo/SP;726;4;São Paulo;0.034720123761834;Renda
+21.408.063/0001-51;2020-06-30;2;Edíficio Pravda;Alameda Grajaú, nº 98 - Alphaville Industrial, Barueri/SP;502;1;São Paulo;0.0154592029077103;Renda
+21.408.063/0001-51;2020-12-31;1;Edíficio Mario Garneiro Torre Sul;Rua Da Consolação, 2320/2322 - Consolação - São Paulo - SP;1633.41;5;Direito de propriedade;0.026769;Renda
+21.408.063/0001-51;2020-12-31;1;Edíficio River One;Rua Gerivativa, esquina com a Rua Pirajussara, nºs 71, 87 e 95 - Pinheiros - São Paulo - SP;23625.14;1;Direito de propriedade;0.57443;Renda
+22.103.617/0001-75;2020-06-30;1;Perimetral;Avenida Perimetral Norte - Goiânia - GO;6782.6;1;Galpão Logístico, com área total onstruída de 6782,60 metros quadrados;0.5;Renda
+22.646.161/0001-90;2020-03-31;1;Cond. Concept Living Boutique - Apto 201;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;75.55;1;;1;Venda
+22.646.161/0001-90;2020-03-31;1;Cond. Concept Living Boutique - Apto 403;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;92.61;1;;1;Venda
+22.646.161/0001-90;2020-03-31;1;Cond. Concept Living Boutique - Apto 503;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;98.28;1;;1;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 11B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 11C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 12A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 12C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 13A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 14A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 14B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 14C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 15A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 16A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 16B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 16C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 21B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 21C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 22A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 22B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 23A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 23B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 24A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 24B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 24C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 25A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 25B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 25C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 26B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 26C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 31A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 31C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 32B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 32C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 33A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 33C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 34B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 34C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 35A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 35B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 36A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 36B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 41A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 41B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 41C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 42A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 42C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 43B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 43C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 44A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 44B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 45A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 45C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 46A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 46B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 46C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 51A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 51B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 52A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 52C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 53A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 53B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 54C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 55A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 55B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 55C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 56C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 61A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 61B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 61C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 62B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 62C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 64B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 65B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 66A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 66C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 71B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 72B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 73A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 73B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 73C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 74C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 75B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 75C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 76A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 76B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 76C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 81C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 82C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 83B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 83C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 84B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 84C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 85B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 85C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;52.66;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 86B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 86C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;47.43;1;;;Venda
+24.703.709/0001-11;2020-06-30;1;Apto 142  - Ed Adriana Margarida;Rua Baluarte, nº230, Vila Olímpia - São Paulo;125;1;Direito de Propriedade;0.0936;Venda
+24.703.709/0001-11;2020-06-30;1;Apto nº21 - Ed Luciana;Alameda Jauaperi, nº 1105 - Moema - São Paulo;167;1;Direito de Propriedade;0.1174;Venda
+24.796.967/0001-90;2020-03-31;1;AAZ 1537 123;Rua Arthur Azevedo 1537 - 123;118.4;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;AB 169 62;Rua Antônio Borba 169 - 62;87.45;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;AB 192 81;Rua Antônio Borba 192 - 81;65.98;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;AB 489 32;Rua Antônio Borba 489  - 32;124;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;AFO 177 101;Rua Afonso Braz 177 - 101;280.88;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;AGU 921 131;Rua Alves Guimarães 921 - 129;128.95;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;AIC 668 62;Alameda dos Aicás 668 - 62;187.75;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ALA 336 61;Rua Alagoas 336 - 61;144.3;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ALA 337 51;Rua Alagoas 337 - 51;68.61;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ALG 960 54;Rua Alves Guimarães 960 - 54;70.8;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ALV 270 62;Rua Alvorada 270 - 62;149.9343;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ALV 735 54;Rua Alvorada 735 - 54;103.82;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ANA 746 72;Alameda dos Anapurus 746  - 72;60.325;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;API 445 61;Rua Apinajés 445 - 61;112;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;API 758 121;Rua Apiacás 758 - 121;152.4;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ARA 135 22;Rua Araioses 135  - 22;126.91;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ARA 137 51;Rua Aracaju 137 - 51;200;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ARA 298 121;Avenida Aratãs 298 - 121;102.17;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ARA 298 51;Avenida Aratãs 298 - 51;102.17;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ARA 298 81;Avenida Aratãs 298 - 81;102;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ARI 666 71;Rua Araguari 666 - 71;143.63;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;BRT 306 41;Rua Brentano 306 - 41;140.1;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;BRT 306 51;Rua Brentano 306 - 51;140.1;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;BT 426 201;Rua Barão da Torre 426 - 201;140;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CA 853 22;Rua Casa do Ator 853 - 22;66.83;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CB 755 11;Alameda Casa Branca 755 - 11;231.01;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CEA 101 31;Rua Ceará 101 - 31;212.02;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CEL 632 151;Rua Cônego Eugênio Leite 362 - 151;155.2;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CEL 632 151;Rua Cônego Eugênio Leite 362 - 151;155.2;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CMN 1060 32;Avenida Doutor Cardoso de Melo 1060 - 32;58.06;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CRV 243 51;Rua Cristiano Viana 243 - 51;106.27;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;CRV 243 52;Rua Cristiano Viana 243 - 52;107.27;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;DAM 1251 11;Rua Doutor Augusto de Miranda 1251 - 11;71.49;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;DAT 16 41;Rua Doutor Alberto Tôrres 16 - 41;155.54;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;DJE 130 21;Rua Doutor José Elias 130 - 21;148.49;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;EES 170 41;Rua Engenheiro Edgar Egídio de souza 170 - 41;269.46;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ESA 140 63;Rua Doutor Eduardo de Souza Aranha 140 - 63;91;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;FID 618 41;Rua Fidalga 618 - 41;61.68;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;GC 968 61;Rua Gomes de Carvalho 968 - 64;64.1008;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;GIR 721 21;Rua Girassol 721 - 21;148.6;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;GIR 770 61;Rua Girassol 770 - 61;153.72;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;GMM 362 41;Alameda dos Guaramomis 362 - 41;155.12;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;GRA 148 121;Rua Graúna 148 - 121;166.85;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;HAR 765 91;Rua Harmonia 765 - 91;106.28;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;HIG 604 61;Avenida Higienópolis 604 - 61;295.305;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;HIG 968 24B;Avenida Higienópolis 968 - 24B;81.72;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;HU 184 43;Rua Humaitá, 184 - 43;103.23;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;IA 84 103;Rua Iara 84 - 103;44.45;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;IN 737 31;Rua Inhambu 737 - 31;168.52;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;IN 758 21;Rua Inhambu 770 - 21;141;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;INH 873 51;Rua Inhambu 873 - 51;83;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ITA 350 05;Rua Itambé 350 - 5;234.89;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;ITA 869 12;Rua Itapicuru, 881 - 12;121.76;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JAM 337 13;Rua Jorge Americano 337 - 13;79.77;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JAM 522 94;Avenida Jamaris 522 - 94;77;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JCO 227 72;Rua Jericó 227 - 72;56.2;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JL 215 201;Rua José Linhares 215 - 201;108;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JLI 215 201;Rua José Linhares 215 - 201;108;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JLI 95 507;Rua João Líra 95 - 507;70;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JRP 701 101;Alameda dos Jurupis 701 - 101;117.96;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JTA 1057 44;Rua Joaquim Távora 1057 - 44;106.97;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;JUR 520 64;Avenida Jurecê, 520 - 64;69.9425;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;LC 393 21;Rua Leão Coroado 393 - 21;216.67;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;LIS 71 92;Rua Lisboa 71 - 92;95.8;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MA 1419 42;Rua Monte Alegre 1419 - 42;123.87;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MA 781 102;Rua Monte Alegre 781 - 102;138.12;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MAL 791 14;Rua Monte Alegre 791 - 14;135.5;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MAC 417 54;Avenida Macuco 417 - 54;110.415;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MAL 791 14;Rua Monte Alegre 791 - 14;135;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MES 99 22;Rua Capitão Messías 99 - 22;142.31;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MES 99 71;Rua Capitão Messías 99 - 71;142.31;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MFG 230 131;Rua Maria Figueiredo 230 - 131;63.47;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MGD 657 61;Rua Ministro GodoI 657 - 61;149.08;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;MPR 159 73;Rua Martinico Prado 159 - 73;69.4;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;NHA 1170 84;Alameda dos Nhambiquaras 1170 - 84;41.935;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;OUR 115 46;Rua Ourânia 115 - 46;56;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PARA 115 51;Rua Para 115 - 51;153.88;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PAV 113 22;Avenida Pavão 113 - 22;39.91;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PI 1184 31;Rua Piauí 1184 - 31;52;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PIU 1149 31;Rua Piauí 1149 - 31;202;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PRA 404 53;Rua Professor Artur Ramos 404 - 53;44;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PRA 404 54;Rua Professor Artur Ramos 404 - 54;44;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;PTR 212 51;Rua Professor Tranquilli 212 - 51;84;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;RCC 70 1009;Rua Ciro Costa 70 - 1009;32;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;RPO 537 61;Rua Raul Pompéia 537 - 61;66;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;SBR 538 82;Rua Sabará 538 - 82;151;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;SVP 416 14;Rua São Vicente de Paula 416 - 14;156;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;TNL 372 81;Rua Tonelero 372 - 81;70;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-03-31;1;TU 536 53;Rua Tuim 536 - 53;58;1;Apartamento residencial pronto para venda;;Venda
+24.796.967/0001-90;2020-06-30;1;AIM 1283 82;Rua Aimberê 1283 - 82;38.35;1;Apartamento residencial pronto para venda;0.00138699832818384;Venda
+24.796.967/0001-90;2020-06-30;1;AP 588 12;Rua Artur Prado 588 - 12;263.78;1;Apartamento residencial pronto para venda;0.00641384187603028;Venda
+24.796.967/0001-90;2020-06-30;1;GC 280 304;Rua Gilberto Cardoso 280  - 304;82;1;Apartamento residencial pronto para venda;0.005201912666677;Venda
+24.796.967/0001-90;2020-06-30;1;PI 1246 51;Rua Piauí 1246 - 51;147.2;1;Apartamento residencial pronto para venda;0.00449038678068536;Venda
+24.796.967/0001-90;2020-06-30;1;CRO 227 132;Rua Croata 227 - 132;72.52;1;Apartamento residencial pronto para venda;0.0011373403852788;Venda
+24.796.967/0001-90;2020-06-30;1;ANA 746 124;Alameda dos Anapurus 746 - 124;60.325;1;Apartamento residencial pronto para venda;0.00193859344973334;Venda
+24.796.967/0001-90;2020-06-30;1;MJMM 28 61B;Praça Monsenhor José Maria Monteiro 28 - 61B;54.432;1;Apartamento residencial pronto para venda;0.00155291753988915;Venda
+24.796.967/0001-90;2020-06-30;1;SAB 563 82;Rua Sabará 563 - 82;97.73;1;Apartamento residencial pronto para venda;0.00279921417879944;Venda
+24.796.967/0001-90;2020-06-30;1;MGD 539 22;Rua Ministro Godoi 539 - 22;105.9;1;Apartamento residencial pronto para venda;0.00208230281801636;Venda
+24.796.967/0001-90;2020-06-30;1;RB 497 152;Rua Bergamota 497 - 152;80.5134;1;Apartamento residencial pronto para venda;0.00197308746348278;Venda
+24.796.967/0001-90;2020-06-30;1;RPM 909 11B;Avenida Raimundo Pereira de Magalhães 909 - 11B;69.26;1;Apartamento residencial pronto para venda;0.00194373029487294;Venda
+24.796.967/0001-90;2020-06-30;1;ARA 628 131;Alameda dos Arapanés 628 - 131;198.53;1;Apartamento residencial pronto para venda;0.0063642241962332;Venda
+24.796.967/0001-90;2020-06-30;1;PAS 1777 28;Rua Pascal 1777 - 28;80.64;1;Apartamento residencial pronto para venda;0.00278738459653773;Venda
+24.796.967/0001-90;2020-06-30;1;AL 1020 33L;Rua Aliança Liberal 1020 - 33;195.36;1;Apartamento residencial pronto para venda;0.00448691840240296;Venda
+24.796.967/0001-90;2020-06-30;1;DMA 957 94;Rua Doutor Miranda de Azevedo 957 - 94;53;1;Apartamento residencial pronto para venda;0.00168175322982249;Venda
+24.796.967/0001-90;2020-06-30;1;CV 275 15;Rua Campos Vergueiro 275 - 15;59.24;1;Apartamento residencial pronto para venda;0.00169878634443529;Venda
+24.796.967/0001-90;2020-06-30;1;DAM 597 11;Rua Doutor Augusto de Miranda 597 - 11;60.12;1;Apartamento residencial pronto para venda;0.0019608800227607;Venda
+24.796.967/0001-90;2020-06-30;1;MOA 781 32;Rua Monte Alegre 781 - 32;138.12;1;Apartamento residencial pronto para venda;0.00322599156851485;Venda
+24.796.967/0001-90;2020-06-30;1;CTX 1289 12;Rua Cotoxó 1289 - 12;93.62;1;Apartamento residencial pronto para venda;0.00220496407984592;Venda
+24.796.967/0001-90;2020-06-30;1;SC 159 11;Rua Salvador Caruso 159 - 11;75.48;1;Apartamento residencial pronto para venda;0.00177183882524359;Venda
+24.796.967/0001-90;2020-06-30;1;CTX 1289 71;Rua Cotoxó 1289 - 71;92.75;1;Apartamento residencial pronto para venda;0.00216341376573617;Venda
+24.796.967/0001-90;2020-06-30;1;QUA 936 73;Rua Quatá 936 - 73;52.47;1;Apartamento residencial pronto para venda;0.00182903997745706;Venda
+24.796.967/0001-90;2020-06-30;1;AUR 329 32;Rua Aurélia 329 - 32;90.3;1;Apartamento residencial pronto para venda;0.00196224099938873;Venda
+24.796.967/0001-90;2020-06-30;1;PAM 33 604;Rua Professor Antônio Maria Teixeira 33 - 604;80;1;Apartamento residencial pronto para venda;0.00567761602612605;Venda
+24.796.967/0001-90;2020-06-30;1;RP 296 907;Rua Paim 296 - 907;36.36;1;Apartamento residencial pronto para venda;0.00112469211564261;Venda
+24.796.967/0001-90;2020-06-30;1;TPI 251 42;Rua Tupi 251 - 42;36.5;1;Apartamento residencial pronto para venda;0.00119634166334578;Venda
+24.796.967/0001-90;2020-06-30;1;AEL 240 22;Rua Doutor Alfredo Ellis 240 - 22;106.52;1;Apartamento residencial pronto para venda;0.00249384875570888;Venda
+24.796.967/0001-90;2020-06-30;1;GDS 224 82;Rua Dr. Gabriel dos Santos 224 - 82;155.205;1;Apartamento residencial pronto para venda;0.0033795458061496;Venda
+24.796.967/0001-90;2020-06-30;1;JUR 45 31;Avenida Jurema 45 - 31;95.08;1;Apartamento residencial pronto para venda;0.00346789027924675;Venda
+24.796.967/0001-90;2020-06-30;1;PFP 484 51;Avenida Prefeito Fábio Prado 484 - 51;114.3575;1;Apartamento residencial pronto para venda;0.00320617914106698;Venda
+24.796.967/0001-90;2020-06-30;1;CW 535 14;Rua Carlos Weber 535 - 14;88.2;1;Apartamento residencial pronto para venda;0.0029359879698735;Venda
+24.796.967/0001-90;2020-06-30;1;DJM 87 85;Rua Doutor José Manoel 87 - 85;36.04375;1;Apartamento residencial pronto para venda;0.00129451788992831;Venda
+24.796.967/0001-90;2020-06-30;1;CAD 457 123;Rua Cardoso de Almeida 457 - 123;70.91;1;Apartamento residencial pronto para venda;0.0020568728328449;Venda
+24.796.967/0001-90;2020-06-30;1;CWE 601 112;Rua Carlos Weber 601 - 112;74.385;1;Apartamento residencial pronto para venda;0.00264221943856555;Venda
+24.796.967/0001-90;2020-06-30;1;JAN 79 61;Avenida Jandira 79 - 61;102.86;1;Apartamento residencial pronto para venda;0.00466691890829229;Venda
+24.796.967/0001-90;2020-06-30;1;JMO 942 102;Rua João Moura 942 - 102;85;1;Apartamento residencial pronto para venda;0.0022557566839543;Venda
+24.796.967/0001-90;2020-06-30;1;RA 352 14B;Rua Apinajés 352 - 14B;93.16;1;Apartamento residencial pronto para venda;0.00373406674450402;Venda
+24.796.967/0001-90;2020-06-30;1;AB 141 72;Rua Antônio Borba 141  - 72;93.65;1;Apartamento residencial pronto para venda;0.00206994102463274;Venda
+24.796.967/0001-90;2020-06-30;1;FIS 226 44;Rua Francisco Isoldi 226 - 44;51.76;1;Apartamento residencial pronto para venda;0.00197540364685715;Venda
+24.796.967/0001-90;2020-06-30;1;DIA 831 41;Rua Diana 831 - 41;84.42;1;Apartamento residencial pronto para venda;0.00193859344973334;Venda
+24.796.967/0001-90;2020-06-30;1;JAS 1330 101;Rua João Alvares Soares 1330 - 101;216.61;1;Apartamento residencial pronto para venda;0.0037410741194664;Venda
+24.796.967/0001-90;2020-06-30;1;RXN 333 122;Avenida Rouxinol 333 - 122;145.8;1;Apartamento residencial pronto para venda;0.00390136694614842;Venda
+24.796.967/0001-90;2020-06-30;1;ALC 242 101;Rua Alberto de Campos 242 - 101;210;1;Apartamento residencial pronto para venda;0.0113991376114308;Venda
+24.796.967/0001-90;2020-06-30;1;DBG 265 101;Rua Dona Brígida 265 - 101;86.85;1;Apartamento residencial pronto para venda;0.00291706309703298;Venda
+24.796.967/0001-90;2020-06-30;1;DMA 1251 14;Rua Doutor Miranda de Azevedo 1251 - 14;86.64;1;Apartamento residencial pronto para venda;0.00189083908067184;Venda
+24.796.967/0001-90;2020-06-30;1;DNM 724 44;Rua Doutor Nogueira Martins 724 - 44;55.5;1;Apartamento residencial pronto para venda;0.00146925971964698;Venda
+24.796.967/0001-90;2020-06-30;1;RGU 108 301;Rua General Urquiza 108 - 301;170;1;Apartamento residencial pronto para venda;0.0116970367829269;Venda
+24.796.967/0001-90;2020-06-30;1;CF 163 81;Rua Capital Federal 163 - 81;283.18;1;Apartamento residencial pronto para venda;0.00588194056732258;Venda
+24.796.967/0001-90;2020-06-30;1;JOA 99 61;Rua João Annes 99 - 61;92.7;1;Apartamento residencial pronto para venda;0.00193869633959501;Venda
+24.796.967/0001-90;2020-06-30;1;TC 1033 301B;Rua Timóteo da Costa 1033 - 301B;153;1;Apartamento residencial pronto para venda;0.00853456671320974;Venda
+24.796.967/0001-90;2020-06-30;1;BH 321 83;Rua Barbara Heliodora 321 - 83;82.16;1;Apartamento residencial pronto para venda;0.0022371114256597;Venda
+24.796.967/0001-90;2020-06-30;1;HEL 151 93;Rua Helena 151 - 93;91.27;1;Apartamento residencial pronto para venda;0.00439598338487969;Venda
+24.796.967/0001-90;2020-06-30;1;CAI 299 131;Rua Caiubi 299 - 131;191.26;1;Apartamento residencial pronto para venda;0.00445119864482735;Venda
+24.796.967/0001-90;2020-06-30;1;CDA 977 21;Rua Cardoso de Almeida 977 - 21;126.58;1;Apartamento residencial pronto para venda;0.00277895141611472;Venda
+24.796.967/0001-90;2020-06-30;1;GIR 730 142;Rua Girassol 730 - 142;101.21;1;Apartamento residencial pronto para venda;0.00282920987924619;Venda
+24.796.967/0001-90;2020-06-30;1;DV 524 45;Rua Dona Veridiana 524 - 45;45.06;1;Apartamento residencial pronto para venda;0.00129687191990341;Venda
+24.796.967/0001-90;2020-06-30;1;JLI 47 101;Rua José Linhares 47 - 101;175;1;Apartamento residencial pronto para venda;0.0143733322429452;Venda
+24.796.967/0001-90;2020-06-30;1;JRA 87 5;Rua Doutor Rodrigues Alves Sobrinho 87 - 5;170.33;1;Apartamento residencial pronto para venda;0.00556147838894016;Venda
+24.796.967/0001-90;2020-06-30;1;TUI 693 61;Rua Tuim 693 - 61;171.3;1;Apartamento residencial pronto para venda;0.00621048290561617;Venda
+24.796.967/0001-90;2020-06-30;1;AP 113 24;Avenida Pavão 113 - 24;39.91;1;Apartamento residencial pronto para venda;0.00169548922291466;Venda
+24.796.967/0001-90;2020-06-30;1;ALC 51 102;Rua Alberto de Campos 51 - 102;41;1;Apartamento residencial pronto para venda;0.00216864942659912;Venda
+24.796.967/0001-90;2020-06-30;1;CD 1200 162;Rua Coronel Diogo 1200 - 162;63.81;1;Apartamento residencial pronto para venda;0.00197784484194951;Venda
+24.796.967/0001-90;2020-06-30;1;CD 1200 163;Rua Coronel Diogo 1200 - 163;63.81;1;Apartamento residencial pronto para venda;0.00197784484194951;Venda
+24.796.967/0001-90;2020-06-30;1;JAM 497 11;Rua Jorge Americano 497 - 11;78.24;1;Apartamento residencial pronto para venda;0.00196658942728682;Venda
+24.796.967/0001-90;2020-06-30;1;FAG 539 14;Avenida Fagundes Filho 539 - 15;61.80;1;Apartamento residencial pronto para venda;0.00147950292536487;Venda
+24.796.967/0001-90;2020-06-30;1;MMT 35 11;Rua Morgado de Mateus 35 - 11;68.9;1;Apartamento residencial pronto para venda;0.00179135266123809;Venda
+24.796.967/0001-90;2020-06-30;1;AAP 566 907;Avenida Ataulfo de Paiva 566 - 907;60;1;Apartamento residencial pronto para venda;0.00373155439494324;Venda
+24.796.967/0001-90;2020-06-30;1;BTRI 639 21;Rua Barão do Triunfo 639 - 21;162.28;1;Apartamento residencial pronto para venda;0.005033175723727;Venda
+24.796.967/0001-90;2020-06-30;1;HAV 292 82;Rua Havaí 292 - 82;135.16;1;Apartamento residencial pronto para venda;0.00321957558689422;Venda
+24.796.967/0001-90;2020-06-30;1;FC 277 8;Rua Frei Caneca 277 - 8;31.65;1;Apartamento residencial pronto para venda;0.000981528324514245;Venda
+24.796.967/0001-90;2020-06-30;1;GUAI 758 134;Rua Guaipá 758 - 134;46.3268;1;Apartamento residencial pronto para venda;0.00149707153900068;Venda
+24.796.967/0001-90;2020-06-30;1;RFF 52 31;Rua Doutor Fausto Ferraz 52 - 31;106.77;1;Apartamento residencial pronto para venda;0.00230785705072612;Venda
+24.796.967/0001-90;2020-06-30;1;BH 353 82;Rua Barbara Heliodora 353 - 82;63.855;1;Apartamento residencial pronto para venda;0.00195550519790979;Venda
+24.796.967/0001-90;2020-06-30;1;ARR 414 41;Avenida Arruda Botelho 414 - 41;91.25;1;Apartamento residencial pronto para venda;0.00295383283867801;Venda
+24.796.967/0001-90;2020-06-30;1;CAS 155 66B;Rua Castilho 155 - 66B;44.86;1;Apartamento residencial pronto para venda;0.00169932716842856;Venda
+24.796.967/0001-90;2020-06-30;1;PMO 699 603;Avenida Prudente de Morais 699 - 603;113;1;Apartamento residencial pronto para venda;0.00761153940546215;Venda
+24.796.967/0001-90;2020-06-30;1;TC 1033 402;Rua Timóteo da Costa 1033 - 402A;153;1;Apartamento residencial pronto para venda;0.00853563749682744;Venda
+24.796.967/0001-90;2020-06-30;1;API 1270 122;Rua Apinajés 1270 - 122;78.3725;1;Apartamento residencial pronto para venda;0.00181483645912336;Venda
+24.796.967/0001-90;2020-06-30;1;JUR 80 26;Avenida Jurema 80 - 26;49.3;1;Apartamento residencial pronto para venda;0.00168450570337791;Venda
+24.796.967/0001-90;2020-06-30;1;JEL 177 41;Alameda Joaquim Eugênio de Lima 177 - 41;198.2;1;Apartamento residencial pronto para venda;0.00374960004014333;Venda
+24.796.967/0001-90;2020-06-30;1;AGO 26 105;Rua Almeida Godinho 26 - 105;87;1;Apartamento residencial pronto para venda;0.00320464801555691;Venda
+24.796.967/0001-90;2020-09-30;1;ARP 419 104;Alameda dos Arapanés 419 - 104;46;1;Apartamento residencial pronto para venda;0.00145237805305361;Venda
+24.796.967/0001-90;2020-09-30;1;CAE 855 111;Rua Caetes 855 - 111;104.5;1;Apartamento residencial pronto para venda;0.00214833262058837;Venda
+24.796.967/0001-90;2020-09-30;1;CES 269 93;Rua Comendador Eduardo Saccab 269 - 93;141.02625;1;Apartamento residencial pronto para venda;0.00315569145265265;Venda
+24.796.967/0001-90;2020-09-30;1;GSE 205 501;Rua General Severiano 205 - 501;71;1;Apartamento residencial pronto para venda;0.00221677923949125;Venda
+24.796.967/0001-90;2020-09-30;1;HDU 68 405;Avenida Henrique Dumont 68 - 405;75;1;Apartamento residencial pronto para venda;0.00365682720336571;Venda
+24.796.967/0001-90;2020-09-30;1;JAN 647 94;Avenida Jandira 647 - 94;77.74;1;Apartamento residencial pronto para venda;0.00193337605969891;Venda
+24.796.967/0001-90;2020-09-30;1;VIP 174 202;Rua Visconde de Pirajá 174 - 202;110;1;Apartamento residencial pronto para venda;0.00432483018845211;Venda
+24.796.967/0001-90;2020-09-30;1;MIN 336 12;Rua Minerva 336 - 12;76;1;Apartamento residencial pronto para venda;0.00203980512178455;Venda
+24.796.967/0001-90;2020-09-30;1;FAG 1097 41B;Avenida Fagundes Filho 1097 - 41B;66.47;1;Apartamento residencial pronto para venda;0.00149211519950441;Venda
+24.796.967/0001-90;2020-09-30;1;BTM 637 606;Avenida Bartolomeu Mitre 637 - 606;78;1;Apartamento residencial pronto para venda;0.00318339906198859;Venda
+24.796.967/0001-90;2020-09-30;1;JML 20 1007;Rua José Maria Lisboa 20 - 1007;33.81;1;Apartamento residencial pronto para venda;0.00147102787718071;Venda
+24.796.967/0001-90;2020-09-30;1;PMO 266 102;Avenida Prudente de Morais 266 - 102;76;1;Apartamento residencial pronto para venda;0.00351756946692179;Venda
+24.796.967/0001-90;2020-09-30;1;JAN 647 93;Avenida Jandira 647 - 93;77.74;1;Apartamento residencial pronto para venda;0.00182722611357193;Venda
+24.796.967/0001-90;2020-09-30;1;PIN 480 95;Rua Pintassilgo 480 - 95;60.6;1;Apartamento residencial pronto para venda;0.00239717914918098;Venda
+24.796.967/0001-90;2020-09-30;1;LUM 274 21;Rua Luminárias 274 - 21;169.5;1;Apartamento residencial pronto para venda;0.00502322012431399;Venda
+24.796.967/0001-90;2020-09-30;1;VAN 1581 71;Rua Wanderley 1581 - 71;107.76;1;Apartamento residencial pronto para venda;0.00243544610170155;Venda
+24.796.967/0001-90;2020-09-30;1;MJD 633 61;Rua Major Diogo 633 - 61;64.23;1;Apartamento residencial pronto para venda;0.000835436318153018;Venda
+24.796.967/0001-90;2020-09-30;1;PAJS 530 124;Avenida Padre Antônio José dos Santos 530 - 124;74.55;1;Apartamento residencial pronto para venda;0.00299650160760296;Venda
+24.796.967/0001-90;2020-09-30;1;PLT 205 112;Rua Paulistânia 205 - 112;67.61;1;Apartamento residencial pronto para venda;0.00260938013991555;Venda
+24.796.967/0001-90;2020-09-30;1;JOE 60 808;Rua Joel Carlos Borges 60 - 808;48.16;1;Apartamento residencial pronto para venda;0.00275979952601835;Venda
+24.796.967/0001-90;2020-09-30;1;IND 458 61;Rua Indiana 458 - 61;167.49;1;Apartamento residencial pronto para venda;0.00542995964791867;Venda
+24.796.967/0001-90;2020-09-30;1;BH 353 81;Rua Bárbara Heliodora 353 - 81;63.85;1;Apartamento residencial pronto para venda;0.00187671854313;Venda
+24.796.967/0001-90;2020-09-30;1;BPO 152 306;Rua Baronesa de Poconé 152 - 306;77;1;Apartamento residencial pronto para venda;0.00283559216777874;Venda
+24.796.967/0001-90;2020-09-30;1;PAP 991 21;Rua Passo da Pátria 991 - 21;170.24;1;Apartamento residencial pronto para venda;0.00324820092458591;Venda
+24.796.967/0001-90;2020-09-30;1;SAN 275 113A;Rua Sansão Alves dos Santos 275  - 113;96.6;1;Apartamento residencial pronto para venda;0.00252446018301397;Venda
+24.796.967/0001-90;2020-09-30;1;AGO 410 51;Rua Agostinho Rodrigues Filho 410 - 51;152.94;1;Apartamento residencial pronto para venda;0.0035701865180494;Venda
+24.796.967/0001-90;2020-09-30;1;PAUL 23 302;Rua Paul Redfern 23 - 302;192;1;Apartamento residencial pronto para venda;0.011404055153028;Venda
+24.796.967/0001-90;2020-09-30;1;GVF 564 303;Rua General Venâncio Flores 564 - 303;120;1;Apartamento residencial pronto para venda;0.00557479922259766;Venda
+24.796.967/0001-90;2020-09-30;1;CAND 279 104;Rua Cândido Mendes 279 - 104;76;1;Apartamento residencial pronto para venda;0.00226371476075153;Venda
+24.796.967/0001-90;2020-09-30;1;MARA 339 91;Rua Maratona 339 - 91;72.92;1;Apartamento residencial pronto para venda;0.00313977651833494;Venda
+24.796.967/0001-90;2020-09-30;1;GGM 8 1203F;Rua General Goes Monteiro 8 - 1203;94;1;Apartamento residencial pronto para venda;0.00275602821424303;Venda
+24.796.967/0001-90;2020-09-30;1;HUM 436 1002;Rua Humberto de Campos 436 - 1002;82;1;Apartamento residencial pronto para venda;0.00495165142594385;Venda
+24.796.967/0001-90;2020-09-30;1;JOE 60 806;Rua Joel Carlos Borges 60 - 806;48.16;1;Apartamento residencial pronto para venda;6.87054667488523E-05;Venda
+24.796.967/0001-90;2020-09-30;1;TON 68 901;Rua Tonelero 68 - 901;69;1;Apartamento residencial pronto para venda;0.00227038674862751;Venda
+24.796.967/0001-90;2020-09-30;1;VA 349 103;Avenida Visconde de Albuquerque 349 - 103;120;1;Apartamento residencial pronto para venda;0.00582308068307899;Venda
+24.796.967/0001-90;2020-12-31;2;RP 420 122;Rua Paim 420 - 122;74.2;1;Apartamento residencial pronto para venda;0.002582;Venda
+24.796.967/0001-90;2020-12-31;2;ATP 566 1204;Avenida Ataulfo de Paiva 566 - 1204;57;1;Apartamento residencial pronto para venda;0.003571;Venda
+24.796.967/0001-90;2020-12-31;2;PMO 251 102;Rua Prudente de Morais 251 - 102;137;1;Apartamento residencial pronto para venda;0.00474;Venda
+24.796.967/0001-90;2020-12-31;2;BCO 11 303;Rua Batista da Costa 11 - 303;95;1;Apartamento residencial pronto para venda;0.003416;Venda
+24.796.967/0001-90;2020-12-31;2;ASS 254 202;Rua Almirante Saddock de Sá 254 - 202;136;1;Apartamento residencial pronto para venda;0.005033;Venda
+24.796.967/0001-90;2020-12-31;2;GEP 121 703;Rua General Polidoro 121 - 703;66;1;Apartamento residencial pronto para venda;0.001867;Venda
+24.796.967/0001-90;2020-12-31;2;TC 444 208;Rua Timóteo da Costa 444 - 208;110;1;Apartamento residencial pronto para venda;0.004029;Venda
+24.796.967/0001-90;2020-12-31;2;AP 433 913;Rua Artur Prado 433 - 913;41.02;1;Apartamento residencial pronto para venda;0.001652;Venda
+24.796.967/0001-90;2020-12-31;2;BARI 681 804;Rua Barata Ribeiro 681 - 804;68;1;Apartamento residencial pronto para venda;0.001782;Venda
+24.796.967/0001-90;2020-12-31;2;MOB 31 304;Rua Moura Brasil 31 - 304;115;1;Apartamento residencial pronto para venda;0.002769;Venda
+24.796.967/0001-90;2020-12-31;2;LOQ 244 805;Rua Lopes Quintas 244 - 805;90;1;Apartamento residencial pronto para venda;0.003614;Venda
+24.796.967/0001-90;2020-12-31;2;ATS 168 62;Alameda dos Tupiniquins 168 - 62;77.04;1;Apartamento residencial pronto para venda;0.001759;Venda
+24.796.967/0001-90;2020-12-31;2;GGM 8 1702;Rua General Góis Monteiro 8 - 1702;94;1;Apartamento residencial pronto para venda;0.002658;Venda
+24.796.967/0001-90;2020-12-31;2;MARA 339 83;Rua Maratona 339 - 83;72.92;1;Apartamento residencial pronto para venda;0.001306;Venda
+24.796.967/0001-90;2020-12-31;2;CPC 256 24;Rua Catulo da Paixão Cearense 256 - 24;71.37;1;Apartamento residencial pronto para venda;0.001627;Venda
+24.796.967/0001-90;2020-12-31;2;NL 23 501;Rua Negreiros Lobato 23 - 501;108;1;Apartamento residencial pronto para venda;0.003735;Venda
+24.796.967/0001-90;2020-12-31;2;HU 18 302;Rua Humaitá 18 - 302;74;1;Apartamento residencial pronto para venda;0.001866;Venda
+24.796.967/0001-90;2020-12-31;2;DPI 105 2006;Rua Doutor Paschoal Imperatriz 105 - 2006;47.96;1;Apartamento residencial pronto para venda;0.001729;Venda
+24.796.967/0001-90;2020-12-31;2;BTR 1528 81;Rua Barão do Triunfo 1528 - 81;106.8;1;Apartamento residencial pronto para venda;0.002417;Venda
+24.796.967/0001-90;2020-12-31;2;RRS 294 93;Rua Rosa e Silva 294 - 93;54.92;1;Apartamento residencial pronto para venda;0.001118;Venda
+24.796.967/0001-90;2020-12-31;2;FREI 812 704;Rua Frei Caneca 812 - 704;51.99;1;Apartamento residencial pronto para venda;0.001242;Venda
+24.796.967/0001-90;2020-12-31;2;CAN 890 83;Rua Canário 890 - 83;55.21;1;Apartamento residencial pronto para venda;0.002905;Venda
+24.796.967/0001-90;2020-12-31;2;AARA 1 602;Rua Artur Araripe 1 - 602;146;1;Apartamento residencial pronto para venda;0.00393;Venda
+24.796.967/0001-90;2020-12-31;2;DARD 411 31;Rua Dardanelos 411 - 31;143.8;1;Apartamento residencial pronto para venda;0.004206;Venda
+24.796.967/0001-90;2020-12-31;2;MG 420 11;Rua Ministro de Godoy 420 - 11;96.41;1;Apartamento residencial pronto para venda;0.001563;Venda
+24.796.967/0001-90;2020-12-31;2;CCA 168 1002;Rua Capitão César de Andrade 168 - 1002;70;1;Apartamento residencial pronto para venda;0.003332;Venda
+24.796.967/0001-90;2020-12-31;2;CCA 168 1001;Rua Capitão César de Andrade 168 - 1001;70;1;Apartamento residencial pronto para venda;0.003323;Venda
+24.796.967/0001-90;2020-12-31;2;JACI 227 61;Rua Jaci 227 - 61;74.6;1;Apartamento residencial pronto para venda;0.001409;Venda
+24.796.967/0001-90;2020-12-31;2;BAPO 152 504;Rua Baronesa de Poconé 152 - 504;86;1;Apartamento residencial pronto para venda;0.003013;Venda
+24.796.967/0001-90;2020-12-31;2;MSV 67 706;Rua Marquês de São Vicente 67 - 706;60;1;Apartamento residencial pronto para venda;0.002596;Venda
+24.796.967/0001-90;2020-12-31;2;JA 457 81;Rua Jorge Americano 457 - 81;58.24;1;Apartamento residencial pronto para venda;0.00137;Venda
+24.796.967/0001-90;2020-12-31;2;FCR 239 31;Rua Francisco Cruz 239 - 31;102.32;1;Apartamento residencial pronto para venda;0.00229;Venda
+24.796.967/0001-90;2020-12-31;2;RC 493 151;Rua Rodrigo Claudio 493 - 151;73.8;1;Apartamento residencial pronto para venda;0.004032;Venda
+24.796.967/0001-90;2020-12-31;2;IRE 2030 303;Avenida Irerê 2030 - 303;63.64;1;Apartamento residencial pronto para venda;0.001068;Venda
+24.796.967/0001-90;2020-12-31;2;VIAZ 975 132;Rua Viaza 975 - 132;81;1;Apartamento residencial pronto para venda;0.001967;Venda
+24.796.967/0001-90;2020-12-31;2;OTAH 19 302;Rua Otaviano Hudson 19 - 302;88;1;Apartamento residencial pronto para venda;0.002864;Venda
+24.796.967/0001-90;2020-12-31;2;GUAT 468 32;Alameda dos Guatá 468 - 32;72.34;1;Apartamento residencial pronto para venda;0.001358;Venda
+24.796.967/0001-90;2020-12-31;2;TC 204 101;Rua Timóteo da Costa 204 - 101;117;1;Apartamento residencial pronto para venda;0.005743;Venda
+24.796.967/0001-90;2020-12-31;2;TON 482 132;Rua Tonelero 482 - 132;72.29;1;Apartamento residencial pronto para venda;0.001772;Venda
+24.796.967/0001-90;2020-12-31;2;MARA 339 12;Rua Maratona 339 - 12;72.92;1;Apartamento residencial pronto para venda;0.001531;Venda
+24.796.967/0001-90;2020-12-31;2;BC 127 62;Rua Bela Cintra 127 - 62;132.8;1;Apartamento residencial pronto para venda;0.002504;Venda
+24.796.967/0001-90;2020-12-31;2;BEN 90 401;Rua Benjamin Constant 90 - 401;78;1;Apartamento residencial pronto para venda;0.001609;Venda
+24.796.967/0001-90;2020-12-31;2;ROC 215 13;Rua Rodrigo Claudio 215 - 13;64.72;1;Apartamento residencial pronto para venda;0.001632;Venda
+24.796.967/0001-90;2020-12-31;2;JA 497 81;Rua Jorge Americano 497 - 81;78.24;1;Apartamento residencial pronto para venda;0.000231;Venda
+24.796.967/0001-90;2020-12-31;2;TIT 450 133;Rua Tito 450 - 133;116.1;1;Apartamento residencial pronto para venda;0.00287;Venda
+24.796.967/0001-90;2020-12-31;2;MCD 407 301;Rua Maestro Cardim 407 - 301;29.02;1;Apartamento residencial pronto para venda;0.000696;Venda
+24.853.044/0001-22;2020-03-31;2;REC Cachoeirinha;Cidade Cachoeirinha, Rio Grande do Sul, RS 118, nº 12760;36722;1;Imóvel realIzado através de dissolução e concomitante liquidação de SPE.;0.118874;Renda
+24.853.044/0001-22;2020-06-30;2;Galpão Cariacica;Cidade de Cariacica, n° 10.288, km 290,  RD. Governador Mario Covas - ES;16502;1;Galpão destinado a armazenagem e distribuição de bebidas;0.0732;Renda
+24.853.044/0001-22;2020-06-30;2;Galpão Eldorado;Cidade de Eldorado do Sul, na Av. Industrial Belgraf, n° 765 - RS;15512;1;Galpão destinado a armazenagem e distribuição de bebidas;0.0776;Renda
+24.853.044/0001-22;2020-06-30;2;Galpão TOK$STOK;Est. Vargem do João Pinto, Fazenda Matão Gleba 2, Extrema - MG;44734.77;1;Pé Direito: 12 m. Capacidade Piso: 6 ton/m².;0.1992;Renda
+24.853.044/0001-22;2020-09-30;1;Galpão TOK$STOK;Est. Vargem do João Pinto, Fazenda Matão Gleba 2, Extrema - MG;44734.77;1;33,17% adquirido;0.248738;Renda
+24.853.044/0001-22;2020-09-30;1;Parque Logístico Osasco;Av. Dr. Kenkiti Shimomoto, Nº 1.678, Osasco - SP;25788;1;80% adquirido;0.084265;Renda
+24.853.044/0001-22;2020-12-31;2;Galpão Caxias Park;Rodovia BR-493 (RioMagé), km 3,5,  Duque de Caxias - RJ;76600;1;Direito de propriedade;0.181447;Renda
+25.032.881/0001-53;2020-12-31;5;GARAVELO CEN;Avenida 85, nº 603;465;1;4971;;Renda
+26.191.053/0001-20;2020-06-30;1;MARILIA;AVENIDA RIO BRANCO;972.4;;;;Renda
+26.195.121/0001-20;2020-03-31;2;Edificio Result Corporate Plaza;Rua Joaquim Floriano, 413;241.06;1;matricula 181408 com 9 vagas de garagens;1;Renda
+26.195.121/0001-20;2020-06-30;2;Edificio Atrium IV;Rua Helena, 260;198.14;2;matricula 137659 e 137661 com 6 vagas de garagens;1;Renda
+26.195.121/0001-20;2020-09-30;1;Edifício Millenium Faria Lima;Avenida Brigadeiro Faria Lima, 3015 - São Paulo/SP;362.34;2;Conjuntos 131 e 132;1;Renda
+26.195.121/0001-20;2020-09-30;1;Edifício Atrium Jardins;Rua Cristiano Viana, 401 - São Paulo/SP;1063.05;1;Salas 1401 a 1411;1;Renda
+26.195.121/0001-20;2020-12-31;1;Edifício Parque Paulista;Alameda Santos, 1940;575.6;1;cjs. 101 e 102;1;Renda
+26.545.627/0001-11;2020-06-30;1;Artemis - Ribeirão Preto;Fazenda Recreio Guaracy, situada na Marginal da Rodovia Anhanguera, Ribeirão Preto - SP;52423.26;1;Gleba de terras desmembrada da Fazenda Recreio Guaracy, Imóvel objeto da matrícula 187550,;0.1105;Renda
+26.545.627/0001-11;2020-12-31;1;ED_ARARAS;Marginal Via Anhanguera - sem número - Araras - SP;11250;1;Direito de propriedade;0.093517;Renda
+26.681.370/0001-25;2020-06-30;2;Ed. Passarelli;Rua Paes Leme, 524, no 45º Subdistrito - Pinheiros, São Paulo - SP;339;2;Aquisição dos conjuntos 155 e 156;0.05;Renda
+26.681.370/0001-25;2020-12-31;2;Condomínio Edifício Timbaúba;Rua Itapeva, nº 538 - Bela Vista - São Paulo, SP;1965.12;16;São Paulo;0.075047;Renda
+27.293.689/0001-46;2020-03-31;1;APTO. 181 COND. VENTANA - PANAMBY SP;Rua Dona Helena Pereira de Moraes, 415;142.9;1;142,90 au / 280,542 at;0.185011;Venda
+27.293.689/0001-46;2020-09-30;1;Dual Medical & Business - unid. 114-B;Rua Lafaiete F. dos Santos, 153, - Lauro de Freitas-BA;29.37;1;Imóvel em construção;0.0149;Venda
+27.293.689/0001-46;2020-09-30;1;Dual Medical & Business - unid. 115-B;Rua Lafaiete F. dos Santos, 153, - Lauro de Freitas-BA;29.7;1;Imóvel em construção;0.0151;Venda
+27.293.689/0001-46;2020-09-30;1;Dual Medical & Business - unid. 301-B;Rua Lafaiete F. dos Santos, 153, - Lauro de Freitas-BA;37.42;1;Imóvel em construção;0.019;Venda
+27.293.689/0001-46;2020-09-30;1;Dual Medical & Business - unid. 302-B;Rua Lafaiete F. dos Santos, 153, - Lauro de Freitas-BA;34.33;1;Imóvel em construção;0.0174;Venda
+27.445.482/0001-40;2020-12-31;1;Edifício WT Morumbi - 25%;Avenida das Nações Unidas, nº 14.261 - São Paulo, SP;46813.58;29;-;1;Renda
+27.486.542/0001-72;2020-12-31;1;Centro Logístico Industrial Salto;Rodovia Engenheiro Ermínio de Oliveira Penteado, SP-073, Salto - SP;32034.5;21;-;0.096041;Renda
+27.538.422/0001-71;2020-03-31;3;Camaçari;Av. Jorge Amado, s/n, bairro Ponto Certo, Camaçari, BA;38535.43;1;matrícula 41.152 do 2º Ofício de Registro de Imóveis de Camaçari - BA;0.1502;Renda
+27.538.422/0001-71;2020-03-31;3;Castanhal;Av. Pres. Vargas, 5.600, Castanhal, PA;30000;1;matrícula 32.698 do 1º Ofício de Registro de Imóveis da Comarca de Castanhal - Pará;0.1061;Renda
+27.538.422/0001-71;2020-03-31;3;Curitiba;Av. Juscelino Kubitscheck de Oliveira, 2511, Cidade Industrial de Curitiba, Paraná;33044.95;1;matrícula 199.466 do 8º Cartório de Registro de Imóveis de Curitiba - PR;0.2039;Renda
+27.538.422/0001-71;2020-03-31;3;Palmas;Av. Joaquim Teotônio Segurado, s/n, Plano Diretor Sul, Palmas, Tocantins;40007.58;1;matrícula 149.124 do 1º Cartório de Registro de Imóveis de Palmas - TO;0.1493;Renda
+27.538.477/0001-81;2020-09-30;1;Edifício Residencial Sevilha;R. Padre Euclides, 395 - Campos Elísios, Ribeirão Preto - SP, CEP: 14080-200;873.03;10;Aptos. Nº 15, Nº26, Nº35, Nº64, Nº114, Nº124, Nº134, Nº144, Nº154 e Nº164;;Venda
+27.538.477/0001-81;2020-09-30;1;Edifício Luana De Felício;R. Itararé, 483 - Jardim Paulista, Ribeirão Preto - SP, CEP: 14090-070;85.42;1;Apto. Nº55;;Venda
+27.538.477/0001-81;2020-09-30;1;Edifício Emerald;R. Severiano Amaro dos Santos, 750 - Jardim Botânico, Ribeirão Preto, SP - CEP: 14021620;148.6;1;Apto. Nº62;;Venda
+27.538.477/0001-81;2020-09-30;1;Edifício Residencial Sevilha;R. Padre Euclides, 395 - Campos Elísios, Ribeirão Preto - SP, CEP: 14080-200;292.29;3;Aptos. Nº 44, Nº54 e Nº84;;Renda
+27.538.477/0001-81;2020-12-31;1;Edificio Porto Seguro;R. São Sebastição, 1017 - Centro, Ribeirão Preto - SP,  CEP14015-040;38.12;1;Apto nº 85;;Venda
+27.538.477/0001-81;2020-12-31;1;Edifício Isla Victória;R. Virgílio de Carvalho Neves Neto, 626 - Residencial e Comercial Palmares, Ribeirão Preto - SP, CEP 14092-440;76.5;1;Apto nº3;;Venda
+27.539.729/0001-97;2020-03-31;1;30.348, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;30.347, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;30.350, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;30.349, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;18.797, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;18.920, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;18.039, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-03-31;1;18.26648, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;30.348, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;30.347, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;30.350, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;30.349, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;18.797, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;18.920, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;18.039, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-06-30;1;18.26648, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;30.348, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;30.347, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;30.350, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;30.349, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;18.797, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;18.920, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;18.039, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.539.729/0001-97;2020-09-30;1;18.26648, do 12ª Registro de Imóveis do Rio de Janeiro;CONDOMÍNIO COLINAS DO RETIRO;;1;CONDOMÍNIO;0.05;Venda
+27.580.051/0001-96;2020-12-31;1;Empreendimento na cidade de Bonito - PE;Rodovia PE 109 km 2 Bonito - PE;19577;1;As margens da Rodovia PE 109 - Imóvel a ser construido na modalidade Built-to-Suite;1;Renda
+28.267.696/0001-36;2020-12-31;1;IMOVÉL POLI-GYN;Rodovia GO-070, Km 2, Goiânia, GO;33885;5;Não possui características que destoem;0.42;Renda
+28.516.325/0001-40;2020-03-31;5;ATIB 91314;Avenida Tégula, 888, bairro Ponte Alta;1865.47;1;matrícula 91314;0.007937;Renda
+28.516.325/0001-40;2020-03-31;5;ATIB 91315;Avenida Tégula, 888, bairro Ponte Alta;1002.88;1;matrícula 91315;0.007858;Renda
+28.516.325/0001-40;2020-03-31;5;ATIB 91316;Avenida Tégula, 888, bairro Ponte Alta;1662;2;matrícula 91316;0.007937;Renda
+28.516.325/0001-40;2020-03-31;5;ATIB 106944;Avenida Tégula, 888, bairro Ponte Alta;2084.69;1;matrícula 106944;0.011232;Renda
+28.516.325/0001-40;2020-03-31;5;ATIB 106945;Avenida Tégula, 888, bairro Ponte Alta;2062.81;1;matrícula 106945;0.011114;Renda
+28.516.325/0001-40;2020-03-31;5;ATIB 106946;Avenida Tégula, 888, bairro Ponte Alta;2084.69;1;matrícula 106946;0.011232;Renda
+28.516.325/0001-40;2020-03-31;5;JARI 111635;Rodovia Dom Pedro I, km 90;2895.08;1;matrícula 111635;0.018293;Renda
+28.516.325/0001-40;2020-03-31;5;JARI 111636;Rodovia Dom Pedro I, km 91;2865.91;1;matrícula 111636;0.016519;Renda
+28.516.325/0001-40;2020-03-31;5;JARI 111637;Rodovia Dom Pedro I, km 92;2865.91;1;matrícula 111637;0.016519;Renda
+28.516.325/0001-40;2020-03-31;5;JARI 111638;Rodovia Dom Pedro I, km 93;2865.91;1;matrícula 111638;0.016519;Renda
+28.516.325/0001-40;2020-03-31;5;JARI 111639;Rodovia Dom Pedro I, km 94;2865.91;1;matrícula 111639;0.016519;Renda
+28.516.325/0001-40;2020-03-31;5;JARI 111640;Rodovia Dom Pedro I, km 95;2895.08;1;matrícula 111640;0.02422;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 01;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2895.08;1;matrícula 108741;0.02539;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 02;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108742;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 03;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108743;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 04;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108744;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 05;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108745;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 06;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2895.08;1;matrícula 108746;0.02539;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 07;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2895.08;1;matrícula 108747;0.02539;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 08;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108748;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 09;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108749;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 10;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108750;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 11;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2865.91;1;matrícula 108751;0.025134;Renda
+28.516.325/0001-40;2020-03-31;5;ANDIROBA 12;Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal;2895.08;1;matrícula 108752;0.02539;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 01;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 02;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 03;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 04;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 05;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 06;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 07;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 08;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.010214;Renda
+28.516.325/0001-40;2020-03-31;5;GLP A 09;Rua Kanebo, 175, bairro Distrito Federal;1108.63;1;matrícula 11545;0.006507;Renda
+28.516.325/0001-40;2020-03-31;5;GLP B 01;Rua Kanebo, 175, bairro Distrito Federal;1715.25;1;matrícula 11545;0.010067;Renda
+28.516.325/0001-40;2020-03-31;5;GLP B 02;Rua Kanebo, 175, bairro Distrito Federal;1773.95;1;matrícula 11545;0.010067;Renda
+28.516.325/0001-40;2020-03-31;5;GLP B 03;Rua Kanebo, 175, bairro Distrito Federal;1710;1;matrícula 11545;0.010067;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 01;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 02;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 03;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 04;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 05;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 06;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 07;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 08;Rua Kanebo, 175, bairro Distrito Federal;1860;1;matrícula 11545;0.012822;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 09;Rua Kanebo, 175, bairro Distrito Federal;1924.34;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 10;Rua Kanebo, 175, bairro Distrito Federal;1856;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 11;Rua Kanebo, 175, bairro Distrito Federal;1856;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP C 12;Rua Kanebo, 175, bairro Distrito Federal;1856;1;matrícula 11545;0.010893;Renda
+28.516.325/0001-40;2020-03-31;5;GLP D 01;Rua Kanebo, 175, bairro Distrito Federal;2460;1;matrícula 11545;0.014446;Renda
+28.516.325/0001-40;2020-03-31;5;GLP D 02;Rua Kanebo, 175, bairro Distrito Federal;2460;1;matrícula 11545;0.014446;Renda
+28.516.325/0001-40;2020-03-31;5;GLP D 03;Rua Kanebo, 175, bairro Distrito Federal;2460;1;matrícula 11545;0.014446;Renda
+28.516.325/0001-40;2020-03-31;5;GLP 01 01;Rodovia Anhanguera, km 61 - Bairro castanho;7803.14;1;matrícula 31512;0.046151;Renda
+28.516.325/0001-40;2020-03-31;5;GLP 01 02;Rodovia Anhanguera, km 61 - Bairro castanho;7888;1;matrícula 31513;0.046151;Renda
+28.516.325/0001-40;2020-03-31;5;GLP GALP 02;Rodovia Anhanguera, km 61 - Bairro castanho;15405.82;1;matrícula 31514;0.096;Renda
+28.516.325/0001-40;2020-03-31;5;GLP GALP 03;Rodovia Anhanguera, km 61 - Bairro castanho;12334.83;1;matrícula 31515;0.074713;Renda
+28.516.325/0001-40;2020-06-30;3;ATIBA 91325;Av Tegula, 888;1830.47;1;Matrícula 91325;0.365641;Renda
+28.516.325/0001-40;2020-06-30;3;ATIBA 104467;Rodovia Dom Pedro I, km 87, Atibaia - SP;3075.11;1;Matrícula 104467;0.621053;Renda
+28.516.325/0001-40;2020-06-30;3;ATIBA 104468;Rodovia Dom Pedro I, km 87, Atibaia - SP;34;1;Matrícula 104468;0.013306;Renda
+28.516.325/0001-40;2020-06-30;3;Unid 35 do Edifício Bach do Condomínio Barão de Mauá;Avenida Tégula, 888, Atibaia - SP;2361.32;1;Matrícula 106943;0;Renda
+28.516.325/0001-40;2020-06-30;3;Unid 16 do Edifício Topázio do Condomínio Atibaia;Avenida Tégula, 888, Atibaia - SP;2759.71;1;Matrícula 91321;0;Renda
+28.516.650/0001-03;2020-03-31;1;Imóveis Barra da Tijuca;Rua Helios Seelinger, 155 - Barra da Tijuca - RJ;4414.44;6;O Fundo adquiriu 50% dos imóveis das matrículas: 447892,447893,447894,447895,447896 e 447897.;0.2313;Renda
+28.516.650/0001-03;2020-06-30;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;866.4716;10;Não aplicável;0.03914;Venda
+28.516.650/0001-03;2020-09-30;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;226.77;5;Não aplicável;0.0153;Venda
+28.548.288/0001-52;2020-03-31;1;SODIMAC - Ribeirão Preto;Avenida Fábio Barreto, n.º 251, Vila Tibério - Ribeirão Preto/SP;24538.48;18;Vigência de contrato da SODIMAC até 2045;0.3424;Renda
+28.548.288/0001-52;2020-09-30;2;Extra  Peruíbe;Avenida Padre Anchieta, 4.580 - Vila Vermelha;6198;1;Direito de propriedade;0.013012962278322;Renda
+28.548.288/0001-52;2020-09-30;2;Extra  Praia Grande;Avenida Guadalajara, s/nº - Jardim Glória;5436;1;Direito de propriedade;0.0180570430460274;Renda
+28.548.288/0001-52;2020-09-30;2;Assaí  Campinas;Avenida Senador Saraiva, 835;6552;1;Direito de propriedade;0.0304690951757773;Renda
+28.548.288/0001-52;2020-09-30;2;Assaí  Piracicaba;Avenida Regente Feijó, nº 823;10174;1;Direito de propriedade;0.0542682154612914;Renda
+28.548.288/0001-52;2020-09-30;2;Assaí  Paulínia;Avenida José Paulino, nº 2.600;11475;1;Direito de propriedade;0.0335343714369054;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sp;Rua Doutor César, 1.234 - Santana;3690;1;Direito de propriedade;0.0193419738359283;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Rib.;Avenida Prof. João Fiusa, S/N - Jardim Canada;3296;1;Direito de propriedade;0.0244822688704533;Renda
+28.548.288/0001-52;2020-09-30;2;Extra  Sbc;Avenida Maria Servidei Demarchi, 1897 - Demarchi;6144;1;Direito de propriedade;0.0152771446782751;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Campina;Av. Antônio Carlos C de Barros, 365 - Vila José Lório;8628;1;Direito de propriedade;0.0205402853552764;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sp;Rua Carneiro da Cunha, S/N - Vila da Saúde;3872;1;Direito de propriedade;0.0342295817618209;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Valinhos;Rua Dr. Ademar de Barros, 50 - Jardim Europa;3760;1;Direito de propriedade;0.0145647079905108;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Df;Praça Tuím - Lote 02 - Quadra 206;5450;1;Direito de propriedade;0.0211117752489475;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sp;Rua Dr Altino Arantes, 268 - Vila Clementino;3469;1;Direito de propriedade;0.0233347255834887;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sant. P;Avenida Marte, 624 - Alphaville;6597;1;Direito de propriedade;0.0505667402180999;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sjrp;Avenida Miguel Dahma, 1.805;5736;1;Direito de propriedade;0.0212326305557102;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Indaiat;Av. Presidente Vargas, S/N - Vila da Saúde;12664;1;Direito de propriedade;0.0354350508533347;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sjrp;Avenida Bady Bassitt, 5.300;6127;1;Direito de propriedade;0.0237576592705511;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sp;Rua Maria Amalia Lopes de Azevedo, 852 - Vila Albertina;8489;1;Direito de propriedade;0.0283631450946988;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sp;Avenida Dr. José Ramon Urtiza, 1000 - Panamby;2429;1;Direito de propriedade;0.0183862595275001;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Sto And;Rua das Figueiras, nº 1.021 - Operário;2450;1;Direito de propriedade;0.0299974368140246;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Scs;Rua Maranhão, 975 - Santa Paula;7530;1;Direito de propriedade;0.0419511598129431;Renda
+28.548.288/0001-52;2020-09-30;2;Pão De Açúcar  Rib. Preto;Avenida Prof. João Fiusa, S/N - Jardim Canada;3296;1;Direito de propriedade;0.0260365483052623;Renda
+28.737.771/0001-85;2020-03-31;2;Imóvel Santillana;Rua Padre Adelino, nº 758 e Rua Carlos Del Prete, nº 48 e 68, Belenzinho/SP;9260;1;Não possui;0.240774;Renda
+28.737.771/0001-85;2020-12-31;1;Clariant;Avenida das Nações Unidas, 18001 - São Paulo;29463;1;Não possui caracteristicas que destoem dos demais;1;Renda
+28.737.771/0001-85;2020-12-31;1;Decathlon;Avenida Duquesa de Goiás, 381 - Real Parque - São Paulo;8792.14;1;Não possui caracteristicas que destoem dos demais;1;Renda
+28.737.771/0001-85;2020-12-31;1;Globo;Rua Pacheco Leão, 70 - Jardim Botânico,  Rio de Janeiro;3815.52;1;Não possui caracteristicas que destoem dos demais;1;Renda
+29.641.226/0001-53;2020-03-31;1;Estácio Salvador;Rua Xingu, 179 - Stiep - BA;32808;1;-;0.083437;Renda
+29.641.226/0001-53;2020-03-31;1;Ed. Santo Alberto (SPE GMR90);Rua Quatá, 67, Vila Olímpia, São Paulo - SP;6805;1;-;0.090534;Renda
+29.641.226/0001-53;2020-06-30;1;Universidade de Mogi das Cruzes;Av. Imperatriz Leopoldina, 550;23298.34;1;-;0.064354;Renda
+29.641.226/0001-53;2020-09-30;1;Universidade de Mogi das Cruzes;Av. Imperatriz Leopoldina, 550;23298.34;1;-;0.06549;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Adamantina;Av. Rio Branco, 511;771.23;1;-;0.002139;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Alfenas;Praça Getulio Vargas, 250;1645.29;1;-;0.003424;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Amparo;R. Treze De Maio, 0186;829.51;1;-;0.00245;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Apiaí;R. Dr. Gabriel Rib. Dos Santos, 40;790.98;1;-;0.002415;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Araguari;R. Rui Barbosa, 0226;1414.2;1;-;0.003689;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Assis Chateaubriand;Av. Tupassi, Esq. R. Vale Do Piqueri, S/N;1004.62;1;-;0.001401;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Bandeirantes;Av. Bandeirantes, 892;1068.2;1;-;0.001311;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Barra Bonita;R. Um De Março, 129;990.23;1;-;0.002557;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Barretos;R. Vinte, 776;1516.87;1;-;0.005269;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Batatais;R. Coronel Joaquim Rosa, 29;727.18;1;-;0.002234;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Bh - Centro;R. São Paulo, 540/546/552;2721.33;1;-;0.01092;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Caçador;Av. Barão Do Rio Branco, 484;1043;1;-;0.00176;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Campo Largo;Praça Attilio De Almeida Barbosa, 1156;1213.75;1;-;0.001371;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Capão Bonito;R. Floriano Peixoto, 575;718.94;1;-;0.001673;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Carapicuíba;Av. Rui Barbosa, 447;1564.16;1;-;0.006152;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Cruzeiro;Av. Dr. Jorge Tibiriça, 565;1724.11;1;-;0.002159;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Dracena;Av. Presidente Roosevelt, 902;1216.19;1;-;0.003398;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Francisco Beltrão;Av. Julio A. Cavalheiro, 655;1336.35;1;-;0.002436;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Garça;Praça Rui Barbosa, 373;373.75;1;-;0.001047;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Goioerê;Av. Moisés Lupion, 610;892.62;1;-;0.001265;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Sete Quedas;Av. Mate Laranjeiras, 496;1335.17;1;-;0.001717;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Guaíra;R. Dez, 482;908.65;1;-;0.002742;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Ibiporã;Av. Paraná, Esq. R. D. Pedro Ii, 112;988.49;1;-;0.001564;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itanhaém;Av. Condessa D'Vimieiros, 17;1462.41;1;-;0.001841;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itapecerica Da Serra;Ladeira Capitão Moraes, 49;1450.2;1;-;0.002987;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itapetininga;R. Campos Sales, 703;1826.11;1;-;0.004073;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itapeva;R. Dr. Pinheiro, 294/312;1958.78;1;-;0.003961;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itapira;R. José Bonifácio, 048;992.09;1;-;0.002455;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itararé;R. São Pedro, 1213;1161.17;1;-;0.002962;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Itú;R. Floriano Peixoto, 975;1552.11;1;-;0.003382;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Ituverava;Av. Dr. Soares De Oliveira, 280;1098.62;1;-;0.003255;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Ivaiporã;Av. Brasil, 1400;1316.78;1;-;0.001532;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Jundiaí;R. Barão De Jundiai, 736;1505.08;1;-;0.00426;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Lapa;R. Barão Do Rio Branco, 1444;1453.52;1;-;0.00137;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Lins;R. Vinte E Um De Abril, 162;1196.76;1;-;0.002931;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Lorena;R. Dr. Rodrigues De Azevedo, 139/145;1271.43;1;-;0.001766;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Machado;Praça Antonio Carlos, 190;1007.72;1;-;0.002456;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Marechal Cândido Rondon;Av. Rio Grande Do Sul, 671;873.84;1;-;0.00152;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Marília;R. São Luiz, 693;760.5;1;-;0.002378;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Mauá;Av. Barão De Mauá, 74;1354.6;1;-;0.003052;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Mirandópolis;R. Nove De Julho, 1223;641.05;1;-;0.00175;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Mogi Das Cruzes;R. Dr. Deodato Wertheimer, 1350;1081;1;-;0.00321;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Monte Alto;R. Nhonho Livramento, 1660;952.15;1;-;0.002523;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Olímpia;Praça Rui Barbosa, 157;1209.95;1;-;0.00313;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Osasco;R. Antonio Agu, 126/136;3165.59;1;-;0.010457;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Ourinhos;Praça Melo Peixoto, 130;954;1;-;0.002345;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Palmas;Praça Bom Jesus, 154;892.62;1;-;0.001695;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Paranaguá;R. Xv De Novembro, 0352;2409.94;1;-;0.004147;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Passos;R. Presidente Antonio Carlos, 160;985.15;1;-;0.002878;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Pato Branco;Av. Tupi, 2425;1650.55;1;-;0.003259;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Pereira Barreto;Av. Brasil, 1168;783.46;1;-;0.002026;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Pindamonhangaba;R: Deputado Claro César, 200;1999.87;1;-;0.006024;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Piracicaba;R. Governador Pedro De Toledo, 1162;2146.3;1;-;0.005146;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Carlos De Campos;R. Carlos De Campos, 669;1058.68;1;-;0.002647;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Poços De Caldas;R. Assis Figueiredo, 1422;3721.45;1;-;0.005089;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Presidente Epitácio;Av. Presidente Vargas, 670;871.62;1;-;0.002069;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Ribeirão Preto;R. General Osório, 323;6305.13;1;-;0.010225;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas São José Do Rio Pardo;Praça Capitão Vicente Dias, 135;1170.13;1;-;0.002762;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Sete De Setembro;R. Sete De Setembro, 0180/0184;1649.58;1;-;0.004054;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas São Sebastião Do Paraíso;Praça Comendador José Honório, 207;1070.82;1;-;0.002604;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Taquarituba;R. Dr. Ataliba Leonel, 671;510;1;-;0.001411;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Tatuí;Praça Da Matriz, 106;2027.76;1;-;0.004561;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Taubaté;R. Bispo Rodovalho, 88 E 100;1321.85;1;-;0.002429;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Telêmaco Borba;Av. Horácio Klabin, 215;1193.8;1;-;0.001968;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Videira;R: Saul Brandalise, 180;922.04;1;-;0.001613;Renda
+29.641.226/0001-53;2020-12-31;1;Pernambucanas Votuporanga;R. Amazonas, 3395;1412.94;1;-;0.003247;Renda
+30.048.651/0001-12;2020-03-31;3;Edifício Vila Olímpia Corporate;Rua Fidêncio Ramos, 308, Vila Olímpia, São Paulo - SP;1507.98;4;Imóvel AAA, com certificação LEED GOLD, locado para B2W e Approach Comunicação. Os andares adquiridos pelo Fundo (2º e 4º) correspondem a uma participação de 5,8% no edifício (considerando as duas torres).;0.119471788536945;Renda
+30.048.651/0001-12;2020-03-31;3;Edifício The One;Rua Ministro Jesuíno Cardoso, 454, Vila Olímpia, São Paulo - SP;1213.06;4;Imóvel A, com certificação LEED SILVER, locado para 4 inquilinos diversos. O andar adquirido pelo Fundo (3º) corresponde a uma participação de 8,9% no edifício.;0.0828095623705972;Renda
+30.048.651/0001-12;2020-06-30;2;Edifício Vila Olímpia Corporate;Rua Fidêncio Ramos, 308, Vila Olímpia, São Paulo - SP;1507.98;4;Imóvel AAA, com certificação LEED GOLD, locado para B2W e Approach Comunicação. Os andares adquiridos pelo Fundo (2º e 4º) correspondem a uma participação de 5,8% no edifício (considerando as duas torres).;0.119471788536945;Renda
+30.048.651/0001-12;2020-06-30;2;Edifício The One;Rua Ministro Jesuíno Cardoso, 454, Vila Olímpia, São Paulo - SP;1213.06;4;Imóvel A, com certificação LEED SILVER, locado para 4 inquilinos diversos. O andar adquirido pelo Fundo (3º) corresponde a uma participação de 8,9% no edifício.;0.0828095623705972;Renda
+30.048.651/0001-12;2020-09-30;1;Edifício The One;Rua Ministro Jesuíno Cardoso, 454, Vila Olímpia, São Paulo - SP;613.39;2;Imóvel AA, com certificação LEED SILVER, locado para 1 inquilino. Os conjuntos adquiridos pelo Fundo (51 e 52) correspondem a uma participação de 4,5% no edifício.;0.041947409370042;Renda
+30.091.506/0001-14;2020-03-31;2;Shopping Nova Iguaçu;AV. Abilio Augusto Tavora - 1111 - Luz Nova Iguaçu;68842;266;Shopping Centers;1;Renda
+30.091.506/0001-14;2020-06-30;1;Shopping Nova Iguaçu;AV. Abilio Augusto Tavora - 1111 - Luz Nova Iguaçu;68842;266;Shopping Centers;1;Renda
+30.091.506/0001-14;2020-09-30;1;Shopping Nova Iguaçu;AV. Abilio Augusto Tavora - 1111 - Luz Nova Iguaçu;68842;266;Shopping Centers;1;Renda
+30.248.158/0001-46;2020-03-31;2;Shopping Belém;Avenida Visc. de Souza Franco, 776 - Reduto, Belém - PA, 66053-000;34080;300;Aquisição de mais 25% referente ao Shopping Belém;0.25;Renda
+30.248.158/0001-46;2020-06-30;2;Shopping Belém;Avenida Visc. de Souza Franco, 776 - Reduto, Belém - PA, 66053-000;34080;300;Aquisição de mais 25% referente ao Shopping Belém;0.25;Renda
+30.248.158/0001-46;2020-09-30;2;Shopping Belém;Avenida Visc. de Souza Franco, 776 - Reduto, Belém - PA, 66053-000;34080;300;Aquisição de mais 25% referente ao Shopping Belém;0.25;Renda
+30.248.158/0001-46;2020-12-31;2;Shopping Belém;Avenida Visc. de Souza Franco, 776 - Reduto, Belém - PA, 66053-000;34080;300;Aquisição de mais 25% referente ao Shopping Belém;0.25;Renda
+30.258.790/0001-70;2020-12-31;1;Shopping Votuporanga;avenida Nasser Marão;68499.87;1;Shopping;0.95;Venda
+30.495.165/0001-42;2020-03-31;1;MM1 G09-1;Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;5593.6035;1;0.0247396415962545;0.242939161576374;Renda
+30.495.165/0001-42;2020-03-31;1;MM1 G09-2;Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;5593.6035;1;0.0247396415962545;0.242939161576374;Renda
+30.495.165/0001-42;2020-03-31;1;MM1 G09-3;Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;5593.6035;1;0.0247396415962545;0.242939161576374;Renda
+30.495.165/0001-42;2020-03-31;1;MM1 G09-4;Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;5593.6035;1;0.0247396415962545;0.242939161576374;Renda
+30.495.165/0001-42;2020-03-31;1;MM1 G15-1;Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;650.295;1;0.00287615402697676;0.0282433536945027;Renda
+30.567.216/0001-02;2020-03-31;1;Edificio Atrium I;Rua do Rocio, 220 - 2º andar - cjs, 21 e 22;520.4;2;matriculas 104242 e 103809 com 12 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-03-31;1;Edif. Conselheiro Paranaguá;Av. Brig. Faria Lima, 1234 - 19º andar - cjs. 192, 193, 194 e 195;347.74;4;matrics. 25348, 25349, 25350 e 25350 com 4 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-03-31;1;Edificio Erika;Rua do Rocio, 351 - 8º andar - conj. 82;251.03;1;matricula 94749 com 5 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-03-31;1;Edificio Setin Tower;Rua Fidencio Ramos, 100 - 4º andar - esritório nº 5;273.66;1;matricula 158244 e 7 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-03-31;1;Edificio Business Center;Rua Gomes de Carvalho, 1306 - conj. 151;450;1;matricula 129383 com 9 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-03-31;1;Edificio Banco Mercantil do Brasil;Av. Paulista, 925 - conj. 102;215.71;1;matricula 733752 com 2 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-03-31;1;Edificio Harvard;Rua Iaia, 150 - 13º andar - conj. 131;228.56;1;matricula 132541 com 4 vagas de garagens;1;Renda
+30.567.216/0001-02;2020-09-30;1;Edifício Setin Tower;Rua Fidêncio Ramos, 100;263.33;1;Escritório 8;1;Renda
+30.567.216/0001-02;2020-12-31;1;Edifício Aeroporto II;Rua Funchal, 513;171.81;1;Conjunto 72;1;Renda
+30.567.216/0001-02;2020-12-31;1;Edifício Olympia Park;Rua Gomes de Carvalho, 1329;210.1;1;Conjunto 102;1;Renda
+30.567.216/0001-02;2020-12-31;1;Edifício Spazio JK;Avenida Presidente Juscelino Kubitschek, 1726;141;1;Conjunto 113;1;Renda
+30.654.849/0001-40;2020-03-31;3;Edifício Santa Catarina;Avenida Paulista, 287, Conjunto 81 e 82;1032;1;Matrícula nº 103.685. Complexo empresarial com locação para IDEMITSU;0.035;Renda
+30.654.849/0001-40;2020-12-31;3;Edifício Itower;Alameda Xingu, nº 350 - Barueri (SP);23548;1;Complexo empresarial;0.308;Renda
+30.871.660/0001-09;2020-06-30;1;Ed Ouro Branco;Avenida Conselheiro Nébias, 368 - Santos - São Paulo-SP;;;O empreendimento é composto por 96 escritórios e 2 lojas.;;Renda
+30.871.660/0001-09;2020-09-30;1;Ed. Sumidouro;Rua Sumidouro,  138 - Pinheiros - SP;2178.35;40;Direito de propriedade;0.149471;Renda
+30.871.698/0001-81;2020-03-31;1;The Cittyplex Osasco;Av. Domingos Odália Filho, 301,  Cidade de Osasco/SP;0;108;Direito de propriedade;0.218364546636235;Renda
+30.871.698/0001-81;2020-03-31;1;Condomínio Helbor Trilogy Home & Offices;Avenida Pereira Barreto  nº 1.479, São Bernardo do Campo/SP;0;1;Direito de propriedade;0.200543753229595;Renda
+30.871.698/0001-81;2020-03-31;1;Neolink Office, Mal & Stay;Av. Ayrton Senna, 2.500, Barra da Tijuca, na Cidade do Rio de Janeiro/RJ;0;99;Direito de propriedade;0.311512436062755;Renda
+30.871.698/0001-81;2020-03-31;1;One Eleven;Rua Pequetita, 111,  Cidade de São Paulo/SP;0;67;Direito de propriedade;0.269579264071415;Renda
+30.871.716/0001-25;2020-03-31;1;Rua Estela;Rua Estela 134;360;1;Imovel, inscrito sob matrícula Nº40802;0.21621;Renda
+30.982.974/0001-89;2020-03-31;2;Sede C&A;Alameda Araguaia, 1222, Alphaville - SP;7900;0;Locado para a C&A;0.308;Renda
+31.894.369/0001-19;2020-03-31;1;Ed. Birmann 20;Av. das Nações Unidas, 17.891, Santo Amaro, São Paulo - SP;18133;13;Aquisição de 100% do imóvel;1;Renda
+31.894.369/0001-19;2020-09-30;2;Ed. Morumbi;Av. Morumbi, 8.234, Santo Amaro, São Paulo - SP;10050;4;O ativo tem classificação A, 10.050 m² de área locável, 4 pavimentos de lajes corporativas de 2.312 m², além de áreas locáveis no térreo e cobertura.;0.11338;Renda
+32.274.163/0001-59;2020-03-31;2;Ed. Pq Dona Ana Costa;Av. Dona Ana Costa, nº 433, cidade de Santos - SP;8663.44;31;Direito de propriedade;0.084438;Renda
+32.274.163/0001-59;2020-03-31;2;Complexo Madeira;Complexo Madeira, Al. Madeira, nº 328, na cidade de Barueri - SP;4402.6;77;Direito de propriedade;0.065294;Renda
+32.274.163/0001-59;2020-03-31;2;Canopus Corporate Alphaville;Av. Tamboré, 267 - Alphaville - Barueri - SP;4261;7;Direito de propriedade;0.071535;Renda
+32.274.163/0001-59;2020-06-30;2;CANOPUS - SALA Nº 161 A, 171 A, 221 B, 231 A;Av. Tamboré, 267 - Alphaville - Barueri - SP;4149;4;Direito de propriedade;0.035587;Renda
+32.274.163/0001-59;2020-09-30;2;CANOPUS - SALA N 191 A;Av. Tamboré, 267 - Alphaville - Barueri - SP;2178.35;1;Direito de propriedade;0.006639;Renda
+32.274.163/0001-59;2020-09-30;2;AGAXTUR;Av. Europa, nº 884, lote 3, quadra 6, no 20º Subdistrito - Jardim América, São Paulo - SP;1962.6;1;Direito de propriedade;0.032454;Renda
+32.754.734/0001-52;2020-03-31;1;Imóvel - Assaí;Rodovia PR 090 - KM 186 s/nº, Assai, PR;8927.91;1;Não há;0.29;Renda
+32.754.734/0001-52;2020-03-31;1;Imóvel - Paraíso;Aveninda Jose Bonifácio 769, Cambé, PR;12873.36;1;Não há;0.25;Renda
+32.754.734/0001-52;2020-03-31;1;Imóvel - Cambé;Rodovia PR 537 - Km 0,3 s/nº, Bela Vista do Paraiso, PR;14071.98;1;Não há;0.34;Renda
+32.754.734/0001-52;2020-03-31;1;Imóvel - Saubaúdia;Rodovia PR 218 - Km 12 s/nº, Sabaudia, PR;3051.51;1;Não há;0.12;Renda
+32.754.734/0001-52;2020-06-30;1;Unidade Campo Ere;Linha Agroisa, s/n, nas Margens da Rodovia SC 305 - Campo Ere - SC;34429.87;1;Silo Agrícola -  Locado para a BRF S/A;0.0505;Renda
+32.754.734/0001-52;2020-06-30;1;Unidade Francisco Beltrão;Linha Agroisa, s/n, nas Margens da Rodovia SC 305 - Francisco Beltrão - Paraná;27353.5;1;Silo Agrícola -  Locado para a BRF S/A;0.1339;Renda
+32.754.734/0001-52;2020-06-30;1;Unidade Medianeira;Rua Goias, 540 - Medianeira -  Paraná;50297;1;Silo Agrícola -  Locado para a BRF S/A;0.0863;Renda
+32.754.734/0001-52;2020-06-30;1;Unidade Pato Branco;RODOVIA PR493 -  Pato Branco - Paraná;188849.2;1;Silo Agrícola -  Locado para a BRF S/A;0.0873;Renda
+32.754.734/0001-52;2020-09-30;1;Filial Uberlândia;Anel Viário Ayrton Senna 2.000 - EMP 01, Uberlândia, Minas Gerais,;59155.24;1;Não possui caracteristicas que destoem dos demais;0.147044;Renda
+32.754.734/0001-52;2020-09-30;1;Filial Nova Ponte;Rodovia MG-190 Km 72-C - Zona Rural,Nova Ponte, Minas Gerais,;95629.59;1;Não possui caracteristicas que destoem dos demais;0.138841;Renda
+32.754.734/0001-52;2020-09-30;1;Filial Jataí;Rodovia BR-364 Km 203 - Zona Rural, Jataí, Goiás,;31500;1;Não possui caracteristicas que destoem dos demais;0.070494;Renda
+32.754.734/0001-52;2020-09-30;1;Filial Paranaguá;Avenida Senador Atílio Fontana, n° 1989, Colônia Santa Rita, Paranaguá, Paraná;8397.9;1;Não possui caracteristicas que destoem dos demais;0.14813;Renda
+32.892.018/0001-31;2020-03-31;1;Via Verde Shopping;Estrada da Floresta, 2320, Floresta SulCEP: 69.912-900 - Rio Branco - AC;28257;109;O Fundo é detentor de 100% (cem por cento) das ações da REC Via Verde S.A, sociedade proprietária de 96,67% (noventa e seis e sessenta e sete décimos por cento) do Via Verde Shopping localizado na cidade de Rio Branco - Acre;1;Renda
+32.892.018/0001-31;2020-06-30;4;Shopping Metrô Tucuruvi;Rua Paranabi, 218-224Tucuruvi - São Paulo;32998;225;O Fundo é detentor de 100% (cem por cento) das ações da REC 2016 Empreendimentos e Participações VII S.A, sociedade proprietária de 100% (cem por cento) do Shopping Metrô Tucuruvi localizado na cidade de São Paulo - SP.;1;Renda
+32.903.621/0001-71;2020-09-30;1;Galpão Logístico Itapevi - SP;Rodovia Coronel PM Nelson Tranchesi, números 740 e 990, no município de Itapevi, Estado de São Paulo;84800;5;N/A;1;Renda
+32.903.621/0001-71;2020-09-30;1;Galpão Logístico Arujá - SP;Avenida Comendador Masatoshi Shinmyo, nº 300, no município de Arujá, estado de São Paulo;139600;7;N/A;1;Renda
+32.903.702/0001-71;2020-06-30;1;Galpão Logístico Barueri - SP;Avenida Tucunaré , 720, Tamboré - CEP: 06460-020, Barrinha - SP;18884;1;N/A;1;Renda
+33.045.581/0001-37;2020-03-31;1;Galpão Symrise;Av da Capuava nº 1.000 - Cotia;7538.31;1;Não há;0.734515102;Renda
+33.045.581/0001-37;2020-03-31;1;Galpão Air Liquide;Rua Ronald Cladstone Negri, 557 - Campinas;1722.66;1;Não há;0.249273;Renda
+33.701.455/0001-93;2020-06-30;2;Unidade Fabril localizada no município de Contagem - MG.;Rodovia Fernão Dias, sem numero, (Fábrica da Toshiba);37233.68;1;Imóvel Adquirido em 96 parcelas de R$ 732.735,35 corrigidas pelo IPCA;1;Renda
+34.471.719/0001-22;2020-12-31;1;25% Imóvel - FABRICA DA FORD MOTORS DO BRASIL;Avenida Taboão, 899 - altura do Km 13,5 da Via Anchieta - são Bernardo do Campo - São Paulo;;1;imóvel Abrigava a antiga fabrica da FORD MOTORS DO BRASIL;1;Venda
+34.508.923/0001-70;2020-09-30;1;Casa Comandante;Rua Comandante Ismael Guilherme, 537 - Jd. Luzitania - SP;600;;Não há;;Venda
+34.508.923/0001-70;2020-09-30;1;Ed. Lumini;Lote 06 - KJ/1-1B;3883.22;;Não há;;Venda
+34.508.923/0001-70;2020-09-30;1;Ed. Epic;Lote 06 - KJ/1-1A;4116.78;;Não há;;Venda
+34.598.181/0001-11;2020-12-31;1;LOG I;Rua Simão Antônio, 149 - Contagem - MG;3212.95315;6;N/A.;0.12995611332961;Renda
+34.598.181/0001-11;2020-12-31;1;LOG Viana;Rodovia BR 262 - Viana - ES;3903.1552;4;N/A.;0.14849925762664;Renda
+34.598.181/0001-11;2020-12-31;1;LOG Goiânia;Rodovia BR 153, KM 5,5 - Goiânia - GO;4301.74745;9;N/A.;0.129289737512308;Renda
+34.598.181/0001-11;2020-12-31;1;LOG Gaiolli;Av. Doutor Jesuino Marcondes Machado, 505, Parte A - Campinas - SP;6531.64578;2;N/A.;0.218698334546225;Renda
+34.598.181/0001-11;2020-12-31;1;LOG Rio Campo Grande;Av. Brasil, n.41.432 - Rio de Janeiro - RJ;11753.5535;2;N/A.;0.373556556985217;Renda
+34.691.520/0001-00;2020-12-31;1;GPA VILA ROMANA;Rua Tito, nº 671 - Bairro Vila Romana - São Paulo - SP;0;1;Direito de propriedade;0.282703;Renda
+34.895.894/0001-47;2020-03-31;1;Conjuntos 801, 802, 901, 902,1201 e 1202.;Av. das Nações Unidas, nº 12.901, São Paulo - SP;;6;Aquisição de ativos bem localizados com o objetivo de gerar ganho de capital.;1;Renda
+34.895.894/0001-47;2020-06-30;1;Conjuntos 1002 e 2401.;Av. das Nações Unidas, nº 12.901, São Paulo - SP;1042;2;Aquisição de ativos bem localizados com o objetivo de gerar ganho de capital.;0.236471636668806;Renda
+34.895.894/0001-47;2020-09-30;1;Escritórios 1101 e 1012;Av. das Nações Unidas, nº 12.901, São Paulo - SP;1217;2;Aquisição de ativos bem localizados com o objetivo de gerar ganho de capital.;0.197892;Renda
+34.895.894/0001-47;2020-12-31;1;Conjunto 2402, 501, 502;Av. das Nações Unidas, nº 12.901, São Paulo - SP;;3;Direito de propriedade;0.256682;Renda
+34.895.894/0001-47;2020-12-31;1;Deposito 5 e 11;Av. das Nações Unidas, nº 12.901, São Paulo - SP;;2;Direito de propriedade;0.002816;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 11 - Unidade 0404;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 13 - Unidade 0404;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 14 - Unidade 0401;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 15 - Unidade 0304;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 20 - Unidade 0204;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 20 - Unidade 0404;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 35 - Unidade 0103;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 35 - Unidade 0201;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condomino Lirio Torre 13 - Unidade 0404;Rua Mutum Do Norte 35, Tarumã-Açu - Manaus/AM;62.32;0;Condomínio de apartamentos construído em 2012 pela empresa Rossi. O condomínio residencial Villa Jardim Lírio é formado por 35 torres semelhantes.;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condominio Orquidea Torre 18 - Unidade 0404;Rua Ayrton Sena - Tarumã-Açu - Manaus/AM;62.32;0;;1;Renda
+35.434.880/0001-99;2020-06-30;1;Condominio Orquidea Torre 23 - Unidade 0401;Rua Ayrton Sena - Tarumã-Açu - Manaus/AM;62.32;0;;1;Renda
+35.652.060/0001-73;2020-06-30;1;Cabreúva;Rod. Dom Gabriel Paulino Bueno Couto, km 80,2 -  Cabreúva -  São Paulo;31000;2;Galpões - Compromisso de compra e venda;1;Renda
+35.652.060/0001-73;2020-09-30;1;Extrema;Estrada Municipal dos Pires;13200;1;Galpões - Compromisso de compra e venda;1;Renda
+35.652.081/0001-99;2020-12-31;1;Imóvel Rancho do Vale - Gleba 18;Estrada Municipal Luiz Lopes Neto, Bairro dos Tenentes, Extrema - Minas Gerais;222192.68;1;Não possuem características que destoem;0.857;Venda
+35.704.849/0001-20;2020-03-31;1;Edíficio Corporativo OI;Rua General Polidoro, 99, Botafogo/RJ;14400.59;1;Matr. 64.257;1;Renda
+35.705.463/0001-33;2020-03-31;1;Galpão Hortolândia I;Condomínio Tech Town, unid nº7,  Rodovia SP 101, Hortolândia, Comarca de Sumaré/SP;17073.54;1;Matr. 88.913;0.160254339167212;Renda
+35.705.463/0001-33;2020-03-31;1;Galpão Hortolândia III;Est Carlos Roberto Prataviera, nº 650, Hortolândia, Comarca de Sumaré/SP;42447.19;1;Matr. 110.307;0.407022963426711;Renda
+35.705.463/0001-33;2020-03-31;1;Galpão Itapevi;Prof Vernon Krieble, nº 455, Itapevi/SP;27800;1;Matr. 3.583;0.150266931401105;Renda
+35.705.463/0001-33;2020-03-31;1;Galpão Resende;Rua Projetada, nº 301 , Resende/RJ;50000.13;1;Matr. 32.271;0.282455766004972;Renda
+35.705.463/0001-33;2020-12-31;1;Galpão KSM;Estrada Municipal Luiz Lopes Neto, nº 21, Bairro dos Tenentes -  Extrema/MG;;1;Direito de propriedade;0.423163;Renda
+35.725.659/0001-90;2020-09-30;1;SC 401 SQUARE CORPORATE;Rodovia José Carlos Daux (SC 401), nº 5.500, Saco Grande, Florianópolis/SC;625;13;O Conjunto Comercial localizado no 3º pavimento da Torre Jurerê A do "SC 401 SQUARE CORPORATE";0.4444;Renda
+35.725.659/0001-90;2020-09-30;1;QUINTINO BOCAIUVA;R. Quintino Bocaiuva, 1.410;490;3;(i) unidade n° 602 com 114m2, (ii) unidade n° 702 com 114m2 e (iii) unidade n° 801 com 114m2, incluindo 6 vagas de garagem;0.154;Renda
+35.725.659/0001-90;2020-09-30;1;TEENÁ;R. Eng. Ildefonso Simões Lopes, n° 201, 2° andar POA, RS;498;1;1 apartamento residencial no condomínio Teená com vagas de garagem;0.4016;Renda
+35.725.659/0001-90;2020-12-31;1;SC 401 SQUARE CORPORATE;Rodovia José Carlos Daux (SC 401), nº 5.500, Saco Grande, Florianópolis/SC;625;13;O Conjunto Comercial localizado no 3º pavimento da Torre Jurerê A do "SC 401 SQUARE CORPORATE";0.4444;Renda
+35.725.659/0001-90;2020-12-31;1;QUINTINO BOCAIUVA;R. Quintino Bocaiuva, 1.410;490;3;(i) unidade n° 602 com 114m2, (ii) unidade n° 702 com 114m2 e (iii) unidade n° 801 com 114m2, incluindo 6 vagas de garagem;0.154;Renda
+35.725.659/0001-90;2020-12-31;1;TEENÁ;R. Eng. Ildefonso Simões Lopes, n° 201, 2° andar POA, RS;498;1;1 apartamento residencial no condomínio Teená com vagas de garagem;0.4016;Renda
+35.765.826/0001-26;2020-12-31;2;Rcohavera - Torre D;Avenida das Nações Unidas, 14.171 - Chucri Zaidan - São Paulo - SP;14648;1;Torre AAA pertencente ao complexo Rochaverá fica a poucos passos da estação Morumbi da CPTM e de dois dos principais shoppings de São Paulo. Conta com acesso pela Marginal Pinheiros e pela Av. Chucri Zaidan, tem acesso por ciclovia e bicicletário, além de contar com uma usina de geração de energia a gás capaz de atender 100% do complexo e um jardim aberto ao público de mais de 10 mil m². Tem certificação sustentável LEED Gold. A Torre D está 100% locado em um contrato atípico para a Dow.;0.744;Renda
+35.765.826/0001-26;2020-12-31;2;Standard Building;Avenida Presidente Wilson, 118 - Centro - Rio de Janeiro - RJ;8341;1;Torre A, o  Standard Building é um edifício tombado, patrimônio histórico da cidade do Rio de Janeiro, localizado próximo a Baía de Guanabara e com uma vista maravilhosa dos principais cartões postais do Rio de Janeiro. Está a poucos metros da estação Antônio Carlos do VLT e da estação Cinelândia do metrô. Foi totalmente reformado em 2007 para atender ao IBMEC-RJ, que ocupa 100% do imóvel em um contrato atípico.;0.256;Renda
+35.765.889/0001-82;2020-12-31;2;Hospital BDW Espaço SP LTDA;Av dos Bandeirantes ,633-679-685, vila olimpia, SP CEP: 04553010.;37424;1;Imóvel  que está em fase de obras,  sendo transformado em hospital;1;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI SEROPÉDICA;ESTRADA DE MIGUEL PEREIRA (RJ-125) - SÃO MIGUEL - SEROPÉDICA - RJ - CEP 23.893-890;82049;1;GALPÃO LOGÍSTICO;0.1606;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI MAUÁ;AV. AYRTON SENNA DA SAILVA, 2282 - VILA SANTA CECÍLIA - MAUÁ - SP - CEP 09380-440;43578;1;GALPÃO LOGÍSTICO;0.1104;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI JUNDIAÍ;AV. ODILA CHAVES RODRIGUES, S/N, LOTE GLA1D - PQ INDL RM - JUNDIAÍ - SP - CEP 13.213-087;55153;1;GALPÃO LOGÍSTICO;0.1382;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI RODOANEL DUTRA;ESTRADA ADILIA BARBOSA NEVES, S/N - PORTÃO - ARUJÁ - SP - CEP 07413-000;66235.23;3;GALPÃO LOGÍSTICO;0.1239;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI DUQUE DE CAXIAS;ESTRADA RIO DOURO, S/N - FAZENDA PENHA CAIXÃO - XEREM - DUQUE DE CAXIAS - CEP 25245-810;61013;5;GALPÃO LOGÍSTICO;0.1277;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI BRASÍLIA;RODOVIA DF 290 KM 1,2 - LOTES 13 E 17 - SANTA MARIA - DISTRITO FEDERAL;37980.24;3;GALPÃO LOGÍSTICO;0.1985;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI BETIM;RODOVIA FERNÃO DIAS (BR 381), KM 474 - DISTR. INDL. PIEMONT SUL - BETIM - MG - CEP 32.669-895;17170;1;GALPÃO LOGÍSTICO;0.0347;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI CONTAGEM;AV. WILSON TAVARES RIBEIRO, 1025 - CHACARAS REUNIDAS STA. TEREZINHA - CONTAGEM - MG - CEP 32183-680;30527;2;GALPÃO LOGÍSTICO;0.0588;Renda
+35.765.907/0001-26;2020-06-30;1;GOLGI RODOANEL MAUÁ;AV. PAPA JOÃO XXIII, 2843 - BAIRRO SERTÃOZINHO - MAUÁ - SP - CEP 09370-800;205936.11;2;GALPÃO LOGÍSTICO + PÁTIO DE ESTACIONAMENTO;0.0471;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI SEROPÉDICA;ESTRADA DE MIGUEL PEREIRA (RJ-125) - SÃO MIGUEL - SEROPÉDICA - RJ - CEP 23.893-890;82049;1;GALPÃO LOGÍSTICO;0.1606;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI MAUÁ;AV. AYRTON SENNA DA SAILVA, 2282 - VILA SANTA CECÍLIA - MAUÁ - SP - CEP 09380-440;43578;1;GALPÃO LOGÍSTICO;0.1104;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI JUNDIAÍ;AV. ODILA CHAVES RODRIGUES, S/N, LOTE GLA1D - PQ INDL RM - JUNDIAÍ - SP - CEP 13.213-087;55153;1;GALPÃO LOGÍSTICO;0.1382;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI RODOANEL DUTRA;ESTRADA ADILIA BARBOSA NEVES, S/N - PORTÃO - ARUJÁ - SP - CEP 07413-000;66235.23;3;GALPÃO LOGÍSTICO;0.1239;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI DUQUE DE CAXIAS;ESTRADA RIO DOURO, S/N - FAZENDA PENHA CAIXÃO - XEREM - DUQUE DE CAXIAS - CEP 25245-810;61013;5;GALPÃO LOGÍSTICO;0.1277;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI BRASÍLIA;RODOVIA DF 290 KM 1,2 - LOTES 13 E 17 - SANTA MARIA - DISTRITO FEDERAL;37980.24;3;GALPÃO LOGÍSTICO;0.1985;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI BETIM;RODOVIA FERNÃO DIAS (BR 381), KM 474 - DISTR. INDL. PIEMONT SUL - BETIM - MG - CEP 32.669-895;17170;1;GALPÃO LOGÍSTICO;0.0347;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI CONTAGEM;AV. WILSON TAVARES RIBEIRO, 1025 - CHACARAS REUNIDAS STA. TEREZINHA - CONTAGEM - MG - CEP 32183-680;30527;2;GALPÃO LOGÍSTICO;0.0588;Renda
+35.765.907/0001-26;2020-09-30;1;GOLGI RODOANEL MAUÁ;AV. PAPA JOÃO XXIII, 2843 - BAIRRO SERTÃOZINHO - MAUÁ - SP - CEP 09370-800;205936.11;2;GALPÃO LOGÍSTICO + PÁTIO DE ESTACIONAMENTO;0.0471;Renda
+36.368.925/0001-37;2020-06-30;1;Teresina - CBD_EXTRA_LOJ.1300;Avenida Presidente Kennedy, nº 501 - São Cristóvão - Teresina/PI;12611;1;Direito de proriedade;0.099358;Renda
+36.368.925/0001-37;2020-06-30;1;Rio das Ostras CBD_EXTRA_LOJ.1685;Rodovia Amaral Peixoto, s/n - Jardim Campomar - Rio das Ostras/RJ;3687;1;Direito de proriedade;0.035888;Renda
+36.368.925/0001-37;2020-06-30;1;Araruama - CBD_EXTRA_LOJ.1833;Rua México, nº 160 - Centro - Araruama/RJ;3357;1;Direito de proriedade;0.022372;Renda
+36.368.925/0001-37;2020-06-30;1;Teresina - CBD_PDA;Cidade de Teresina/Piauí;2994;1;Direito de proriedade;0.037249;Renda
+36.368.925/0001-37;2020-06-30;1;Campina Grande - SENDAS_ASSAI_70%_LOJ.83;Avenida Assis Chateaubriand, nº 1.110 - Bairro Liberdade - Campina Grande/PB;12170;1;Direito de proriedade;0.091266;Renda
+36.368.925/0001-37;2020-06-30;1;Bauru - SENDAS_ASSAI;Bauru/SP;6279;1;Direito de proriedade;0.112489;Renda
+36.368.925/0001-37;2020-06-30;1;Dourados - SENDAS_ASSAI;Dourados/MS;13467;1;Direito de proriedade;0.112651;Renda
+36.368.925/0001-37;2020-06-30;1;Jequié - SENDAS_ASSAI;Jequié/BA;10535;1;Direito de proriedade;0.0841832;Renda
+36.368.925/0001-37;2020-06-30;1;Goiânia  Pq Amazônia- SENDAS_ASSAI;Avenida Padre Orlando de Morais, nº 2.147 - Parque Amazônia - Goiânia/GO;18834;1;Direito de proriedade;0.081575;Renda
+36.368.925/0001-37;2020-06-30;1;Goiânia St Central - SENDAS_ASSAI;Avenida Independência, s/n, Setor Central - Goiânia/GO;11386;1;Direito de proriedade;0.117906;Renda
+36.368.925/0001-37;2020-06-30;1;Goiânia Jd. Europa  - SENDAS_ASSAI;Avenida Milão - Quadra 50/51 - Lotes 1, 1/15 e 1/19 - Jardim Europa - Goiânia/GO;17354;1;Direito de proriedade;0.088243;Renda
+36.368.925/0001-37;2020-06-30;1;Paulo Afonso - SENDAS_ASSAI;Paulo Afonso/BA;12098;1;Direito de proriedade;0.11682;Renda
+36.445.551/0001-06;2020-12-31;1;ACARAÚ 62;Rua Acaraú,  51 , Bela Vista - SP;131.3;1;Direito de propriedade;0.019722;Renda
+36.445.551/0001-06;2020-12-31;1;ARCADIA 92;Av. Paulista, 66,  Bela Vista - SP;189;1;Direito de propriedade;0.051046;Renda
+36.445.551/0001-06;2020-12-31;1;ATIBAIA 11;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;141;1;Direito de propriedade;0.042286;Renda
+36.445.551/0001-06;2020-12-31;1;ATIBAIA 32;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;141;1;Direito de propriedade;0.04356;Renda
+36.445.551/0001-06;2020-12-31;1;ATIBAIA 72;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;141;1;Direito de propriedade;0.045371;Renda
+36.445.551/0001-06;2020-12-31;1;BARROS VIANNA 142;Av. Rebouças, 1480 - Pinheiros, SP;134;1;Direito de propriedade;0.0451;Renda
+36.445.551/0001-06;2020-12-31;1;COMODORO 52;Pc Amadeu Amaral, 84 - Bela Vista , SP;144;1;Direito de propriedade;0.036728;Renda
+36.445.551/0001-06;2020-12-31;1;COMODORO 53;Pc Amadeu Amaral, 84 - Bela Vista, SP;144;1;Direito de propriedade;0.03637;Renda
+36.445.551/0001-06;2020-12-31;1;COTE D´AZUR 123;Rua Guilherme Barbosa de Melo, 84,  Brooklin - SP;93;1;Direito de propriedade;0.029555;Renda
+36.445.551/0001-06;2020-12-31;1;ELIANE 72;Rua José do Patrocínio, 645,  Aclimação - SP;99;1;Direito de propriedade;0.021363;Renda
+36.445.551/0001-06;2020-12-31;1;FLÓRIDA 206;Rua Florida, 1350, Cidade Monções - SP;88;1;Direito de propriedade;0.022925;Renda
+36.445.551/0001-06;2020-12-31;1;FRANCA 102;Al. Franca - 270, Jardim Paulista - SP;161;1;Direito de propriedade;0.045558;Renda
+36.445.551/0001-06;2020-12-31;1;GABRIEL 11;Al. Gabriel Monteiro da Silva, Jardim América - SP;153;1;Direito de propriedade;0.051893;Renda
+36.445.551/0001-06;2020-12-31;1;HUGO CONTI 101;Av. Brigadeiro Luís Antonio, 2589, Paraíso - SP;154;1;Direito de propriedade;0.045023;Renda
+36.445.551/0001-06;2020-12-31;1;ITAPOÃ 83;Rua Alvorada, 795, Vila Olímpia - SP;104;1;Direito de propriedade;0.028534;Renda
+36.445.551/0001-06;2020-12-31;1;MACEIO 41;Av. Angélica, 2297, Consolação - SP;154;1;Direito de propriedade;0.028971;Renda
+36.445.551/0001-06;2020-12-31;1;MANCHESTER 121;Rua Bartolomeu Feio, 66, Brooklin - SP;89;1;Direito de propriedade;0.027436;Renda
+36.445.551/0001-06;2020-12-31;1;MANCHESTER 131;Rua Bartolomeu Feio, 66, Brooklin - SP;89;1;Direito de propriedade;0.026758;Renda
+36.445.551/0001-06;2020-12-31;1;MARIBRAS 44;Rua Treze de Maio, 1412,  Bela Vista - SP;161;1;Direito de propriedade;0.044384;Renda
+36.445.551/0001-06;2020-12-31;1;MERCURIO 71;Rua da Consolação, 2143 - Consolação - SP;200;1;Direito de propriedade;0.040764;Renda
+36.445.551/0001-06;2020-12-31;1;OLGA 201;Al Campos, 1126, Jardim Paulista - SP;158;1;Direito de propriedade;0.040756;Renda
+36.445.551/0001-06;2020-12-31;1;PAULA 22;Rua Lisboa, 104, Pinheiros - SP;104;1;Direito de propriedade;0.026081;Renda
+36.445.551/0001-06;2020-12-31;1;PINHEIROS 2;Rua Joaquim Antunes, 922, Pinheiros - SP;129;1;Direito de propriedade;0.030353;Renda
+36.445.551/0001-06;2020-12-31;1;RIO D OURO 401;Rua Arruda Alvim, 36, Pinheiros - SP;111;1;Direito de propriedade;0.033205;Renda
+36.445.551/0001-06;2020-12-31;1;ROSALIA 12;Rua Navarro de Andrade, 320, Pinheiros - SP;137;1;Direito de propriedade;0.035349;Renda
+36.445.551/0001-06;2020-12-31;1;ROSE MARTE 12;Rua Treze de Maio, 1483, Paraíso - SP;141;1;Direito de propriedade;0.033949;Renda
+36.445.551/0001-06;2020-12-31;1;SANTA ROSA 62;Av. Brigadeiro Luís Antonio, 1622, Paraíso - SP;104;1;Direito de propriedade;0.016174;Renda
+36.445.551/0001-06;2020-12-31;1;TUITU 604;Av. Paulista, 347, Paraíso - SP;114;1;Direito de propriedade;0.032967;Renda
+36.445.551/0001-06;2020-12-31;1;TURANDOT 610;Rua Paula Ney, 475, Vila Mariana - SP;101;1;Direito de propriedade;0.017818;Renda
+36.501.128/0001-86;2020-12-31;1;GCMN1 - SERRANÓPOLIS/GO;Zona rural de Serranópolis/GO;16472800;1;n/a;0.08;Renda
+36.501.128/0001-86;2020-12-31;1;LERME - RANCHO ALEGRE/MT;Zona rural de Nova Ubiratã/MT;20840000;1;n/a;0.13;Renda
+36.501.128/0001-86;2020-12-31;1;PORAN - SORRISO/MT;Zona rural de Sorriso/MT;25220000;1;n/a;0.16;Renda
+36.501.128/0001-86;2020-12-31;1;LFRIT - BOM JESUS/PI;Zona rural de Bom Jesus/PI;122720000;1;n/a;0.27;Renda
+36.501.128/0001-86;2020-12-31;1;GCMN2 - SERRANÓPOLIS/GO;Zona rural de Serranópolis/GO;6568300;1;n/a;0.03;Renda
+36.501.128/0001-86;2020-12-31;1;FHUR1 e 2 - SORRISO/MT;Zona rural de Sorriso/MT;24140000;1;n/a;0.11;Renda
+36.501.128/0001-86;2020-12-31;1;SCHEF - BIRITICUPU/MA;Zona rural de Buriticupu/MA;15270000;1;n/a;0.08;Renda
+36.501.128/0001-86;2020-12-31;1;OURO1 - N. SCHWENING/GO;Zona rural de Rio Verde/GO;7278200;1;n/a;0.01;Renda
+36.501.128/0001-86;2020-12-31;1;OURO2 - N. SCHWENING/GO;Zona rural de São Jose do Xingú/MT;33540000;1;n/a;0.13;Renda
+36.517.660/0001-91;2020-12-31;1;Urbic Sabia;Av. Sabiá, 641, Indianápolis, São Paulo - SP;2427.38;82;Imóvel residencial;0.78;Renda
+36.517.660/0001-91;2020-12-31;1;Urbic Tomas Alves;Rua Dr. Tomás Alves, 172 e 184, Vila Mariana, São Paulo - SP;1237.09;56;Imóvel residencial;0.51;Renda
+36.517.660/0001-91;2020-12-31;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;9129;259;Imóvel residencial;0.992;Renda
+36.885.948/0001-19;2020-12-31;1;Fazenda Serviplan;Cidade Cocalinho, Mato Grosso do Sul;9719;;matricula 3309 e 3310;0.5;Renda
+36.885.989/0001-05;2020-12-31;1;Fazenda Serviplan;Cidade Cocalinho, Mato Grosso do Sul;9719;;matricula 3309 e 3310;0.5;Renda
+37.112.770/0001-36;2020-12-31;1;New Space - Cotia;Estrada dos Estudantes, 600, Cotia/SP;18077.77;1;Direito de propriedade;0.517248;Renda
+37.112.770/0001-36;2020-12-31;1;Forma Bens Extrema;Rua Josepha Gomes de Souza, 306, Extrema/MG;11363.84;1;Direito de propriedade;0.482752;Renda
+37.295.919/0001-60;2020-12-31;2;Almanara - Jandira/SP;Jandira/SP;7500;1;Direito de propriedade;0.053457;Renda
+37.295.919/0001-60;2020-12-31;2;BRF - Salvador/BA;Salvador/BA;151000;1;Direito de propriedade;0.340232;Renda
+37.295.919/0001-60;2020-12-31;2;Souza Cruz - Cachoeirinha/RS;Cachoeirinha/RS;501000;1;Direito de propriedade;0.559761;Renda
+37.295.919/0001-60;2020-12-31;2;Air Liquide - São José dos Campos/SP;São José dos Campos/SP;17800;1;Direito de propriedade;0.025524;Renda
+37.295.919/0001-60;2020-12-31;2;Air Liquide - Canoas/RS;Canoas/RS;7000;1;Direito de propriedade;0.021026;Renda
+39.714.024/0001-48;2020-12-31;1;Avenida Brasil;Av. Brasil, 350 - Jardim Paulista - São Paulo/SP;1200;1;Imóvel sob matrícula 119.171;1;Renda
+39.714.024/0001-48;2020-12-31;1;Borba Gato;Av. Adolfo Pinheiro, 2366 - Santo Amaro - São Paulo/SP;5919;1;Imóveis sob matrícula 71.395, 74.903, 178.448, 305.254, 346.725;1;Renda
+39.714.024/0001-48;2020-12-31;1;Tatuapé;R. Vilela, 800 - Tatuapé - São Paulo/SP;6356;1;Imóveis sob matrícula 197.272 e 196.558;1;Renda
+39.714.024/0001-48;2020-12-31;1;Marselhesa;R. Marselhesa, 500 - Vila Mariana - São Paulo/SP;4509;1;Imóvel sob matrícula 231.774;1;Renda
+39.714.024/0001-48;2020-12-31;1;Ana Rosa;Av. Conselheiro Rodrigues Alves, 300 - Vila Mariana - São Paulo/SP;1395;1;Imóveis sob matrícula 74.837 e 56.161;1;Renda
+39.714.024/0001-48;2020-12-31;1;Morumbi;R. Pasquale Gallupi, 7 - Morumbi - São Paulo/SP;5573;1;Imóveis sob matrícula 20.038, 20.081, 49.269, 56,847 e 194.926;1;Renda

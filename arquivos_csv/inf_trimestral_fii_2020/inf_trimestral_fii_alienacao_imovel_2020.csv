@@ -1,0 +1,852 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
+01.235.622/0001-61;2020-03-31;1;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2020-03-31;181.96;2;Construção própia;0.0127578958158511;0.00242630857584667
+01.235.622/0001-61;2020-03-31;1;Aretê;Praia Rasa, Buzios - RJ;2020-03-31;7833.88;9;Construção própia;0.0227235510292422;0.0043215862185861
+01.235.622/0001-61;2020-03-31;1;Estoque Diversos;Av. Carlos Moreira Lima, nº 460, Vitória-ES;2020-03-31;70;1;Aquisição de unidades prontas;0.00198638467961259;0.000377772498901138
+01.235.622/0001-61;2020-03-31;1;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2020-03-31;153.59;2;Construção própia;0.0416840038344257;0.0079275028922428
+01.235.622/0001-61;2020-03-31;1;Highlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2020-03-31;1053.08;13;Construção própia;0.012636606320882;0.00240324162608854
+01.235.622/0001-61;2020-03-31;1;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2020-03-31;562.95;8;Construção própia;0.00958616290511202;0.00182310544010229
+01.235.622/0001-61;2020-03-31;1;Hub - Coliving;Rua das Marrecas, 11/13, Centro, Rio de Janeiro - RJ;2020-03-31;321.87;7;Construção própia;0.0275065540028019;0.00523122220406181
+01.235.622/0001-61;2020-03-31;1;Icono Parque;Rua Machado de Assis, 40;2020-03-31;639.71;9;Construção própia;0.0294933908955151;0.00560908070527397
+01.235.622/0001-61;2020-03-31;1;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2020-03-31;92.56;1;Aquisição de unidades prontas;0.000819127702933027;0.000155782473773665
+01.235.622/0001-61;2020-03-31;1;The Gallery;R. Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2020-03-31;245.22;2;Construção própia;0.00173947228569181;0.00033081446855663
+01.235.622/0001-61;2020-03-31;1;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2020-03-31;65.9;1;Construção própia;0.501601394659234;0.0953950230575035
+01.235.622/0001-61;2020-03-31;1;Miraggio;R. Euríco Manoel do Carmo, 2 - Charitas, Niterói - RJ;2020-03-31;446.83;3;Aquisição de unidades prontas;0.00197955861542148;0.000376474311619691
+01.235.622/0001-61;2020-03-31;1;Iluminato;Rua Ministro Raul Fernandes, 116, Botafogo, Rio de Janeiro - RJ;2020-03-31;696.62;6;Construção própia;0.0635891426960876;0.0120934427182388
+01.235.622/0001-61;2020-03-31;1;Maison Laranjeiras;Rua das Laranjeiras, 149, Laranjeiras, Rio de Janeiro - RJ;2020-03-31;1639.01;17;Construção própia;0.0115783700809583;0.00220198526679076
+01.235.622/0001-61;2020-03-31;1;Spotlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2020-03-31;6034.64;38;Construção própia;0.00640169649040525;0.00121748063464661
+01.235.622/0001-61;2020-03-31;1;Seasons;R. Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2020-03-31;58.67;1;Construção própia;0.251440885425413;0.0478192631004377
+01.235.622/0001-61;2020-03-31;1;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;2020-03-31;87.76;1;Construção própia;0.00247580256041237;0.000470850449881253
+01.235.622/0001-61;2020-06-30;3;Aretê;Praia Rasa, Buzios - RJ;2020-06-30;2235.37;2;Construção própia;0.038564;0.001444
+01.235.622/0001-61;2020-06-30;3;Highlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2020-06-30;545.86;7;Construção própia;0.107139;0.004013
+01.235.622/0001-61;2020-06-30;3;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2020-06-30;1293.06;13;Construção própia;0.127988;0.004794
+01.235.622/0001-61;2020-06-30;3;Hub - Coliving;Rua das Marrecas, 11/13, Centro, Rio de Janeiro - RJ;2020-06-30;141.13;4;Construção própia;0.02149;0.000805
+01.235.622/0001-61;2020-06-30;3;Icono Parque;Rua Machado de Assis, 40;2020-06-30;290.54;4;Construção própia;0.05681;0.002128
+01.235.622/0001-61;2020-06-30;3;The Gallery;R. Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2020-06-30;215.2;2;Construção própia;0.027366;0.001025
+01.235.622/0001-61;2020-06-30;3;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2020-06-30;169.92;2;Construção própia;0.021741;0.000814
+01.235.622/0001-61;2020-06-30;3;Miraggio;R. Euríco Manoel do Carmo, 2 - Charitas, Niterói - RJ;2020-06-30;288.63;2;Construção própia;0.036976;0.001385
+01.235.622/0001-61;2020-06-30;3;Iluminato;Rua Ministro Raul Fernandes, 116, Botafogo, Rio de Janeiro - RJ;2020-06-30;602.18;5;Construção própia;0.120499;0.004513
+01.235.622/0001-61;2020-06-30;3;Maison Laranjeiras;Rua das Laranjeiras, 149, Laranjeiras, Rio de Janeiro - RJ;2020-06-30;174.3;2;Construção própia;0.032501;0.001217
+01.235.622/0001-61;2020-06-30;3;Spotlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2020-06-30;2173.4;14;Construção própia;0.408923;0.015317
+01.235.622/0001-61;2020-09-30;2;Aretê;Praia Rasa, Buzios - RJ;2020-09-30;20428.99;23;Em Construção - Construção própia;0.020545;0.031413
+01.235.622/0001-61;2020-09-30;2;Highlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2020-09-30;7838.03;80;Em Construção - Construção própia;0.064628;0.098815
+01.235.622/0001-61;2020-09-30;2;Highline;Rua José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2020-09-30;2265.49;25;Em Construção - Construção própia;0.010838;0.016572
+01.235.622/0001-61;2020-09-30;2;Hub - Coliving;Rua das Marrecas, 11/13, Centro, Rio de Janeiro - RJ;2020-09-30;140.49;4;Em Construção - Construção própia;0.000884;0.001352
+01.235.622/0001-61;2020-09-30;2;Icono Parque;Rua Machado de Assis, 40;2020-09-30;286.63;4;Em Construção - Construção própia;0.002255;0.003449
+01.235.622/0001-61;2020-09-30;2;The Gallery;Rua Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2020-09-30;421.21;5;Em Construção - Construção própia;0.002321;0.00355
+01.235.622/0001-61;2020-09-30;2;Miraggio;Rua Euríco Manoel do Carmo, 2 - Charitas, Niterói - RJ;2020-09-30;118.08;1;Imóvel Pronto - Aquisição de unidades prontas;0.000481;0.000736
+01.235.622/0001-61;2020-09-30;2;Iluminato;Rua Ministro Raul Fernandes, 116, Botafogo, Rio de Janeiro - RJ;2020-09-30;102.35;1;Em Construção - Construção própia;0.000776;0.001186
+01.235.622/0001-61;2020-09-30;2;Maison Laranjeiras;Rua das Laranjeiras, 149, Laranjeiras, Rio de Janeiro - RJ;2020-09-30;1004.24;10;Em Construção - Construção própia;0.007358;0.01125
+01.235.622/0001-61;2020-09-30;2;Spotlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2020-09-30;1408.47;12;Em Construção - Construção própia;0.012551;0.019191
+01.235.622/0001-61;2020-09-30;2;Dacao Allegro;Avenida Adalberto Simão Nader, 117 - Mata da Praia, Vitória - ES;2020-09-30;100;1;Imóvel Pronto - Dação de unidades prontas;0.00016;0.000245
+01.235.622/0001-61;2020-09-30;2;Gift;Rua Oito de Dezembro, 517, Vila Isabel, Rio de Janeiro - RJ;2020-09-30;478.92;6;Imóvel Pronto - Construção própia;0.001403;0.002145
+01.235.622/0001-61;2020-09-30;2;Crystal Blue;Rua Elesbão Linhares, 503, Vitória - ES;2020-09-30;882.46;4;Em Construção - Construção própia;0.005302;0.008106
+01.235.622/0001-61;2020-09-30;2;Innovita;Rua do Matoso, 104, Rio de Janeiro - RJ;2020-09-30;116.29;1;Imóvel Pronto - Construção própia;0.000369;0.000564
+01.235.622/0001-61;2020-09-30;2;Park Square Residence;Avenida Roberto Silveira, 307, Niterói - RJ;2020-09-30;93.08;1;Imóvel Pronto - Construção própia;0.000371;0.000567
+03.683.056/0001-86;2020-06-30;1;PARQUE PAULISTA;Alameda Santos, 1940, Cerqueira César, São Paulo/SP;2020-06-17;575.6;1;Laje Corporativa;0.016714;0.015527
+03.683.056/0001-86;2020-12-31;1;PARQUE PAULISTA;Alameda Santos, 1940, Cerqueira César, São Paulo/SP;2020-12-10;575.4;1;N/A;0.018284;0.014382
+08.706.065/0001-69;2020-03-31;1;Intercity Nações Unidas;Rua Fernandes Moreira 1371, 9 Flats, São Paulo, SP, 04716-003;2020-02-13;422.09;1;Não existem caracteristicas que destoem dos demais.;0.002154;0.00209
+09.072.017/0001-29;2020-12-31;1;Edifício Park Tower;Avenida Magalhães de Castro, 4800 - SP;2020-12-04;732.2;2;-;0.0043;0.0042
+09.072.017/0001-29;2020-12-31;1;Edifício Verbo Divino;Rua Verbo Divino, 1661 - SP;2020-10-14;13989.82;46;-;0.0745;0.0729
+09.350.920/0001-04;2020-12-31;1;Marquês de Olinda, 51;Marquês de Olinda, 51 - Rio de janeiro - RJ;2020-10-01;864.52;1;n/a;0.080366;0.078814
+09.350.920/0001-04;2020-12-31;1;Marquês de Olinda, 70;Marquês de Olinda, 70 - Rio de Janeiro - RJ;2020-10-01;8122;1;n/a;0.765005;0.750231
+11.728.688/0001-47;2020-03-31;1;Centro Empresarial Atibaia (venda parcial);Av. Tégula, 888, Ponte Alta - Atibaia - SP;2020-03-26;4404.59;3;-;0.00752;0.006752
+11.728.688/0001-47;2020-03-31;1;Edifício Os Lusíadas (Condomínio Empresarial Barão de Mauá);Rod. Dom Pedro I, Km 87 - Atibaia - SP;2020-03-26;6232.19;3;-;0.010641;0.009553
+11.728.688/0001-47;2020-03-31;1;Ed. Albatroz - Gaia Ar;Rod. Dom Pedro I, Km 90 - Jarinu - SP;2020-03-26;20153.8;6;-;0.03441;0.030894
+11.728.688/0001-47;2020-03-31;1;Air Liquide;Rua Ronald Cladstone Negri, 557, Campinas, SP;2020-02-27;1999;1;-;0.013037;0.011705
+12.323.955/0001-69;2020-12-31;2;Apartamento Quinta da Altiora;Rua Washington Luiz, 821, apto 303, bloco 03, Centro, Petrópolis - RJ;2020-12-14;187.2;1;Imóvel vendido à prazo;0.5;0.0063
+13.598.226/0001-88;2020-09-30;1;ALVES GUIMARÃES;RUA ALVES GUIMARÃES, Nº 403;2020-05-08;510;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;ALVES GUIMARÃES;RUA ALVES GUIMARÃES, Nº 429;2020-05-08;1428;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 53 E 54;2020-04-27;148.34;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 31, 32, 33 E 34;2020-04-27;94.32;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 103 E 104;2020-04-30;148.34;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 35, 36, 37 E 38;2020-04-30;94.32;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 81 E 82;2020-09-10;148.34;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 45, 46, 47 E 48;2020-09-10;94.32;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 71, 72, 73 E 74;2020-09-08;296.68;;prédio comercial;;
+13.598.226/0001-88;2020-09-30;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 49, 50, 51, 52, 53, 54, 55 E 56;2020-09-08;188.64;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;ALVES GUIMARÃES;RUA ALVES GUIMARÃES, Nº 403;2020-05-08;510;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;ALVES GUIMARÃES;RUA ALVES GUIMARÃES, Nº 429;2020-05-08;1428;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 53 E 54;2020-04-27;148.34;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 31, 32, 33 E 34;2020-04-27;94.32;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 103 E 104;2020-04-30;148.34;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 35, 36, 37 E 38;2020-04-30;94.32;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 81 E 82;2020-09-10;148.34;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 45, 46, 47 E 48;2020-09-10;94.32;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - SALAS 71, 72, 73 E 74;2020-09-08;296.68;;prédio comercial;;
+13.598.226/0001-88;2020-12-31;1;BANDEIRA PAULISTA;RUA BANDEIRA PAULISTA, Nº 716 - VAGAS 49, 50, 51, 52, 53, 54, 55 E 56;2020-09-08;188.64;;prédio comercial;;
+14.631.148/0001-39;2020-12-31;3;Itaboraí;Rua Joã o Augusto de Andrade, 25 Centro - Itaboraí - RJ;2020-12-17;206;261;0;0;0.0708
+14.788.458/0001-61;2020-03-31;2;ICONO PARQUE - Apto. 1004;Rua do Pinheiro, 50, Famengo, Rio de Janeiro, RJ;2020-10-09;72.56;1;Apartamento residencial;0.1183;0.1688
+14.788.458/0001-61;2020-03-31;2;ICONO PARQUE - Apto. 1006;Rua do Pinheiro, 50, Famengo, Rio de Janeiro, RJ;2020-02-11;71.87;1;Apartamento residencial;0.1144;0.1632
+14.788.458/0001-61;2020-03-31;2;ICONO PARQUE - Apto. 1407;Rua do Pinheiro, 50, Famengo, Rio de Janeiro, RJ;2020-02-06;72.87;1;Apartamento residencial;0.1184;0.169
+16.915.968/0001-88;2020-06-30;1;Way Parque das Nações Apto. 22;Av. Estados Unidos, 92, Parque das Nações - Santo André/SP;2020-04-03;58.87;1;Não possui;0.0769230769230769;0.00101576644067369
+16.915.968/0001-88;2020-09-30;1;Way Parque das Nações Apto. 34;Av. Estados Unidos, 92, Parque das Nações - Santo André/SP;2020-09-24;58.87;1;Não possui;0.0833333333333333;0.000994211219824108
+16.924.913/0001-34;2020-03-31;2;Edifício V House - Faria Lima;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP, CEP 05423-000;2020-02-12;108.35;1;Venda da unidade 1713;0.1014;0.015615
+16.924.913/0001-34;2020-09-30;1;Edifício V House - Faria Lima;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP, CEP 05423-000;2020-07-08;63.5;1;Venda da unidade 1413;0.1014;0.015615
+16.924.913/0001-34;2020-12-31;2;V.HOUSE - unidade 1402;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP, CEP 05423-000;2020-10-26;70.84;1;Venda da unidade 1402;0.0825;0.015281
+16.924.913/0001-34;2020-12-31;2;V.HOUSE - unidade 1409;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP, CEP 05423-000;2020-10-05;81.79;1;Venda da unidade 1409;0.0953;0.018614
+17.143.998/0001-86;2020-12-31;1;GR Louveira;Rua Atílio Biscuola, 1831 - Louveira - SP;2020-11-30;55202;16;O fundo detinha 90,18% do imóvel;1;0.9796
+17.365.105/0001-47;2020-03-31;1;Tower Bridge;Av. Jornalista Roberto Marinho 85, São Paulo, SP, 04576-000;2020-03-09;56447.68;71;Não há;1;0.906399
+17.655.115/0001-17;2020-09-30;1;Eluma;Av. Paulista, 1294 - Bela Vista - São Paulo - SP;2020-08-07;2009.96;4;Lajes Corporativas ( 17 A,17B,18A,18B);0.07135;0.119923
+18.497.672/0001-10;2020-12-31;1;L'Essence Energie 2201;Rua 46, quadra C-2, Jardim Goiás, Goiânia, Goiás;2020-10-23;96.85;1;Escritura;;0.0154
+18.497.672/0001-10;2020-12-31;1;Premier Blanc 2302;Avenida Americano do Brasil, nº 194, Quadra 253 e Rua 1.141, Setor Marista, Goiânia, Goiás;2020-10-08;141.73;1;Escritura;;0.025
+18.497.672/0001-10;2020-12-31;1;Premier L'Allure 3301;Alameda Ricardo Paranhos, Quadra 247, Lote 1/4-35, Setor Marista, Goiânia, Goiás;2020-10-02;200.79;1;Escritura;;0.0375
+18.497.672/0001-10;2020-12-31;1;Premier Vision 2302;Rua 46, quadra C-2, Jardim Goiás, Goiânia, Goiás;2020-11-27;148.97;1;Escritura;;0.0246
+18.497.672/0001-10;2020-12-31;1;Premier Vision 2702;Rua 46, quadra C-2, Jardim Goiás, Goiânia, Goiás;2020-10-21;148.97;1;Escritura;;0.0246
+18.497.672/0001-10;2020-12-31;1;Premier Vision 2902;Rua 46, quadra C-2, Jardim Goiás, Goiânia, Goiás;2020-10-16;148.97;1;Escritura;;0.0246
+18.497.672/0001-10;2020-12-31;1;Premier Vision 3102;Rua 46, quadra C-2, Jardim Goiás, Goiânia, Goiás;2020-10-21;148.97;1;Escritura;;0.0246
+18.497.672/0001-10;2020-12-31;1;Premier Vision 3701;Rua 46, quadra C-2, Jardim Goiás, Goiânia, Goiás;2020-09-22;148.97;1;Escritura;;0.0244
+18.497.672/0001-10;2020-12-31;1;Visage Arena 401;Rua 52, quadra B-10, lote 07, Jardim Goiás, Goiânia, Goiás;2020-10-07;77.76;1;Escritura;;0.0104
+18.497.672/0001-10;2020-12-31;1;Visage Oeste 1501;Rua R-17, quadra R-33, Setor Oeste, Goiânia, Goiás;2020-10-20;72.31;1;Escritura;;0.0097
+18.497.672/0001-10;2020-12-31;1;Visage Oeste 1504;Rua R-17, quadra R-33, Setor Oeste, Goiânia, Goiás;2020-10-27;66.4;1;Escritura;;0.0102
+18.497.672/0001-10;2020-12-31;1;Visage Sudoeste 801;Rua C-48, quadra 97, Setor Sudoeste, Goiânia, Goiás;2020-11-12;70.79;1;Escritura;;0.0077
+19.442.626/0001-86;2020-03-31;1;BOULEVARD CORPORATE TOWER;AVENIDA DOS ANDRADAS, N° 3000 - SALAS 101 A 104 91 A 94 81 A 84 e 71 A 74;2020-01-13;4806.16;16;Contrato de Compra e Venda;1;1
+19.442.626/0001-86;2020-06-30;1;BOULEVARD CORPORATE TOWER;AVENIDA DOS ANDRADAS, N° 3000 - SALAS 101 A 104 91 A 94 81 A 84 e 71 A 74;2020-01-13;4806.16;16;Contrato de Compra e Venda;1;1
+19.722.048/0001-31;2020-03-31;1;JEL 747 91;Alameda Joaquim Eugênio de Lima, 747 - 91;2020-01-09;178.45;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;CPF 62 124;Rua Cap. Pinto Ferreira 62 - 124;2020-01-13;97.16;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;JAU 712 41;Alameda Jaú 712 - 41;2020-01-13;119.38;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;TAB 1666 42;Rua Tabapuã 1666 - 42;2020-01-15;161.85;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;JAU 731 111;Alameda Jaú 731 - 111;2020-01-27;141.32;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;JAU 731 191;Alameda Jaú, 731 - 191;2020-01-28;141.32;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;FR 74 52;Alameda Franca, 74 - 52;2020-01-30;100.55;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;JEL 1601 43;Alameda Joaquim Eugênio de Lima 1601 - 43;2020-01-31;103.34;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;MGD 385 111;Rua Manuel Guedes, 385 - 111;2020-02-04;166.07;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;IN 532 31;Rua Inhambu 532 - 31;2020-02-05;113.74;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;URI 111 31;Rua Urimonduba 111 - 31;2020-02-10;142.02;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;CON 3064 251;Rua da Consolação 3064 - 25;2020-02-10;115.1;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;JCA 892 23B;Rua João Cachoeira 892 - 23B;2020-02-13;84;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;URI 171 21;Rua Urimonduba 171 - 21;2020-02-20;166.61;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;BV 473 71;Rua Baltazar da Veiga, 473 - 71;2020-02-21;154.2;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;CB 605 1102;Alameda Casa Branca, 605 - 1102;2020-02-21;226.45;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;RPB 188 21;Rua Dr. Renato Paes de Barros, 188 - 21;2020-02-28;217.55;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;BC 1642 111;Rua Bela Cintra, 1642 - 111;2020-03-03;113.8731;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;DMA 604 102;Rua Doutor Melo Alves, 604 - 102;2020-03-03;187;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;ITU 285 21;Alameda Itu 285 - 21;2020-03-05;56.45;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;BB 366 61;Rua Bueno Brandão, 366 - 61;2020-03-16;153;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;FR 139 102;Alameda Franca 139 - 102;2020-03-18;172.3615;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;AF 205 42;Rua André Fernandes 205 - 42 A;2020-03-23;177.55;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;CAM 834 22;Alameda Campinas 834 - 22;2020-03-23;127.96;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;FR 850 72;Alameda Franca 850 - 72;2020-03-30;99.793;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-03-31;1;JAU 731 41;Alameda Jaú 731 - 41;2020-03-31;141.32;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2020-06-30;2;TAB 266 81;Rua Tabapuã 266 - 81;2020-04-02;165.65;1;Apartamento residencial pronto para venda;0.00820017147259093;0.00759111362975365
+19.722.048/0001-31;2020-06-30;2;HL 999 112;Rua Haddock Lobo 999 - 112;2020-04-08;151.8;1;Apartamento residencial pronto para venda;0.0086485600849487;0.00800619871889752
+19.722.048/0001-31;2020-06-30;2;MGD 134 91;Rua Manuel Guedes 134 - 91;2020-04-13;190.5;1;Apartamento residencial pronto para venda;0.0116055810472511;0.0107435905167923
+19.722.048/0001-31;2020-06-30;2;JEL 747 112;Alameda Joaquim Eugenio de Lima 747 - 112;2020-04-15;163.02;1;Apartamento residencial pronto para venda;0.00766916053181189;0.00709954288595036
+19.722.048/0001-31;2020-06-30;2;FC 320 61;Alameda Fernão Cardim 320 - 61;2020-04-16;177.68;1;Apartamento residencial pronto para venda;0.0103622186059764;0.00959257732075942
+19.722.048/0001-31;2020-06-30;2;BAT 362 91;Rua Batataes, 362 - 91;2020-04-17;209.84;1;Apartamento residencial pronto para venda;0.0107893834402351;0.00998801500231662
+19.722.048/0001-31;2020-06-30;2;JAU 1325 52;Alameda Jaú 1325 - 52;2020-04-28;256.54;1;Apartamento residencial pronto para venda;0.0137216547678167;0.0127024954147497
+19.722.048/0001-31;2020-06-30;2;LO 853 23B;Alameda Lorena 853 - 23B;2020-04-28;89;1;Apartamento residencial pronto para venda;0.00414991027305473;0.00384168069428028
+19.722.048/0001-31;2020-06-30;2;HP 26 71;Av. Hélio Pellegrino 26 - 71;2020-04-29;126.25;1;Apartamento residencial pronto para venda;0.00874767872955972;0.00809795544576408
+19.722.048/0001-31;2020-06-30;2;JF 408 11;Rua Jaques Félix 408 - 11;2020-04-29;128.4;1;Apartamento residencial pronto para venda;0.00770225098414146;0.0071301755848559
+19.722.048/0001-31;2020-06-30;2;JEL 1601 23;Alameda Joaquim Eugênio de Lima 1601 - 23;2020-05-15;103.34;1;Apartamento residencial pronto para venda;0.00499339370935098;0.00462251541598603
+19.722.048/0001-31;2020-06-30;2;BV 130 61;Rua Baltazar da Veiga 130 - 61;2020-05-20;228.78;1;Apartamento residencial pronto para venda;0.0145562064937247;0.0134750618180804
+19.722.048/0001-31;2020-06-30;2;LO 1706 72;Alameda Lorena 1706 - 72;2020-05-27;145.4;1;Apartamento residencial pronto para venda;0.00718570278234585;0.00665199337754696
+19.722.048/0001-31;2020-06-30;2;CIN 63 41;Rua Cinderela 63 - 41;2020-05-28;207.045;1;Apartamento residencial pronto para venda;0.0143103484251756;0.0132474645609515
+19.722.048/0001-31;2020-06-30;2;CON 2801 43;Rua da Consolação 2801 - 43;2020-05-28;100.38;1;Apartamento residencial pronto para venda;0.00413839501082966;0.00383102071426412
+19.722.048/0001-31;2020-06-30;2;FR 519 71;Alameda Franca 519 - 71;2020-05-29;158.05;1;Apartamento residencial pronto para venda;0.00907136279791458;0.00839759827045812
+19.722.048/0001-31;2020-06-30;2;JAU 88 73;Alameda Jaú 88 - 73;2020-06-09;132.4;1;Apartamento residencial pronto para venda;0.00543528446483972;0.00503158526874031
+19.722.048/0001-31;2020-06-30;2;CB 685 101;Alameda Casa Branca 685 - 101;2020-06-12;279.408;1;Apartamento residencial pronto para venda;0.0153293921389577;0.0141908200323417
+19.722.048/0001-31;2020-06-30;2;CB 749 71;Alameda Casa Branca 749 - 71;2020-06-12;175.88;1;Apartamento residencial pronto para venda;0.00975710078719946;0.00903240389791356
+19.722.048/0001-31;2020-06-30;2;HNO 131 62;Rua Hans Nobiling 131 - 62;2020-06-12;99.7412;1;Apartamento residencial pronto para venda;0.00635131851944292;0.00587958199910866
+19.722.048/0001-31;2020-06-30;2;JEL 1516 24;Alameda Joaquim Eugênio de Lima 1516 - 24;2020-06-18;98.63;1;Apartamento residencial pronto para venda;0.0047534742525223;0.00440041568735683
+19.722.048/0001-31;2020-06-30;2;LO 853 22A;Alameda Lorena 853 - 22A;2020-06-22;115;1;Apartamento residencial pronto para venda;0.00544727101646001;0.00504268153370046
+19.722.048/0001-31;2020-06-30;2;ITU 745 41;Alameda Itu 745 - 41;2020-06-24;172.66;1;Apartamento residencial pronto para venda;0.00904133093155836;0.00836979698474286
+19.722.048/0001-31;2020-06-30;2;TAB 1666 101;Rua Tabapuã 1666 - 101;2020-06-24;161.85;1;Apartamento residencial pronto para venda;0.0107819645140044;0.00998114710788098
+19.722.048/0001-31;2020-09-30;1;JML 880 22;Rua José Maria Lisboa 880 - 22;2020-07-28;151;1;Apartamento para venda;0.008329;0.007999
+19.722.048/0001-31;2020-09-30;1;CPF 65 151;Rua Cap. Pinto Ferreira 65 - 151;2020-07-22;134.6;1;Apartamento para venda;0.007694;0.007388
+19.722.048/0001-31;2020-09-30;1;PJM 758 33;Rua Padre João Manuel 758 - 33;2020-09-10;154.29;1;Apartamento para venda;0.007944;0.007629
+19.722.048/0001-31;2020-09-30;1;CAC 74 82;Rua Caconde 74 - 82;2020-08-28;100.55;1;Apartamento para venda;0.004673;0.004488
+19.722.048/0001-31;2020-09-30;1;FR 435 111;Alameda Franca 435 - 111;2020-08-20;131;1;Apartamento para venda;0.006791;0.006521
+19.722.048/0001-31;2020-09-30;1;JAU 588 101;Alameda Jaú 588 - 101;2020-07-29;149.337;1;Apartamento para venda;0.009952;0.009557
+19.722.048/0001-31;2020-09-30;1;ML 105 64;Rua Marcos Lopes 105 - 64;2020-07-29;84.91;1;Apartamento para venda;0.005197;0.004991
+19.722.048/0001-31;2020-09-30;1;FR 435 101;Alameda Franca 435 - 101;2020-09-18;131;1;Apartamento para venda;0.006745;0.006477
+19.722.048/0001-31;2020-09-30;1;JF 408 122;Rua Jaques Félix 408 - 122;2020-07-28;128.4;1;Apartamento para venda;0.009144;0.008781
+19.722.048/0001-31;2020-09-30;1;ITA 198 51;Rua Itacema 198 - 51;2020-09-30;105.95;1;Apartamento para venda;0.005732;0.005505
+19.722.048/0001-31;2020-09-30;1;BPA 292 131;Rua Bandeira Paulista, 292 - 131;2020-07-22;119.89;1;Apartamento para venda;0.006544;0.006284
+19.722.048/0001-31;2020-09-30;1;BPA 87 81;Rua Bandeira Paulista 87 - 81;2020-09-04;96.56;1;Apartamento para venda;0.005477;0.00526
+19.722.048/0001-31;2020-09-30;1;JAU 712 101;Alameda Jaú 712 - 101;2020-07-09;119.38;1;Apartamento para venda;0.004772;0.004583
+19.722.048/0001-31;2020-09-30;1;FR 35 10;Alameda Franca 35 - 10;2020-07-08;244.16;1;Apartamento para venda;0.013552;0.013014
+19.722.048/0001-31;2020-09-30;1;CON 3268 112;Rua da Consolação 3268 - 112;2020-08-14;122.78;1;Apartamento para venda;0.007722;0.007416
+19.722.048/0001-31;2020-09-30;1;PED 328 62;Rua Pedroso Alvarenga, 328 - 62;2020-09-30;154.965;1;Apartamento para venda;0.006788;0.006519
+19.722.048/0001-31;2020-12-31;1;PED 599 50;Rua Pedroso Alvarenga 599 -50;2020-10-13;200.55;1;Apartamento para venda;0.008329;0.007999
+19.722.048/0001-31;2020-12-31;1;AF 109 71;Rua Antônio Felício, 109 -71;2020-10-13;110.95;1;Apartamento para venda;0.007694;0.007388
+19.722.048/0001-31;2020-12-31;1;CAC 50 82;Rua Caconde, 50 -82;2020-10-20;128.78;1;Apartamento para venda;0.007944;0.007629
+19.722.048/0001-31;2020-12-31;1;CAC 49 53;Rua Caconde, 49  -53;2020-10-21;159.9;1;Apartamento para venda;0.004673;0.004488
+19.722.048/0001-31;2020-12-31;1;BB 435 81;Rua Bueno Brandão, 435 -81;2020-10-28;102.36;1;Apartamento para venda;0.006791;0.006521
+19.722.048/0001-31;2020-12-31;1;QUA 936 32;Rua Quatá 936 -32;2020-11-27;57.29;1;Apartamento para venda;0.009952;0.009557
+19.722.048/0001-31;2020-12-31;1;IA 84 84;Rua Iara 84 -84;2020-12-16;44.45;1;Apartamento para venda;0.005197;0.004991
+19.722.048/0001-31;2020-12-31;1;CAC 426 91;Rua Caconde 426 -91;2020-12-22;179.11;1;Apartamento para venda;0.006745;0.006477
+19.722.048/0001-31;2020-12-31;1;BPA 147 92;Rua Bandeira Paulista, 147 -92;2020-12-22;100.85;1;Apartamento para venda;0.009144;0.008781
+19.722.048/0001-31;2020-12-31;1;JF 76 61;Rua Jaques Félix 76 -61;2020-12-23;201.375;1;Apartamento para venda;0.005732;0.005505
+19.722.048/0001-31;2020-12-31;1;JL 713 121;Rua João Lourenço 713 -121;2020-11-30;161.45;1;Apartamento para venda;0.006544;0.006284
+19.722.048/0001-31;2020-12-31;1;MLO 272 A154;Rua Marcos Lopes 272 -A154;2020-10-28;73.73;1;Apartamento para venda;0.005477;0.00526
+19.722.048/0001-31;2020-12-31;1;#JL 713 121;Rua João Lourenço 713 - 121;2020-11-30;161.45;1;Apartamento para venda;0.004772;0.004583
+20.003.001/0001-05;2020-12-31;1;Imóvel Creative PE;Avenida Conde de Boa Vista, 770, Soledade, Recife/PE;2020-11-12;2001.25;1;Não possui caracteristicas que destoem dos demais;1;0.135
+21.126.204/0001-43;2020-12-31;1;GUARULHOS;Rua D. Pedro II, 27, 31 e 35 - Centro;2020-11-25;818;1;N/A;0.009453;0.009461
+21.126.204/0001-43;2020-12-31;1;COPACABANA;Av. Nossa Senhora de Copacabana, 748;2020-11-19;2215;1;N/A;0.026715;0.026737
+21.126.204/0001-43;2020-12-31;1;RIO GRANDE;Rua General Bacelar, 268;2020-10-07;922;1;N/A;0.007025;0.007025
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 14C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-10-12;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 23B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-29;47.43;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 25B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-10-12;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 25C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-19;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 31A;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-12-15;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 34C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-12;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 36B;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-25;47.43;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 43C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-10-12;47.43;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 54C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-20;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 74C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-23;52.66;1;;0.0001;0.0001
+22.646.161/0001-90;2020-12-31;1;Família Freguesia do Ó - 84C;Rua Jacaré Copaiba nº 30, Vila Clymene - São Paulo;2020-11-22;52.66;1;;0.0001;0.0001
+22.957.521/0001-74;2020-06-30;1;xangri-la;Terreno no Município de Xangri-la;2020-02-10;2400000;10;Lojas do município de Xangri-la;1;
+23.570.871/0001-46;2020-12-31;2;Wtorre Morumbi;Avenida das Nações Unidas, 14.261, São Paulo/SP;2020-12-16;23406.79;29;NA;0.25;0.592
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2204;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-01-13;71.95;1;Não Há;0.0675876438026879;0.000990468441768013
+23.964.908/0001-10;2020-03-31;2;Ed. Lumina Bauru - Ap 12-B;Rua Rodrigo Romeiro 483,Vila Santo Antonio da Boa Vista, CEP: 17012-160 - SP;2020-01-27;89.03;1;Não Há;0.0928030339906137;0.00135998936042762
+23.964.908/0001-10;2020-03-31;2;Ed. Lumina Bauru - Ap 124;Rua Rodrigo Romeiro 483,Vila Santo Antonio da Boa Vista, CEP: 17012-160 - SP;2020-01-27;155.28;1;Não Há;0.149472673794406;0.00219045905391003
+23.964.908/0001-10;2020-03-31;2;Ed. Lumina Bauru - Ap 24-B;Rua Rodrigo Romeiro 483,Vila Santo Antonio da Boa Vista, CEP: 17012-160 - SP;2020-02-14;64.65;1;Não Há;0.0738265032306283;0.00108189629793121
+23.964.908/0001-10;2020-03-31;2;Ed. Lumina Bauru - Ap 23-A;Rua Rodrigo Romeiro 483,Vila Santo Antonio da Boa Vista, CEP: 17012-160 - SP;2020-02-20;89.03;1;Não Há;0.0933229389429421;0.00136760834844122
+23.964.908/0001-10;2020-03-31;2;SPT3 - 1307;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-03-13;51.03;1;Não Há;0.0748427640404693;0.00109678917189634
+23.964.908/0001-10;2020-03-31;2;Edificio Paço Imperial - Unidade 103;Rua Amália Bernardino de Souza 454, Boa Viagem, CEP: 51021150 - PE;2020-03-20;72.3;1;Não Há;0.0740864557067925;0.00108570579193801
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2101;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-03-26;70.85;1;Não Há;0.081885029991718;0.00119999061214202
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2114;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-03-26;51.03;1;Não Há;0.0665478338980311;0.000975230465740812
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2405;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-03-26;70.85;1;Não Há;0.081885029991718;0.00119999061214202
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2406;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-03-26;51.03;1;Não Há;0.0665478338980311;0.000975230465740812
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2006;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2020-03-27;61.81;1;Não Há;0.0771922587119622;0.00113122002634378
+23.964.908/0001-10;2020-03-31;2;SPT3 - 2006;;;;;;;
+23.964.908/0001-10;2020-06-30;1;SPTM - 1806;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-04-24;46.3;1;N/A;0.0154265576168628;0.00109146571181978
+23.964.908/0001-10;2020-06-30;1;Prédio Comercial - São José dos Pinhais/PR;Avenida das Torres, 2392, São Cristovão, Lote E-029, São José dos Pinhais - PR;2020-04-16;3168.47;1;N/A;0.930248021809961;0.065817264260167
+23.964.908/0001-10;2020-06-30;1;SPTM - 1211;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-05-15;34.5;1;N/A;0.0123013498237915;0.000870349813304567
+23.964.908/0001-10;2020-06-30;1;SPTM - 1218;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-06-03;40.25;1;N/A;0.0138307068289115;0.000978555465769459
+23.964.908/0001-10;2020-06-30;1;SPTM - 1216;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-06-09;44.4;1;N/A;0.0148946073542124;0.00105382896313634
+23.964.908/0001-10;2020-09-30;1;SPTM - 2117;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-08-24;77.04;1;N/A;0.31383;0.001671
+23.964.908/0001-10;2020-09-30;1;SPTM - 2301;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-09-10;35.3;1;N/A;0.166667;0.000887
+23.964.908/0001-10;2020-09-30;1;SPTM - 1807;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-08-26;46.3;1;N/A;0.205674;0.001095
+23.964.908/0001-10;2020-09-30;1;SPTM - 2017;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-09-24;77.04;1;N/A;0.31383;0.001671
+23.964.908/0001-10;2020-12-31;1;Terreno - SHC - Campo do Goytacazes;Avenida Silvio Basto Tavares, 341/351 e 329/339 - Parque Presidente Juscelino;2021-01-19;2958;1;N/A;0.199952293539923;0.018372072960657
+23.964.908/0001-10;2020-12-31;1;Terreno - Guarujá;Av. Dom Pedro I, lotes 2 a 8 da Quadra J (Guarujá Central Park) - Jardim Belmar;2020-12-23;7894.53;1;N/A;0.273638032419651;0.0251424867773306
+23.964.908/0001-10;2020-12-31;1;Prédio Comercial - Magé/RJ;Av. N Sra. da Piedade, 75 - Jardim N. Sra. da Piedade /Magé;2020-11-13;4260;1;N/A;0.508053057880381;0.0466810741803249
+23.964.908/0001-10;2020-12-31;1;SPTM - 2017;Av Tancredo  Neves, 199, São Caetano, Salvador - BA;2020-09-24;77.04;1;N/A;0.0183566161600448;0.00168664777698977
+23.964.908/0001-10;2020-12-31;1;SPT3 - 2006;;;;;;;
+24.703.709/0001-11;2020-09-30;1;Apto Nº2 - Ed. Pedra Branca - R. Jorge;Rua Jorge Coelho nº 157;2020-09-10;107.81;1;Direito de propriedade;0.065572;0.054216
+24.703.709/0001-11;2020-09-30;1;Apto Nº71 - Ed. Arly - R. Mourato Coelho;Rua Morato Coelho Nº 112;2020-09-16;83.8;1;Direito de propriedade;0.048581;0.037552
+24.703.709/0001-11;2020-09-30;1;Apto Nº114 - Ed Caroline - R. Urimonduba;Rua Urimonduba, nº 114;2020-09-16;31.1;1;Direito de propriedade;0.084218;0.065098
+24.703.709/0001-11;2020-12-31;1;Apto Nº21 - Ed. Vila Real - R. P. Alvaren;Rua Pedroso Alvarenga, Nº 466;2020-10-13;57.86;1;Direito de propriedade;0.080846;0.070965
+24.703.709/0001-11;2020-12-31;1;Apto Nº94 - Ed. Guaraí - R. Dr. Mello Al;Rua Dr. Mello Alves nº 247;2020-11-27;96.32;1;Direito de propriedade;0.07202;0.060077
+24.796.967/0001-90;2020-03-31;1;MPR 159 73;Rua Martinico Prado 159 - 73;2020-01-04;69.4;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;ARI 661 141;Rua Araguari, 661 - 141;2020-01-21;88.53;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;RPB 56 71;Rua DRua Renato Paes de Barros 56 - 71;2020-01-23;180;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;PED 372 62;Rua Pedroso Alvarenga 372 - 62;2020-01-31;187;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;MRA 1274 3;Alameda Ministro Rocha Azevedo 1274 - 31;2020-02-03;249.49;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;PER 104 121;Rua Periquito 104 - 121;2020-02-06;61;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;CB 559 19;Alameda Casa Branca, 559 - 19;2020-02-20;306.06;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;AR 578 54;Rua Araguari 578 - 54;2020-02-28;101.39;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;MGD 134 81;Rua Manuel Guedes 134 - 81;2020-02-28;190;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;TU 536 76;Rua Tuim 536 - 76;2020-03-31;56;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;MRA 932 71;Alameda Min. Rocha Azevedo 932 - 71;2020-02-28;191.06;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;JEL 834 41;Alameda Joaquim Eugênio de Lima 834 - 41;2020-02-28;184.66;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;MF 220 8;Rua Dr. Mario Ferraz, 220 - 8;2020-02-28;240.7;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;OBR 75 21;Rua Ouro Branco 75 - 21;2020-02-28;194.28;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;ITU 1329 71;Alameda Itu 1329 - 71;2020-02-28;195.64;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;CON 3665 22;Rua da Consolação 3665 - 22;2020-02-28;203.18;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;BAT 362 71;Rua Batataes, 362 - 71;2020-02-28;209.84;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;JML 1055 5;Rua José Maria Lisboa 1055 - 5;2020-02-28;207.2;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;BPA 780 71;Rua Bandeira Paulista 780 - 71;2020-02-28;182;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;JAU 1486 9;Alameda Jaú 1486 - 9;2020-02-28;239;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;JML 852 21;Rua José Maria Lisboa 852 - 21;2020-02-28;198.075;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-03-31;1;BAT 362 91;Rua Batataes, 362 - 91;2020-02-28;209.84;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2020-06-30;1;MPR 159 73;Rua Martinico Prado 159 - 73;2020-04-01;69.4;1;Apartamento residencial pronto para venda;0.00202091273684631;0.00205495632326341
+24.796.967/0001-90;2020-06-30;1;GVT 879 203;Rua Gaivota 879 - 203;2020-04-01;54.15;1;Apartamento residencial pronto para venda;0.00211371538940988;0.0021493222967288
+24.796.967/0001-90;2020-06-30;1;CAN 917 131;Rua Canário 917 - 131;2020-04-15;97.45;1;Apartamento residencial pronto para venda;0.0035668324438339;0.0036269180508584
+24.796.967/0001-90;2020-06-30;1;BAT 333 101;Rua Batataes 333 - 101;2020-04-23;225.35;1;Apartamento residencial pronto para venda;0.00874603868680799;0.00889337138376859
+24.796.967/0001-90;2020-06-30;1;JL 695 121;Rua João Lourenço 695 - 121;2020-04-30;212;1;Apartamento residencial pronto para venda;0.00794244913976359;0.0080762448493571
+24.796.967/0001-90;2020-06-30;1;CAN 890 42;Rua Canário 890 - 42;2020-05-07;57.605;1;Apartamento residencial pronto para venda;0.00222670164486531;0.00226421187897386
+24.796.967/0001-90;2020-06-30;1;CA 853 22;Rua Casa do Ator 853 - 22;2020-06-12;66.83;1;Apartamento residencial pronto para venda;0.00194383783068182;0.00197658304029087
+24.796.967/0001-90;2020-06-30;1;TU 523 51;Rua Tuim 523 - 51;2020-06-24;165.91;1;Apartamento residencial pronto para venda;0.00684553339132366;0.00696085084334898
+24.796.967/0001-90;2020-09-30;1;AAP 566 907;Avenida Ataulfo de Paiva 566 - 907;2020-09-11;60;1;Apartamento residencial pronto para venda;0.00358690630255733;0.00342615945551569
+24.796.967/0001-90;2020-09-30;1;AB 141 72;Rua Antônio Borba 141  - 72A;2020-09-30;93.65;1;Apartamento residencial pronto para venda;0.00198970344650009;0.00190053508563581
+24.796.967/0001-90;2020-09-30;1;AIC 668 62;Alameda dos Aicás 668 - 62;2020-07-10;187.75;1;Apartamento residencial pronto para venda;0.00524411307799969;0.00500909867513746
+24.796.967/0001-90;2020-09-30;1;ANA 746 72;Alameda dos Anapurus 746  - 72;2020-07-24;60.325;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-09-30;1;AR 390 51B;Alameda dos Arapanés 390 - 51B;2020-08-07;114.85;1;Apartamento residencial pronto para venda;0.00343658561185752;0.00328257537152843
+24.796.967/0001-90;2020-09-30;1;ARA 628 131;Alameda dos Arapanés 628 - 131;2020-08-24;198.53;1;Apartamento residencial pronto para venda;0.00611652135368327;0.00584241006123984
+24.796.967/0001-90;2020-09-30;1;BAT 577 41;Rua Batataes 577 - 41;2020-09-30;305.98;1;Apartamento residencial pronto para venda;0.0100860758827517;0.00963406940128345
+24.796.967/0001-90;2020-09-30;1;CAS 155 66B;Rua Castilho 155 - 66B;2020-09-30;44.86;1;Apartamento residencial pronto para venda;0.00163345529558728;0.00156025215995981
+24.796.967/0001-90;2020-09-30;1;CB 755 11;Alameda Casa Branca 755 - 11;2020-09-10;231.01;1;Apartamento residencial pronto para venda;0.00667529604420501;0.0063761433199171
+24.796.967/0001-90;2020-09-30;1;GA 440 403;Rua General Artigas 440 - 403;2020-08-25;78;1;Apartamento residencial pronto para venda;0.0055781762336993;0.0053281908239409
+24.796.967/0001-90;2020-09-30;1;GIR 770 61;Rua Girassol 770 - 61;2020-09-30;153.72;1;Apartamento residencial pronto para venda;0.00502221503204092;0.00479714496790511
+24.796.967/0001-90;2020-09-30;1;GRA 379 33;Rua Graúna 379 - 33;2020-07-10;109.51;1;Apartamento residencial pronto para venda;0.0032841178753218;0.00313694046134958
+24.796.967/0001-90;2020-09-30;1;ITU 929 101;Alameda Itu 929 - 101;2020-07-31;288.15;1;Apartamento residencial pronto para venda;0.0135934315606338;0.0129842432854089
+24.796.967/0001-90;2020-09-30;1;JES 719 44;Rua Jesuíno Arruda 719 - 44;2020-09-08;53.3575;1;Apartamento residencial pronto para venda;0.00215195827677418;0.00205551848192646
+24.796.967/0001-90;2020-09-30;1;MTC 50 61;Rua Mourato Coelho 50 - 61;2020-08-11;144.67;1;Apartamento residencial pronto para venda;0.00501522081552589;0.00479046419650336
+24.796.967/0001-90;2020-09-30;1;MTC 50 64;Rua Mourato Coelho 50 - 64;2020-07-31;149.5;1;Apartamento residencial pronto para venda;0.00498897532722783;0.00476539489713724
+24.796.967/0001-90;2020-09-30;1;NHA 1170 84;Alameda dos Nhambiquaras 1170 - 84;2020-07-22;41.935;1;Apartamento residencial pronto para venda;0.00147752480352742;0.00141130967729914
+24.796.967/0001-90;2020-09-30;1;RP 296 907;Rua Paim 296 - 907;2020-08-28;36.36;1;Apartamento residencial pronto para venda;0.00108109426038654;0.0010326451292821
+24.796.967/0001-90;2020-09-30;1;SER 678 13A;Rua Sergipe 678 - 13A;2020-09-21;226;1;Apartamento residencial pronto para venda;0.00627288826286791;0.00599176940303552
+24.796.967/0001-90;2020-12-31;2;SBR 538 82;Rua Sabará 538 - 82;2020-10-16;151.2;1;Apartamento residencial pronto para venda;0.00358690630255733;0.00342615945551569
+24.796.967/0001-90;2020-12-31;2;ARI 679 8;Rua Araguari 679 - 8;2020-10-20;220.83;1;Apartamento residencial pronto para venda;0.00198970344650009;0.00190053508563581
+24.796.967/0001-90;2020-12-31;2;GRA 379 63;Rua Graúna 379 - 63;2020-10-22;109.51;1;Apartamento residencial pronto para venda;0.00524411307799969;0.00500909867513746
+24.796.967/0001-90;2020-12-31;2;PRA 404 54;Rua Professor Artur Ramos 404 - 54;2020-10-22;44.32;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;TON 68 901;Rua Tonelero 68 - 901;2020-10-23;69;1;Apartamento residencial pronto para venda;0.00343658561185752;0.00328257537152843
+24.796.967/0001-90;2020-12-31;2;ARP 419 104;Alameda dos Arapanés 419 - 104;2020-10-29;46;1;Apartamento residencial pronto para venda;0.00611652135368327;0.00584241006123984
+24.796.967/0001-90;2020-12-31;2;AGO 26 105;Rua Almeida Godinho 26 - 105;2020-11-03;87;1;Apartamento residencial pronto para venda;0.0100860758827517;0.00963406940128345
+24.796.967/0001-90;2020-12-31;2;HAV 292 82;Rua Havaí 292 - 82;2020-11-16;135.16;1;Apartamento residencial pronto para venda;0.00163345529558728;0.00156025215995981
+24.796.967/0001-90;2020-12-31;2;CES 269 93;Rua Comendador Eduardo Saccab 269 - 93;2020-11-18;141.03;1;Apartamento residencial pronto para venda;0.00667529604420501;0.0063761433199171
+24.796.967/0001-90;2020-12-31;2;IND 458 61;Rua Indiana 458 - 61;2020-11-18;167.49;1;Apartamento residencial pronto para venda;0.0055781762336993;0.0053281908239409
+24.796.967/0001-90;2020-12-31;2;ARI 661 21;Rua Araguari 661 - 21;2020-11-30;88.53;1;Apartamento residencial pronto para venda;0.00502221503204092;0.00479714496790511
+24.796.967/0001-90;2020-12-31;2;PRA 404 53;Rua Professor Artur Ramos 404 - 53;2020-11-30;44.32;1;Apartamento residencial pronto para venda;0.0032841178753218;0.00313694046134958
+24.796.967/0001-90;2020-12-31;2;GSE 205 501;Rua General Severiano 205 - 501;2020-11-30;71;1;Apartamento residencial pronto para venda;0.0135934315606338;0.0129842432854089
+24.796.967/0001-90;2020-12-31;2;MAC 417 54;Avenida Macuco 417 - 54;2020-12-08;110.42;1;Apartamento residencial pronto para venda;0.00215195827677418;0.00205551848192646
+24.796.967/0001-90;2020-12-31;2;PIN 519 140;Rua Pintassilgo 519 - 140;2020-12-14;161.2;1;Apartamento residencial pronto para venda;0.00501522081552589;0.00479046419650336
+24.796.967/0001-90;2020-12-31;2;TU 603 24;Rua Tuim 603 - 24;2020-11-26;70.13;1;Apartamento residencial pronto para venda;0.00498897532722783;0.00476539489713724
+24.796.967/0001-90;2020-12-31;2;IN 902 11B;Rua Inhambu 902 - 11B;2020-10-23;101.51;1;Apartamento residencial pronto para venda;0.00147752480352742;0.00141130967729914
+24.796.967/0001-90;2020-12-31;2;PE 88 101B;Rua Pernambuco 88 - 10 B;2020-11-27;253.13;1;Apartamento residencial pronto para venda;0.00108109426038654;0.0010326451292821
+24.796.967/0001-90;2020-12-31;2;HEL 151 93;Rua Helena 151 - 93;2020-11-27;91.27;1;Apartamento residencial pronto para venda;0.00627288826286791;0.00599176940303552
+24.796.967/0001-90;2020-12-31;2;RXN 333 122;Avenida Rouxinol 333 - 122;2020-11-19;145.8;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;CD 1200 162;Rua Coronel Diogo 1200 - 162;2020-12-21;63.81;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;#HEL 151 93;Rua Helena 151 - 93;2020-11-27;91.27;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;#PIN 519 140;Rua Pintassilgo 519 - 140;2020-12-14;161.2;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;#RXN 333 122;Avenida Rouxinol 333 - 122;2020-11-19;145.8;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;#SBR 538 82;Rua Sabará 538 - 82;2020-10-16;151.2;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+24.796.967/0001-90;2020-12-31;2;#SER 678 13A;Rua Sergipe 678 - 13A;2020-09-21;226;1;Apartamento residencial pronto para venda;0.0018280635301534;0.00174613904596644
+26.502.761/0001-35;2020-09-30;1;EDIFÍCIO SAN GUSTAVO;Rua Marie Nader Calfat, 249 - Jd. Ampliação;2020-09-30;100;10;Não há;0;1E-05
+28.516.650/0001-03;2020-09-30;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;2020-08-20;27.37;1;N/A;0.1215;0.00187
+28.516.650/0001-03;2020-12-31;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;2020-10-01;52.38;1;N/A;0.0893;0.0035
+28.516.650/0001-03;2020-12-31;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;2020-10-15;95.03;1;N/A;0.1605;0.0062
+28.516.650/0001-03;2020-12-31;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;2020-10-13;52.69;1;N/A;0.0898;0.0035
+28.516.650/0001-03;2020-12-31;1;Condomínio Bandeira Paulicéia;R. Santo Amaro, 27  - Bela Vista - SP;2020-12-23;48.79;1;N/A;0.215;0.0033
+28.893.734/0001-66;2020-03-31;1;LUMIERE_75154;Avenida Engenheiro Miguel Gemma, 1399, 6º Andar, Apto 62, Socoro, Mogi das Cruzes - SP;2020-03-05;100.12;1;Nenhuma característica relevante.;0.002407;0.005503
+28.893.734/0001-66;2020-03-31;1;LUMIERE_75163;Avenida Engenheiro Miguel Gemma, 1399, 8º Andar, Apto 81, Socoro, Mogi das Cruzes - SP;2020-02-03;100.12;1;Nenhuma característica relevante.;0.00237;0.005438
+28.893.734/0001-66;2020-03-31;1;LUMIERE_75178;Avenida Engenheiro Miguel Gemma, 1399, 12º Andar, Apto 122, Socoro, Mogi das Cruzes - SP;2020-01-09;100.12;1;Nenhuma característica relevante.;0.002555;0.005891
+28.893.734/0001-66;2020-03-31;1;SELETTOD_158373;Av. Nossa Senhora do Carmo, 644 - Apto nº 1102 - 11 andar -Centro - Betim - MG;2020-01-28;72.18;1;Nenhuma característica relevante;0.001668;0.003832
+28.893.734/0001-66;2020-03-31;1;SELETTOD_158354;Av. Nossa Senhora do Carmo, 644 - Apto nº 603 - 6 andar -Centro - Betim - MG;2020-03-25;72.18;1;Nenhuma característica relevante;0.001593;0.003638
+28.893.734/0001-66;2020-03-31;1;SELETTOS_158434;Av. Nossa Senhora do Carmo, 644 - Apto nº 1103 - 11 andar -Centro - Betim - MG;2020-01-21;84.36;1;Nenhuma característica relevante;0.001881;0.004324
+28.893.734/0001-66;2020-03-31;1;SELETTOS_158442;Av. Nossa Senhora do Carmo, 644 - Apto nº 1303 - 13 andar -Centro - Betim - MG;2020-02-11;84.36;1;Nenhuma característica relevante;0.001885;0.004324
+28.893.734/0001-66;2020-03-31;1;SELETTOS_158449;Av. Nossa Senhora do Carmo, 644 - Apto nº 1502 - 15 andar -Centro - Betim - MG;2020-02-05;84.36;1;Nenhuma característica relevante;0.001975;0.004532
+28.893.734/0001-66;2020-03-31;1;SELETTOS_158452;Av. Nossa Senhora do Carmo, 644 - Apto nº 1601 - 16 andar -Centro - Betim - MG;2020-02-20;84.36;1;Nenhuma característica relevante;0.001943;0.004454
+28.893.734/0001-66;2020-03-31;1;GAIA_308;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 308, 3º Andar -  Bloco - 1 - Vita Felice;2020-03-20;70.83;1;Nenhuma característica relevante;0.000944;0.002156
+28.893.734/0001-66;2020-03-31;1;GAIA_505;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 505, 5º Andar -  Bloco - 1 - Vita Felice;2020-01-22;57.78;1;Nenhuma característica relevante;0.000777;0.001787
+28.893.734/0001-66;2020-03-31;1;GAIA_606;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 606, 6º Andar -  Bloco - 1 - Vita Felice;2020-02-17;57.78;1;Nenhuma característica relevante;0.00079;0.001811
+28.893.734/0001-66;2020-03-31;1;GAIA_607;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 607, 6º Andar -  Bloco - 1 - Vita Felice;2020-03-02;70.83;1;Nenhuma característica relevante;0.000943;0.002157
+28.893.734/0001-66;2020-03-31;1;GAIA_706;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 706, 7º Andar -  Bloco - 1 - Vita Felice;2020-03-25;57.78;1;Nenhuma característica relevante;0.000856;0.001955
+28.893.734/0001-66;2020-03-31;1;GAI2_407;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 407, 4º Andar -  Bloco - 2 - Vita Felice;2020-02-17;70.83;1;Nenhuma característica relevante;0.00094;0.002156
+28.893.734/0001-66;2020-03-31;1;GAI2_802;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 802, 8º Andar -  Bloco - 2 - Vita Felice;2020-03-20;57.78;1;Nenhuma característica relevante;0.000853;0.00195
+28.893.734/0001-66;2020-03-31;1;GAI2_807;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 807, 8º Andar -  Bloco - 2 - Vita Felice;2020-03-02;70.83;1;Nenhuma característica relevante;0.001;0.002288
+28.893.734/0001-66;2020-03-31;1;GAI3_407;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 407, 4º Andar -  Bloco - 3 - Vita Felice;2020-03-04;70.83;1;Nenhuma característica relevante;0.000943;0.002157
+28.893.734/0001-66;2020-03-31;1;GAI3_408;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 408, 4º Andar -  Bloco - 3 - Vita Felice;2020-03-02;70.83;1;Nenhuma característica relevante;0.000943;0.002157
+28.893.734/0001-66;2020-03-31;1;GAI3_906;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 906, 9º Andar -  Bloco - 3 - Vita Felice;2020-03-25;57.78;1;Nenhuma característica relevante;0.000856;0.001955
+28.893.734/0001-66;2020-03-31;1;GAI4_208;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 208, 2º Andar -  Bloco - 4 - Vita Felice;2020-03-02;70.83;1;Nenhuma característica relevante;0.000941;0.002153
+28.893.734/0001-66;2020-03-31;1;GAI4_302;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 302, 3º Andar -  Bloco - 4 - Vita Felice;2020-03-02;57.78;1;Nenhuma característica relevante;0.000824;0.001885
+28.893.734/0001-66;2020-03-31;1;GAI4_708;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 708, 7º Andar -  Bloco - 4 - Vita Felice;2020-03-02;70.83;1;Nenhuma característica relevante;0.001;0.002286
+28.893.734/0001-66;2020-03-31;1;GAI4_807;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 807, 8º Andar -  Bloco - 4 - Vita Felice;2020-01-13;70.83;1;Nenhuma característica relevante;0.000992;0.002286
+28.893.734/0001-66;2020-03-31;1;GAI4_908;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 908, 9º Andar -  Bloco - 4 - Vita Felice;2020-03-25;70.83;1;Nenhuma característica relevante;0.001002;0.002288
+28.893.734/0001-66;2020-03-31;1;GAI5_308;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 308, 3º Andar -  Bloco - 5 - Vita Felice;2020-03-02;70.83;1;Nenhuma característica relevante;0.000943;0.002157
+28.893.734/0001-66;2020-03-31;1;GAR1_112;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 112 - Apartamento Residencial;2020-03-20;121.33;1;Nenhuma característica relevante;0.003759;0.008588
+28.893.734/0001-66;2020-03-31;1;GAR1_151;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 151 - Apartamento Residencial;2020-01-20;121.33;1;Nenhuma característica relevante;0.003689;0.00848
+28.893.734/0001-66;2020-03-31;1;GAR1_202;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 202 - Apartamento Residencial;2020-01-20;121.33;1;Nenhuma característica relevante;0.003886;0.008934
+28.893.734/0001-66;2020-03-31;1;GAR2_82;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 82 - Apartamento Residencial;2020-01-20;121.33;1;Nenhuma característica relevante;0.003604;0.008286
+28.893.734/0001-66;2020-03-31;1;GAR3_33;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 33 - Apartamento Residencial;2020-02-26;155.42;1;Nenhuma característica relevante;0.004605;0.010552
+28.893.734/0001-66;2020-03-31;1;GAR3_134;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 134 - Apartamento Residencial;2020-01-20;155.42;1;Nenhuma característica relevante;0.004804;0.011044
+28.893.734/0001-66;2020-03-31;1;GAR3_203;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 203 - Apartamento Residencial;2020-03-06;155.42;1;Nenhuma característica relevante;0.004939;0.011293
+28.893.734/0001-66;2020-03-31;1;GAR3_234;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 234 - Apartamento Residencial;2020-03-03;155.42;1;Nenhuma característica relevante;0.005094;0.011653
+28.893.734/0001-66;2020-03-31;1;BELLE_51;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 51 - Casa Residencial;2020-01-10;121.10;1;Nenhuma característica relevante;0.002639;0.006085
+28.893.734/0001-66;2020-03-31;1;BELLE_62;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 62 - Casa Residencial;2020-01-08;121.10;1;Nenhuma característica relevante;0.002639;0.006085
+28.893.734/0001-66;2020-03-31;1;MAG2_21;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 21 - Apartamento Residencial;2020-01-24;97.76;1;Nenhuma característica relevante;0.002008;0.004614
+28.893.734/0001-66;2020-03-31;1;MAG2_24;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 24 - Apartamento Residencial;2020-01-21;97.76;1;Nenhuma característica relevante;0.002056;0.004726
+28.893.734/0001-66;2020-03-31;1;MAG2_62;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 62 - Apartamento Residencial;2020-01-22;97.76;1;Nenhuma característica relevante;0.002028;0.004661
+28.893.734/0001-66;2020-03-31;1;MAG2_101;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 101 - Apartamento Residencial;2020-02-18;97.76;1;Nenhuma característica relevante;0.002191;0.005024
+28.893.734/0001-66;2020-03-31;1;MAG2_103;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 103 - Apartamento Residencial;2020-03-13;97.76;1;Nenhuma característica relevante;0.002153;0.00492
+28.893.734/0001-66;2020-03-31;1;MAG2_111;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 111 - Apartamento Residencial;2020-03-09;97.76;1;Nenhuma característica relevante;0.002209;0.005049
+28.893.734/0001-66;2020-03-31;1;MAG3_81;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 81 - Apartamento Residencial;2020-02-21;97.76;1;Nenhuma característica relevante;0.002232;0.005114
+28.893.734/0001-66;2020-03-31;1;MAG3_111;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 111 - Apartamento Residencial;2020-02-21;97.76;1;Nenhuma característica relevante;0.002204;0.005049
+28.893.734/0001-66;2020-03-31;1;MAI1_11;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 11 - Apartamento Residencial;2020-01-31;98.67;1;Nenhuma característica relevante;0.002216;0.005088
+28.893.734/0001-66;2020-03-31;1;MAI1_64;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 64 - Apartamento Residencial;2020-01-14;98.67;1;Nenhuma característica relevante;0.002343;0.005399
+28.893.734/0001-66;2020-03-31;1;MAI1_182;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 182 - Apartamento Residencial;2020-01-28;98.67;1;Nenhuma característica relevante;0.002564;0.005891
+28.893.734/0001-66;2020-03-31;1;MAI1_192;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 192 - Apartamento Residencial;2020-03-16;98.67;1;Nenhuma característica relevante;0.002578;0.005891
+28.893.734/0001-66;2020-03-31;1;MAI2_11;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 11 - Apartamento Residencial;2020-01-30;121.18;1;Nenhuma característica relevante;0.002509;0.005762
+28.893.734/0001-66;2020-03-31;1;MAI2_33;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 33 - Apartamento Residencial;2020-01-13;121.18;1;Nenhuma característica relevante;0.002668;0.00615
+28.893.734/0001-66;2020-03-31;1;MAI3_124;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 124 - Apartamento Residencial;2020-03-13;146.26;1;Nenhuma característica relevante;0.003767;0.00861
+28.893.734/0001-66;2020-03-31;1;MAIG_200;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 200 - Vaga de Garagem;2020-02-18;12.50;1;Nenhuma característica relevante;0.000113;0.000259
+28.893.734/0001-66;2020-03-31;1;MAIG_201;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 201 - Vaga de Garagem;2020-02-12;12.50;1;Nenhuma característica relevante;9.3E-05;0.000214
+28.893.734/0001-66;2020-03-31;1;MAIG_202;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 202 - Vaga de Garagem;2020-02-13;12.50;1;Nenhuma característica relevante;9.3E-05;0.000214
+28.893.734/0001-66;2020-03-31;1;EASY711;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 711 - Apartamento Residencial;2020-02-21;50.20;1;Nenhuma característica relevante;0.001469;0.003366
+28.893.734/0001-66;2020-03-31;1;EASY712;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 712 - Apartamento Residencial;2020-02-26;50.20;1;Nenhuma característica relevante;0.001441;0.003302
+28.893.734/0001-66;2020-03-31;1;EASY911;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 911 - Apartamento Residencial;2020-01-15;50.20;1;Nenhuma característica relevante;0.00145;0.00334
+28.893.734/0001-66;2020-03-31;1;EASY912;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 912 - Apartamento Residencial;2020-01-28;50.20;1;Nenhuma característica relevante;0.00151;0.00347
+28.893.734/0001-66;2020-03-31;1;EASY1110;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1110 - Apartamento Residencial;2020-02-21;123.07;1;Nenhuma característica relevante;0.003363;0.007704
+28.893.734/0001-66;2020-03-31;1;REN_101;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 101 - Apartamento Residencial;2020-01-17;155.00;1;Nenhuma característica relevante;0.002815;0.006474
+28.893.734/0001-66;2020-03-31;1;REN_201;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 201 - Apartamento Residencial;2020-01-20;155.00;1;Nenhuma característica relevante;0.002816;0.006474
+28.893.734/0001-66;2020-03-31;1;REN_202;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 202 - Apartamento Residencial;2020-01-16;155.00;1;Nenhuma característica relevante;0.002811;0.006474
+28.893.734/0001-66;2020-03-31;1;REN_301;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 301 - Apartamento Residencial;2020-01-17;155.00;1;Nenhuma característica relevante;0.003153;0.00725
+28.893.734/0001-66;2020-03-31;1;REN_302;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 302 - Apartamento Residencial;2020-03-30;155.00;1;Nenhuma característica relevante;0.00312;0.007121
+28.893.734/0001-66;2020-03-31;1;REN_602;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 602 - Apartamento Residencial;2020-02-03;155.00;1;Nenhuma característica relevante;0.003104;0.007121
+28.893.734/0001-66;2020-03-31;1;REN_1103;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1103 - Apartamento Residencial;2020-01-17;155.00;1;Nenhuma característica relevante;0.003209;0.00738
+28.893.734/0001-66;2020-03-31;1;TAR_505;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 505 - Apartamento Residencial;2020-01-29;49.88;1;Nenhuma característica relevante;0.000783;0.0018
+28.893.734/0001-66;2020-03-31;1;CEN_34B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 34 - 2 andar - Ribeirão Preto - SP;2020-03-20;140.77;1;Nenhuma característica relevante;0.00306;0.006992
+28.893.734/0001-66;2020-03-31;1;CEN_84B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 84 - 8 andar - Ribeirão Preto - SP;2020-03-06;140.77;1;Nenhuma característica relevante;0.003285;0.007509
+28.893.734/0001-66;2020-03-31;1;CEN_124B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 124 - 12 andar - Ribeirão Preto - SP;2020-02-13;140.77;1;Nenhuma característica relevante;0.003544;0.008131
+28.893.734/0001-66;2020-06-30;1;ALLEGRO_86410;Rua Capitão Paulino Freire, 300, 12º Andar, Apto 123, Centro, Mogi das Cruzes - SP;2020-06-25;70.76;1;Nenhuma característica relevante.;0.002206;0.004736
+28.893.734/0001-66;2020-06-30;1;ALLEGRO_86434;Rua Capitão Paulino Freire, 300, 18º Andar, Apto 183, Centro, Mogi das Cruzes - SP;2020-06-09;70.76;1;Nenhuma característica relevante.;0.016578;0.00433
+28.893.734/0001-66;2020-06-30;1;LUMIERE_75143;Avenida Engenheiro Miguel Gemma, 1399, 2º Andar, Apto 22, Socoro, Mogi das Cruzes - SP;2020-04-09;100.12;1;Nenhuma característica relevante.;0.020252;0.005886
+28.893.734/0001-66;2020-06-30;1;LUMIERE_75164;Avenida Engenheiro Miguel Gemma, 1399, 8º Andar, Apto 82, Socoro, Mogi das Cruzes - SP;2020-06-03;100.12;1;Nenhuma característica relevante.;0.00254;0.005683
+28.893.734/0001-66;2020-06-30;1;LUMIERE_75168;Avenida Engenheiro Miguel Gemma, 1399, 9º Andar, Apto 92, Socoro, Mogi das Cruzes - SP;2020-05-27;100.12;1;Nenhuma característica relevante.;0.002402;0.005683
+28.893.734/0001-66;2020-06-30;1;LUMIERE_75182;Avenida Engenheiro Miguel Gemma, 1399, 13º Andar, Apto 132, Socoro, Mogi das Cruzes - SP;2020-05-20;100.12;1;Nenhuma característica relevante.;0.002601;0.006156
+28.893.734/0001-66;2020-06-30;1;SELETTOD_158382;Av. Nossa Senhora do Carmo, 644 - Apto nº 1303 - 13 andar -Centro - Betim - MG;2020-05-12;72.18;1;Nenhuma característica relevante;0.001687;0.004005
+28.893.734/0001-66;2020-06-30;1;SELETTOD_158386;Av. Nossa Senhora do Carmo, 644 - Apto nº 1403 - 14 andar -Centro - Betim - MG;2020-06-01;72.18;1;Nenhuma característica relevante;0.001019;0.004005
+28.893.734/0001-66;2020-06-30;1;SELETTOD_158343;Av. Nossa Senhora do Carmo, 644 - Apto nº 304 - 3 andar -Centro - Betim - MG;2020-06-17;75.88;1;Nenhuma característica relevante;0.004016;0.003856
+28.893.734/0001-66;2020-06-30;1;SELETTOS_158426;Av. Nossa Senhora do Carmo, 644 - Apto nº 903 - 9 andar -Centro - Betim - MG;2020-06-01;84.36;1;Nenhuma característica relevante;0.001461;0.004519
+28.893.734/0001-66;2020-06-30;1;GAIA_403;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 403, 4º Andar -  Bloco - 1 - Vita Felice;2020-04-23;58.86;1;Nenhuma característica relevante;0.00334;0.001906
+28.893.734/0001-66;2020-06-30;1;GAIA_406;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 406, 4º Andar -  Bloco - 1 - Vita Felice;2020-06-01;57.78;1;Nenhuma característica relevante;0.000933;0.001943
+28.893.734/0001-66;2020-06-30;1;GAIA_508;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 508, 5º Andar -  Bloco - 1 - Vita Felice;2020-05-14;70.83;1;Nenhuma característica relevante;0.000669;0.002254
+28.893.734/0001-66;2020-06-30;1;GAIA_808;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 808, 8º Andar -  Bloco - 1 - Vita Felice;2020-06-15;70.83;1;Nenhuma característica relevante;0.023122;0.002391
+28.893.734/0001-66;2020-06-30;1;GAI2_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 2 - Vita Felice;2020-06-12;57.78;1;Nenhuma característica relevante;0.000803;0.001893
+28.893.734/0001-66;2020-06-30;1;GAI2_307;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 307, 3º Andar -  Bloco - 2 - Vita Felice;2020-05-05;70.83;1;Nenhuma característica relevante;0.00262;0.002254
+28.893.734/0001-66;2020-06-30;1;GAI2_506;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 506, 5º Andar -  Bloco - 2 - Vita Felice;2020-05-14;57.78;1;Nenhuma característica relevante;0.001186;0.00197
+28.893.734/0001-66;2020-06-30;1;GAI2_508;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 508, 5º Andar -  Bloco - 2 - Vita Felice;2020-04-23;70.83;1;Nenhuma característica relevante;0.000301;0.002254
+28.893.734/0001-66;2020-06-30;1;GAI3_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 3 - Vita Felice;2020-05-14;57.78;1;Nenhuma característica relevante;0.000831;0.001969
+28.893.734/0001-66;2020-06-30;1;GAI3_401;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 401, 4º Andar -  Bloco - 3 - Vita Felice;2020-04-23;57.78;1;Nenhuma característica relevante;0.000787;0.001873
+28.893.734/0001-66;2020-06-30;1;GAI3_605;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 605, 6º Andar -  Bloco - 3 - Vita Felice;2020-05-14;57.78;1;Nenhuma característica relevante;0.000831;0.001969
+28.893.734/0001-66;2020-06-30;1;GAI4_304;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 304, 3º Andar -  Bloco - 4 - Vita Felice;2020-04-22;58.86;1;Nenhuma característica relevante;0.000836;0.001989
+28.893.734/0001-66;2020-06-30;1;GAI5_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 5 - Vita Felice;2020-06-17;57.78;1;Nenhuma característica relevante;0.000836;0.001969
+28.893.734/0001-66;2020-06-30;1;GAI5_502;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 502, 5º Andar -  Bloco - 5 - Vita Felice;2020-04-23;57.78;1;Nenhuma característica relevante;0.000828;0.00197
+28.893.734/0001-66;2020-06-30;1;GAI5_505;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 505, 5º Andar -  Bloco - 5 - Vita Felice;2020-04-03;57.78;1;Nenhuma característica relevante;0.000829;0.001975
+28.893.734/0001-66;2020-06-30;1;GAI5_508;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 508, 5º Andar -  Bloco - 5 - Vita Felice;2020-05-27;70.83;1;Nenhuma característica relevante;0.000953;0.002254
+28.893.734/0001-66;2020-06-30;1;GAI5_601;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 601, 6º Andar -  Bloco - 5 - Vita Felice;2020-04-03;57.78;1;Nenhuma característica relevante;0.000829;0.001975
+28.893.734/0001-66;2020-06-30;1;GAI5_803;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 803, 8º Andar -  Bloco - 5 - Vita Felice;2020-06-18;58.86;1;Nenhuma característica relevante;0.000862;0.00203
+28.893.734/0001-66;2020-06-30;1;GAI5_903;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 903, 9º Andar -  Bloco - 5 - Vita Felice;2020-05-29;58.86;1;Nenhuma característica relevante;0.00087;0.002057
+28.893.734/0001-66;2020-06-30;1;GAI5_906;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 906, 9º Andar -  Bloco - 5 - Vita Felice;2020-05-14;57.78;1;Nenhuma característica relevante;0.000863;0.002043
+28.893.734/0001-66;2020-06-30;1;MAG2_92;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 92 - Apartamento Residencial;2020-05-07;97.76;1;Nenhuma característica relevante;0.002137;0.005074
+28.893.734/0001-66;2020-06-30;1;MAI1_14;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 14 - Apartamento Residencial;2020-04-15;98.67;1;Nenhuma característica relevante;0.002266;0.005399
+28.893.734/0001-66;2020-06-30;1;MAI2_13;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 13 - Apartamento Residencial;2020-06-01;121.18;1;Nenhuma característica relevante;0.002721;0.006427
+28.893.734/0001-66;2020-06-30;1;MAI2_14;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 14 - Apartamento Residencial;2020-05-07;121.18;1;Nenhuma característica relevante;0.002535;0.006021
+28.893.734/0001-66;2020-06-30;1;MAI2_22;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 22 - Apartamento Residencial;2020-06-24;121.18;1;Nenhuma característica relevante;0.002587;0.006089
+28.893.734/0001-66;2020-06-30;1;MAI2_23;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 23 - Apartamento Residencial;2020-06-01;121.18;1;Nenhuma característica relevante;0.002635;0.006224
+28.893.734/0001-66;2020-06-30;1;MAI2_24;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 24 - Apartamento Residencial;2020-04-30;121.18;1;Nenhuma característica relevante;0.002561;0.006089
+28.893.734/0001-66;2020-06-30;1;MAI2_191;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 191 - Apartamento Residencial;2020-06-16;121.18;1;Nenhuma característica relevante;0.002871;0.006765
+28.893.734/0001-66;2020-06-30;1;MAI3_64;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 64 - Apartamento Residencial;2020-06-10;146.26;1;Nenhuma característica relevante;0.003528;0.008321
+28.893.734/0001-66;2020-06-30;1;MAI3_111;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 111 - Apartamento Residencial;2020-06-22;146.26;1;Nenhuma característica relevante;0.003648;0.008592
+28.893.734/0001-66;2020-06-30;1;MAI3_122;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 122 - Apartamento Residencial;2020-04-28;146.26;1;Nenhuma característica relevante;0.003869;0.009201
+28.893.734/0001-66;2020-06-30;1;MAIG_119;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 119 - Vaga de Garagem;2020-04-03;12.50;1;Nenhuma característica relevante;8.5E-05;0.000203
+28.893.734/0001-66;2020-06-30;1;MAIG_205;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 205 - Vaga de Garagem;2020-05-05;12.50;1;Nenhuma característica relevante;0.000114;0.000271
+28.893.734/0001-66;2020-06-30;1;REN_102;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 102 - Apartamento Residencial;2020-04-17;155.00;1;Nenhuma característica relevante;0.0015;0.006765
+28.893.734/0001-66;2020-06-30;1;REN_1003;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1003 - Apartamento Residencial;2020-06-01;155.00;1;Nenhuma característica relevante;0.003163;0.007442
+28.893.734/0001-66;2020-06-30;1;REN_1703;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1703 - Apartamento Residencial;2020-04-17;155.00;1;Nenhuma característica relevante;0.00341;0.008118
+28.893.734/0001-66;2020-06-30;1;TAR_103;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 103 - Apartamento Residencial;2020-04-13;49.88;1;Nenhuma característica relevante;0.000738;0.001759
+28.893.734/0001-66;2020-06-30;1;TAR_805;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 805 - Apartamento Residencial;2020-05-20;49.88;1;Nenhuma característica relevante;0.001077;0.001881
+28.893.734/0001-66;2020-06-30;1;TAR_1003;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1003 - Apartamento Residencial;2020-06-09;49.88;1;Nenhuma característica relevante;0.000797;0.001881
+28.893.734/0001-66;2020-06-30;1;TAR_1704;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1704 - Apartamento Residencial;2020-06-23;49.88;1;Nenhuma característica relevante;0.001281;0.001881
+28.893.734/0001-66;2020-06-30;1;TAR_1705;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1705 - Apartamento Residencial;2020-06-04;49.88;1;Nenhuma característica relevante;0.022631;0.001894
+28.893.734/0001-66;2020-06-30;1;CEN_104B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 104 - 10 andar - Ribeirão Preto - SP;2020-06-19;140.77;1;Nenhuma característica relevante;0.003417;0.008051
+28.893.734/0001-66;2020-06-30;1;CEN_114B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 114 - 11 andar - Ribeirão Preto - SP;2020-06-10;140.77;1;Nenhuma característica relevante;0.003098;0.007307
+28.893.734/0001-66;2020-06-30;1;CEN_144B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 144 - 14 andar - Ribeirão Preto - SP;2020-05-06;140.77;1;Nenhuma característica relevante;0.003271;0.007307
+28.893.734/0001-66;2020-09-30;1;FELICITTA_72440;Rua Presidente Campos Salles, 1370, 1º Andar, Apto 14, Alto Ipiranga, Mogi das Cruzes - SP;2020-07-03;126.60;1;Nenhuma característica relevante.;0.003336;0.017644
+28.893.734/0001-66;2020-09-30;1;LUMIERE_75146;Avenida Engenheiro Miguel Gemma, 1399, 3º Andar, Apto 32, Socoro, Mogi das Cruzes - SP;2020-07-28;100.12;1;Nenhuma característica relevante.;0.002422;0.012776
+28.893.734/0001-66;2020-09-30;1;LUMIERE_75152;Avenida Engenheiro Miguel Gemma, 1399, 5º Andar, Apto 51, Socoro, Mogi das Cruzes - SP;2020-07-15;100.12;1;Nenhuma característica relevante.;0.002504;0.013233
+28.893.734/0001-66;2020-09-30;1;LUMIERE_75188;Avenida Engenheiro Miguel Gemma, 1399, 15º Andar, Apto 151, Socoro, Mogi das Cruzes - SP;2020-07-23;100.12;1;Nenhuma característica relevante.;0.002479;0.013081
+28.893.734/0001-66;2020-09-30;1;LUMIERE_75191;Avenida Engenheiro Miguel Gemma, 1399, 15º Andar, Apto 154, Socoro, Mogi das Cruzes - SP;2020-08-17;100.12;1;Nenhuma característica relevante.;0.002513;0.013233
+28.893.734/0001-66;2020-09-30;1;SELETTOD_158380;Av. Nossa Senhora do Carmo, 644 - Apto nº 1301 - 13 andar -Centro - Betim - MG;2020-07-30;72.18;1;Nenhuma característica relevante;0.001707;0.009004
+28.893.734/0001-66;2020-09-30;1;SELETTOD_158383;Av. Nossa Senhora do Carmo, 644 - Apto nº 1304 - 13 andar -Centro - Betim - MG;2020-08-12;72.18;1;Nenhuma característica relevante;0.001708;0.009004
+28.893.734/0001-66;2020-09-30;1;SELETTOD_158387;Av. Nossa Senhora do Carmo, 644 - Apto nº 1404 - 14 andar -Centro - Betim - MG;2020-07-30;72.18;1;Nenhuma característica relevante;0.001707;0.009004
+28.893.734/0001-66;2020-09-30;1;SELETTOD_158397;Av. Nossa Senhora do Carmo, 644 - Apto nº 1702 - 17 andar -Centro - Betim - MG;2020-08-28;72.18;1;Nenhuma característica relevante;0.001711;0.009004
+28.893.734/0001-66;2020-09-30;1;SELETTOD_158353;Av. Nossa Senhora do Carmo, 644 - Apto nº 602 - 6 andar -Centro - Betim - MG;2020-09-09;72.18;1;Nenhuma característica relevante;0.001581;0.008312
+28.893.734/0001-66;2020-09-30;1;SELETTOD_158366;Av. Nossa Senhora do Carmo, 644 - Apto nº 903 - 9 andar -Centro - Betim - MG;2020-08-03;72.18;1;Nenhuma característica relevante;0.001707;0.009004
+28.893.734/0001-66;2020-09-30;1;SELETTOS_158431;Av. Nossa Senhora do Carmo, 644 - Apto nº 1004 - 10 andar -Centro - Betim - MG;2020-09-14;84.36;1;Nenhuma característica relevante;0.001932;0.01016
+28.893.734/0001-66;2020-09-30;1;GAIA_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 1 - Vita Felice;2020-08-27;57.78;1;Nenhuma característica relevante;0.000842;0.004429
+28.893.734/0001-66;2020-09-30;1;GAIA_708;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 708, 7º Andar -  Bloco - 1 - Vita Felice;2020-07-07;70.83;1;Nenhuma característica relevante;0.001016;0.005375
+28.893.734/0001-66;2020-09-30;1;GAIA_803;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 803, 8º Andar -  Bloco - 1 - Vita Felice;2020-09-22;58.86;1;Nenhuma característica relevante;0.000878;0.004612
+28.893.734/0001-66;2020-09-30;1;GAI2_602;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 602, 6º Andar -  Bloco - 2 - Vita Felice;2020-08-11;57.78;1;Nenhuma característica relevante;0.00084;0.004426
+28.893.734/0001-66;2020-09-30;1;GAI2_905;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 905, 9º Andar -  Bloco - 2 - Vita Felice;2020-08-27;57.78;1;Nenhuma característica relevante;0.00087;0.004581
+28.893.734/0001-66;2020-09-30;1;GAI3_402;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 402, 4º Andar -  Bloco - 3 - Vita Felice;2020-09-22;57.78;1;Nenhuma característica relevante;0.000843;0.004426
+28.893.734/0001-66;2020-09-30;1;GAI3_404;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 404, 4º Andar -  Bloco - 3 - Vita Felice;2020-09-09;58.86;1;Nenhuma característica relevante;0.000848;0.004457
+28.893.734/0001-66;2020-09-30;1;GAI3_601;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 601, 6º Andar -  Bloco - 3 - Vita Felice;2020-09-02;57.78;1;Nenhuma característica relevante;0.000844;0.004441
+28.893.734/0001-66;2020-09-30;1;GAI3_602;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 602, 6º Andar -  Bloco - 3 - Vita Felice;2020-09-22;57.78;1;Nenhuma característica relevante;0.000843;0.004426
+28.893.734/0001-66;2020-09-30;1;GAI3_606;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 606, 6º Andar -  Bloco - 3 - Vita Felice;2020-09-22;57.78;1;Nenhuma característica relevante;0.000846;0.004441
+28.893.734/0001-66;2020-09-30;1;GAI3_904;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 904, 9º Andar -  Bloco - 3 - Vita Felice;2020-08-11;58.86;1;Nenhuma característica relevante;0.000874;0.004609
+28.893.734/0001-66;2020-09-30;1;GAI3_908;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 908, 9º Andar -  Bloco - 3 - Vita Felice;2020-07-21;70.83;1;Nenhuma característica relevante;0.001018;0.005378
+28.893.734/0001-66;2020-09-30;1;GAI4_305;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 305, 3º Andar -  Bloco - 4 - Vita Felice;2020-07-21;57.78;1;Nenhuma característica relevante;0.000839;0.004429
+28.893.734/0001-66;2020-09-30;1;GAI4_308;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 308, 3º Andar -  Bloco - 4 - Vita Felice;2020-09-16;70.83;1;Nenhuma característica relevante;0.000952;0.005004
+28.893.734/0001-66;2020-09-30;1;GAI4_905;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 905, 9º Andar -  Bloco - 4 - Vita Felice;2020-07-10;57.78;1;Nenhuma característica relevante;0.000869;0.004593
+28.893.734/0001-66;2020-09-30;1;GAI5_202;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 202, 2º Andar -  Bloco - 5 - Vita Felice;2020-08-18;57.78;1;Nenhuma característica relevante;0.000841;0.004426
+28.893.734/0001-66;2020-09-30;1;GAI5_503;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 503, 5º Andar -  Bloco - 5 - Vita Felice;2020-08-13;58.86;1;Nenhuma característica relevante;0.000849;0.004472
+28.893.734/0001-66;2020-09-30;1;GAI5_603;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 603, 6º Andar -  Bloco - 5 - Vita Felice;2020-08-13;58.86;1;Nenhuma característica relevante;0.000849;0.004472
+28.893.734/0001-66;2020-09-30;1;MAI2_32;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 32 - Apartamento Residencial;2020-09-08;121.18;1;Nenhuma característica relevante;0.00269;0.014145
+28.893.734/0001-66;2020-09-30;1;MAI3_22;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 22 - Apartamento Residencial;2020-07-15;146.26;1;Nenhuma característica relevante;0.003368;0.017796
+28.893.734/0001-66;2020-09-30;1;MAI3_43;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 43 - Apartamento Residencial;2020-08-04;146.26;1;Nenhuma característica relevante;0.00352;0.018556
+28.893.734/0001-66;2020-09-30;1;MAI3_91;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 91 - Apartamento Residencial;2020-07-03;146.26;1;Nenhuma característica relevante;0.003566;0.01886
+28.893.734/0001-66;2020-09-30;1;MAI3_191;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 191 - Apartamento Residencial;2020-09-22;146.26;1;Nenhuma característica relevante;0.003794;0.019925
+28.893.734/0001-66;2020-09-30;1;MAIG_115;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 115 - Vaga de Garagem;2020-09-08;12.50;1;Nenhuma característica relevante;8.7E-05;0.000456
+28.893.734/0001-66;2020-09-30;1;TAR_307;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 307 - Apartamento Residencial;2020-07-10;64.70;1;Nenhuma característica relevante;0.001208;0.006388
+28.893.734/0001-66;2020-09-30;1;TAR_903;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 903 - Apartamento Residencial;2020-07-22;49.88;1;Nenhuma característica relevante;0.000801;0.004228
+28.893.734/0001-66;2020-09-30;1;TAR_1105;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1105 - Apartamento Residencial;2020-08-31;49.88;1;Nenhuma característica relevante;0.000804;0.004228
+28.893.734/0001-66;2020-09-30;1;TAR_1505;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1505 - Apartamento Residencial;2020-07-28;49.88;1;Nenhuma característica relevante;0.000802;0.004228
+28.893.734/0001-66;2020-09-30;1;TAR_1603;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1603 - Apartamento Residencial;2020-07-22;49.88;1;Nenhuma característica relevante;0.000801;0.004228
+28.893.734/0001-66;2020-09-30;1;CEN_164B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 164 - 16 andar - Ribeirão Preto - SP;2020-08-27;140.77;1;Nenhuma característica relevante;0.003237;0.017035
+28.893.734/0001-66;2020-12-31;1;ALLEGRO_86426;Rua Capitão Paulino Freire, 300, 16º Andar, Apto 163, Centro, Mogi das Cruzes - SP;2020-10-26;70.76;1;Nenhuma característica relevante.;0.001946;0.012499
+28.893.734/0001-66;2020-12-31;1;ALLEGRO_86430;Rua Capitão Paulino Freire, 300, 17º Andar, Apto 173, Centro, Mogi das Cruzes - SP;2020-11-03;70.76;1;Nenhuma característica relevante.;0.001977;0.012686
+28.893.734/0001-66;2020-12-31;1;LUMIERE_75160;Avenida Engenheiro Miguel Gemma, 1399, 7º Andar, Apto 71, Socoro, Mogi das Cruzes - SP;2020-10-21;100.12;1;Nenhuma característica relevante.;0.002438;0.015671
+28.893.734/0001-66;2020-12-31;1;SELETTOD_158371;Av. Nossa Senhora do Carmo, 644 - Apto nº 1004 - 10 andar -Centro - Betim - MG;2020-12-15;72.18;1;Nenhuma característica relevante;0.001726;0.011044
+28.893.734/0001-66;2020-12-31;1;SELETTOD_158396;Av. Nossa Senhora do Carmo, 644 - Apto nº 1701 - 17 andar -Centro - Betim - MG;2020-12-21;72.18;1;Nenhuma característica relevante;0.001727;0.011044
+28.893.734/0001-66;2020-12-31;1;SELETTOD_158345;Av. Nossa Senhora do Carmo, 644 - Apto nº 402 - 4 andar -Centro - Betim - MG;2020-11-26;72.18;1;Nenhuma característica relevante;0.001607;0.010298
+28.893.734/0001-66;2020-12-31;1;SELETTOD_158357;Av. Nossa Senhora do Carmo, 644 - Apto nº 702 - 7 andar -Centro - Betim - MG;2020-12-15;72.18;1;Nenhuma característica relevante;0.001609;0.010298
+28.893.734/0001-66;2020-12-31;1;SELETTOD_158361;Av. Nossa Senhora do Carmo, 644 - Apto nº 802 - 8 andar -Centro - Betim - MG;2020-12-15;72.18;1;Nenhuma característica relevante;0.001609;0.010298
+28.893.734/0001-66;2020-12-31;1;SELETTOD_158367;Av. Nossa Senhora do Carmo, 644 - Apto nº 904 - 9 andar -Centro - Betim - MG;2020-11-20;72.18;1;Nenhuma característica relevante;0.001723;0.011044
+28.893.734/0001-66;2020-12-31;1;SELETTOS_158438;Av. Nossa Senhora do Carmo, 644 - Apto nº 1203 - 12 andar -Centro - Betim - MG;2020-10-09;84.36;1;Nenhuma característica relevante;0.001798;0.011567
+28.893.734/0001-66;2020-12-31;1;GAIA_504;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 504, 5º Andar -  Bloco - 1 - Vita Felice;2020-11-03;58.86;1;Nenhuma característica relevante;0.000852;0.00547
+28.893.734/0001-66;2020-12-31;1;GAI2_704;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 704, 7º Andar -  Bloco - 2 - Vita Felice;2020-12-22;58.86;1;Nenhuma característica relevante;0.000885;0.005656
+28.893.734/0001-66;2020-12-31;1;GAI3_702;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 702, 7º Andar -  Bloco - 3 - Vita Felice;2020-12-22;57.78;1;Nenhuma característica relevante;0.000878;0.005615
+28.893.734/0001-66;2020-12-31;1;GAI3_901;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 901, 9º Andar -  Bloco - 3 - Vita Felice;2020-10-06;57.78;1;Nenhuma característica relevante;0.000874;0.005627
+28.893.734/0001-66;2020-12-31;1;GAI4_206;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 206, 2º Andar -  Bloco - 4 - Vita Felice;2020-11-20;57.78;1;Nenhuma característica relevante;0.000847;0.005429
+28.893.734/0001-66;2020-12-31;1;GAI4_605;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 605, 6º Andar -  Bloco - 4 - Vita Felice;2020-10-26;57.78;1;Nenhuma característica relevante;0.000848;0.005448
+28.893.734/0001-66;2020-12-31;1;GAI5_205;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 205, 2º Andar -  Bloco - 5 - Vita Felice;2020-11-20;57.78;1;Nenhuma característica relevante;0.000847;0.005429
+28.893.734/0001-66;2020-12-31;1;GAI5_305;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 305, 3º Andar -  Bloco - 5 - Vita Felice;2020-12-07;57.78;1;Nenhuma característica relevante;0.000849;0.005433
+28.893.734/0001-66;2020-12-31;1;GAI5_705;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 705, 7º Andar -  Bloco - 5 - Vita Felice;2020-12-22;57.78;1;Nenhuma característica relevante;0.000881;0.005634
+28.893.734/0001-66;2020-12-31;1;GAI5_706;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 706, 7º Andar -  Bloco - 5 - Vita Felice;2020-12-22;57.78;1;Nenhuma característica relevante;0.000881;0.005634
+28.893.734/0001-66;2020-12-31;1;MAI2_12;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 12 - Apartamento Residencial;2020-10-06;121.18;1;Nenhuma característica relevante;0.002608;0.01679
+28.893.734/0001-66;2020-12-31;1;MAI3_14;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 14 - Apartamento Residencial;2020-11-05;146.26;1;Nenhuma característica relevante;0.003258;0.020895
+28.893.734/0001-66;2020-12-31;1;MAI3_101;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 101 - Apartamento Residencial;2020-11-27;146.26;1;Nenhuma característica relevante;0.003698;0.023693
+28.893.734/0001-66;2020-12-31;1;MAI3_142;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 142 - Apartamento Residencial;2020-10-05;146.26;1;Nenhuma característica relevante;0.003765;0.024253
+28.893.734/0001-66;2020-12-31;1;MAI3_152;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 152 - Apartamento Residencial;2020-11-13;146.26;1;Nenhuma característica relevante;0.003799;0.024365
+28.893.734/0001-66;2020-12-31;1;MAI3_181;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 181 - Apartamento Residencial;2020-12-17;146.26;1;Nenhuma característica relevante;0.00382;0.024439
+28.893.734/0001-66;2020-12-31;1;EASY408;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 408 - Apartamento Residencial;2020-10-20;96.62;1;Nenhuma característica relevante;0.002611;0.01679
+28.893.734/0001-66;2020-12-31;1;EASY1204;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1204 - Apartamento Residencial;2020-12-07;94.68;1;Nenhuma característica relevante;0.002739;0.017537
+28.893.734/0001-66;2020-12-31;1;TAR_105;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 105 - Apartamento Residencial;2020-11-24;49.88;1;Nenhuma característica relevante;0.000809;0.005186
+28.893.734/0001-66;2020-12-31;1;TAR_1703;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1703 - Apartamento Residencial;2020-11-24;49.88;1;Nenhuma característica relevante;0.000809;0.005186
+28.893.734/0001-66;2020-12-31;1;CEN_13B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 13 - 1 andar - Ribeirão Preto - SP;2020-12-17;140.77;1;Nenhuma característica relevante;0.002887;0.018469
+28.893.734/0001-66;2020-12-31;1;CEN_14B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 14 - 1 andar - Ribeirão Preto - SP;2020-10-13;140.77;1;Nenhuma característica relevante;0.002842;0.018283
+28.893.734/0001-66;2020-12-31;1;CEN_23B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 23 - 2 andar - Ribeirão Preto - SP;2020-10-08;140.77;1;Nenhuma característica relevante;0.002841;0.018283
+28.893.734/0001-66;2020-12-31;1;CEN_182B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 182 - 18 andar - Ribeirão Preto - SP;2020-11-03;240.47;1;Nenhuma característica relevante;0.004739;0.030409
+31.145.875/0001-05;2020-09-30;1;Morumbi;Avenida Morumbi n° 8.234, Itaim Bibi, na cidade de  São Paulo, Estado de São Paulo. Edifício Morumbi.;2020-07-23;10050.3;12;NA;0.1463;0.3319
+32.655.589/0001-52;2020-03-31;1;AUT103_1;Av. Mario Ypiranga, 939, Bloco 1, Ap. 103, Adrianópolis, Manaus - AM;2020-02-14;140.70;1;Nenhuma caracteristica relevante.;0.003902;0.00347
+32.655.589/0001-52;2020-03-31;1;AUT202_1;Av. Mario Ypiranga, 939, Bloco 1, Ap. 202, Adrianópolis, Manaus - AM;2020-02-26;140.70;1;Nenhuma caracteristica relevante.;0.003499;0.00347
+32.655.589/0001-52;2020-03-31;1;AUT102_2;Av. Mario Ypiranga, 939, Bloco 2, Ap. 102, Adrianópolis, Manaus - AM;2020-03-20;140.70;1;Nenhuma caracteristica relevante.;0.003498;0.003442
+32.655.589/0001-52;2020-03-31;1;TER203_1;Rua Rio guamá, 482, Bloco 1, Ap. 203, Nossa Senhora das Graças, Manaus - AM;2020-02-21;145.74;1;Nenhuma caracteristica relevante.;0.003503;0.00347
+32.655.589/0001-52;2020-03-31;1;TER204_1;Rua Rio guamá, 482, Bloco 1, Ap. 204, Nossa Senhora das Graças, Manaus - AM;2020-02-13;145.74;1;Nenhuma caracteristica relevante.;0.0039;0.00347
+32.655.589/0001-52;2020-03-31;1;TER701_1;Rua Rio guamá, 482, Bloco 1, Ap. 701, Nossa Senhora das Graças, Manaus - AM;2020-03-25;145.74;1;Nenhuma caracteristica relevante.;0.003586;0.003526
+32.655.589/0001-52;2020-03-31;1;TE1203_1;Rua Rio guamá, 482, Bloco 1, Ap. 1203, Nossa Senhora das Graças, Manaus - AM;2020-02-13;286.70;1;Nenhuma caracteristica relevante.;0.007234;0.006436
+32.655.589/0001-52;2020-03-31;1;VH_503_A;Lote 5, Quadra C 02 Torre_A, Ap. 503 - Alphaville Residencial I - Cidade Ocidental - GO;2020-03-12;91.47;1;Nenhuma característica relevante;0.001535;0.001511
+32.655.589/0001-52;2020-03-31;1;VH_504_A;Lote 5, Quadra C 02 Torre_A, Ap. 504 - Alphaville Residencial I - Cidade Ocidental - GO;2020-02-18;91.51;1;Nenhuma característica relevante;0.00167;0.001485
+32.655.589/0001-52;2020-03-31;1;ESSE_62;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 62 Suzano-SP;2020-01-22;130.89;1;Nenhuma caracteristica relevante.;0.004207;0.003733
+32.655.589/0001-52;2020-03-31;1;ESSE_111;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 111 Suzano-SP;2020-02-13;130.89;1;Nenhuma caracteristica relevante.;0.004309;0.003833
+32.655.589/0001-52;2020-03-31;1;ESSE_132;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 132 Suzano-SP;2020-01-16;130.89;1;Nenhuma caracteristica relevante.;0.004426;0.003928
+32.655.589/0001-52;2020-03-31;1;ESSE_161;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 161 Suzano-SP;2020-02-13;130.89;1;Nenhuma caracteristica relevante.;0.004356;0.003875
+32.655.589/0001-52;2020-03-31;1;ESSE_181;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 181 Suzano-SP;2020-02-13;130.89;1;Nenhuma caracteristica relevante.;0.004403;0.003917
+32.655.589/0001-52;2020-03-31;1;CC_401A;Av. Constelação, S/N , Ap. 401A Bloco Coral Terrace, Manaus - AM;2020-02-27;117.70;1;Nenhuma característica relevante;0.003103;0.003078
+32.655.589/0001-52;2020-03-31;1;IMP_124A;Alameda Meyer J. Nigri, 215, Torre A Ap. 124 - Suzano-SP;2020-03-23;94.48;1;Nenhuma característica relevante.;0.002163;0.002127
+32.655.589/0001-52;2020-03-31;1;SLO_209;Avenida Governados Valadares, 851,  Sala 209 - Nossa Senhora do Carmo, Betim / MG;2020-02-12;28.12;1;Nenhuma característica relevante;0.00084;0.000748
+32.655.589/0001-52;2020-03-31;1;SLO_504;Avenida Governados Valadares, 851,  Sala 504 - Nossa Senhora do Carmo, Betim / MG;2020-02-07;28.12;1;Nenhuma característica relevante;0.00084;0.000748
+32.655.589/0001-52;2020-03-31;1;SLO_1005;Avenida Governados Valadares, 851,  Sala 1005 - Nossa Senhora do Carmo, Betim / MG;2020-02-12;28.36;1;Nenhuma característica relevante;0.00083;0.000739
+32.655.589/0001-52;2020-03-31;1;SLO_1006;Avenida Governados Valadares, 851,  Sala 1006 - Nossa Senhora do Carmo, Betim / MG;2020-02-13;29.27;1;Nenhuma característica relevante;0.00083;0.000739
+32.655.589/0001-52;2020-03-31;1;SLO_1007;Avenida Governados Valadares, 851,  Sala 1007 - Nossa Senhora do Carmo, Betim / MG;2020-02-10;29.27;1;Nenhuma característica relevante;0.00083;0.000739
+32.655.589/0001-52;2020-03-31;1;SLO_1008;Avenida Governados Valadares, 851,  Sala 1008 - Nossa Senhora do Carmo, Betim / MG;2020-02-10;28.36;1;Nenhuma característica relevante;0.00083;0.000739
+32.655.589/0001-52;2020-03-31;1;SLO_G007;Avenida Governados Valadares, 851,  G007 - Nossa Senhora do Carmo, Betim / MG;2020-02-07;24.62;1;Nenhuma característica relevante;9.3E-05;8.3E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G009;Avenida Governados Valadares, 851,  G009 - Nossa Senhora do Carmo, Betim / MG;2020-02-13;24.62;1;Nenhuma característica relevante;6.3E-05;5.6E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G011;Avenida Governados Valadares, 851,  G011 - Nossa Senhora do Carmo, Betim / MG;2020-02-12;24.62;1;Nenhuma característica relevante;9.4E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G012;Avenida Governados Valadares, 851,  G012 - Nossa Senhora do Carmo, Betim / MG;2020-02-12;24.62;1;Nenhuma característica relevante;9.4E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G023;Avenida Governados Valadares, 851,  G023 - Nossa Senhora do Carmo, Betim / MG;2020-02-10;24.62;1;Nenhuma característica relevante;6.3E-05;5.6E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G024;Avenida Governados Valadares, 851,  G024 - Nossa Senhora do Carmo, Betim / MG;2020-02-10;24.62;1;Nenhuma característica relevante;6.3E-05;5.6E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G036;Avenida Governados Valadares, 851,  G036 - Nossa Senhora do Carmo, Betim / MG;2020-01-23;24.62;1;Nenhuma característica relevante;9.5E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G037;Avenida Governados Valadares, 851,  G037 - Nossa Senhora do Carmo, Betim / MG;2020-01-23;24.62;1;Nenhuma característica relevante;9.5E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G038;Avenida Governados Valadares, 851,  G038 - Nossa Senhora do Carmo, Betim / MG;2020-01-23;24.62;1;Nenhuma característica relevante;9.5E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G059;Avenida Governados Valadares, 851,  G059 - Nossa Senhora do Carmo, Betim / MG;2020-01-21;24.62;1;Nenhuma característica relevante;9.5E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;SLO_G063;Avenida Governados Valadares, 851,  G063 - Nossa Senhora do Carmo, Betim / MG;2020-01-23;24.62;1;Nenhuma característica relevante;9.5E-05;8.4E-05
+32.655.589/0001-52;2020-03-31;1;NYT_1019;Avenida Brasilia nº 2121, Sala 1019 - Vila São Paulo, Araçatuba-SP;2020-02-03;42.74;1;Não possui características relevantes;0.001505;0.001339
+32.655.589/0001-52;2020-03-31;1;NYT_1020;Avenida Brasilia nº 2121, Sala 1020 - Vila São Paulo, Araçatuba-SP;2020-02-03;42.74;1;Não possui características relevantes;0.001505;0.001339
+32.655.589/0001-52;2020-03-31;1;NYT_2014;Avenida Brasilia nº 2121, Sala 2014 - Vila São Paulo, Araçatuba-SP;2020-03-30;42.74;1;Não possui características relevantes;0.001338;0.001315
+32.655.589/0001-52;2020-03-31;1;AL_1001C;Rua Bernardo Giumarães, 105 Sala 1001- Vila Boa Vista, Sorocaba-SP;2020-03-10;41.47;1;Nenhuma caracteristica relevante.;0.000717;0.000705
+32.655.589/0001-52;2020-03-31;1;CC_1702B;Avenida José de Arimatéia, 1001 Bloco Fisher Island Ap.1702 B - Aleixo, Manaus-AM;2020-02-20;134.97;1;Nenhuma caracteristica relevante.;0.004012;0.003569
+32.655.589/0001-52;2020-03-31;1;KEY302A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.302 A - Aleixo, Manaus-AM;2020-02-20;98.92;1;Nenhuma caracteristica relevante.;0.002831;0.002518
+32.655.589/0001-52;2020-03-31;1;KEY801B;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.801 B - Aleixo, Manaus-AM;2020-01-28;72.66;1;Nenhuma caracteristica relevante.;0.002107;0.001875
+32.655.589/0001-52;2020-03-31;1;UN_101B;Avenida Via Láctea, 640 BlocoSpecial Ap.101 B - Aleixo, Manaus-AM;2020-02-18;202.85;1;Nenhuma caracteristica relevante.;0.006248;0.005557
+32.655.589/0001-52;2020-06-30;1;AUT102_1;Av. Mario Ypiranga, 939, Bloco 1, Ap. 102, Adrianópolis, Manaus - AM;2020-05-27;140.70;1;Nenhuma caracteristica relevante.;0.003041;0.002606
+32.655.589/0001-52;2020-06-30;1;TER202_1;Rua Rio guamá, 482, Bloco 1, Ap. 202, Nossa Senhora das Graças, Manaus - AM;2020-04-02;145.74;1;Nenhuma caracteristica relevante.;0.003557;0.002648
+32.655.589/0001-52;2020-06-30;1;TER401_1;Rua Rio guamá, 482, Bloco 1, Ap. 401, Nossa Senhora das Graças, Manaus - AM;2020-06-03;145.74;1;Nenhuma caracteristica relevante.;0.00311;0.002669
+32.655.589/0001-52;2020-06-30;1;DOTO_808;Rua Barão Geraldo de Resende, 97, Sala 808 Guanabara, Campinas - SP;2020-06-23;40.78;1;Nenhuma caracteristica relevante.;0.001031;0.00095
+32.655.589/0001-52;2020-06-30;1;DOTO1011;Rua Barão Geraldo de Resende, 97, Sala 1011 Guanabara, Campinas - SP;2020-06-19;40.17;1;Nenhuma caracteristica relevante.;0.000929;0.000856
+32.655.589/0001-52;2020-06-30;1;VH_1103A;Lote 5, Quadra C 02 Torre_A, Ap. 1103 - Alphaville Residencial I - Cidade Ocidental - GO;2020-06-17;91.47;1;Nenhuma característica relevante;0.001196;0.001102
+32.655.589/0001-52;2020-06-30;1;VH_1303A;Lote 5, Quadra C 02 Torre_A, Ap. 1303 - Alphaville Residencial I - Cidade Ocidental - GO;2020-06-01;91.47;1;Nenhuma característica relevante;0.001328;0.00114
+32.655.589/0001-52;2020-06-30;1;VH_306_B;Lote 5, Quadra C 02 Torre_B, Ap. 306 - Alphaville Residencial I - Cidade Ocidental - GO;2020-04-23;70.37;1;Nenhuma característica relevante;0.001171;0.000872
+32.655.589/0001-52;2020-06-30;1;VH_403_A;Lote 5, Quadra C 02 Torre_A, Ap. 403 - Alphaville Residencial I - Cidade Ocidental - GO;2020-04-15;91.47;1;Nenhuma característica relevante;0.001508;0.001123
+32.655.589/0001-52;2020-06-30;1;VH_405_B;Lote 5, Quadra C 02 Torre_B, Ap. 405 - Alphaville Residencial I - Cidade Ocidental - GO;2020-06-22;70.45;1;Nenhuma característica relevante;0.000952;0.000877
+32.655.589/0001-52;2020-06-30;1;VH_502_A;Lote 5, Quadra C 02 Torre_A, Ap. 502 - Alphaville Residencial I - Cidade Ocidental - GO;2020-06-23;125.66;1;Nenhuma característica relevante;0.001747;0.00161
+32.655.589/0001-52;2020-06-30;1;VH_905_B;Lote 5, Quadra C 02 Torre_B, Ap. 905 - Alphaville Residencial I - Cidade Ocidental - GO;2020-04-22;70.45;1;Nenhuma característica relevante;0.001177;0.000876
+32.655.589/0001-52;2020-06-30;1;ESSE_44;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 44 Suzano-SP;2020-06-24;135.84;1;Nenhuma caracteristica relevante.;0.003247;0.002992
+32.655.589/0001-52;2020-06-30;1;VH1703_B;Lote 5, Quadra C 02 Torre_B, Ap. 1703 - Alphaville Residencial I - Cidade Ocidental - GO;2020-06-19;70.44;1;Nenhuma característica relevante;0.000956;0.000881
+32.655.589/0001-52;2020-06-30;1;CC_102B;Av. Constelação, S/N , Ap. 102B Bloco Fisher Island, Manaus - AM;2020-05-29;134.97;1;Nenhuma característica relevante;0.002957;0.002538
+32.655.589/0001-52;2020-06-30;1;CC_702B;Av. Constelação, S/N , Ap. 702B Bloco Fisher Island, Manaus - AM;2020-05-26;134.97;1;Nenhuma característica relevante;0.003213;0.002754
+32.655.589/0001-52;2020-06-30;1;CC_1602B;Av. Constelação, S/N , Ap. 1602B Bloco Fisher Island, Manaus - AM;2020-05-27;134.97;1;Nenhuma característica relevante;0.00318;0.002725
+32.655.589/0001-52;2020-06-30;1;IMP_163B;Alameda Meyer J. Nigri, 215, Torre B Ap. 163 - Suzano-SP;2020-05-12;181.86;1;Nenhuma característica relevante.;0.003067;0.002629
+32.655.589/0001-52;2020-06-30;1;SLO_208;Avenida Governados Valadares, 851,  Sala 208 - Nossa Senhora do Carmo, Betim / MG;2020-06-17;28.36;1;Nenhuma característica relevante;0.000615;0.000566
+32.655.589/0001-52;2020-06-30;1;EB_402;Avenida São Rafael, nº 1.405, Sala 402 - São Marcos, Salvador-BA;2020-06-30;30.08;1;Nenhuma característica relevante;0.000447;0.000445
+32.655.589/0001-52;2020-06-30;1;SLO_1009;Avenida Governados Valadares, 851,  Sala 1009 - Nossa Senhora do Carmo, Betim / MG;2020-06-17;28.12;1;Nenhuma característica relevante;0.000615;0.000566
+32.655.589/0001-52;2020-06-30;1;SLO_1205;Avenida Governados Valadares, 851,  Sala 1205 - Nossa Senhora do Carmo, Betim / MG;2020-06-18;28.36;1;Nenhuma característica relevante;0.000621;0.000572
+32.655.589/0001-52;2020-06-30;1;SLO_1206;Avenida Governados Valadares, 851,  Sala 1206 - Nossa Senhora do Carmo, Betim / MG;2020-06-18;29.27;1;Nenhuma característica relevante;0.000621;0.000572
+32.655.589/0001-52;2020-06-30;1;SLO_1207;Avenida Governados Valadares, 851,  Sala 1207 - Nossa Senhora do Carmo, Betim / MG;2020-06-18;29.27;1;Nenhuma característica relevante;0.000621;0.000572
+32.655.589/0001-52;2020-06-30;1;SLO_1208;Avenida Governados Valadares, 851,  Sala 1208 - Nossa Senhora do Carmo, Betim / MG;2020-06-18;28.36;1;Nenhuma característica relevante;0.000621;0.000572
+32.655.589/0001-52;2020-06-30;1;EB_1004;Avenida São Rafael, nº 1.405, Sala 1004 - São Marcos, Salvador-BA;2020-06-09;30.90;1;Nenhuma característica relevante;0.000538;0.000462
+32.655.589/0001-52;2020-06-30;1;SLO_G010;Avenida Governados Valadares, 851,  G010 - Nossa Senhora do Carmo, Betim / MG;2020-06-17;24.62;1;Nenhuma característica relevante;6.9E-05;6.4E-05
+32.655.589/0001-52;2020-06-30;1;NYT_1116;Avenida Brasilia nº 2121, Sala 1116 - Vila São Paulo, Araçatuba-SP;2020-06-18;53.03;1;Não possui características relevantes;0.001317;0.001213
+32.655.589/0001-52;2020-06-30;1;NYT_1117;Avenida Brasilia nº 2121, Sala 1117 - Vila São Paulo, Araçatuba-SP;2020-06-18;65.66;1;Não possui características relevantes;0.00163;0.001502
+32.655.589/0001-52;2020-06-30;1;NYT_1118;Avenida Brasilia nº 2121, Sala 1118 - Vila São Paulo, Araçatuba-SP;2020-06-18;62.70;1;Não possui características relevantes;0.001557;0.001435
+32.655.589/0001-52;2020-06-30;1;NYT_1313;Avenida Brasilia nº 2121, Sala 1313 - Vila São Paulo, Araçatuba-SP;2020-05-05;42.74;1;Não possui características relevantes;0.001087;0.000932
+32.655.589/0001-52;2020-06-30;1;NYT_1315;Avenida Brasilia nº 2121, Sala 1315 - Vila São Paulo, Araçatuba-SP;2020-04-03;45.40;1;Não possui características relevantes;0.001421;0.001058
+32.655.589/0001-52;2020-06-30;1;NYT_1418;Avenida Brasilia nº 2121, Sala 1418 - Vila São Paulo, Araçatuba-SP;2020-05-22;62.70;1;Não possui características relevantes;0.001519;0.001302
+32.655.589/0001-52;2020-06-30;1;NYT_1419;Avenida Brasilia nº 2121, Sala 1419 - Vila São Paulo, Araçatuba-SP;2020-05-22;42.74;1;Não possui características relevantes;0.001036;0.000887
+32.655.589/0001-52;2020-06-30;1;NYT_1502;Avenida Brasilia nº 2121, Sala 1502 - Vila São Paulo, Araçatuba-SP;2020-06-22;42.74;1;Não possui características relevantes;0.000982;0.000905
+32.655.589/0001-52;2020-06-30;1;NYT_1503;Avenida Brasilia nº 2121, Sala 1503 - Vila São Paulo, Araçatuba-SP;2020-06-22;42.74;1;Não possui características relevantes;0.000982;0.000905
+32.655.589/0001-52;2020-06-30;1;AL_10BV;Rua Bernardo Giumarães, 105 Vaga 10- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_11BV;Rua Bernardo Giumarães, 105 Vaga 11- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_12BV;Rua Bernardo Giumarães, 105 Vaga 12- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_13BV;Rua Bernardo Giumarães, 105 Vaga 13- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_148BV;Rua Bernardo Giumarães, 105 Vaga 148- Vila Boa Vista, Sorocaba-SP;2020-06-30;10.35;1;Nenhuma característica relevante.;2.6E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_14BV;Rua Bernardo Giumarães, 105 Vaga 14- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma característica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_155BV;Rua Bernardo Giumarães, 105 Vaga 155- Vila Boa Vista, Sorocaba-SP;2020-06-24;10.35;1;Nenhuma caracteristica relevante.;5E-06;4E-06
+32.655.589/0001-52;2020-06-30;1;AL_156BV;Rua Bernardo Giumarães, 105 Vaga 156- Vila Boa Vista, Sorocaba-SP;2020-06-24;10.35;1;Nenhuma caracteristica relevante.;5E-06;4E-06
+32.655.589/0001-52;2020-06-30;1;AL_15BV;Rua Bernardo Giumarães, 105 Vaga 15- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_16BV;Rua Bernardo Giumarães, 105 Vaga 16- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_17BV;Rua Bernardo Giumarães, 105 Vaga 17- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_1BV;Rua Bernardo Giumarães, 105 Vaga 1- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_2BV;Rua Bernardo Giumarães, 105 Vaga 2- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma característica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_3BV;Rua Bernardo Giumarães, 105 Vaga 3- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_4BV;Rua Bernardo Giumarães, 105 Vaga 4- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_510B;Rua Bernardo Giumarães, 105 Sala 510- Vila Boa Vista, Sorocaba-SP;2020-06-30;44.59;1;Nenhuma caracteristica relevante.;0.00059;0.000587
+32.655.589/0001-52;2020-06-30;1;AL_5BV;Rua Bernardo Giumarães, 105 Vaga 5- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_6BV;Rua Bernardo Giumarães, 105 Vaga 6- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_7BV;Rua Bernardo Giumarães, 105 Vaga 7- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_8BV;Rua Bernardo Giumarães, 105 Vaga 8- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Nenhuma caracteristica relevante.;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;AL_9BV;Rua Bernardo Giumarães, 105 Vaga 9- Vila Boa Vista, Sorocaba-SP;2020-06-12;10.35;1;Rua Bernardo Giumarães, 105 Vaga 9- Vila Boa Vista, Sorocaba-SP;2.8E-05;2.5E-05
+32.655.589/0001-52;2020-06-30;1;CC_1402B;Avenida José de Arimatéia, 1001 Bloco Fisher Island Ap.1402 B - Aleixo, Manaus-AM;2020-06-01;134.97;1;Nenhuma caracteristica relevante.;0.003106;0.002666
+32.655.589/0001-52;2020-06-30;1;KE1203BV;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.1203 B - Aleixo, Manaus-AM;2020-06-09;98.92;1;Nenhuma caracteristica relevante.;0.002271;0.001949
+32.655.589/0001-52;2020-06-30;1;KEY1001B;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.1001 B - Aleixo, Manaus-AM;2020-05-27;73.25;1;Nenhuma caracteristica relevante.;0.001681;0.001441
+32.655.589/0001-52;2020-06-30;1;KEY1503B;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.1503 B - Aleixo, Manaus-AM;2020-06-30;98.92;1;Nenhuma caracteristica relevante.;0.00202;0.00201
+32.655.589/0001-52;2020-06-30;1;KEY1703A;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.1703 A - Aleixo, Manaus-AM;2020-05-27;98.92;1;Nenhuma caracteristica relevante.;0.002344;0.002008
+32.655.589/0001-52;2020-06-30;1;KEY1802B;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.1802 B - Aleixo, Manaus-AM;2020-06-30;98.83;1;Nenhuma caracteristica relevante.;0.00198;0.00197
+32.655.589/0001-52;2020-06-30;1;KEY1803B;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.1803 B - Aleixo, Manaus-AM;2020-06-03;98.92;1;Nenhuma caracteristica relevante.;0.002295;0.00197
+32.655.589/0001-52;2020-06-30;1;KEY601A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.601 A - Aleixo, Manaus-AM;2020-06-29;72.66;1;Nenhuma caracteristica relevante.;0.001448;0.001441
+32.655.589/0001-52;2020-06-30;1;KEY701A;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.701 A - Aleixo, Manaus-AM;2020-06-22;73.25;1;Nenhuma caracteristica relevante.;0.001563;0.001441
+32.655.589/0001-52;2020-06-30;1;VP_108A;Rua Desportista Jeremias da Câmara Filho, 270 BlocoRoyal Park West Ap.108 A- Ponta Negra, Natal-RN;2020-05-22;69.13;1;Nenhuma caracteristica relevante.;0.001014;0.000869
+32.655.589/0001-52;2020-09-30;1;VH_1301A;Lote 5, Quadra C 02 Torre_A, Ap. 1301 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-29;125.22;1;Nenhuma característica relevante;0.001609;0.001618
+32.655.589/0001-52;2020-09-30;1;AL_903C;Rua Bernardo Giumarães, 105 Sala 903- Vila Boa Vista, Sorocaba-SP;2020-09-29;41.27;1;Nenhuma caracteristica relevante.;0.000557;0.00056
+32.655.589/0001-52;2020-09-30;1;AL_904C;Rua Bernardo Giumarães, 105 Sala 904- Vila Boa Vista, Sorocaba-SP;2020-09-29;41.27;1;Nenhuma caracteristica relevante.;0.000519;0.000522
+32.655.589/0001-52;2020-09-30;1;AL_164BV;Rua Bernardo Giumarães, 105 Vaga 164- Vila Boa Vista, Sorocaba-SP;2020-09-29;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_165BV;Rua Bernardo Giumarães, 105 Vaga 165- Vila Boa Vista, Sorocaba-SP;2020-09-29;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;DOTH_158;Rua Barão Geraldo de Resende, 97, Ap. 158 Guanabara, Campinas - SP;2020-09-14;47.63;1;Nenhuma caracteristica relevante.;0.001047;0.001053
+32.655.589/0001-52;2020-09-30;1;DOTO_603;Rua Barão Geraldo de Resende, 97, Sala 603 Guanabara, Campinas - SP;2020-08-10;40.17;1;Nenhuma caracteristica relevante.;0.00083;0.000822
+32.655.589/0001-52;2020-09-30;1;DOTO_910;Rua Barão Geraldo de Resende, 97, Sala 910 Guanabara, Campinas - SP;2020-08-26;40.17;1;Nenhuma caracteristica relevante.;0.000837;0.000843
+32.655.589/0001-52;2020-09-30;1;DOTO1010;Rua Barão Geraldo de Resende, 97, Sala 1010 Guanabara, Campinas - SP;2020-07-23;40.17;1;Nenhuma caracteristica relevante.;0.000859;0.000851
+32.655.589/0001-52;2020-09-30;1;VH_1003A;Lote 5, Quadra C 02 Torre_A, Ap. 1003 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-29;91.47;1;Nenhuma característica relevante;0.001152;0.001159
+32.655.589/0001-52;2020-09-30;1;VH_101_A;Lote 5, Quadra C 02 Torre_A, Ap. 101 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-10;125.22;1;Nenhuma característica relevante;0.001612;0.001622
+32.655.589/0001-52;2020-09-30;1;VH_104_A;Lote 5, Quadra C 02 Torre_A, Ap. 104 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-14;91.51;1;Nenhuma característica relevante;0.001183;0.001171
+32.655.589/0001-52;2020-09-30;1;VH_104_B;Lote 5, Quadra C 02 Torre_B, Ap. 104 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-22;69.08;1;Nenhuma característica relevante;0.000846;0.000838
+32.655.589/0001-52;2020-09-30;1;VH_1201A;Lote 5, Quadra C 02 Torre_A, Ap. 1201 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-09;125.22;1;Nenhuma característica relevante;0.001593;0.001603
+32.655.589/0001-52;2020-09-30;1;VH_1203A;Lote 5, Quadra C 02 Torre_A, Ap. 1203 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-11;91.47;1;Nenhuma característica relevante;0.00114;0.001129
+32.655.589/0001-52;2020-09-30;1;VH_202_A;Lote 5, Quadra C 02 Torre_A, Ap. 202 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-24;125.66;1;Nenhuma característica relevante;0.001637;0.001622
+32.655.589/0001-52;2020-09-30;1;VH_204_A;Lote 5, Quadra C 02 Torre_A, Ap. 204 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-14;91.51;1;Nenhuma característica relevante;0.001149;0.001138
+32.655.589/0001-52;2020-09-30;1;VH_204_B;Lote 5, Quadra C 02 Torre_B, Ap. 204 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-14;69.08;1;Nenhuma característica relevante;0.000851;0.000843
+32.655.589/0001-52;2020-09-30;1;VH_205_B;Lote 5, Quadra C 02 Torre_B, Ap. 205 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-29;70.45;1;Nenhuma característica relevante;0.000861;0.000866
+32.655.589/0001-52;2020-09-30;1;VH_303_B;Lote 5, Quadra C 02 Torre_B, Ap. 303 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-29;70.44;1;Nenhuma característica relevante;0.000871;0.000876
+32.655.589/0001-52;2020-09-30;1;VH_404_B;Lote 5, Quadra C 02 Torre_B, Ap. 404 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-22;69.08;1;Nenhuma característica relevante;0.00085;0.000843
+32.655.589/0001-52;2020-09-30;1;VH_505_B;Lote 5, Quadra C 02 Torre_B, Ap. 505 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-22;70.45;1;Nenhuma característica relevante;0.000893;0.000885
+32.655.589/0001-52;2020-09-30;1;VH_602_A;Lote 5, Quadra C 02 Torre_A, Ap. 602 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-22;125.66;1;Nenhuma característica relevante;0.001587;0.001597
+32.655.589/0001-52;2020-09-30;1;VH_603_B;Lote 5, Quadra C 02 Torre_B, Ap. 603 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-17;70.44;1;Nenhuma característica relevante;0.000876;0.000867
+32.655.589/0001-52;2020-09-30;1;VH_701_A;Lote 5, Quadra C 02 Torre_A, Ap. 701 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-01;125.22;1;Nenhuma característica relevante;0.001598;0.001609
+32.655.589/0001-52;2020-09-30;1;VH_803_A;Lote 5, Quadra C 02 Torre_A, Ap. 803 - Alphaville Residencial I - Cidade Ocidental - GO;2020-09-16;91.47;1;Nenhuma característica relevante;0.001118;0.001125
+32.655.589/0001-52;2020-09-30;1;VH_804_B;Lote 5, Quadra C 02 Torre_B, Ap. 804 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-13;69.08;1;Nenhuma característica relevante;0.000893;0.000885
+32.655.589/0001-52;2020-09-30;1;VH_805_B;Lote 5, Quadra C 02 Torre_B, Ap. 805 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-16;70.45;1;Nenhuma característica relevante;0.000887;0.000878
+32.655.589/0001-52;2020-09-30;1;VH_902_A;Lote 5, Quadra C 02 Torre_A, Ap. 902 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-31;125.66;1;Nenhuma característica relevante;0.001619;0.00163
+32.655.589/0001-52;2020-09-30;1;VH_903_B;Lote 5, Quadra C 02 Torre_B, Ap. 903 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-12;70.44;1;Nenhuma característica relevante;0.000902;0.000893
+32.655.589/0001-52;2020-09-30;1;ESSE_21;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 21 Suzano-SP;2020-08-17;130.89;1;Nenhuma caracteristica relevante.;0.00285;0.002823
+32.655.589/0001-52;2020-09-30;1;VH1105_B;Lote 5, Quadra C 02 Torre_B, Ap. 1105 - Alphaville Residencial I - Cidade Ocidental - GO;2020-08-20;70.45;1;Nenhuma característica relevante;0.000867;0.000872
+32.655.589/0001-52;2020-09-30;1;ESSE_31;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 31 Suzano-SP;2020-08-27;130.89;1;Nenhuma caracteristica relevante.;0.002803;0.002823
+32.655.589/0001-52;2020-09-30;1;VH1205_B;Lote 5, Quadra C 02 Torre_B, Ap. 1205 - Alphaville Residencial I - Cidade Ocidental - GO;2020-07-22;70.45;1;Nenhuma característica relevante;0.000872;0.000864
+32.655.589/0001-52;2020-09-30;1;KEY1002A;Av. Constelação, S/N , Ap. 1002A Bloco Villa Viscaya, Manaus - AM;2020-07-20;98.83;1;Nenhuma característica relevante;0.001915;0.001896
+32.655.589/0001-52;2020-09-30;1;CC_101B;Av. Constelação, S/N , Ap. 101B Bloco Fisher Island, Manaus - AM;2020-07-16;134.97;1;Nenhuma característica relevante;0.002554;0.002528
+32.655.589/0001-52;2020-09-30;1;CC_102A;Av. Constelação, S/N , Ap. 102A Bloco Fisher Island, Manaus - AM;2020-07-16;137.97;1;Nenhuma característica relevante;0.002549;0.002524
+32.655.589/0001-52;2020-09-30;1;CC_1302B;Av. Constelação, S/N , Ap. 1302B Bloco Fisher Island, Manaus - AM;2020-09-01;134.97;1;Nenhuma característica relevante;0.00251;0.002528
+32.655.589/0001-52;2020-09-30;1;IMP_151A;Alameda Meyer J. Nigri, 215, Torre A Ap. 151 - Suzano-SP;2020-07-31;98.50;1;Nenhuma característica relevante.;0.001723;0.001706
+32.655.589/0001-52;2020-09-30;1;ADEL_303;Av. B, Residencial Adelina Alves de Souza - Ap. 303, Setor Araguaia - Aparecida de Goiás-GO;2020-09-04;62.85;1;Nenhuma característica relevante.;0.000544;0.000548
+32.655.589/0001-52;2020-09-30;1;ADEL_304;Av. B, Residencial Adelina Alves de Souza - Ap. 304, Setor Araguaia - Aparecida de Goiás-GO;2020-09-16;62.85;1;Nenhuma característica relevante.;0.000523;0.000526
+32.655.589/0001-52;2020-09-30;1;ADEL_701;Av. B, Residencial Adelina Alves de Souza - Ap. 701, Setor Araguaia - Aparecida de Goiás-GO;2020-09-09;62.85;1;Nenhuma característica relevante.;0.000523;0.000526
+32.655.589/0001-52;2020-09-30;1;ADEL_702;Av. B, Residencial Adelina Alves de Souza - Ap. 702, Setor Araguaia - Aparecida de Goiás-GO;2020-09-25;62.85;1;Nenhuma característica relevante.;0.000545;0.000548
+32.655.589/0001-52;2020-09-30;1;ADEL_904;Av. B, Residencial Adelina Alves de Souza - Ap. 904, Setor Araguaia - Aparecida de Goiás-GO;2020-08-18;62.85;1;Nenhuma característica relevante.;0.000531;0.000526
+32.655.589/0001-52;2020-09-30;1;ADEL1004;Av. B, Residencial Adelina Alves de Souza - Ap. 1004, Setor Araguaia - Aparecida de Goiás-GO;2020-09-09;62.85;1;Nenhuma característica relevante.;0.000523;0.000526
+32.655.589/0001-52;2020-09-30;1;ADEL_G1;Av. B, Residencial Adelina Alves de Souza - Vaga 1, Setor Araguaia - Aparecida de Goiás-GO;2020-09-09;2.33;1;Nenhuma característica relevante.;0;0
+32.655.589/0001-52;2020-09-30;1;ADEL_G11;Av. B, Residencial Adelina Alves de Souza - Vaga 11, Setor Araguaia - Aparecida de Goiás-GO;2020-09-17;2.33;1;Nenhuma característica relevante.;0;0
+32.655.589/0001-52;2020-09-30;1;ADEL_G12;Av. B, Residencial Adelina Alves de Souza - Vaga 12, Setor Araguaia - Aparecida de Goiás-GO;2020-09-09;2.33;1;Nenhuma característica relevante.;0;0
+32.655.589/0001-52;2020-09-30;1;ADEL_G13;Av. B, Residencial Adelina Alves de Souza - Vaga 13, Setor Araguaia - Aparecida de Goiás-GO;2020-08-18;2.33;1;Nenhuma característica relevante.;0;0
+32.655.589/0001-52;2020-09-30;1;SLO_407;Avenida Governados Valadares, 851,  Sala 407 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;29.27;1;Nenhuma característica relevante;0.000559;0.000563
+32.655.589/0001-52;2020-09-30;1;SLO_605;Avenida Governados Valadares, 851,  Sala 605 - Nossa Senhora do Carmo, Betim / MG;2020-08-24;28.36;1;Nenhuma característica relevante;0.000559;0.000563
+32.655.589/0001-52;2020-09-30;1;EB_304;Avenida São Rafael, nº 1.405, Sala 304 - São Marcos, Salvador-BA;2020-07-08;30.90;1;Nenhuma característica relevante;0.000449;0.000444
+32.655.589/0001-52;2020-09-30;1;SLO_1002;Avenida Governados Valadares, 851,  Sala 1002 - Nossa Senhora do Carmo, Betim / MG;2020-08-07;28.12;1;Nenhuma característica relevante;0.000634;0.000628
+32.655.589/0001-52;2020-09-30;1;EB_305;Avenida São Rafael, nº 1.405, Sala 305 - São Marcos, Salvador-BA;2020-07-08;30.05;1;Nenhuma característica relevante;0.000445;0.000441
+32.655.589/0001-52;2020-09-30;1;SLO_1003;Avenida Governados Valadares, 851,  Sala 1003 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;28.36;1;Nenhuma característica relevante;0.000559;0.000563
+32.655.589/0001-52;2020-09-30;1;SLO_1004;Avenida Governados Valadares, 851,  Sala 1004 - Nossa Senhora do Carmo, Betim / MG;2020-08-12;28.12;1;Nenhuma característica relevante;0.000634;0.000628
+32.655.589/0001-52;2020-09-30;1;EB_602;Avenida São Rafael, nº 1.405, Sala 602 - São Marcos, Salvador-BA;2020-08-26;30.08;1;Nenhuma característica relevante;0.000456;0.000459
+32.655.589/0001-52;2020-09-30;1;SLO_1103;Avenida Governados Valadares, 851,  Sala 1103 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;28.36;1;Nenhuma característica relevante;0.000559;0.000563
+32.655.589/0001-52;2020-09-30;1;EB_702;Avenida São Rafael, nº 1.405, Sala 702 - São Marcos, Salvador-BA;2020-08-28;30.08;1;Nenhuma característica relevante;0.000439;0.000442
+32.655.589/0001-52;2020-09-30;1;SLO_1108;Avenida Governados Valadares, 851,  Sala 1108 - Nossa Senhora do Carmo, Betim / MG;2020-07-30;28.36;1;Nenhuma característica relevante;0.000634;0.000628
+32.655.589/0001-52;2020-09-30;1;EB_1005;Avenida São Rafael, nº 1.405, Sala 1005 - São Marcos, Salvador-BA;2020-07-17;30.05;1;Nenhuma característica relevante;0.000464;0.000459
+32.655.589/0001-52;2020-09-30;1;SLO_1403;Avenida Governados Valadares, 851,  Sala 1403 - Nossa Senhora do Carmo, Betim / MG;2020-08-19;28.36;1;Nenhuma característica relevante;0.000634;0.000628
+32.655.589/0001-52;2020-09-30;1;SLO_1407;Avenida Governados Valadares, 851,  Sala 1407 - Nossa Senhora do Carmo, Betim / MG;2020-08-19;29.27;1;Nenhuma característica relevante;0.000574;0.000569
+32.655.589/0001-52;2020-09-30;1;SLO_G005;Avenida Governados Valadares, 851,  G005 - Nossa Senhora do Carmo, Betim / MG;2020-08-24;24.62;1;Nenhuma característica relevante;4E-06;4E-06
+32.655.589/0001-52;2020-09-30;1;SLO_G006;Avenida Governados Valadares, 851,  G006 - Nossa Senhora do Carmo, Betim / MG;2020-08-24;24.62;1;Nenhuma característica relevante;4E-06;4E-06
+32.655.589/0001-52;2020-09-30;1;SLO_G021;Avenida Governados Valadares, 851,  G021 - Nossa Senhora do Carmo, Betim / MG;2020-08-24;24.62;1;Nenhuma característica relevante;4E-06;4E-06
+32.655.589/0001-52;2020-09-30;1;SLO_G056;Avenida Governados Valadares, 851,  G056 - Nossa Senhora do Carmo, Betim / MG;2020-08-12;24.62;1;Nenhuma característica relevante;4E-06;4E-06
+32.655.589/0001-52;2020-09-30;1;SLO_G086;Avenida Governados Valadares, 851,  G086 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;20.70;1;Nenhuma característica relevante;6.3E-05;6.3E-05
+32.655.589/0001-52;2020-09-30;1;SLO_G087;Avenida Governados Valadares, 851,  G087 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;20.70;1;Nenhuma característica relevante;6.3E-05;6.3E-05
+32.655.589/0001-52;2020-09-30;1;SLO_G096;Avenida Governados Valadares, 851,  G096 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;20.70;1;Nenhuma característica relevante;6.3E-05;6.3E-05
+32.655.589/0001-52;2020-09-30;1;SLO_G097;Avenida Governados Valadares, 851,  G097 - Nossa Senhora do Carmo, Betim / MG;2020-08-24;20.70;1;Nenhuma característica relevante;6.3E-05;6.3E-05
+32.655.589/0001-52;2020-09-30;1;SLO_G100;Avenida Governados Valadares, 851,  G100 - Nossa Senhora do Carmo, Betim / MG;2020-08-27;20.70;1;Nenhuma característica relevante;6.3E-05;6.3E-05
+32.655.589/0001-52;2020-09-30;1;SLO_G103;Avenida Governados Valadares, 851,  G103 - Nossa Senhora do Carmo, Betim / MG;2020-08-25;20.70;1;Nenhuma característica relevante;6.3E-05;6.3E-05
+32.655.589/0001-52;2020-09-30;1;NYT_909;Avenida Brasilia nº 2121, Sala 909 - Vila São Paulo, Araçatuba-SP;2020-07-10;44.98;1;Não possui características relevantes;0.001013;0.001003
+32.655.589/0001-52;2020-09-30;1;NYT_1310;Avenida Brasilia nº 2121, Sala 1310 - Vila São Paulo, Araçatuba-SP;2020-07-14;58.57;1;Não possui características relevantes;0.001371;0.001357
+32.655.589/0001-52;2020-09-30;1;AL_504C;Rua Bernardo Giumarães, 105 Sala 504- Vila Boa Vista, Sorocaba-SP;2020-09-17;41.26;1;Nenhuma caracteristica relevante.;0.000532;0.000535
+32.655.589/0001-52;2020-09-30;1;AL_805C;Rua Bernardo Giumarães, 105 Sala 805- Vila Boa Vista, Sorocaba-SP;2020-09-03;48.36;1;Nenhuma caracteristica relevante.;0.000625;0.000629
+32.655.589/0001-52;2020-09-30;1;AL_807C;Rua Bernardo Giumarães, 105 Sala 807- Vila Boa Vista, Sorocaba-SP;2020-09-03;45.63;1;Nenhuma caracteristica relevante.;0.000615;0.000619
+32.655.589/0001-52;2020-09-30;1;AL_901C;Rua Bernardo Giumarães, 105 Sala 901- Vila Boa Vista, Sorocaba-SP;2020-09-29;41.47;1;Nenhuma caracteristica relevante.;0.000557;0.00056
+32.655.589/0001-52;2020-09-30;1;AL_1106C;Rua Bernardo Giumarães, 105 Sala 1106- Vila Boa Vista, Sorocaba-SP;2020-09-03;48.36;1;Nenhuma caracteristica relevante.;0.000639;0.000644
+32.655.589/0001-52;2020-09-30;1;AL_154BV;Rua Bernardo Giumarães, 105 Vaga 154- Vila Boa Vista, Sorocaba-SP;2020-07-08;10.35;1;Nenhuma caracteristica relevante.;2.6E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_157BV;Rua Bernardo Giumarães, 105 Vaga 157- Vila Boa Vista, Sorocaba-SP;2020-09-03;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_158BV;Rua Bernardo Giumarães, 105 Vaga 158- Vila Boa Vista, Sorocaba-SP;2020-09-03;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_159BV;Rua Bernardo Giumarães, 105 Vaga 159- Vila Boa Vista, Sorocaba-SP;2020-09-03;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_160BV;Rua Bernardo Giumarães, 105 Vaga 160- Vila Boa Vista, Sorocaba-SP;2020-09-17;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_163BV;Rua Bernardo Giumarães, 105 Vaga 163- Vila Boa Vista, Sorocaba-SP;2020-09-29;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;2.5E-05
+32.655.589/0001-52;2020-09-30;1;AL_902B;Rua Bernardo Giumarães, 105 Sala 902- Vila Boa Vista, Sorocaba-SP;2020-07-08;44.59;1;Nenhuma caracteristica relevante.;0.0006;0.000594
+32.655.589/0001-52;2020-09-30;1;KE1103AV;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.1103 A - Aleixo, Manaus-AM;2020-08-27;98.92;1;Nenhuma caracteristica relevante.;0.001883;0.001896
+32.655.589/0001-52;2020-09-30;1;KEY203B;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.203 B - Aleixo, Manaus-AM;2020-08-24;98.92;1;Nenhuma caracteristica relevante.;0.001832;0.001845
+32.655.589/0001-52;2020-09-30;1;KEY901B;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.901 B - Aleixo, Manaus-AM;2020-08-03;72.66;1;Nenhuma caracteristica relevante.;0.001446;0.001432
+32.655.589/0001-52;2020-09-30;1;VP_1008A;Rua Desportista Jeremias da Câmara Filho, 270 BlocoRoyal Park East Ap.1008 A- Ponta Negra, Natal-RN;2020-09-16;69.13;1;Nenhuma caracteristica relevante.;0.000942;0.000948
+32.655.589/0001-52;2020-09-30;1;2LED209;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 209 - Águas Claras-DF;2020-09-18;32.45;1;Nenhuma característica relevante;0.000487;0.00049
+32.655.589/0001-52;2020-12-31;1;AUT101_1;Av. Mario Ypiranga, 939, Bloco 1, Ap. 101, Adrianópolis, Manaus - AM;2020-10-20;140.70;1;Nenhuma caracteristica relevante.;0.002667;0.003241
+32.655.589/0001-52;2020-12-31;1;TER101_1;Rua Rio guamá, 482, Bloco 1, Ap. 101, Nossa Senhora das Graças, Manaus - AM;2020-10-02;145.74;1;Nenhuma caracteristica relevante.;0.002514;0.003063
+32.655.589/0001-52;2020-12-31;1;TER104_1;Rua Rio guamá, 482, Bloco 1, Ap. 104, Nossa Senhora das Graças, Manaus - AM;2020-12-28;145.74;1;Nenhuma caracteristica relevante.;0.002579;0.003139
+32.655.589/0001-52;2020-12-31;1;DOTH_135;Rua Barão Geraldo de Resende, 97, Ap. 135 Guanabara, Campinas - SP;2020-12-17;47.63;1;Nenhuma caracteristica relevante.;0.001069;0.001302
+32.655.589/0001-52;2020-12-31;1;DOTH_144;Rua Barão Geraldo de Resende, 97, Ap. 144 Guanabara, Campinas - SP;2020-12-22;47.63;1;Nenhuma caracteristica relevante.;0.00109;0.001327
+32.655.589/0001-52;2020-12-31;1;DOTH_148;Rua Barão Geraldo de Resende, 97, Ap. 148 Guanabara, Campinas - SP;2020-11-12;47.63;1;Nenhuma caracteristica relevante.;0.001112;0.001353
+32.655.589/0001-52;2020-12-31;1;DOTH_172;Rua Barão Geraldo de Resende, 97, Ap. 172 Guanabara, Campinas - SP;2020-10-26;47.63;1;Nenhuma caracteristica relevante.;0.001071;0.001302
+32.655.589/0001-52;2020-12-31;1;DOTH_181;Rua Barão Geraldo de Resende, 97, Ap. 181 Guanabara, Campinas - SP;2020-11-18;47.63;1;Nenhuma caracteristica relevante.;0.001195;0.001455
+32.655.589/0001-52;2020-12-31;1;DOTO_304;Rua Barão Geraldo de Resende, 97, Sala 304 Guanabara, Campinas - SP;2020-11-16;46.68;1;Nenhuma caracteristica relevante.;0.000957;0.001165
+32.655.589/0001-52;2020-12-31;1;DOTO_711;Rua Barão Geraldo de Resende, 97, Sala 711 Guanabara, Campinas - SP;2020-12-22;40.17;1;Nenhuma caracteristica relevante.;0.000839;0.001021
+32.655.589/0001-52;2020-12-31;1;DOTO_912;Rua Barão Geraldo de Resende, 97, Sala 912 Guanabara, Campinas - SP;2020-12-21;40.17;1;Nenhuma caracteristica relevante.;0.000809;0.000985
+32.655.589/0001-52;2020-12-31;1;DOTO1012;Rua Barão Geraldo de Resende, 97, Sala 1012 Guanabara, Campinas - SP;2020-12-11;40.17;1;Nenhuma caracteristica relevante.;0.000847;0.001031
+32.655.589/0001-52;2020-12-31;1;VH_1001A;Lote 5, Quadra C 02 Torre_A, Ap. 1001 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-03;125.22;1;Nenhuma característica relevante;0.001596;0.001941
+32.655.589/0001-52;2020-12-31;1;VH_103_B;Lote 5, Quadra C 02 Torre_B, Ap. 103 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-13;70.44;1;Nenhuma característica relevante;0.000902;0.001097
+32.655.589/0001-52;2020-12-31;1;VH_105_B;Lote 5, Quadra C 02 Torre_B, Ap. 105 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-21;70.45;1;Nenhuma característica relevante;0.000878;0.00107
+32.655.589/0001-52;2020-12-31;1;VH_201_A;Lote 5, Quadra C 02 Torre_A, Ap. 201 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-19;125.22;1;Nenhuma característica relevante;0.001615;0.001965
+32.655.589/0001-52;2020-12-31;1;VH_203_A;Lote 5, Quadra C 02 Torre_A, Ap. 203 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-15;91.47;1;Nenhuma característica relevante;0.001173;0.001429
+32.655.589/0001-52;2020-12-31;1;VH_401_A;Lote 5, Quadra C 02 Torre_A, Ap. 401 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-18;125.22;1;Nenhuma característica relevante;0.001602;0.00195
+32.655.589/0001-52;2020-12-31;1;VH_403_B;Lote 5, Quadra C 02 Torre_B, Ap. 403 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-11;70.44;1;Nenhuma característica relevante;0.000864;0.001051
+32.655.589/0001-52;2020-12-31;1;VH_503_B;Lote 5, Quadra C 02 Torre_B, Ap. 503 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-18;70.44;1;Nenhuma característica relevante;0.000872;0.001062
+32.655.589/0001-52;2020-12-31;1;VH_601_A;Lote 5, Quadra C 02 Torre_A, Ap. 601 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-18;125.22;1;Nenhuma característica relevante;0.001593;0.00194
+32.655.589/0001-52;2020-12-31;1;VH_703_A;Lote 5, Quadra C 02 Torre_A, Ap. 703 - Alphaville Residencial I - Cidade Ocidental - GO;2020-10-27;91.47;1;Nenhuma característica relevante;0.001121;0.001362
+32.655.589/0001-52;2020-12-31;1;VH_801_A;Lote 5, Quadra C 02 Torre_A, Ap. 801 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-18;125.22;1;Nenhuma característica relevante;0.001606;0.001955
+32.655.589/0001-52;2020-12-31;1;VH_901_A;Lote 5, Quadra C 02 Torre_A, Ap. 901 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-13;125.22;1;Nenhuma característica relevante;0.001615;0.001965
+32.655.589/0001-52;2020-12-31;1;VH_903_A;Lote 5, Quadra C 02 Torre_A, Ap. 903 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-15;91.47;1;Nenhuma característica relevante;0.001215;0.00148
+32.655.589/0001-52;2020-12-31;1;VH1003_B;Lote 5, Quadra C 02 Torre_B, Ap. 1003 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-09;70.44;1;Nenhuma característica relevante;0.000885;0.001077
+32.655.589/0001-52;2020-12-31;1;VH1103_B;Lote 5, Quadra C 02 Torre_B, Ap. 1103 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-15;70.44;1;Nenhuma característica relevante;0.000876;0.001067
+32.655.589/0001-52;2020-12-31;1;VH1203_B;Lote 5, Quadra C 02 Torre_B, Ap. 1203 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-07;70.44;1;Nenhuma característica relevante;0.000881;0.001072
+32.655.589/0001-52;2020-12-31;1;VH1303_B;Lote 5, Quadra C 02 Torre_B, Ap. 1303 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-21;70.44;1;Nenhuma característica relevante;0.00088;0.001072
+32.655.589/0001-52;2020-12-31;1;ESSE_42;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 42 Suzano-SP;2020-10-23;130.89;1;Nenhuma caracteristica relevante.;0.00275;0.003343
+32.655.589/0001-52;2020-12-31;1;VH1305_B;Lote 5, Quadra C 02 Torre_B, Ap. 1305 - Alphaville Residencial I - Cidade Ocidental - GO;2020-12-15;70.45;1;Nenhuma característica relevante;0.00087;0.001059
+32.655.589/0001-52;2020-12-31;1;VH1403_B;Lote 5, Quadra C 02 Torre_B, Ap. 1403 - Alphaville Residencial I - Cidade Ocidental - GO;2020-10-09;70.44;1;Nenhuma característica relevante;0.000922;0.001123
+32.655.589/0001-52;2020-12-31;1;VH1405_B;Lote 5, Quadra C 02 Torre_B, Ap. 1405 - Alphaville Residencial I - Cidade Ocidental - GO;2020-11-11;70.45;1;Nenhuma característica relevante;0.000914;0.001113
+32.655.589/0001-52;2020-12-31;1;VH1603_B;Lote 5, Quadra C 02 Torre_B, Ap. 1603 - Alphaville Residencial I - Cidade Ocidental - GO;2020-10-07;70.44;1;Nenhuma característica relevante;0.000922;0.001123
+32.655.589/0001-52;2020-12-31;1;MAISON_7;Avenida Maestro João Batista Julião, nº 350, Residencial Maison Duvive - Casa 7, Vila Oliveira - Mogi das Cruzes-SP;2020-10-14;564.57;1;Nenhuma caracteristica relevante.;0.005454;0.006636
+32.655.589/0001-52;2020-12-31;1;KEY1702B;Av. Constelação, S/N , Ap. 1702B Bloco Coconut Grove, Manaus - AM;2020-11-19;98.83;1;Nenhuma característica relevante;0.001887;0.002297
+32.655.589/0001-52;2020-12-31;1;CC_302A;Av. Constelação, S/N , Ap. 302A Bloco Coral Terrace, Manaus - AM;2020-10-20;117.70;1;Nenhuma característica relevante;0.00231;0.002807
+32.655.589/0001-52;2020-12-31;1;CC_1802B;Av. Constelação, S/N , Ap. 1802B Bloco Coral Terrace, Manaus - AM;2020-10-05;134.97;1;Nenhuma característica relevante;0.002409;0.002935
+32.655.589/0001-52;2020-12-31;1;IMP_21B;Alameda Meyer J. Nigri, 215, Torre B Ap. 21 - Suzano-SP;2020-10-19;89.76;1;Nenhuma característica relevante.;0.001595;0.00194
+32.655.589/0001-52;2020-12-31;1;IMP_163A;Alameda Meyer J. Nigri, 215, Torre A Ap. 163 - Suzano-SP;2020-10-19;181.86;1;Nenhuma característica relevante.;0.002729;0.003318
+32.655.589/0001-52;2020-12-31;1;ADEL_102;Av. B, Residencial Adelina Alves de Souza - Ap. 102, Setor Araguaia - Aparecida de Goiás-GO;2020-10-06;62.85;1;Nenhuma característica relevante.;0.000523;0.000638
+32.655.589/0001-52;2020-12-31;1;ADEL_503;Av. B, Residencial Adelina Alves de Souza - Ap. 503, Setor Araguaia - Aparecida de Goiás-GO;2020-10-20;62.85;1;Nenhuma característica relevante.;0.000524;0.000638
+32.655.589/0001-52;2020-12-31;1;ADEL_601;Av. B, Residencial Adelina Alves de Souza - Ap. 601, Setor Araguaia - Aparecida de Goiás-GO;2020-12-01;62.85;1;Nenhuma característica relevante.;0.000524;0.000638
+32.655.589/0001-52;2020-12-31;1;ADEL_802;Av. B, Residencial Adelina Alves de Souza - Ap. 802, Setor Araguaia - Aparecida de Goiás-GO;2020-11-25;62.85;1;Nenhuma característica relevante.;0.000566;0.000689
+32.655.589/0001-52;2020-12-31;1;ADEL_G8;Av. B, Residencial Adelina Alves de Souza - Vaga 8, Setor Araguaia - Aparecida de Goiás-GO;2020-11-25;2.33;1;Nenhuma característica relevante.;0;1E-06
+32.655.589/0001-52;2020-12-31;1;EB_102;Avenida São Rafael, nº 1.405, Sala 102 - São Marcos, Salvador-BA;2020-11-25;30.08;1;Nenhuma característica relevante;0.000432;0.000526
+32.655.589/0001-52;2020-12-31;1;EB_103;Avenida São Rafael, nº 1.405, Sala 103 - São Marcos, Salvador-BA;2020-11-25;30.90;1;Nenhuma característica relevante;0.000432;0.000526
+32.655.589/0001-52;2020-12-31;1;EB_104;Avenida São Rafael, nº 1.405, Sala 104 - São Marcos, Salvador-BA;2020-11-25;30.90;1;Nenhuma característica relevante;0.000432;0.000526
+32.655.589/0001-52;2020-12-31;1;SLO_1107;Avenida Governados Valadares, 851,  Sala 1107 - Nossa Senhora do Carmo, Betim / MG;2020-10-14;29.27;1;Nenhuma característica relevante;0.000561;0.000682
+32.655.589/0001-52;2020-12-31;1;SLO_1204;Avenida Governados Valadares, 851,  Sala 1204 - Nossa Senhora do Carmo, Betim / MG;2020-12-29;28.12;1;Nenhuma característica relevante;0.000545;0.000664
+32.655.589/0001-52;2020-12-31;1;EB_904;Avenida São Rafael, nº 1.405, Sala 904 - São Marcos, Salvador-BA;2020-11-10;30.90;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;EB_910;Avenida São Rafael, nº 1.405, Sala 910 - São Marcos, Salvador-BA;2020-10-07;29.96;1;Nenhuma característica relevante;0.00044;0.000536
+32.655.589/0001-52;2020-12-31;1;SLO_1303;Avenida Governados Valadares, 851,  Sala 1303 - Nossa Senhora do Carmo, Betim / MG;2020-12-08;28.36;1;Nenhuma característica relevante;0.000566;0.000689
+32.655.589/0001-52;2020-12-31;1;EB_911;Avenida São Rafael, nº 1.405, Sala 911 - São Marcos, Salvador-BA;2020-10-15;29.96;1;Nenhuma característica relevante;0.000441;0.000536
+32.655.589/0001-52;2020-12-31;1;SLO_1402;Avenida Governados Valadares, 851,  Sala 1402 - Nossa Senhora do Carmo, Betim / MG;2020-11-20;28.12;1;Nenhuma característica relevante;0.000566;0.000689
+32.655.589/0001-52;2020-12-31;1;EB_1007;Avenida São Rafael, nº 1.405, 10º Andar, Sala 1007 - São Marcos, Salvador-BA;2020-11-16;30.92;1;Nenhuma característica relevante;0.000445;0.000541
+32.655.589/0001-52;2020-12-31;1;SLO_1409;Avenida Governados Valadares, 851,  Sala 1409 - Nossa Senhora do Carmo, Betim / MG;2020-10-21;28.12;1;Nenhuma característica relevante;0.000626;0.000761
+32.655.589/0001-52;2020-12-31;1;SLO_G013;Avenida Governados Valadares, 851,  G013 - Nossa Senhora do Carmo, Betim / MG;2020-12-29;24.62;1;Nenhuma característica relevante;5.5E-05;6.6E-05
+32.655.589/0001-52;2020-12-31;1;SLO_G014;Avenida Governados Valadares, 851,  G014 - Nossa Senhora do Carmo, Betim / MG;2020-10-21;24.62;1;Nenhuma característica relevante;4E-06;5E-06
+32.655.589/0001-52;2020-12-31;1;NYT_403;Avenida Brasilia nº 2121, Sala 403 - Vila São Paulo, Araçatuba-SP;2020-12-17;42.74;1;Não possui características relevantes;0.00095;0.001156
+32.655.589/0001-52;2020-12-31;1;NYT_516;Avenida Brasilia nº 2121, Sala 516 - Vila São Paulo, Araçatuba-SP;2020-10-16;53.03;1;Não possui características relevantes;0.001246;0.001516
+32.655.589/0001-52;2020-12-31;1;NYT_905;Avenida Brasilia nº 2121, Sala 905 - Vila São Paulo, Araçatuba-SP;2020-12-02;43.87;1;Não possui características relevantes;0.000975;0.001187
+32.655.589/0001-52;2020-12-31;1;NYT_919;Avenida Brasilia nº 2121, Sala 919 - Vila São Paulo, Araçatuba-SP;2020-11-23;42.74;1;Não possui características relevantes;0.00095;0.001156
+32.655.589/0001-52;2020-12-31;1;NYT_920;Avenida Brasilia nº 2121, Sala 920 - Vila São Paulo, Araçatuba-SP;2020-11-23;42.74;1;Não possui características relevantes;0.00095;0.001156
+32.655.589/0001-52;2020-12-31;1;NYT_1205;Avenida Brasilia nº 2121, Sala 1205 - Vila São Paulo, Araçatuba-SP;2020-11-26;43.87;1;Não possui características relevantes;0.000975;0.001187
+32.655.589/0001-52;2020-12-31;1;NYT_1218;Avenida Brasilia nº 2121, Sala 1218 - Vila São Paulo, Araçatuba-SP;2020-11-16;62.70;1;Não possui características relevantes;0.001289;0.001568
+32.655.589/0001-52;2020-12-31;1;NYT_1221;Avenida Brasilia nº 2121, Sala 1221 - Vila São Paulo, Araçatuba-SP;2020-11-23;42.74;1;Não possui características relevantes;0.00095;0.001156
+32.655.589/0001-52;2020-12-31;1;NYT_1314;Avenida Brasilia nº 2121, Sala 1314 - Vila São Paulo, Araçatuba-SP;2020-12-21;42.74;1;Não possui características relevantes;0.00095;0.001156
+32.655.589/0001-52;2020-12-31;1;NYT_1702;Avenida Brasilia nº 2121, Sala 1702 - Vila São Paulo, Araçatuba-SP;2020-12-04;42.74;1;Não possui características relevantes;0.00095;0.001156
+32.655.589/0001-52;2020-12-31;1;NYT_2015;Avenida Brasilia nº 2121, Sala 2015 - Vila São Paulo, Araçatuba-SP;2020-11-13;45.40;1;Não possui características relevantes;0.001009;0.001228
+32.655.589/0001-52;2020-12-31;1;AL_306C;Rua Bernardo Giumarães, 105 Sala 306- Vila Boa Vista, Sorocaba-SP;2020-12-16;48.36;1;Nenhuma caracteristica relevante.;0.000616;0.00075
+32.655.589/0001-52;2020-12-31;1;AL_510C;Rua Bernardo Giumarães, 105 Sala 510- Vila Boa Vista, Sorocaba-SP;2020-11-19;44.59;1;Nenhuma caracteristica relevante.;0.000591;0.00072
+32.655.589/0001-52;2020-12-31;1;AL_804C;Rua Bernardo Giumarães, 105 Sala 804- Vila Boa Vista, Sorocaba-SP;2020-12-07;41.27;1;Nenhuma caracteristica relevante.;0.000528;0.000643
+32.655.589/0001-52;2020-12-31;1;AL_1104C;Rua Bernardo Giumarães, 105 Sala 1104- Vila Boa Vista, Sorocaba-SP;2020-12-16;41.27;1;Nenhuma caracteristica relevante.;0.000545;0.000664
+32.655.589/0001-52;2020-12-31;1;AL_1008B;Rua Bernardo Giumarães, 105 Sala 1008- Vila Boa Vista, Sorocaba-SP;2020-12-22;46.22;1;Nenhuma caracteristica relevante.;0.000602;0.000733
+32.655.589/0001-52;2020-12-31;1;AL_1208B;Rua Bernardo Giumarães, 105 Sala 1208- Vila Boa Vista, Sorocaba-SP;2020-12-10;46.22;1;Nenhuma caracteristica relevante.;0.000587;0.000715
+32.655.589/0001-52;2020-12-31;1;AL_162BV;Rua Bernardo Giumarães, 105 Vaga 162- Vila Boa Vista, Sorocaba-SP;2020-12-22;10.35;1;Nenhuma caracteristica relevante.;4E-06;5E-06
+32.655.589/0001-52;2020-12-31;1;AL_170BV;Rua Bernardo Giumarães, 105 Vaga 170- Vila Boa Vista, Sorocaba-SP;2020-12-16;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;3.1E-05
+32.655.589/0001-52;2020-12-31;1;AL_171BV;Rua Bernardo Giumarães, 105 Vaga 171- Vila Boa Vista, Sorocaba-SP;2020-11-19;10.35;1;Nenhuma característica relevante.;2.5E-05;3.1E-05
+32.655.589/0001-52;2020-12-31;1;AL_172BV;Rua Bernardo Giumarães, 105 Vaga 172- Vila Boa Vista, Sorocaba-SP;2020-12-16;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;3.1E-05
+32.655.589/0001-52;2020-12-31;1;AL_173BV;Rua Bernardo Giumarães, 105 Vaga 173- Vila Boa Vista, Sorocaba-SP;2020-11-24;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;3.1E-05
+32.655.589/0001-52;2020-12-31;1;AL_174BV;Rua Bernardo Giumarães, 105 Vaga 174- Vila Boa Vista, Sorocaba-SP;2020-12-10;10.35;1;Nenhuma caracteristica relevante.;2.5E-05;3.1E-05
+32.655.589/0001-52;2020-12-31;1;KE1103AC;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.1103 A - Aleixo, Manaus-AM;2020-12-22;98.92;1;Nenhuma caracteristica relevante.;0.001929;0.002348
+32.655.589/0001-52;2020-12-31;1;KEY1102A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.1102 A - Aleixo, Manaus-AM;2020-10-13;98.83;1;Nenhuma caracteristica relevante.;0.001801;0.002195
+32.655.589/0001-52;2020-12-31;1;KEY1302A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.1302 A - Aleixo, Manaus-AM;2020-11-19;98.83;1;Nenhuma caracteristica relevante.;0.001929;0.002348
+32.655.589/0001-52;2020-12-31;1;KEY1303A;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.1303 A - Aleixo, Manaus-AM;2020-10-06;98.92;1;Nenhuma caracteristica relevante.;0.001802;0.002195
+32.655.589/0001-52;2020-12-31;1;KEY1403A;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.1403 A - Aleixo, Manaus-AM;2020-12-21;98.92;1;Nenhuma caracteristica relevante.;0.001929;0.002348
+32.655.589/0001-52;2020-12-31;1;KEY403B;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.403 B - Aleixo, Manaus-AM;2020-12-23;98.92;1;Nenhuma característica relevante.;0.001837;0.002236
+32.655.589/0001-52;2020-12-31;1;KEY502A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.502 A - Aleixo, Manaus-AM;2020-12-22;98.83;1;Nenhuma caracteristica relevante.;0.001845;0.002246
+32.655.589/0001-52;2020-12-31;1;KEY502B;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.502 B - Aleixo, Manaus-AM;2020-12-15;98.83;1;Nenhuma caracteristica relevante.;0.001844;0.002246
+32.655.589/0001-52;2020-12-31;1;KEY603A;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.603 A - Aleixo, Manaus-AM;2020-12-29;98.92;1;Nenhuma caracteristica relevante.;0.001866;0.002271
+32.655.589/0001-52;2020-12-31;1;KEY802A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.802 A - Aleixo, Manaus-AM;2020-11-09;98.83;1;Nenhuma caracteristica relevante.;0.001803;0.002195
+32.655.589/0001-52;2020-12-31;1;KEY902A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.902 A - Aleixo, Manaus-AM;2020-11-09;98.83;1;Nenhuma caracteristica relevante.;0.001803;0.002195
+32.655.589/0001-52;2020-12-31;1;KEY903A;Avenida José de Arimatéia, 1001 Bloco Cocunut Grove Ap.903 A - Aleixo, Manaus-AM;2020-11-30;98.92;1;Nenhuma caracteristica relevante.;0.001887;0.002297
+32.655.589/0001-52;2020-12-31;1;KEY903B;Avenida José de Arimatéia, 1001 Bloco Villa Viscaya Ap.903 B - Aleixo, Manaus-AM;2020-12-28;98.92;1;Nenhuma caracteristica relevante.;0.001887;0.002297
+32.655.589/0001-52;2020-12-31;1;VP_302B;Rua Desportista Jeremias da Câmara Filho, 270 BlocoRoyal Park West Ap.302 B- Ponta Negra, Natal-RN;2020-10-27;52.95;1;Nenhuma caracteristica relevante.;0.000672;0.000817
+32.655.589/0001-52;2020-12-31;1;VP1105A1;Rua Desportista Jeremias da Câmara Filho, 270 BlocoRoyal Park East Ap.1105 A1- Ponta Negra, Natal-RN;2020-11-13;67.74;1;Nenhuma caracteristica relevante.;0.000994;0.00121
+32.655.589/0001-52;2020-12-31;1;2LED105;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 105 - Águas Claras-DF;2020-11-24;33.39;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;2LED106;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 106 - Águas Claras-DF;2020-11-25;33.97;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;2LED302;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 302 - Águas Claras-DF;2020-10-27;30.84;1;Nenhuma característica relevante;0.000458;0.000556
+32.655.589/0001-52;2020-12-31;1;2LED310;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 310 - Águas Claras-DF;2020-11-27;30.88;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;2LED408;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 405 - Águas Claras-DF;2020-12-22;33.39;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;2LED708;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 708 - Águas Claras-DF;2020-12-16;33.39;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;2LED710;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 710 - Águas Claras-DF;2020-11-09;30.88;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;2LED1408;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 1408 - Águas Claras-DF;2020-11-23;33.39;1;Nenhuma característica relevante;0.000507;0.000618
+32.655.589/0001-52;2020-12-31;1;2LED1510;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 1510 - Águas Claras-DF;2020-11-10;30.88;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;2LED1701;Lotes nº 34 e 36, Rua 210, QS 1, T2 Unid. 1701 - Águas Claras-DF;2020-12-17;33.88;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;3LED104;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 104 - Águas Claras-DF;2020-10-21;32.45;1;Nenhuma característica relevante;0.000487;0.000592
+32.655.589/0001-52;2020-12-31;1;3LED510;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 510 - Águas Claras-DF;2020-10-23;30.88;1;Nenhuma característica relevante;0.000458;0.000556
+32.655.589/0001-52;2020-12-31;1;3LED604;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 604 - Águas Claras-DF;2020-12-01;32.45;1;Nenhuma característica relevante;0.000507;0.000618
+32.655.589/0001-52;2020-12-31;1;3LED610;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 610 - Águas Claras-DF;2020-12-02;30.88;1;Nenhuma característica relevante;0.000474;0.000577
+32.655.589/0001-52;2020-12-31;1;3LED707;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 707 - Águas Claras-DF;2020-11-17;33.97;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;3LED709;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 709 - Águas Claras-DF;2020-11-05;32.45;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;3LED710;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 710 - Águas Claras-DF;2020-11-05;30.88;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;3LED1102;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 1102 - Águas Claras-DF;2020-11-05;30.84;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;3LED1103;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 1103 - Águas Claras-DF;2020-11-05;32.45;1;Nenhuma característica relevante;0.000499;0.000607
+32.655.589/0001-52;2020-12-31;1;3LED1610;Lotes nº 34 e 36, Rua 210, QS 1, T3 Unid. 1610 - Águas Claras-DF;2020-12-21;30.88;1;Nenhuma característica relevante;0.000457;0.000556
+32.655.589/0001-52;2020-12-31;1;LEDM_72G;Lotes nº 34 e 36, Rua 210, QS 1, G Unid. 72 - Águas Claras-DF;2020-11-20;51.70;1;Nenhuma característica relevante;0.001086;0.001322
+32.655.589/0001-52;2020-12-31;1;CBR_509;Av. Jacarandá, 22 Ap.509 - Águas Claras, Brasília - DF;2020-11-06;43.64;1;Nenhuma característica relevante;0.000876;0.001067
+32.655.589/0001-52;2020-12-31;1;CBR_908;Av. Jacarandá, 22 Ap.908 - Águas Claras, Brasília - DF;2020-10-27;37.12;1;Nenhuma característica relevante;0.000752;0.000914
+32.655.589/0001-52;2020-12-31;1;CBR_1106;Av. Jacarandá, 22 Ap.1106 - Águas Claras, Brasília - DF;2020-11-03;39.80;1;Nenhuma característica relevante;0.000877;0.001067
+32.655.589/0001-52;2020-12-31;1;CBR_1109;Av. Jacarandá, 22 Ap.1109 - Águas Claras, Brasília - DF;2020-10-27;43.64;1;Nenhuma característica relevante;0.00092;0.001118
+32.655.589/0001-52;2020-12-31;1;CBR_1501;Av. Jacarandá, 22 Ap.1501 - Águas Claras, Brasília - DF;2020-11-04;39.50;1;Nenhuma característica relevante;0.000877;0.001067
+32.655.589/0001-52;2020-12-31;1;CBR_1609;Av. Jacarandá, 22 Ap.1609 - Águas Claras, Brasília - DF;2020-10-28;43.64;1;Nenhuma característica relevante;0.000919;0.001118
+32.655.589/0001-52;2020-12-31;1;CBR_2105;Av. Jacarandá, 22 Ap.2105 - Águas Claras, Brasília - DF;2020-12-08;40.10;1;Nenhuma característica relevante;0.000834;0.001016
+32.655.589/0001-52;2020-12-31;1;CBR_2208;Av. Jacarandá, 22 Ap.2208 - Águas Claras, Brasília - DF;2020-11-16;36.43;1;Nenhuma característica relevante;0.000835;0.001016
+32.655.589/0001-52;2020-12-31;1;VERS_42;Rua Teiceira Heizer, 1.965 Ap.42 - Recreio dos Bandeirantes, Rio de Janeiro-RJ;2020-12-15;184.00;1;Nenhuma característica relevante;0.003363;0.004096
+32.655.589/0001-52;2020-12-31;1;VERS_43;Rua Teiceira Heizer, 1.965 Ap.43 - Recreio dos Bandeirantes, Rio de Janeiro-RJ;2020-11-24;184.00;1;Nenhuma característica relevante;0.003317;0.004039
+32.655.589/0001-52;2020-12-31;1;P_801S_2;Rua Vitória Rédia, 250 - AP.801S Bloco_2, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-10;127.00;1;Nenhuma característica relevante.;0.003059;0.003726
+32.655.589/0001-52;2020-12-31;1;P1002S_3;Rua Vitória Rédia, 250 - AP.1002S Bloco_3, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-11-03;127.50;1;Nenhuma característica relevante.;0.003063;0.003726
+32.655.589/0001-52;2020-12-31;1;P_DP4_1;Rua Vitória Rédia, 250 - DP4 Bloco_1, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-29;3.90;1;Nenhuma característica relevante.;3.4E-05;4.1E-05
+32.655.589/0001-52;2020-12-31;1;P_DP5_1;Rua Vitória Rédia, 250 - DP5 Bloco_1, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-15;3.90;1;Nenhuma característica relevante.;3.4E-05;4.1E-05
+32.655.589/0001-52;2020-12-31;1;P_DP7_1;Rua Vitória Rédia, 250 - DP7 Bloco_1, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-23;4.40;1;Nenhuma característica relevante.;3.4E-05;4.1E-05
+32.655.589/0001-52;2020-12-31;1;P_DP12_1;Rua Vitória Rédia, 250 - DP12 Bloco_1, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-15;4.40;1;Nenhuma característica relevante.;3.4E-05;4.1E-05
+32.655.589/0001-52;2020-12-31;1;P_DP13_2;Rua Vitória Rédia, 250 - DP13 Bloco_2, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-23;3.60;1;Nenhuma característica relevante.;4.2E-05;5.1E-05
+32.655.589/0001-52;2020-12-31;1;P_DP17_3;Rua Vitória Rédia, 250 - DP17 Bloco_3, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-23;4.50;1;Nenhuma característica relevante.;4.2E-05;5.1E-05
+32.655.589/0001-52;2020-12-31;1;P_DP18_3;Rua Vitória Rédia, 250 - DP18 Bloco_3, Praia do Paiva - Cabo de Santo Agostinho-PE;2020-12-23;4.90;1;Nenhuma característica relevante.;4.2E-05;5.1E-05
+32.655.589/0001-52;2020-12-31;1;SSILV_43;Avenica Manoel Casanova, 1200 - Condominio Recanto das Araucárias, Casa 43, Suzano-SP;2020-12-08;111.00;1;Nenhuma característica relevante;0.001572;0.001914
+36.501.249/0001-28;2020-12-31;1;World Trade Center São Paulo;Avenida das Nações Unidas, 12551;2020-12-30;172108;12;N/A;0.38;0.96

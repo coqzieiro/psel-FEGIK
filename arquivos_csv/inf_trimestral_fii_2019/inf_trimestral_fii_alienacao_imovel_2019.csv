@@ -1,0 +1,646 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
+01.235.622/0001-61;2019-03-29;3;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2019-03-31;604.87;5;Construção própia;0.033587;0.001758
+01.235.622/0001-61;2019-03-29;3;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2019-03-31;647.58;8;Construção própia;0.050941;0.002471
+01.235.622/0001-61;2019-03-29;3;Estoque Diversos;Av. Carlos Moreira Lima, nº 460, Vitória-ES /  Av. Central, nº 265, Colinas de Laranjeiras, Serra-ES / Rua Dona Tereza Cristina, no. 179, Colinas de Laranjeiras, Município da Serra/ES;2019-03-31;65.69;1;Aquisição de unidades prontas;0.003648;7.9E-05
+01.235.622/0001-61;2019-03-29;3;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2019-03-31;3861;42;Construção própia;0.357315;0.015185
+01.235.622/0001-61;2019-03-29;3;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2019-03-31;53.58;1;Construção própia;0.003967;9.1E-05
+01.235.622/0001-61;2019-03-29;3;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2019-03-31;80.3;1;Construção própia;0.004459;0.000212
+01.235.622/0001-61;2019-03-29;3;Innovitá;Rua do Matoso, 104, Tijuca, Rio de Janeiro - RJ;2019-03-31;67.3;1;Aquisição de unidades prontas;0.004671;0.000216
+01.235.622/0001-61;2019-03-29;3;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2019-03-31;306.31;3;Aquisição de unidades prontas;0.019843;0.001119
+01.235.622/0001-61;2019-03-29;3;Aretê;Praia Rasa, Buzios - RJ;2019-03-31;2173.76;4;Construção própia;0.140819;0.002906
+01.235.622/0001-61;2019-03-29;3;Icono Parque;Rua Machado de Assis, 40;2019-03-31;3447.78;44;Construção própia;0.398842;0.021884
+01.235.622/0001-61;2019-03-29;3;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2019-03-31;453.67;13;Construção própia;0.041985;0.002213
+01.235.622/0001-61;2019-03-29;3;Seasons;Estrada dos Bandeirantes, 5837 - Jacarepaguá - Rio de Janeiro - RJ;2019-03-31;58.67;1;Aquisição de unidades prontas;0.002715;0.00014
+01.235.622/0001-61;2019-03-29;3;Torre Presidente JDK;Rua Presidente Vargas, 1121, Centro, Rio de Janeiro - RJ;2019-03-31;18867;1;Construção própia;0.22725;0.0646
+01.235.622/0001-61;2019-06-28;3;Aretê;Praia Rasa, Buzios - RJ;2019-06-30;935.58;4;Construção própia;0.04523;0.003186
+01.235.622/0001-61;2019-06-28;3;The Gallery;R. Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2019-06-30;3018.04;34;Construção própia;0.190103;0.013392
+01.235.622/0001-61;2019-06-28;3;Highlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2019-06-30;3767.49;42;Construção própia;0.401893;0.028313
+01.235.622/0001-61;2019-06-28;3;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2019-06-30;504.28;5;Construção própia;0.02817;0.001985
+01.235.622/0001-61;2019-06-28;3;Hub - Coliving;Rua das Marrecas, 11/13, Centro, Rio de Janeiro - RJ;2019-06-30;301;8;Construção própia;0.020381;0.001436
+01.235.622/0001-61;2019-06-28;3;Icono Parque;Rua Machado de Assis, 40;2019-06-30;1989.74;28;Construção própia;0.266097;0.018746
+01.235.622/0001-61;2019-06-28;3;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2019-06-30;73.06;1;Construção própia;0.002781;0.000196
+01.235.622/0001-61;2019-06-28;3;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2019-06-30;430.42;7;Construção própia;0.025664;0.001808
+01.235.622/0001-61;2019-06-28;3;Innovitá;Rua do Matoso, 104, Tijuca, Rio de Janeiro - RJ;2019-06-30;316.17;4;Aquisição de unidades prontas;0.01377;0.00097
+01.235.622/0001-61;2019-06-28;3;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2019-06-30;43.57;1;Construção própia;0.00235;0.000166
+01.235.622/0001-61;2019-06-28;3;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2019-06-30;48.86;1;Construção própia;0.003562;0.000251
+01.235.622/0001-61;2019-09-30;2;Aretê;Praia Rasa, Buzios - RJ;2019-09-30;3046.36;3;Construção própia;0.046910906716943;0.00317752729925531
+01.235.622/0001-61;2019-09-30;2;The Gallery;R. Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2019-09-30;586.77;5;Construção própia;0.0383260389445391;0.00259602816362982
+01.235.622/0001-61;2019-09-30;2;Highlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2019-09-30;4329.34;49;Construção própia;0.447188973438026;0.0302905074847354
+01.235.622/0001-61;2019-09-30;2;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2019-09-30;941.13;12;Construção própia;0.0438744682756782;0.00297185303894215
+01.235.622/0001-61;2019-09-30;2;Hub - Coliving;Rua das Marrecas, 11/13, Centro, Rio de Janeiro - RJ;2019-09-30;410.43;11;Construção própia;0.0302501391791274;0.00204900416075807
+01.235.622/0001-61;2019-09-30;2;Icono Parque;Rua Machado de Assis, 40;2019-09-30;2880.43;39;Construção própia;0.286072770818908;0.0193772430009838
+01.235.622/0001-61;2019-09-30;2;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2019-09-30;136.53;2;Construção própia;0.00530193472077289;0.00035912847337996
+01.235.622/0001-61;2019-09-30;2;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2019-09-30;895.71;13;Construção própia;0.0418679997237928;0.00283594416305571
+01.235.622/0001-61;2019-09-30;2;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2019-09-30;32.46;1;Construção própia;0.0018003173924526;0.00012194515225126
+01.235.622/0001-61;2019-09-30;2;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2019-09-30;1;1;Construção própia;0.00242350418214772;0.00016415693572285
+01.235.622/0001-61;2019-09-30;2;Miraggio;Rua Eurico Manoel do Carmos, 2, Charitas, Niterói - RJ;2019-09-30;304.81;2;Construção própia;0.0221092824388505;0.00149758027360874
+01.235.622/0001-61;2019-09-30;2;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2019-09-30;364;4;Construção própia;0.015995127602175;0.00108343577577081
+01.235.622/0001-61;2019-09-30;2;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2019-09-30;338.54;4;Compra de Imóvel Pronto;0.0178785365665869;0.00121100916581828
+01.235.622/0001-61;2019-12-31;2;Aretê;Praia Rasa, Buzios - RJ;2019-12-31;3046.36;3;Construção própia;0.046910906716943;0.00317752729925531
+01.235.622/0001-61;2019-12-31;2;The Gallery;R. Abiail do Amaral Carneiro, 85 - Enseada do Suá, Vitória - ES;2019-12-31;586.77;5;Construção própia;0.0383260389445391;0.00259602816362982
+01.235.622/0001-61;2019-12-31;2;Highlight - Jardim Botafogo;Rua General Gois Monteiro, 49, Botafogo, Rio de Janeiro - RJ;2019-12-31;4329.34;49;Construção própia;0.447188973438026;0.0302905074847354
+01.235.622/0001-61;2019-12-31;2;Highline;R. José Alexandre Buaiz, 230 - Enseada do Suá, Vitória - ES;2019-12-31;941.13;12;Construção própia;0.0438744682756782;0.00297185303894215
+01.235.622/0001-61;2019-12-31;2;Hub - Coliving;Rua das Marrecas, 11/13, Centro, Rio de Janeiro - RJ;2019-12-31;410.43;11;Construção própia;0.0302501391791274;0.00204900416075807
+01.235.622/0001-61;2019-12-31;2;Icono Parque;Rua Machado de Assis, 40;2019-12-31;2880.43;39;Construção própia;0.286072770818908;0.0193772430009838
+01.235.622/0001-61;2019-12-31;2;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2019-12-31;136.53;2;Construção própia;0.00530193472077289;0.00035912847337996
+01.235.622/0001-61;2019-12-31;2;Tijuca All Ways;Rua Uruguai, 330, Tijuca, Rio de Janeiro - RJ;2019-12-31;895.71;13;Construção própia;0.0418679997237928;0.00283594416305571
+01.235.622/0001-61;2019-12-31;2;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2019-12-31;32.46;1;Construção própia;0.0018003173924526;0.00012194515225126
+01.235.622/0001-61;2019-12-31;2;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2019-12-31;1;1;Construção própia;0.00242350418214772;0.00016415693572285
+01.235.622/0001-61;2019-12-31;2;Miraggio;Rua Eurico Manoel do Carmos, 2, Charitas, Niterói - RJ;2019-12-31;304.81;2;Construção própia;0.0221092824388505;0.00149758027360874
+01.235.622/0001-61;2019-12-31;2;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2019-12-31;364;4;Construção própia;0.015995127602175;0.00108343577577081
+01.235.622/0001-61;2019-12-31;2;Park Square;Av. Gov. Roberto Silveira, 307 - Icaraí - Niterói;2019-12-31;338.54;4;Compra de Imóvel Pronto;0.0178785365665869;0.00121100916581828
+07.583.627/0001-61;2019-03-31;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2019-06-30;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2019-09-30;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2019-12-31;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+08.706.065/0001-69;2019-03-29;1;Estanplaza Funchal - 501;Rua Funchal, nº 281;2019-03-28;26.55;1;Direito de Propriedade;0.000416;0.000406
+08.706.065/0001-69;2019-03-29;1;Intercity Premium Ibirapuera - 406;Avenida Ibirapuera, nº 2.577;2019-03-14;26.6;1;Direito de Propriedade;0.000435;0.000424
+08.706.065/0001-69;2019-03-29;1;Intercity Premium Ibirapuera - 1406;Avenida Ibirapuera, nº 2.577;2019-02-27;26.6;1;Direito de Propriedade;0.000449;0.000437
+08.706.065/0001-69;2019-03-29;1;Intercity Premium Ibirapuera - 505;Avenida Ibirapuera, nº 2.577;2019-01-28;26.6;1;Direito de Propriedade;0.000449;0.000437
+08.706.065/0001-69;2019-03-29;1;Intercity Nações Unidas - 305;Rua Fernandes Moreira, nº 1.371;2019-01-10;25.35;1;Direito de Propriedade;0.000428;0.000416
+08.706.065/0001-69;2019-03-29;1;Intercity Premium Ibirapuera - 501;Avenida Ibirapuera, nº 2.577;2019-01-24;26.6;1;Direito de Propriedade;0.000453;0.00044
+08.706.065/0001-69;2019-03-29;1;Tryp Berrini - 907;Rua Quintana, nº 963;2019-01-17;28.21;1;Direito de Propriedade;0.001249;0.001213
+08.706.065/0001-69;2019-06-30;1;Intercity Premium Ibirapuera - 506;Av. Ibirapuera, 2577 - Indianópolis -  CEP: 04029-200;2019-04-04;26.6;1;Direito de Propriedade;0.000437;0.000443
+08.706.065/0001-69;2019-06-30;1;Intercity Premium Ibirapuera - 1405;Av. Ibirapuera, 2577 - Indianópolis -  CEP: 04029-200;2019-04-08;26.6;1;Direito de Propriedade;0.000407;0.000413
+08.706.065/0001-69;2019-06-30;1;Intercity Premium Berrini - 513;Rua Alcides Lourenço da Rocha, 136 - Brooklin Novo - CEP: 04571-110;2019-04-26;26.42;1;Direito de Propriedade;0.000619;0.000627
+08.706.065/0001-69;2019-06-30;1;Ibis Budget Paulista - 517;Rua da Consolação, 2303 - Consolação - CEP: 01301-100;2019-05-07;12.72;1;Direito de Propriedade;0.000414;0.000418
+08.706.065/0001-69;2019-06-30;1;Intercity Premium Berrini - 601;Rua Alcides Lourenço da Rocha, 136 - Brooklin Novo - CEP: 04571-110;2019-05-10;26.42;1;Direito de Propriedade;0.00054;0.000546
+08.706.065/0001-69;2019-06-30;1;Intercity Premium Berrini - 602;Rua Alcides Lourenço da Rocha, 136 - Brooklin Novo - CEP: 04571-110;2019-05-21;26.42;1;Direito de Propriedade;0.000599;0.000605
+08.706.065/0001-69;2019-06-30;1;Estanplaza Funchal - 502;R. Funchal, 281 - vila Olimpia - CEP: 04551-060;2019-05-23;26.55;1;Direito de Propriedade;0.001204;0.001216
+08.706.065/0001-69;2019-06-30;1;Blue Tree Faria Lima - 1105;Av. Briga Faria Lima, 3889 - CEP: 04538-133;2019-05-28;25.82;1;Direito de Propriedade;0.001076;0.001087
+08.706.065/0001-69;2019-09-30;2;Intercity Nações Unidas - 108;Rua Fernandes Moreira, nº 1371 - São Paulo, SP;2019-09-04;25.35;1;Não possui caracteristicas que destoem dos demais;0.00194794079827085;0.00188322302278932
+08.706.065/0001-69;2019-12-31;1;Blue Tree Faria Lima - 1204;Avenida Brigadeiro Faria Lima, nº 3.989;2019-10-03;26.24;1;Não possuem características que destoem dos demais;0.00366626788457862;0.00354082624989142
+08.706.065/0001-69;2019-12-31;1;Blue Tree Faria Lima - 1502;Avenida Brigadeiro Faria Lima, nº 3.989;2019-11-04;26.86;1;Não possuem características que destoem dos demais;0.00374680054246043;0.00360176766104774
+08.924.783/0001-01;2019-03-29;1;Flamengo Park Towers;Praia do Flamengo 66, , Rio de Janeiro, RJ, 22210-030;2019-02-01;7670;26;Direito de propriedade;0.057038;0.031016
+08.924.783/0001-01;2019-03-29;1;Edifício Cargill;Av. Morumbi 8234, São Paulo, SP, 02530-000;2019-02-01;10625.81;7;Direito de propriedade;0.049145;0.026724
+08.924.783/0001-01;2019-03-29;1;Edifício Eldorado Business Tower;Av. Das Nações Unidas 8501, , São Paulo, SP, 05425-070;2019-02-01;23154.14;30;Direito de propriedade;0.182734;0.099365
+09.072.017/0001-29;2019-12-31;2;Edifício Delta Plaza (Vendido);Rua Cincinato Braga 340 - São Paulo - SP;2019-12-26;3855.94;16;-;0.027623;0.031414
+10.427.246/0001-06;2019-03-29;1;TA;Av. Almirante Barroso 81, , Rio de Janeiro, RJ, 20031-004;2019-02-01;24881.4;1;Direito de Propriedade;1;0.2237
+10.427.246/0001-06;2019-03-29;1;Brazilian Financial Center;Av. Paulista 1374, , São Paulo, SP, 01310-100;2019-02-01;42612.04;1;Direito de Propriedade;0.75;0.5451
+10.427.246/0001-06;2019-06-30;1;Brazilian Financial Center;Av. Paulista 1374, São Paulo, SP, 01310-100;2019-04-22;669;1;não ha nenhuma caracteristica relevante;0.111647;0.03324
+11.945.604/0001-27;2019-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-01-30;58.02;1;TORRE 2 /  unid 2;0.015359;0.0079
+11.945.604/0001-27;2019-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-01-23;56.19;1;TORRE 2 /  unid 123;0.010478;0.007
+11.945.604/0001-27;2019-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-01-09;58.02;1;TORRE 3 /  unid 35;0.015359;0.0078
+11.945.604/0001-27;2019-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-01-28;58.02;1;TORRE 3 /  unid 112;0.015359;0.0098
+11.945.604/0001-27;2019-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-01-31;58.02;1;TORRE 4 /  unid 35;0.015359;0.0053
+11.945.604/0001-27;2019-03-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-02-20;58.02;1;TORRE 1 /  unid 115;0.015359;0.0104
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-31;76.93;1;TORRE 1 /  unid 15;0.019015;0.0001
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-09;76.93;1;TORRE 1 /  unid 102;0.019015;0.0073
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-30;76.93;1;TORRE 1 /  unid 145;0.019015;0.0061
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-17;66.41;1;TORRE 2 /  unid 73;0.016147;0.0005
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-29;76.93;1;TORRE 2 /  unid 135;0.019015;0.0122
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-30;76.93;1;TORRE 2 /  unid 164;0.019015;0.0107
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-01-21;66.41;1;TORRE 2 /  unid 173;0.016147;0.0068
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-02-13;76.93;1;TORRE 2 /  unid 11;0.019015;0.0078
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-02-13;76.93;1;TORRE 2 /  unid 155;0.019015;0.0111
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-02-06;76.93;1;TORRE 2 /  unid 172;0.019015;0.0093
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-02-05;76.93;1;TORRE 2 /  unid 174;0.019015;0.0059
+11.945.604/0001-27;2019-03-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2019-03-20;76.93;1;TORRE 1 /  unid 44;0.019015;0.0105
+11.945.604/0001-27;2019-03-31;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2019-01-31;69.99;1;TORRE 1 /  unid 1;0.019365;0.0097
+11.945.604/0001-27;2019-03-31;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2019-01-04;58.86;1;TORRE 1 /  unid 103;0.019365;0.011
+11.945.604/0001-27;2019-03-31;1;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2019-02-28;58.86;1;TORRE 1 /  unid 18;0.019365;0.0036
+11.945.604/0001-27;2019-06-30;2;Empreendimento Ameixeiras;Rua das Ameixeiras, quadra 20 - Vila Santa Catarina - São Paulo;2019-04-23;58.02;1;TORRE 1 /  unid 105;0.015359;0.0039
+11.945.604/0001-27;2019-06-30;2;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2019-04-04;58.07;1;TORRE 3 /  unid 132;0.010478;0.0087
+12.358.507/0001-09;2019-09-30;1;Gleba Santa Cruz  Mat 7187;Maracaju - MS;2019-09-23;33910;1;N/A;0.0197;0.0491
+12.358.507/0001-09;2019-09-30;1;Gleba Goiabinha  Mat 9535;Maracaju - MS;2019-09-23;3329480;1;N/A;1;0.0112
+12.358.507/0001-09;2019-09-30;1;T Rua da Guia  Recife  Mat 25809;Recife - PE;2019-09-04;637.51;1;N/A;1;0.0014
+12.358.507/0001-09;2019-12-31;1;F Torre   Mat 4182;Canguaretama - RN;2019-10-01;40000;1;N/A;0.020633;0.003573
+14.665.312/0001-29;2019-03-31;1;MHR - ILHA DE KARPATHOS 304;Santa Catarina,Florianópolis, Rua VE-1000 N 156, Empreendimento Marine Home Resort;;397.2;1;Escritura;0.20077087457714;0.105847159617933
+14.665.312/0001-29;2019-03-31;1;TLCH - BL2 APTO1305;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0286650624141434;0.012364920990976
+14.665.312/0001-29;2019-03-31;1;TLCH - BL4 APTO1204;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0214076590005768;0.00923437766572882
+14.665.312/0001-29;2019-03-31;1;TLCH - BL4 APTO1304;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0260939909226986;0.0112558672099461
+14.665.312/0001-29;2019-06-30;1;MHR - ILHA DE KARPATHOS 304;Santa Catarina,Florianópolis, Rua VE-1000 N 156, Empreendimento Marine Home Resort;;397.2;1;Escritura;0.20077087457714;0.105847159617933
+14.665.312/0001-29;2019-06-30;1;TLCH - BL2 APTO1305;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0286650624141434;0.012364920990976
+14.665.312/0001-29;2019-06-30;1;TLCH - BL4 APTO1204;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0214076590005768;0.00923437766572882
+14.665.312/0001-29;2019-06-30;1;TLCH - BL4 APTO1304;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0260939909226986;0.0112558672099461
+14.665.312/0001-29;2019-09-30;1;HAPPY DAYS - 03 - 103;Espírito Santo,Serra, Loteamento Portal de Manguinhos quadra 41, Empreendimento Happy Days Manguinhos;;124.72;1;Escritura;0.0510798483068644;0.0163870415777484
+14.665.312/0001-29;2019-09-30;1;TLCH - BL1 APTO905;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0281311232852451;0.0092985921200786
+14.665.312/0001-29;2019-09-30;1;TLCH - BL4 APTO1202;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0331224430672256;0.0113775067623321
+14.665.312/0001-29;2019-09-30;1;TLCH - BL2 APTO1301;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;Escritura;0.0350894012631452;0.0124492622251053
+14.665.312/0001-29;2019-12-31;1;TLCH - BL2 APTO1401;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;PCV;0.0407830833993144;0.0126329763830198
+14.665.312/0001-29;2019-12-31;1;TLCH - BL1 APTO1204;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;PCV;0.0304543649696609;0.00943355041732968
+14.665.312/0001-29;2019-12-31;1;TLCH - BL2 APTO1201;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;PCV;0.0407830833993144;0.0126329763830198
+14.665.312/0001-29;2019-12-31;1;TLCH - BL4 APTO1202;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;PCV;0.0407830833993144;0.0126329763830198
+14.665.312/0001-29;2019-12-31;1;TLCH - BL1 APTO905;Pará,Belém,Rodovia Augusto Montenegro 3975 , Distrito de Icoaraci, Condominio Total life;;73.57;1;PCV;0.0407830833993144;0.0126329763830198
+14.665.312/0001-29;2019-12-31;1;HAPPY CLUBE APTO 103;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;1899-12-31;93.3;1;PCV;0.0539351027679644;0.0167069486338764
+15.538.445/0001-05;2019-12-31;1;Edificio Comercial Belenzinho;Rua Padre Adelino, n°. 550 - Blocos: A, B, C, D, E e F, São Paulo/SP - Brasil;2019-11-27;11911.45;6;Edifícios comerciais designados como Blocos A, B, C, D, E e F, atualmente ocupados pela empresa Atento Brasil S/A, compostos por pavimentos destinados a serviços de operação de Call Center, áreas administrativas e técnicas prediais Locação firmado. Proprietário: Belenzinho Invest Imobiliários e Participações S/A.;1;0.316
+15.576.907/0001-70;2019-06-30;2;Benedito Coutinho;Rua Antônio Benedito Coutinho, nº 149 - Osasco - SP;2019-05-31;1206.1;1;Agência Bancária;0;0.01834
+15.576.907/0001-70;2019-12-31;1;Carapicuiba;Av. Rui Barbosa nº 281 - Carapicuíba - SP;2019-10-04;1949.2;1;Agência Bancária;0.014496;0.011252
+16.929.519/0001-99;2019-09-30;1;Citlog Sul de Minas;Rua Projetada PS, 333, Bairro Aeroporto, Varginha - MG;;56591.78;12;Galpões Log 3 e Log 4, com 28.295,89m2 de área construída cada.;0.89;0.91
+17.035.124/0001-05;2019-12-31;1;Ambev Santa Luzia/BH;AV Beira Rio, 5777, Santa Luzia, MG, Brasil;2019-10-07;13939;1;Centro de Distribuição;0.361;2.1171
+17.209.378/0001-00;2019-09-30;1;Edifício Helbor Trend Higienópolis;Rua Santa isabel, n. 272 - São Paulo;2019-07-31;;13;HISTÓRICO: Unidades residenciais a receber por permuta realizada com terreno anteriormente possuído pelo Fundo. A incorporadora é a HESA 169 - Investimentos Imobiliários SPE Ltda. (do grupo Helbor Empreendimentos Imobiliários S.A.) que tem a obrigação de entregá-las prontas e desimpedidas. O Fundo possui carta fiança do Banco Bradesco que assegura o cumprimento das obrigações da incorporadora. - Memorial de incorporação registrado no 5o Oficial de Registro de Imóveis de São Paulo, sob o R. 04 da matrícula 90.443 na data de 09/12/2014.;;
+17.209.378/0001-00;2019-09-30;1;Condomínio Urban Resort;Rua Vitória e Praça Júlio de Mesquita - São Paulo;2019-07-19;;76;HISTÓRICO: Unidades residenciais a receber por permuta realizada com terreno anteriormente possuído pelo Fundo. A incorporadora é a HESA 160 - Investimentos Imobiliários SPE Ltda. (do grupo Helbor Empreendimentos Imobiliários S.A.) que tem a obrigação de entregá-las prontas e desimpedidas. O Fundo possui carta fiança do Banco Bradesco que assegura o cumprimento das obrigações da incorporadora. - Memorial de incorporação registrado no 5o Oficial de Registro de Imóveis de São Paulo, sob o R. 42 da matrícula 6.929 na data de 15/12/2014.;;
+17.209.378/0001-00;2019-09-30;1;Edifício Residencial Helbor Nun Vila Nova;Rua Dr. Guilherme Bannitz, n 60;2019-07-19;;53;HISTÓRICO: Unidades residenciais a receber por permuta realizada com terreno anteriormente possuído pelo Fundo. A incorporadora é a HESA 167 - Investimentos Imobiliários SPE Ltda. (do grupo Helbor Empreendimentos Imobiliários S.A.) que tem a obrigação de entregá-las prontas e desimpedidas. O Fundo possui carta fiança do Banco Bradesco que assegura o cumprimento das obrigações da icorporadora. - Memorial de incorporação registrado no 4o Oficial de Registro de Imóveis de São Paulo, sob o R. 02 da matrícula 189.070 na data de 12/12/2014.;;
+17.282.011/0001-04;2019-06-28;1;Galpão São José;Av. Osvaldo José do Amaral S/N, Galpão, São José, SC, 88113-848;2019-06-10;47912.9;1;Direito de Propriedade;0.39;0.61
+17.282.011/0001-04;2019-09-30;1;Galpão Campinas;Rua Maria Luiza Pompeo de Camargo 333, , Campinas, SP, 13082-325;2019-07-03;31641.54;1;Direito de Propriedade;0.22;0.2
+17.282.011/0001-04;2019-12-31;2;Galpão Cotia;Estrada da Capuavam 100, Galpão, Cotia, SP, 06715-725;2019-12-30;7538.31;1;Não possui caracteristicas que destoem dos demais;0.1662;0.1768
+19.722.048/0001-31;2019-03-31;1;GUA 538 - 91;Rua Guarará, nº 538 apto 91;2019-02-12;122.67;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-03-31;1;CAC 96 64;Rua Caconde, 96 - 64;2019-03-19;121.05;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-06-30;2;GUA 538 - 91;Rua Guarará, nº 538 apto 91;2019-02-12;122.67;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-06-30;2;CAC 96 64;Rua Caconde, 96 - 64;2019-03-19;121.05;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;IN 532 31;Rua Inhambu, 532 - apto 31;;113;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CON 3630 81;Rua da Consolação, 3630 - apto 81;;138;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;HNO 131 62;Rua Hans Nobiling, 131 - apto 62;;99;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;ITA 323 122;Rua Itacema, 323 - apto 122;;83;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;ITA 198 51;Rua Itacema, 198 - apto 51;;105;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CAC 426 91;Rua Caconde, 426 - apto 91;;179;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;BPA 49 92;Rua Bandeira Paulista, 49 - apto 92;;116;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;FC 377 12;Al. Fernão Cardim, 377 - apto 12;;142;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;TIE 471 - 103;Al. Tietê, 471 - apto 103;;109;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;MRA 495 51;Al. Ministro Rocha Azevedo, 495 - apto 51;;139;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JAU 1863 72;Al. Jaú, 1863 - apto 72;;114;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;LO 1706 - 72;Al. Lorena, 1706 - apto 72;;115;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CAM 911 - 111;Al. Campinas, 911 - apto 111;;126;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;Alameda Jaú, 88 - Apt 73;Al. Jaú, 88 - apto 73;;132;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;MLO 272 - A154;Rua Marcos Lopes, 272 - apto A 154;;76;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JEL 1516 - 24;Al. Joaquim Eugênio de Lima, 1516 - apto 24;;98;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;FR 850 - 72;Al. Franca, 850 - apto 72;;99;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;GUA 77 - 113;Rua Guarará, 77 - apto 113;;122;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;TAB 133 - 33;Rua Tabapuã, 133 - apto 33;;48;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JAU 88 133 (permuta);Al. Jaú, 88 - apto 133;;132;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CLD 506 - 104;Rua Clodomiro Amazonas, 506 - apto 104;;70;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;MAT 129 - 162;Rua da Mata, 129 - apto 162;;139;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CON 3268 - 112;Rua da Consolação, 3268 - apto 112;;123;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;BPA 147 - 153;Rua Bandeira Paulista, 147 - apto 153;;100;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;AF 109 -71;Rua Antônio Felício 109 - apto 71;;110;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;URI 111 - 32;Rua Urimonduba, 111 - apto 32;;142;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;MG 475 - 23;Rua Manuel Guedes, 475 - apto 23;;130;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CON 2801 - 43;Rua da Consolação, 2801 - apto 43;;100;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;CIN 63 - 41;Rua Cinderela, 63 - apto 41;;207;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;BC 2316 - 93;Rua Bela Cintra, 2316 - apto 93;;102;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JEL 1095 - 104;Al. Joaquim Eugênio de Lima, 1095 - apto 104;;105;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JAU 731 - 191;Al. Jaú, 731- apto191;;141;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;RMG 69 - 101;Rua Romilda Margarida Gabriel, 69 - apto 101;;84;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JEL 1601 - 23;Al. Joaquim Eugênio de Lima, 1601 - apto 23;;103;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;PG 1769 63;Rua Peixoto Gomide, 1769 - apto 63;;109;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JLO 713 - 61;Rua João Lourenço, 713 - apto 61;;161;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;BPA 147 - 92;Rua Bandeira Paulista, 147 - apto 92;;100;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;JEL 1601 74;Al. Joaquim Eugênio de Lima, 1601 - apto 74;;103;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;HL 1141 - 92;Rua Hadock Lobo, 1141 - apto 92;;106;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;AF 109 - 12;Rua Antônio Felício 109 - apto 12;;110;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;FR 162 - 121;Al. Franca, 162 - apto 121;;113;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;ITU 1267 - 42;Al. Itu, 1267 - apto 42;;136;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;MRA 976 - 62;Al. Ministro Rocha Azevedo, 976 - apto 62;;127;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-09-30;1;BB 435 - 131;Rua Bueno Brandão, 435 - apto 131;;102;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;BAT 263 112;Rua Batataes 263 - 112;2019-12-24;167.27;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;BPA 49 84;Rua Bandeira Paulista 49 - 84;2019-12-30;91.06;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;BPA 97 53;Rua Bandeira Paulista 97 - 53;2019-12-28;91.06;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;CAC 50 72;Rua Caconde 50 - 72;2019-12-19;179.11;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;CPF 65 121;Rua Capitão Pinto Ferreira 65 - 121;2019-12-18;134.6;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;DMA 265 72;Rua Doutor Melo Alves 265 - 72;2019-12-23;100.55;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;FR 699 62;Alameda Franca 699 - 62;2019-12-13;156.15;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;GUA 153 75;Alameda dos Guaramomis 153 - 75;2019-12-18;122.33;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;HL 997 42;Rua Haddock Lobo 997 - 42;2019-12-09;137;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;ITA 199 31;Rua Itacema 199 - 31;2019-12-11;105.95;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;ITA 300 111;Rua Itacema 300 - 111;2019-11-30;105.95;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;ITA 366 122;Rua Itacema 366 - 111;2019-12-11;83;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;ITA 97 62;Rua Itacema 97 62;2019-11-27;206;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;ITU 1209 102;Alameda Itu 1209 102;2019-11-27;172.66;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;JAU 88 122;Alameda Jaú 88 - 122;2019-11-28;132.4;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;JEL 1095 91;Alameda Joaquim Eugênio de Lima 1095 - 91;2019-11-30;105.47;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;JEL 1601 93;Alameda Joaquim Eugênio de Lima 1601 93;2019-11-22;105.47;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;JES 294 21;Rua Jesuãno Arruda 294 21;2019-11-26;53.35;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;JL 763 142;Rua João Lourenço 763 142;2019-11-28;161.45;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;JML 284 21;Rua José Maria Lisboa 284 - 21;2019-11-08;198.75;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;LO 174 92;Alameda Lorena 174 - 92;2019-11-13;155.6;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;MRA 495 142;Alameda Ministro Rocha Azevedo 495 - 142;2019-11-04;139.55;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;MRA 976 114;Alameda Ministro Rocha Azevedo 976 - 114;2019-11-01;127.96;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;MRA 976 94;Alameda Ministro Rocha Azevedo 976 - 94;2019-10-31;127.96;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;OBR 54 102;Rua Ouro Branco 54 - 102;2019-10-31;194.28;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;PED 104 31;Rua Pedroso Alvarenga 104 - 31;2019-10-29;186;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;PED 401 62;Rua Pedroso Alvarenga 401 - 62;2019-10-30;186;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;PJM 494 31;Rua Padre João Manuel 758 - 73;2019-10-31;105.95;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;PJM 758 31;Rua Padre João Manuel 758 - 73;2019-10-31;154.29;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;TAB 222 101;Rua Tabapuã 222 -101;2019-10-31;165.95;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;URU 333 142;Rua Urussui 333 - 142;2019-10-28;142.02;1;Apartamento residencial pronto para venda;;
+19.722.048/0001-31;2019-12-31;1;URU 333 162;Rua Urussui 333 - 162;2019-10-29;142.02;1;Apartamento residencial pronto para venda;;
+20.003.001/0001-05;2019-12-31;1;Tech Town;Rodovia SP 101 Km 9.5, N/A, Hortolândia, SP, 13187-057;2019-12-17;20556;1;Não possui caracteristicas que destoem dos demais;0.189466;0.510376
+21.126.204/0001-43;2019-12-31;1;Av. João de Barros;Av. João de Barros, 1812 - Encruzilhada - Recife;2019-11-01;1625;1;Loja;3.63646045755969E-05;3.60525476346243E-05
+23.964.908/0001-10;2019-03-31;1;Torre 3-1605;Av. Tancredo Neves, 199-2506 CEP: 42820020 Salvador BA;2019-01-05;71.95;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre3 -1806;Av. Tancredo Neves, 199-2312 CEP: 42820020 Salvador BA;2019-01-07;51.03;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2309;Av. Tancredo Neves, 199-2111 CEP: 42820020 Salvador BA;2019-01-26;52.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre - 2212;Av. Tancredo Neves, 199-1812 CEP: 42820020 Salvador BA;2019-01-26;70.85;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2509;Av. Tancredo Neves, 199-1709 CEP: 42820020 Salvador BA;2019-01-26;52.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 1809;Av. Tancredo Neves, 199-1213 CEP: 42820020 Salvador BA;2019-01-26;49.15;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 1411;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2018-12-28;52.65;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0;0
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2706;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-01-26;51.03;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 1211;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-02-07;52.65;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 1305;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-02-09;71.95;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0;0
+23.964.908/0001-10;2019-03-31;1;Torre - 1105;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-02-16;71.95;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2602;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-02-16;52.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0;0
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2812;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-02-16;70.85;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2609;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-02-26;52.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 03 - 2213;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-23;51.03;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2710;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-25;50.52;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2109;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-28;52.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 505;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-28;83.75;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 812;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-28;72.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2012;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-28;70.85;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 2102;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-28;52.25;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-03-31;1;Torre 3 - 1107;Av. Tancredo Neves, 199-1109 CEP: 42820020 Salvador BA;2019-03-29;51.03;1;Contrato global de rec. de obrigacoes, comprom. dacao em pagto, obrigacoes de fazer e outras avencas;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2602 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;52.25;1;N/A;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2812 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;70.85;1;N/A;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade  2609 -Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2213 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2710 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;50.52;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2109 -Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 505 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;83.75;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 812 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;72.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2012 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;70.95;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2102 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1107 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2013 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2409 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-04-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1005 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;71.95;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1613 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1712 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;70.95;1;N/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2002 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2714 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 413 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1906 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2506 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador BA;2019-05-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 503 - Torre 3;Av. Tancredo Neves, 199, CEP: 42820020 Salvador Prime;2019-06-01;52.02;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1802 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.65;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2507 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2311 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2911 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2814 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 705 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;83.75;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1702 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.65;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2711 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2805 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;70.85;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2810 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;50.52;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1308 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;70.95;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2909 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 2909 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-06-01;52.25;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1508 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-07-01;71.20;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 1608 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-07-01;70.95;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-06-28;1;Unidade 806 - Torre 3;Av. Tancredo Neves, 199 , CEP: 42820020 Salvador BA;2019-07-01;51.03;1;n/a;0.001;0.001
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1508;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;71.95;1;N/A;0.0187042686485295;0.00103404622619737
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1608;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;71.95;1;N/A;0.0188573669365734;0.00104251010735539
+23.964.908/0001-10;2019-09-30;2;SPT2 - 806;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;51.03;1;N/A;0.0136626627113422;0.000755326234986555
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1708;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;71.95;1;N/A;0.0188329086136984;0.00104115795416816
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2908;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;70.85;1;N/A;0.0192731584254472;0.00106549671153833
+23.964.908/0001-10;2019-09-30;2;SPT2 - 209;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;48.15;1;N/A;0.0134230628015146;0.000742080200767842
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2208;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;70.85;1;N/A;0.019370991716947;0.00107090532428725
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2608;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;70.85;1;N/A;0.0191978267909924;0.00106133207972165
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2508;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;70.85;1;N/A;0.0191489101452426;0.00105862777334719
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2604;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;52.25;1;N/A;0.0159622738762721;0.000882457869561532
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2013;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;51.03;1;N/A;0.0139640391956313;0.000771987523492386
+23.964.908/0001-10;2019-09-30;2;Ed. Solmaior Ap 1301;Av. Prefeito Mendes de Moraes, 1100 Apto 1301. São Conrado,Rio de Janeiro-RJ;2019-07-01;530;1;N/A;0.334692839341189;0.0185031488779031
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1705;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;71.95;1;N/A;0.0209509993746676;0.0011582544201824
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2808;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;70.85;1;N/A;0.0191978267909924;0.00106133207972165
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1908;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;71.95;1;N/A;0.0195286500661988;0.00107962130373215
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2503;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;50.52;1;N/A;0.0161424930974558;0.000892421103572711
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2110;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-07-01;50.52;1;N/A;0.0146749937249598;0.000811291912338828
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2408;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;70.85;1;N/A;0.0191978267909924;0.00106133207972165
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1412;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;70.95;1;N/A;0.0200558247574451;0.00110876561352973
+23.964.908/0001-10;2019-09-30;2;SPTM 1819;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;33.70;1;N/A;0.00744592138015257;0.000411640093947985
+23.964.908/0001-10;2019-09-30;2;SPT3 2912;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;70.85;1;N/A;0.0206428245064435;0.00114121729002328
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2708;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;70.85;1;N/A;0.0195286500661988;0.00107962130373215
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2809;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;52.25;1;N/A;0.0152130768282083;0.000841039282457918
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2709;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;52.25;1;N/A;0.0157999669009378;0.000873484895611916
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2308;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;70.85;1;N/A;0.019370991716947;0.00107090532428725
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2811;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;52.25;1;N/A;0.0152130768282083;0.000841039282457918
+23.964.908/0001-10;2019-09-30;2;SPT3 - 805;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;71.95;1;N/A;0.0205449912149437;0.00113580867727436
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1508;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;71.95;1;N/A;0.0190500496041821;0.0010531623701644
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2807;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;51.03;1;N/A;0.0146544487337449;0.000810156103661553
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2909;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-08-01;52.25;1;N/A;0.0151641601824585;0.000838334976083455
+23.964.908/0001-10;2019-09-30;2;SPT3 - 508;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;83.75;1;N/A;0.0210303653451166;0.00116264208610901
+23.964.908/0001-10;2019-09-30;2;SPT3 - 412;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;83.75;1;N/A;0.0213240171186737;0.00117887632193874
+23.964.908/0001-10;2019-09-30;2;Ed. Lumina Bauru - Ap 63-A;Rua Rodrigo Romeiro, 50, esq. da Av. Nacoes Unidas, Bauru - SP;2019-09-01;89.03;1;N/A;0.015051909353264;0.000832129304613636
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2604;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;52.25;1;N/A;0.0163870763262051;0.000905942635445024
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2907;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;51.03;1;N/A;0.0142787688943859;0.000789387030705679
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2612;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;51.03;1;N/A;0.0206801968237964;0.00114328338009337
+23.964.908/0001-10;2019-09-30;2;SPTM - 2519;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;33.70;1;N/A;0.00744592549944906;0.000411640321679048
+23.964.908/0001-10;2019-09-30;2;SPTM - 2520;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;33.70;1;N/A;0.00744592549944906;0.000411640321679048
+23.964.908/0001-10;2019-09-30;2;SPT3 - 1608;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;71.95;1;N/A;0.0195177416541965;0.00107901824341064
+23.964.908/0001-10;2019-09-30;2;SPT3 - 2108;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-09-01;70.85;1;N/A;0.019370991716947;0.00107090532428725
+23.964.908/0001-10;2019-12-31;1;SPTM - 1813;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-10-01;51.03;1;N/A;0.00503362139712734;0.00066224433182063
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 62-B;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-17;89.03;1;N/A;0.0105041990777289;0.0013819764640049
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 52-B;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-17;89.03;1;N/A;0.0105041990777289;0.0013819764640049
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 42-B;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-17;89.03;1;N/A;0.0105041990777289;0.0013819764640049
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 23-B;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-17;89.03;1;N/A;0.0105041990777289;0.0013819764640049
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 13-B;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-18;89.03;1;N/A;0.0105041990777289;0.0013819764640049
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 32-B;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-18;89.03;1;N/A;0.0105041990777289;0.0013819764640049
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 122;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-18;155.28;1;N/A;0.0180761915163545;0.00237817953083274
+23.964.908/0001-10;2019-12-31;1;Ed. Lumina Bauru - Ap 123;Rua Rodrigo Romeiro,483 , Vila Santo Antonio da Boa Vista - CEP: 17012-160, Bauru - SP;2019-10-18;155.28;1;N/A;0.0180761915163545;0.00237817953083274
+23.964.908/0001-10;2019-12-31;1;Ed. Paço Imperial - Ap 2802;Rua Felipe Dos Santos, 760 , apto 2802 Torre 03 , Centro , cep: 22610-095, Belo Horizonte - MG;2019-10-18;363.93;1;N/A;0.106565588344666;0.0140202155228959
+23.964.908/0001-10;2019-12-31;1;Ed. Costa Smeralda - Ap 1402;Rua Ouro Preto, 1523 , Centro , cep: 30170-048 , Belo Horizonte - MG;2019-10-18;362.43;1;N/A;0.0983989058784845;0.0129457725431171
+23.964.908/0001-10;2019-12-31;1;SPT3 - 2205;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-10-28;71.95;1;N/A;0.0120511053881171;0.001585493942792
+23.964.908/0001-10;2019-12-31;1;SPT3 - 2708;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-10-28;70.85;1;N/A;0.0108807864009863;0.00143152187089725
+23.964.908/0001-10;2019-12-31;1;SPT3 - 312;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-10-30;83.75;1;N/A;0.012370625358339;0.00162753132949409
+23.964.908/0001-10;2019-12-31;1;Terreno Industrial - São José Dos Pinhais;Rotatória de Confluência da Avenida Norte com a Rua Sebatião Souza Cortês, s/n , Campininha do Guaraituba, cep: 83090600, São José dos Pinhais - PR;2019-10-01;155828.00;1;N/A;0.470371940310431;0.0618841042546081
+23.964.908/0001-10;2019-12-31;1;SPT3 - 1808;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-11-04;71.95;1;N/A;0.0110503944320717;0.00145383621445945
+23.964.908/0001-10;2019-12-31;1;SPT3 - 212;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-11-04;83.75;1;N/A;0.0128643379509679;0.00169248622781115
+23.964.908/0001-10;2019-12-31;1;Imóvel Industrial - Paulista/PE;BR 101 Norte, Km 16/17 e Ruas Rio Sibre e Alberto Frazão Ferreira , 16/17 , Distrito Industrial, cep: 53409-904, Paulista-PE;2019-11-06;30023.38;1;N/A;0.140116292269711;0.0184342867749836
+23.964.908/0001-10;2019-12-31;1;SPT3 - 2203;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-11-11;71.95;1;N/A;0.00859311011552296;0.00113054558890012
+23.964.908/0001-10;2019-12-31;1;SPTM - 2601;Av Tancredo  Neves, 199 , São Caetano, cep: 41820-020 , Salvador - BA;2019-11-13;35.30;1;N/A;0.00504799495908373;0.000664135377885224
+23.964.908/0001-10;2019-12-31;1;SPT3 - 1706;Avenida Tancredo Neves, 2227,São Caetano, Salvador - BA;2019-11-27;51.03;1;N/A;0.00747771969540852;0.000983800149541222
+24.796.967/0001-90;2019-09-30;1;FR 35 10;Alameda dos Aicás 491, apto 171;;255;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JAU 1486 9;Alameda Franca, 35 - apto 10;;244;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;BAT 362 91;Alameda Franca, 432 - apto 2;;323;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JML 852 21;Alameda Itu, 285 - apto 21;;56;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PED 372 62;Alameda Jau, 1486 - apto 9;;239;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;BAT 362 71;Alameda Jauaperi, 975 - apto 22;;161;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JCT 557 12;Alameda Joaquim Eugenio de Lima, 1656 - apto 91;;278;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;IN 737 21;Av. Angelica 1683, apto 21;;123;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MAC 404 192;Avenida Grauna, 148 - apto 111;;166;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PED 288 201;Avenida Jacutinga, 557 - apto 12;;88;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ARI 679 8;Avenida Macuco, 404 - apto 192;;133;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;FR 432 2;Avenida Sabiá 57, apto 92;;87;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;TU 536 76;Rua Araguari 340, apto 102;;79;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;TAB 1590 51;Rua Baltazar da Veiga 130, apto 61;;228;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JA 975 22;Rua Batatais, 362 - apto 71;;209;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JEL 1656 91;Rua Batatais, 362 - apto 91;;209;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CAN 890 - 202;Rua Canario, 917 - apto 131;;97;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;TU 523 51;Rua Ceará 101, apto 31;;212;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;GRA 148 111;Rua Cristiano Viana 241, apto 51;;106;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;Canário 917 131;Rua Grauna 148, apto 121;;166;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JML 20 1007;Rua Iara 84, apto 103;;44;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CB 559 - 18;Rua Inhambu, 635 - apto 21;;112;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JCT 657 - 201;Rua Inhambu, 737 - apto 121;;168;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;AFO 177 - 101;Rua Inhambu, 902 - apto 11B;;101;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;TU 603 - 24;Rua Jose Maria Lisboa, 20 - apto 1007;;33;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PIN 59 - 12A;Rua José Maria Lisboa, 852 - apto 21;;198;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JU 385 - 91;Rua Mourato Coelho 50, apto 64;;149;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PIN 59 - 44;Rua Pedroso Alvarenga, 288 - apto 201;;236;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JF 76 - 52;Rua Pedroso Alvarenga, 372 - apto 62;;186;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JCT 231 - 32;Rua Pedroso Alvarenga, 599 - apto 50;;200;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MF 220 - 8;Rua Sabará 538, apto 101;;151;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;Graúna, 379 apto 63;Rua Tuim, 523 - apto 51;;165;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PIN 59 - 34;Rua Tuim, 536 - apto 76;;55;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;IN 532 - 61;Tua Tabapua, 1590 - apto 51;;236;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MRA 932 - 71;R. Mourato Coelho, 50 - apto 61;;104;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;Rua Sergipe, 686 - Apt 121;R. Inhambu, 737 - apto 21;;168;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CAC 380 - 101;R. Araguari, 679 - apto 8;;220;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;AR 578 - 54;R. Canário, 890 - apto 202;;57;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;COT 141 - 51;Alameda Casa Branca, 559 - apto 18;;306;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ARI 661 - 141;Av. Jacutinga, 647 - apto 201;;199;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PIN 519 - 140;R. Afonso Braz, 177 - apto 101;;280;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;EES 485 - 151;Rua Tuim, 603 - apto 24;;70;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;IN 635 21;Rua Pintassilgo, 59 - apto 12A;;113;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;AR 390 - 51B;Av. Juriti, 385 - apto 91;;188;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JUR 367 - 31;Rua Pintassilgo, 59 - apto 44;;90;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MAO 565 - 01;Jacques Félix, 76 - apto 52;;201;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PJM 774 - 21;Av. Jacutinga, 231 - apto 32;;83;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ALA 336 - 61;Rua Dr. Mário Ferraz, 220 - apto 8;;240;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PE 88 - 101B;Rua Graúna, 379 - apto 63;;109;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JML 1055 - 4;Rua Pintassilgo, 59 - apto 34;;90;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;FC 377 - 41;Rua Inhambu, 532- apto 61;;113;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;IN 737 121;Alameda Ministro Rocha Azevedo,;;191;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;TU 536 - 53;Rua Sergipe, 686 - apto 121;;207;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MAO 685 - 91;Rua Caconde, 380- apto 101;;229;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;GVT 183 - 52;Rua Araguari, 578- apto54;;101;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PED 599 50;Av. Cotovia, 141 - apto 51;;63;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;GRA 379 - 33;Rua Araguari, 661 - apto 141;;88;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;EES 303 - 41;Rua Pintassilgo, 519 - apto 140;;143;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MAN 82 - 71;Rua Eng. Edgar Egídio de Souza, 485 - apto 151;;254;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;EES 373 - 502;Alameda Arapanés, 390 - apto 51 B;;114;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CAN 890 - 42;Av. Juriti, 367 - apto 31;;171;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;BAT 577 - 41;Rua Maranhão, 565 - apto 01;;228;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;IN 902 11B;Alameda Padre João Manoel, 774 - apto 21;;200;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PE 74 - 91;Rua Alagoas, 336 - apto 61;;145;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;GRA - 148 - 121;Rua Pernambuco, 88 - apto 101 B;;101;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CEA 101 - 31;Rua José Maria Lisboa, 1055 - apto 4;;207;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ALB 1238 - 6A;Al. Fernão Cardim, 377 - apto 41;;214;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ANG 1697 - 92;Rua Tuim, 536- apto 53;;56;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ARI 340 - 102;Rua Maranhão, 685 - apto 91;;212;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;SAB 400 - 1602;Rua Gaivota, 183 - apto 52;;90;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PRQ 104 - 121;Rua Graúna, 379 - apto 33;;109;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ARI 661 - 172;Rua Eng. Edgar Egídio de Souza, 303 - apto 41;;231;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PFA 639 - 31;Rua das Mangabeiras, 82  - apto 71;;169;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;BIB 129 -101;Rua Eng. Edgar Egídio de Souza, 373 - apto 502;;180;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ANG 1683 21;Rua Canário, 890 - apto 42;;57;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;BV 130 61;Rua Batataes, 577 - apto 41;;305;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CRV 243 - 51;Rua Pernambuco, 88 - apto 91;;210;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MTC 50 - 64;Rua Albuquerque Lins, 1238 - apto  6A;;132;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MTC 50 - 61;Av. Angélica, 1697 - apto 92;;125;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;MAC 417 54;Av. Sabiá, 400 - apto 1602;;140;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;SAB 57 - 92;Rua Periquito, 104 - apto  121;;60;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;ITU 285 - 21;Rua Araguari, 661 - apto 172;;73;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;AIC 491 - 171;Rua Professor Filadelfo Azevedo, 639 - apto  31;;261;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;IA 84 - 103;Rua Bianchi Bertoldi, 129 - apto  101;;142;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;SAB 538 101;Av. Macuco, 417 - apto  54;;110;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;GVT 879 203;Rua Gaivota, 879 - apto  203;;54;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;JRP 701 - 101;Al. Jurupis, 701 - apto  101;;117;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CV 243 52;Rua Cristiano Viana 243, apto 52;;107;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;AR 666 - 71;Rua Araguari, 666 - apto  71;;143;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;CTV 180 154;Av. Cotovia, 180 - apto 154;;98;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-09-30;1;PTR 212 - 51;Rua Professor Tranquili, 212 - apto  51;;83;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;BB 282 81;Rua Bueno Brandão 282 - 81;;292.68;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;CAM 1497 71;Alameda Campinas 1497 - 71;;206.67;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;CB 685 101;Alameda Casa Branca 685 - 101;;279;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;DLE 609 61;Rua Domingos Leme 609 - 61;;191.56;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;DMA 604 102;Rua Doutor Melo Alves 604 - 102;;187.36;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;FR 1329 101;Alameda Franca 1329 - 101;;208;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;FR 35 10;Alameda Franca 35 - 10;;244.16;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;FR 35 141;Alameda Franca 35 - 141;;244;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;FR 425 401;Alameda Franca 425 - 401;;206.58;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JAU 1325 52;Alameda Jaú 1325 - 52;;286.54;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JAU 1817 61;Alameda Jaú 1817 - 61;;292;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JF 76 61;Rua Jaques Félix 76 - 61;;201.37;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JF 76 92;Rua Jaques Félix 76 - 92;;201.37;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JL 659 161;Rua João Lourenço 659 - 161;;212;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JML 1096 3;Rua José Maria Lisboa 1096 - 3;;286.15;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;JML 852 71;Rua José Maria Lisboa 852 - 71;;198.75;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;MGD 134 91;Rua Manuel Guedes 134 - 91;;190.5;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;RPB 188 21;Rua Doutor Renato Paes de Barros 188 - 21;;217.55;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2019-12-31;1;SAR 186 111;Alameda Sarutaiá 186 - 111;;137.31;1;Apartamento residencial pronto para venda;;
+26.502.761/0001-35;2019-06-28;2;ESCRITÓRIO 1901;AVENIDA NAÇÕES UNIDAS, 12901, BLOCO C, SÃO PAULO - SP;2018-08-28;520.34;1;conjunto comercial;1;
+26.502.761/0001-35;2019-06-28;2;ESCRITÓRIO 1902;AVENIDA NAÇÕES UNIDAS, 12901, BLOCO C, SÃO PAULO - SP;2018-08-28;504.48;1;conjunto comercial;1;
+26.502.761/0001-35;2019-09-30;1;Ed Paris;Rua Eduardo Souza Aranha 255, Ap 130;2019-07-31;276;1;;;
+26.502.761/0001-35;2019-09-30;1;Ed San Gustavo U 44;Rua Marie Nader Calfat 249;2019-08-26;85;1;;;
+26.502.761/0001-35;2019-09-30;1;Ed San Gustavo U 73;Rua Marie Nader Calfat 249;2019-08-20;85;1;;;
+26.502.761/0001-35;2019-12-31;1;EDIFÍCIO SAN GUSTAVO;RUA MARIE NADER CALFAT, 249 - JARDIM AMPLIAÇÃO;2019-12-31;100;6;;0;0.22679
+27.293.689/0001-46;2019-09-30;1;EDIFICIO RESIDENCIAL MY JOY - Unidade 153;Rua Francisco Tapajos, 359 - Vila Santo Estéfano - São Paulo - SP;2019-09-06;41.43;1;Imóvel adquirido em dação em pagamento;0.039274;0.039274
+28.267.530/0001-10;2019-03-29;2;WIN WORK IBIRAPUERA;Rua Amâncio de Carvalho, 182, Vila Mariana - São Paulo;2019-02-06;89.28;1;Sala comercial com 2 vagas na garagem;0.1851;0.1799
+28.516.650/0001-03;2019-03-31;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.516.650/0001-03;2019-06-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.516.650/0001-03;2019-09-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.516.650/0001-03;2019-12-31;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2019-03-31;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2019-06-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2019-09-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.693.595/0001-27;2019-12-31;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+28.893.734/0001-66;2019-03-29;1;LUMIERE_75151;Avenida Engenheiro Miguel Gemma, 1399, 4º Andar, Apto 44, Socoro, Mogi das Cruzes - SP;2019-03-29;100.12;1;Nenhuma característica relevante.;0.002374;0.002811
+28.893.734/0001-66;2019-03-29;1;FELICITTA_72454;Rua Presidente Campos Salles, 1370, 6º Andar, Apto 63, Alto Ipiranga, Mogi das Cruzes - SP;2019-01-24;126.60;1;Nenhuma característica relevante.;0.004153;0.004221
+28.893.734/0001-66;2019-03-29;1;LUMIERE_75145;Avenida Engenheiro Miguel Gemma, 1399, 2º Andar, Apto 24, Socoro, Mogi das Cruzes - SP;2019-02-26;100.12;1;Nenhuma característica relevante.;0.002483;0.002745
+28.893.734/0001-66;2019-03-29;1;LUMIERE_75148;Avenida Engenheiro Miguel Gemma, 1399, 3º Andar, Apto 34, Socoro, Mogi das Cruzes - SP;2019-02-25;100.12;1;Nenhuma característica relevante.;0.002578;0.002843
+28.893.734/0001-66;2019-03-29;1;SELETTOD_158376;Av. Nossa Senhora do Carmo, 644 - Apto nº 1201 - 12 andar -Centro - Betim - MG;2019-03-28;72.18;1;Nenhuma característica relevante;0.001576;0.001866
+28.893.734/0001-66;2019-03-29;1;SELETTOD_158381;Av. Nossa Senhora do Carmo, 644 - Apto nº 1302 - 13 andar -Centro - Betim - MG;2019-03-14;72.18;1;Nenhuma característica relevante;0.001576;0.001866
+28.893.734/0001-66;2019-03-29;1;SELETTOD_158350;Av. Nossa Senhora do Carmo, 644 - Apto nº 503 - 5 andar -Centro - Betim - MG;2019-03-14;72.18;1;Nenhuma característica relevante;0.001551;0.001837
+28.893.734/0001-66;2019-03-29;1;SELETTOD_158364;Av. Nossa Senhora do Carmo, 644 - Apto nº 901 - 9 andar -Centro - Betim - MG;2019-01-17;72.18;1;Nenhuma característica relevante;0.001837;0.001866
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158435;Av. Nossa Senhora do Carmo, 644 - Apto nº 1104 - 11 andar -Centro - Betim - MG;2019-01-17;84.36;1;Nenhuma característica relevante;0.002145;0.002179
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158443;Av. Nossa Senhora do Carmo, 644 - Apto nº 1304 - 13 andar -Centro - Betim - MG;2019-03-08;84.36;1;Nenhuma característica relevante;0.001839;0.002179
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158447;Av. Nossa Senhora do Carmo, 644 - Apto nº 1404 - 14 andar -Centro - Betim - MG;2019-03-14;84.36;1;Nenhuma característica relevante;0.001839;0.002179
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158401;Av. Nossa Senhora do Carmo, 644 - Apto nº 302 - 3 andar -Centro - Betim - MG;2019-01-17;99.26;1;Nenhuma característica relevante;0.002072;0.002105
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158409;Av. Nossa Senhora do Carmo, 644 - Apto nº 502 - 5 andar -Centro - Betim - MG;2019-03-14;84.36;1;Nenhuma característica relevante;0.00177;0.002097
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158411;Av. Nossa Senhora do Carmo, 644 - Apto nº 504 - 5 andar -Centro - Betim - MG;2019-03-19;84.36;1;Nenhuma característica relevante;0.001832;0.00217
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158412;Av. Nossa Senhora do Carmo, 644 - Apto nº 601 - 6 andar -Centro - Betim - MG;2019-01-11;84.36;1;Nenhuma característica relevante;0.00202;0.002052
+28.893.734/0001-66;2019-03-29;1;SELETTOS_158423;Av. Nossa Senhora do Carmo, 644 - Apto nº 804 - 8 andar -Centro - Betim - MG;2019-01-21;84.36;1;Nenhuma característica relevante;0.002084;0.002118
+28.893.734/0001-66;2019-03-29;1;GAIA_601;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 601, 6º Andar -  Bloco - 1 - Vita Felice;2019-02-05;57.78;1;Nenhuma característica relevante;0.081485;0.090069
+28.893.734/0001-66;2019-03-29;1;GAI5_608;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 608, 6º Andar -  Bloco - 5 - Vita Felice;2019-02-07;70.83;1;Nenhuma característica relevante;0.000927;0.001024
+28.893.734/0001-66;2019-03-29;1;EASY905;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 905 - Apartamento Residencial;2019-03-26;50.20;1;Nenhuma característica relevante;0.001402;0.00166
+28.893.734/0001-66;2019-06-28;1;FELICITTA_72442;Rua Presidente Campos Salles, 1370, 2º Andar, Apto 22, Alto Ipiranga, Mogi das Cruzes - SP;2019-04-18;126.60;1;Nenhuma característica relevante.;0.003232;0.004288
+28.893.734/0001-66;2019-06-28;1;LUMIERE_75175;Avenida Engenheiro Miguel Gemma, 1399, 11º Andar, Apto 112, Socoro, Mogi das Cruzes - SP;2019-06-26;100.12;1;Nenhuma característica relevante.;0.002653;0.003516
+28.893.734/0001-66;2019-06-28;1;SELETTOD_158372;Av. Nossa Senhora do Carmo, 644 - Apto nº 1101 - 11 andar -Centro - Betim - MG;2019-05-31;72.18;1;Nenhuma característica relevante;0.001618;0.002146
+28.893.734/0001-66;2019-06-28;1;SELETTOD_158389;Av. Nossa Senhora do Carmo, 644 - Apto nº 1502 - 15 andar -Centro - Betim - MG;2019-05-13;72.18;1;Nenhuma característica relevante;0.001668;0.002212
+28.893.734/0001-66;2019-06-28;1;SELETTOD_158344;Av. Nossa Senhora do Carmo, 644 - Apto nº 401 - 4 andar -Centro - Betim - MG;2019-05-15;72.18;1;Nenhuma característica relevante;0.001552;0.002058
+28.893.734/0001-66;2019-06-28;1;SELETTOS_158429;Av. Nossa Senhora do Carmo, 644 - Apto nº 1002 - 10 andar -Centro - Betim - MG;2019-05-17;84.36;1;Nenhuma característica relevante;0.001842;0.002441
+28.893.734/0001-66;2019-06-28;1;SELETTOS_158432;Av. Nossa Senhora do Carmo, 644 - Apto nº 1101 - 11 andar -Centro - Betim - MG;2019-04-02;84.36;1;Nenhuma característica relevante;0.00188;0.002495
+28.893.734/0001-66;2019-06-28;1;SELETTOS_158439;Av. Nossa Senhora do Carmo, 644 - Apto nº 1204 - 12 andar -Centro - Betim - MG;2019-05-15;84.36;1;Nenhuma característica relevante;0.001845;0.002446
+28.893.734/0001-66;2019-06-28;1;GAR1_74;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 74 - Apartamento Residencial;2019-04-11;121.33;1;Nenhuma característica relevante;0.003533;0.004688
+28.893.734/0001-66;2019-06-28;1;GAR1_81;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 81 - Apartamento Residencial;2019-05-27;121.33;1;Nenhuma característica relevante;0.003428;0.004549
+28.893.734/0001-66;2019-06-28;1;GAR1_131;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 131 - Apartamento Residencial;2019-05-29;121.33;1;Nenhuma característica relevante;0.003369;0.004468
+28.893.734/0001-66;2019-06-28;1;GAR1_132;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 132 - Apartamento Residencial;2019-05-29;121.33;1;Nenhuma característica relevante;0.003369;0.004468
+28.893.734/0001-66;2019-06-28;1;GAR3_192;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 192 - Apartamento Residencial;2019-04-02;155.42;1;Nenhuma característica relevante;0.004804;0.006373
+28.893.734/0001-66;2019-06-28;1;BELLE_55;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 55 - Casa Residencial;2019-05-06;121.10;1;Nenhuma característica relevante;0.002541;0.003369
+28.893.734/0001-66;2019-06-28;1;BELLE_77;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 77 - Casa Residencial;2019-04-29;121.10;1;Nenhuma característica relevante;0.002596;0.003443
+28.893.734/0001-66;2019-06-28;1;MAG1_52;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 52 - Apartamento Residencial;2019-05-21;97.76;1;Nenhuma característica relevante;0.001987;0.002637
+28.893.734/0001-66;2019-06-28;1;MAG2_91;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 91 - Apartamento Residencial;2019-04-29;97.76;1;Nenhuma característica relevante;0.002084;0.002764
+28.893.734/0001-66;2019-06-28;1;MAG2_93;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 93 - Apartamento Residencial;2019-05-17;97.76;1;Nenhuma característica relevante;0.002155;0.002857
+28.893.734/0001-66;2019-06-28;1;MAG3_61;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 61 - Apartamento Residencial;2019-04-29;97.76;1;Nenhuma característica relevante;0.001988;0.002637
+28.893.734/0001-66;2019-06-28;1;MAI2_181;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 181 - Apartamento Residencial;2019-06-07;121.18;1;Nenhuma característica relevante;0.003089;0.004097
+28.893.734/0001-66;2019-06-28;1;MAIG_100;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 100 - Vaga de Garagem;2019-05-10;12.50;1;Nenhuma característica relevante;8.8E-05;0.000117
+28.893.734/0001-66;2019-06-28;1;MAIG_104;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 104 - Vaga de Garagem;2019-04-29;12.50;1;Nenhuma característica relevante;0.00011;0.000146
+28.893.734/0001-66;2019-06-28;1;MAIG_105;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 105 - Vaga de Garagem;2019-04-29;12.50;1;Nenhuma característica relevante;0.00011;0.000146
+28.893.734/0001-66;2019-06-28;1;EASY1005;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1005 - Apartamento Residencial;2019-04-04;50.20;1;Nenhuma característica relevante;0.001386;0.001839
+28.893.734/0001-66;2019-06-28;1;REN_103;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 103 - Apartamento Residencial;2019-06-10;155.00;1;Nenhuma característica relevante;0.002956;0.003919
+28.893.734/0001-66;2019-06-28;1;REN_1503;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1503 - Apartamento Residencial;2019-06-26;155.00;1;Nenhuma característica relevante;0.003316;0.004395
+28.893.734/0001-66;2019-09-30;1;ALLEGRO_86422;Rua Capitão Paulino Freire, 300, 15º Andar, Apto 153, Centro, Mogi das Cruzes - SP;2019-09-23;70.76;1;Nenhuma característica relevante;0.00193;0.002613
+28.893.734/0001-66;2019-09-30;1;FELICITTA_72439;Rua Presidente Campos Salles, 1370, 1º Andar, Apto 13, Alto Ipiranga, Mogi das Cruzes / SP;2019-07-22;126.60;1;Nenhuma característica relevante;0.003152;0.004276
+28.893.734/0001-66;2019-09-30;1;LUMIERE_75154;Avenida Engenheiro Miguel Gemma, 1399, 5º Andar, Apto 53, Socoro, Mogi das Cruzes - SP;2019-07-19;100.12;1;Nenhuma característica relevante;0.002406;0.003265
+28.893.734/0001-66;2019-09-30;1;RESERVATTO_121053;Rua Estácio de Sá, 755- Apto nº 2003 - 20 andar - Gutierrez - Belo Horizonte - MG;2019-07-02;325.09;1;Nenhuma característica relevante;0.01163;0.015811
+28.893.734/0001-66;2019-09-30;1;SELETTOD_158393;Av. Nossa Senhora do Carmo, 644 - Apto nº 1602 - 16 andar -Centro - Betim - MG;2019-09-17;72.18;1;Nenhuma característica relevante;0.001645;0.002229
+28.893.734/0001-66;2019-09-30;1;SELETTOD_158395;Av. Nossa Senhora do Carmo, 644 - Apto nº 1604 - 16 andar -Centro - Betim - MG;2019-07-16;72.18;1;Nenhuma característica relevante;0.001641;0.002229
+28.893.734/0001-66;2019-09-30;1;SELETTOS_158430;Av. Nossa Senhora do Carmo, 644 - Apto nº 1003 - 10 andar -Centro - Betim - MG;2019-08-02;84.36;1;Nenhuma característica relevante;0.001835;0.00249
+28.893.734/0001-66;2019-09-30;1;SELETTOS_158433;Av. Nossa Senhora do Carmo, 644 - Apto nº 1102 - 11 andar -Centro - Betim - MG;2019-08-28;84.36;1;Nenhuma característica relevante;0.001855;0.002515
+28.893.734/0001-66;2019-09-30;1;SELETTOS_158436;Av. Nossa Senhora do Carmo, 644 - Apto nº 1201 - 12 andar -Centro - Betim - MG;2019-07-10;84.36;1;Nenhuma característica relevante;0.001851;0.002515
+28.893.734/0001-66;2019-09-30;1;SELETTOS_158446;Av. Nossa Senhora do Carmo, 644 - Apto nº 1403 - 14 andar -Centro - Betim - MG;2019-08-08;84.36;1;Nenhuma característica relevante;0.001835;0.00249
+28.893.734/0001-66;2019-09-30;1;SELETTOS_158451;Av. Nossa Senhora do Carmo, 644 - Apto nº 1504 - 15 andar -Centro - Betim - MG;2019-07-18;84.36;1;Nenhuma característica relevante;0.001852;0.002515
+28.893.734/0001-66;2019-09-30;1;SELETTOS_158422;Av. Nossa Senhora do Carmo, 644 - Apto nº 803 - 8 andar -Centro - Betim - MG;2019-09-19;84.36;1;Nenhuma característica relevante;0.001801;0.002439
+28.893.734/0001-66;2019-09-30;1;GAR1_14;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 14 - Apartamento Residencial;2019-09-20;121.33;1;Nenhuma característica relevante;0.00342;0.00463
+28.893.734/0001-66;2019-09-30;1;GAR1_111;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 111 - Apartamento Residencial;2019-07-03;121.33;1;Nenhuma característica relevante;0.003313;0.004502
+28.893.734/0001-66;2019-09-30;1;GAR2_202;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 202 - Apartamento Residencial;2019-08-27;121.33;1;Nenhuma característica relevante;0.003664;0.004969
+28.893.734/0001-66;2019-09-30;1;MAG2_32;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 32 - Apartamento Residencial;2019-09-24;97.76;1;Nenhuma característica relevante;0.002013;0.002725
+28.893.734/0001-66;2019-09-30;1;MAG2_34;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 34 - Apartamento Residencial;2019-08-06;97.76;1;Nenhuma característica relevante;0.001998;0.00271
+28.893.734/0001-66;2019-09-30;1;MAG2_64;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 64 - Apartamento Residencial;2019-09-06;97.76;1;Nenhuma característica relevante;0.002001;0.00271
+28.893.734/0001-66;2019-09-30;1;MAG2_104;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 104 - Apartamento Residencial;2019-09-05;97.76;1;Nenhuma característica relevante;0.002084;0.002823
+28.893.734/0001-66;2019-09-30;1;MAG2_113;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 113 - Apartamento Residencial;2019-09-05;97.76;1;Nenhuma característica relevante;0.002112;0.002861
+28.893.734/0001-66;2019-09-30;1;MAG3_51;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 51 - Apartamento Residencial;2019-09-03;97.76;1;Nenhuma característica relevante;0.002055;0.002786
+28.893.734/0001-66;2019-09-30;1;MAG3_121;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 121 - Apartamento Residencial;2019-09-06;97.76;1;Nenhuma característica relevante;0.002223;0.003012
+28.893.734/0001-66;2019-09-30;1;MAIG_101;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 101 - Vaga de Garagem;2019-09-09;12.50;1;Nenhuma característica relevante;0.000111;0.000151
+28.893.734/0001-66;2019-09-30;1;MAIG_112;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 112 - Vaga de Garagem;2019-09-05;12.50;1;Nenhuma característica relevante;0.0001;0.000136
+28.893.734/0001-66;2019-09-30;1;MAIG_113;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 113 - Vaga de Garagem;2019-09-05;12.50;1;Nenhuma característica relevante;0.0001;0.000136
+28.893.734/0001-66;2019-09-30;1;MAIG_114;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 114 - Vaga de Garagem;2019-09-05;12.50;1;Nenhuma característica relevante;0.0001;0.000136
+28.893.734/0001-66;2019-09-30;1;MAIG_203;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 203 - Vaga de Garagem;2019-09-06;12.50;1;Nenhuma característica relevante;0.000103;0.000139
+28.893.734/0001-66;2019-09-30;1;MAIG_204;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 204 - Vaga de Garagem;2019-07-19;12.50;1;Nenhuma característica relevante;0.000139;0.000188
+28.893.734/0001-66;2019-09-30;1;EASY110;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 110 - Apartamento Residencial;2019-08-28;72.87;1;Nenhuma característica relevante;0.002098;0.002844
+28.893.734/0001-66;2019-09-30;1;EASY301;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 301 - Apartamento Residencial;2019-08-29;73.12;1;Nenhuma característica relevante;0.002055;0.002786
+28.893.734/0001-66;2019-09-30;1;EASY608;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 608 - Apartamento Residencial;2019-07-11;96.62;1;Nenhuma característica relevante;0.002772;0.003764
+28.893.734/0001-66;2019-09-30;1;EASY1006;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1006 - Apartamento Residencial;2019-08-28;50.20;1;Nenhuma característica relevante;0.001472;0.001995
+28.893.734/0001-66;2019-09-30;1;EASY1011;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1011 - Apartamento Residencial;2019-09-20;50.20;1;Nenhuma característica relevante;0.001415;0.001916
+28.893.734/0001-66;2019-09-30;1;EASY1012;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1012 - Apartamento Residencial;2019-09-18;50.20;1;Nenhuma característica relevante;0.001444;0.001955
+28.893.734/0001-66;2019-09-30;1;EASY1205;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1205 - Apartamento Residencial;2019-09-12;50.65;1;Nenhuma característica relevante;0.001445;0.001958
+28.893.734/0001-66;2019-09-30;1;EASY1206;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1206 - Apartamento Residencial;2019-08-28;50.60;1;Nenhuma característica relevante;0.001478;0.002003
+28.893.734/0001-66;2019-09-30;1;EASY1211;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1211 - Apartamento Residencial;2019-08-28;59.61;1;Nenhuma característica relevante;0.001733;0.002349
+28.893.734/0001-66;2019-09-30;1;REN_702;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 702 - Apartamento Residencial;2019-07-05;155.00;1;Nenhuma característica relevante;0.003159;0.004292
+28.893.734/0001-66;2019-09-30;1;REN_703;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 703 - Apartamento Residencial;2019-07-05;155.00;1;Nenhuma característica relevante;0.003159;0.004292
+28.893.734/0001-66;2019-09-30;1;TAR_106;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 106 - Apartamento Residencial;2019-07-03;49.88;1;Nenhuma característica relevante;0.000886;0.001205
+28.893.734/0001-66;2019-09-30;1;TAR_208;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 208 - Apartamento Residencial;2019-07-19;64.70;1;Nenhuma característica relevante;0.001165;0.001581
+28.893.734/0001-66;2019-09-30;1;CEN_122B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 122 - 12 andar - Ribeirão Preto - SP;2019-09-10;140.77;1;Nenhuma característica relevante;0.003557;0.004819
+28.893.734/0001-66;2019-12-31;1;ALLEGRO_86432;Rua Capitão Paulino Freire, 300, 18º Andar, Apto 181, Centro, Mogi das Cruzes - SP;2019-12-11;70.76;1;Nenhuma característica relevante.;0.002011;0.00345
+28.893.734/0001-66;2019-12-31;1;FELICITTA_72474;Rua Presidente Campos Salles, 1370, 13º Andar, Apto 132, Alto Ipiranga, Mogi das Cruzes - SP;2019-12-13;126.60;1;Nenhuma característica relevante.;0.003356;0.00575
+28.893.734/0001-66;2019-12-31;1;FELICITTA_72497;Rua Presidente Campos Salles, 1370, 20º Andar, Apto 202 Alto Ipiranga, Mogi das Cruzes - SP;2019-12-17;217.36;1;Nenhuma característica relevante.;0.005041;0.008625
+28.893.734/0001-66;2019-12-31;1;LUMIERE_75150;Avenida Engenheiro Miguel Gemma, 1399, 4º Andar, Apto 42, Socoro, Mogi das Cruzes - SP;2019-10-02;100.12;1;Nenhuma característica relevante.;0.002336;0.004025
+28.893.734/0001-66;2019-12-31;1;SELETTOD_158374;Av. Nossa Senhora do Carmo, 644 - Apto nº 1103 - 11 andar -Centro - Betim - MG;2019-11-25;72.18;1;Nenhuma característica relevante;0.001651;0.002837
+28.893.734/0001-66;2019-12-31;1;SELETTOD_158385;Av. Nossa Senhora do Carmo, 644 - Apto nº 1402 - 14 andar -Centro - Betim - MG;2019-12-27;72.18;1;Nenhuma característica relevante;0.00166;0.002837
+28.893.734/0001-66;2019-12-31;1;SELETTOD_158341;Av. Nossa Senhora do Carmo, 644 - Apto nº 302 - 3 andar -Centro - Betim - MG;2019-10-15;75.88;1;Nenhuma característica relevante;0.001586;0.002731
+28.893.734/0001-66;2019-12-31;1;SELETTOD_158349;Av. Nossa Senhora do Carmo, 644 - Apto nº 502 - 5 andar -Centro - Betim - MG;2019-10-03;72.18;1;Nenhuma característica relevante;0.001563;0.002693
+28.893.734/0001-66;2019-12-31;1;SELETTOS_158428;Av. Nossa Senhora do Carmo, 644 - Apto nº 1001 - 10 andar -Centro - Betim - MG;2019-10-15;84.36;1;Nenhuma característica relevante;0.001859;0.003201
+28.893.734/0001-66;2019-12-31;1;SELETTOS_158440;Av. Nossa Senhora do Carmo, 644 - Apto nº 1301 - 13 andar -Centro - Betim - MG;2019-12-09;84.36;1;Nenhuma característica relevante;0.001865;0.003201
+28.893.734/0001-66;2019-12-31;1;SELETTOS_158455;Av. Nossa Senhora do Carmo, 644 - Apto nº 1604 - 16 andar -Centro - Betim - MG;2019-11-26;84.36;1;Nenhuma característica relevante;0.001956;0.003358
+28.893.734/0001-66;2019-12-31;1;SELETTOS_158405;Av. Nossa Senhora do Carmo, 644 - Apto nº 402 - 4 andar -Centro - Betim - MG;2019-12-12;84.36;1;Nenhuma característica relevante;0.001811;0.003105
+28.893.734/0001-66;2019-12-31;1;SELETTOS_158407;Av. Nossa Senhora do Carmo, 644 - Apto nº 404 - 4 andar -Centro - Betim - MG;2019-10-15;84.36;1;Nenhuma característica relevante;0.001803;0.003105
+28.893.734/0001-66;2019-12-31;1;SELETTOS_158416;Av. Nossa Senhora do Carmo, 644 - Apto nº 701 - 7 andar -Centro - Betim - MG;2019-12-18;84.36;1;Nenhuma característica relevante;0.001816;0.003105
+28.893.734/0001-66;2019-12-31;1;GAIA_506;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 506, 5º Andar -  Bloco - 1 - Vita Felice;2019-11-27;57.78;1;Nenhuma característica relevante;0.00076;0.001304
+28.893.734/0001-66;2019-12-31;1;GAIA_608;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 608, 6º Andar -  Bloco - 1 - Vita Felice;2019-12-30;70.83;1;Nenhuma característica relevante;0.000935;0.001597
+28.893.734/0001-66;2019-12-31;1;GAI3_307;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 307, 3º Andar -  Bloco - 3 - Vita Felice;2019-12-30;70.83;1;Nenhuma característica relevante;0.000935;0.001596
+28.893.734/0001-66;2019-12-31;1;GAI3_505;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 505, 5º Andar -  Bloco - 3 - Vita Felice;2019-12-17;57.78;1;Nenhuma característica relevante;0.000773;0.001322
+28.893.734/0001-66;2019-12-31;1;GAI5_407;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 407, 4º Andar -  Bloco - 5 - Vita Felice;2019-12-30;70.83;1;Nenhuma característica relevante;0.000932;0.001591
+28.893.734/0001-66;2019-12-31;1;GAI5_604;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 604, 6º Andar -  Bloco - 5 - Vita Felice;2019-12-30;58.86;1;Nenhuma característica relevante;0.000825;0.001409
+28.893.734/0001-66;2019-12-31;1;GAR1_11;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 11 - Apartamento Residencial;2019-12-17;121.33;1;Nenhuma característica relevante;0.003372;0.005769
+28.893.734/0001-66;2019-12-31;1;GAR1_22;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 22 - Apartamento Residencial;2019-11-01;121.33;1;Nenhuma característica relevante;0.003563;0.006133
+28.893.734/0001-66;2019-12-31;1;GAR1_24;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 24 - Apartamento Residencial;2019-10-07;121.33;1;Nenhuma característica relevante;0.003532;0.006085
+28.893.734/0001-66;2019-12-31;1;GAR1_31;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 31 - Apartamento Residencial;2019-11-04;121.33;1;Nenhuma característica relevante;0.003456;0.005947
+28.893.734/0001-66;2019-12-31;1;GAR1_32;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 32 - Apartamento Residencial;2019-10-04;121.33;1;Nenhuma característica relevante;0.003451;0.005947
+28.893.734/0001-66;2019-12-31;1;GAR1_41;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 41 - Apartamento Residencial;2019-10-04;121.33;1;Nenhuma característica relevante;0.003476;0.005989
+28.893.734/0001-66;2019-12-31;1;GAR1_72;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 72 - Apartamento Residencial;2019-10-08;121.33;1;Nenhuma característica relevante;0.003488;0.006011
+28.893.734/0001-66;2019-12-31;1;GAR1_172;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 172 - Apartamento Residencial;2019-12-18;121.33;1;Nenhuma característica relevante;0.003895;0.00666
+28.893.734/0001-66;2019-12-31;1;GAR2_13;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 13 - Apartamento Residencial;2019-12-11;121.33;1;Nenhuma característica relevante;0.003386;0.005807
+28.893.734/0001-66;2019-12-31;1;GAR2_152;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 152 - Apartamento Residencial;2019-12-26;121.33;1;Nenhuma característica relevante;0.003757;0.006421
+28.893.734/0001-66;2019-12-31;1;GAR2_172;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 172 - Apartamento Residencial;2019-12-26;121.33;1;Nenhuma característica relevante;0.003757;0.006421
+28.893.734/0001-66;2019-12-31;1;BELLE_54;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 54 - Casa Residencial;2019-12-11;121.10;1;Nenhuma característica relevante;0.002626;0.004504
+28.893.734/0001-66;2019-12-31;1;BELLE_61;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 61 - Casa Residencial;2019-12-02;121.10;1;Nenhuma característica relevante;0.002624;0.004504
+28.893.734/0001-66;2019-12-31;1;MAG1_41;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 41 - Apartamento Residencial;2019-10-15;97.76;1;Nenhuma característica relevante;0.002059;0.003546
+28.893.734/0001-66;2019-12-31;1;MAG1_53;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 53 - Apartamento Residencial;2019-10-25;97.76;1;Nenhuma característica relevante;0.002077;0.003574
+28.893.734/0001-66;2019-12-31;1;MAG1_84;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 84 - Apartamento Residencial;2019-12-18;97.76;1;Nenhuma característica relevante;0.002157;0.003689
+28.893.734/0001-66;2019-12-31;1;MAG1_103;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 103 - Apartamento Residencial;2019-11-07;97.76;1;Nenhuma característica relevante;0.002172;0.003737
+28.893.734/0001-66;2019-12-31;1;MAG1_124;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 124 - Apartamento Residencial;2019-12-06;97.76;1;Nenhuma característica relevante;0.002161;0.00371
+28.893.734/0001-66;2019-12-31;1;MAG2_81;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 81 - Apartamento Residencial;2019-12-23;97.76;1;Nenhuma característica relevante;0.00211;0.003605
+28.893.734/0001-66;2019-12-31;1;MAG2_94;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 94 - Apartamento Residencial;2019-10-15;97.76;1;Nenhuma característica relevante;0.002115;0.003642
+28.893.734/0001-66;2019-12-31;1;MAG3_31;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 31 - Apartamento Residencial;2019-10-15;97.76;1;Nenhuma característica relevante;0.00202;0.003479
+28.893.734/0001-66;2019-12-31;1;MAG3_113;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 113 - Apartamento Residencial;2019-11-05;97.76;1;Nenhuma característica relevante;0.002144;0.003689
+28.893.734/0001-66;2019-12-31;1;MAI1_144;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 144 - Apartamento Residencial;2019-10-14;98.67;1;Nenhuma característica relevante;0.00242;0.004169
+28.893.734/0001-66;2019-12-31;1;MAI1_203;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 203 - Apartamento Residencial;2019-12-19;98.67;1;Nenhuma característica relevante;0.002494;0.004264
+28.893.734/0001-66;2019-12-31;1;MAI2_21;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 21 - Apartamento Residencial;2019-12-13;121.18;1;Nenhuma característica relevante;0.002517;0.004312
+28.893.734/0001-66;2019-12-31;1;MAI2_203;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 203 - Apartamento Residencial;2019-10-09;121.18;1;Nenhuma característica relevante;0.003225;0.005558
+28.893.734/0001-66;2019-12-31;1;MAI3_13;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 13 - Apartamento Residencial;2019-11-14;146.26;1;Nenhuma característica relevante;0.003262;0.005606
+28.893.734/0001-66;2019-12-31;1;MAI3_61;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 61 - Apartamento Residencial;2019-10-18;146.26;1;Nenhuma característica relevante;0.003424;0.005894
+28.893.734/0001-66;2019-12-31;1;MAIG_99;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 99 - Vaga de Garagem;2019-11-13;12.50;1;Nenhuma característica relevante;0.000111;0.000192
+28.893.734/0001-66;2019-12-31;1;MAIG_103;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 103 - Vaga de Garagem;2019-12-12;12.50;1;Nenhuma característica relevante;0.000112;0.000192
+28.893.734/0001-66;2019-12-31;1;MAIG_199;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 199 - Vaga de Garagem;2019-12-12;12.50;1;Nenhuma característica relevante;0.000112;0.000192
+28.893.734/0001-66;2019-12-31;1;EASY402;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 402 - Apartamento Residencial;2019-11-04;96.50;1;Nenhuma característica relevante;0.002506;0.004312
+28.893.734/0001-66;2019-12-31;1;EASY508;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 508 - Apartamento Residencial;2019-11-14;96.62;1;Nenhuma característica relevante;0.002454;0.004217
+28.893.734/0001-66;2019-12-31;1;EASY612;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 612 - Apartamento Residencial;2019-12-18;50.20;1;Nenhuma característica relevante;0.001457;0.002492
+28.893.734/0001-66;2019-12-31;1;EASY1112;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1112 - Apartamento Residencial;2019-12-18;50.20;1;Nenhuma característica relevante;0.001443;0.002468
+28.893.734/0001-66;2019-12-31;1;REN_203;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 203 - Apartamento Residencial;2019-12-20;155.00;1;Nenhuma característica relevante;0.002972;0.005079
+28.893.734/0001-66;2019-12-31;1;REN_304;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 304 - Apartamento Residencial;2019-12-11;155.00;1;Nenhuma característica relevante;0.003073;0.005271
+28.893.734/0001-66;2019-12-31;1;REN_903;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 903 - Apartamento Residencial;2019-11-14;155.00;1;Nenhuma característica relevante;0.003123;0.005367
+28.893.734/0001-66;2019-12-31;1;REN_904;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 904 - Apartamento Residencial;2019-10-11;155.00;1;Nenhuma característica relevante;0.003059;0.005271
+28.893.734/0001-66;2019-12-31;1;REN_1004;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1004 - Apartamento Residencial;2019-10-21;155.00;1;Nenhuma característica relevante;0.003341;0.00575
+28.893.734/0001-66;2019-12-31;1;REN_1904;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1904 - Apartamento Residencial;2019-12-12;155.00;1;Nenhuma característica relevante;0.003242;0.005558
+28.893.734/0001-66;2019-12-31;1;REN_1804;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1804 - Apartamento Residencial;2019-11-29;114.00;1;Nenhuma característica relevante;0.002624;0.004504
+28.893.734/0001-66;2019-12-31;1;TAR_108;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 108 - Apartamento Residencial;2019-11-25;64.70;1;Nenhuma característica relevante;0.001144;0.001965
+28.893.734/0001-66;2019-12-31;1;TAR_605;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 605 - Apartamento Residencial;2019-12-09;49.88;1;Nenhuma característica relevante;0.000776;0.001332
+28.893.734/0001-66;2019-12-31;1;TAR_803;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 803 - Apartamento Residencial;2019-11-18;49.88;1;Nenhuma característica relevante;0.000775;0.001332
+28.893.734/0001-66;2019-12-31;1;TAR_1208;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1208 - Apartamento Residencial;2019-11-26;64.70;1;Nenhuma característica relevante;0.001228;0.002108
+28.893.734/0001-66;2019-12-31;1;CEN_12B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 12 - 1 andar - Ribeirão Preto - SP;2019-11-14;140.77;1;Nenhuma característica relevante;0.003096;0.00532
+28.893.734/0001-66;2019-12-31;1;CEN_64B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 64 - 6 andar - Ribeirão Preto - SP;2019-12-02;140.77;1;Nenhuma característica relevante;0.003071;0.005271
+28.893.734/0001-66;2019-12-31;1;CEN_143B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 143 - 14 andar - Ribeirão Preto - SP;2019-10-07;140.77;1;Nenhuma característica relevante;0.003237;0.005577
+28.893.734/0001-66;2019-12-31;1;CEN_163B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 163 - 16 andar - Ribeirão Preto - SP;2019-11-11;140.77;1;Nenhuma característica relevante;0.003216;0.005531
+28.893.734/0001-66;2019-12-31;1;CEN_174B;Rua Dr. Mário de Assis Moura, 480 - Bloco B Apto nº 174 - 17 andar - Ribeirão Preto - SP;2019-11-26;140.77;1;Nenhuma característica relevante;0.003175;0.005451
+28.893.734/0001-66;2019-12-31;1;CEN_164A;Rua Dr. Mário de Assis Moura, 480 - Bloco A Apto nº 164 - 16 andar - Ribeirão Preto - SP;2019-10-14;105.44;1;Nenhuma característica relevante;0.002364;0.004073
+30.791.386/0001-68;2019-06-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+30.791.386/0001-68;2019-09-30;1;N/A;N/A;1899-12-31;0;1;N/A;0;0
+30.791.386/0001-68;2019-12-31;2;N/A;N/A;1899-12-31;0;1;N/A;0;0
+32.655.589/0001-52;2019-12-31;1;AUT302_1;Av. Mario Ypiranga, 939, Bloco 1, Ap. 302, Adrianópolis, Manaus - AM;2019-12-18;140.70;1;Nenhuma caracteristica relevante.;0.004167;0.004013
+32.655.589/0001-52;2019-12-31;1;AUT103_2;Av. Mario Ypiranga, 939, Bloco 2, Ap. 103, Adrianópolis, Manaus - AM;2019-12-02;140.70;1;Nenhuma caracteristica relevante.;0.005152;0.003921
+32.655.589/0001-52;2019-12-31;1;TER201_1;Rua Rio guamá, 482, Bloco 1, Ap. 201, Nossa Senhora das Graças, Manaus - AM;2019-12-26;145.74;1;Nenhuma caracteristica relevante.;0.003883;0.003739
+32.655.589/0001-52;2019-12-31;1;DOTO_1;Rua Barão Geraldo de Resende, 97, Sala 1 Guanabara, Campinas - SP;2019-12-13;75.88;1;Nenhuma caracteristica relevante.;0.001908;0.001824
+32.655.589/0001-52;2019-12-31;1;VH_1202A;Lote 5, Quadra C 02 Torre_A, Ap. 1202 - Alphaville Residencial I - Cidade Ocidental - GO;2019-10-16;125.66;1;Nenhuma característica relevante;0.003093;0.002353
+32.655.589/0001-52;2019-12-31;1;VH_705_B;Lote 5, Quadra C 02 Torre_B, Ap. 705 - Alphaville Residencial I - Cidade Ocidental - GO;2019-12-27;70.45;1;Nenhuma característica relevante;0.001326;0.001277
+32.655.589/0001-52;2019-12-31;1;VH_706_B;Lote 5, Quadra C 02 Torre_B, Ap. 706 - Alphaville Residencial I - Cidade Ocidental - GO;2019-12-12;70.37;1;Nenhuma característica relevante;0.001374;0.001173
+32.655.589/0001-52;2019-12-31;1;ESSE_52;Rua 27 de outubro, nº 224, Edifício Essenza - Ap. 52 Suzano-SP;2019-10-15;130.89;1;Nenhuma caracteristica relevante.;0.005395;0.004104
+32.655.589/0001-52;2019-12-31;1;KEY402A;Av. Constelação, S/N , Ap. 402A Bloco Villa Viscaya, Manaus - AM;2019-12-18;98.83;1;Nenhuma característica relevante;0.002992;0.002882
+32.655.589/0001-52;2019-12-31;1;KEY1802A;Av. Constelação, S/N , Ap. 1802A Bloco Villa Viscaya, Manaus - AM;2019-10-29;98.83;1;Nenhuma característica relevante;0.003835;0.002918
+32.655.589/0001-52;2019-12-31;1;NYT_1308;Avenida Brasilia nº 2121, Sala 1308 - Vila São Paulo, Araçatuba-SP;2019-12-30;42.74;1;Não possui características relevantes;0.001551;0.001494
+32.655.589/0001-52;2019-12-31;1;NYT_1401;Avenida Brasilia nº 2121, Sala 1401 - Vila São Paulo, Araçatuba-SP;2019-12-13;44.36;1;Não possui características relevantes;0.001382;0.001321
+32.655.589/0001-52;2019-12-31;1;NYT_1402;Avenida Brasilia nº 2121, Sala 1402 - Vila São Paulo, Araçatuba-SP;2019-12-13;42.74;1;Não possui características relevantes;0.001332;0.001273
+32.655.589/0001-52;2019-12-31;1;NYT_1403;Avenida Brasilia nº 2121, Sala 1403 - Vila São Paulo, Araçatuba-SP;2019-12-13;42.74;1;Não possui características relevantes;0.001332;0.001273
+32.655.589/0001-52;2019-12-31;1;NYT_1404;Avenida Brasilia nº 2121, Sala 1404 - Vila São Paulo, Araçatuba-SP;2019-12-13;42.74;1;Não possui características relevantes;0.001332;0.001273
+32.655.589/0001-52;2019-12-31;1;NYT_1405;Avenida Brasilia nº 2121, Sala 1405 - Vila São Paulo, Araçatuba-SP;2019-12-13;43.87;1;Não possui características relevantes;0.001367;0.001307
+32.655.589/0001-52;2019-12-31;1;NYT_1420;Avenida Brasilia nº 2121, Sala 1420 - Vila São Paulo, Araçatuba-SP;2019-12-13;42.74;1;Não possui características relevantes;0.001332;0.001273
+32.655.589/0001-52;2019-12-31;1;NYT_1421;Avenida Brasilia nº 2121, Sala 1421 - Vila São Paulo, Araçatuba-SP;2019-12-13;42.74;1;Não possui características relevantes;0.001332;0.001273
+32.655.589/0001-52;2019-12-31;1;NYT_1422;Avenida Brasilia nº 2121, Sala 1422 - Vila São Paulo, Araçatuba-SP;2019-12-13;48.43;1;Não possui características relevantes;0.001509;0.001443

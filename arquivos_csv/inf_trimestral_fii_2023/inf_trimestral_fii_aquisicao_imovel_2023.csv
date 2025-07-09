@@ -1,0 +1,955 @@
+CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
+08.098.114/0001-28;2023-09-29;1;UNITOLEDO;Rua Antonio Afonso de Toledo, 512/ 465/ 595 - Jardim Sumare, Araçatuba- SP;17546.25;1;Direito de propriedade;0.0497;Renda
+08.098.114/0001-28;2023-12-29;1;UNITOLEDO;Rua Antonio Afonso de Toledo, 512/ 465/ 595 - Jardim Sumare, Araçatuba- SP;17546.25;1;Direito de propriedade;0.0497;Renda
+08.431.747/0001-06;2023-09-30;1;Shopping Jardim Sul - 40%;Av. Giovanni Gronchi, 5819, Morumbi, São Paulo/SP;28739.03;172;-;0.1017;Renda
+08.431.747/0001-06;2023-12-31;1;SHOPPING CAPIM DOURADO - 60,00%;Q. 107 Norte Avenida NS 5, S/N - Plano Diretor Norte, Palmas - TO;38824.25;153;-;0.0589;Renda
+11.728.688/0001-47;2023-06-30;1;Fração Itupeva G200;Estrada Joaquim Bueno Neto, 9835, Itupeva, SP;89976.04;1;-;0.004707;Renda
+11.728.688/0001-47;2023-06-30;1;Cone G03 MM2;Rodovia BR 101, 5225, Cabo de Santo Agostinho, PE;137171.7;1;-;0.008656;Renda
+11.728.688/0001-47;2023-09-30;1;Aquisição DC Barueri;Avenida Piracema, nº 155, quadra 5, lotes 9 a 16 e 17 (parte), Barueri, Sào Paulo;90484.02;1;-;0.087515;Renda
+11.728.688/0001-47;2023-09-30;1;Aquisição DC Cajamar;Rodovia Anhanguera, km 31.775, Cajamar, São Paulo;102708.28;1;-;0.064709;Renda
+11.728.688/0001-47;2023-09-30;1;Aquisição DC Embu das Artes;Rua José Semião Rodrigues Agostinho, nº 1.370, Embu das Artes, São Paulo;66521.25;1;-;0.044252;Renda
+11.728.688/0001-47;2023-09-30;1;Aquisição DC Rodoanel;Av. Hélio Ossamu Daikuara, nº 1.445, Embu das Artes, São Paulo;77587.2;1;-;0.055869;Renda
+11.728.688/0001-47;2023-09-30;1;Aquisição Itapevi SP;Rod. Pres. Castello Branco, altura do Km 34,5, Itapevi, São Paulo;34286;1;-;0.014861;Renda
+11.839.593/0001-09;2023-12-31;1;BTLG Cajamar I;Avenida Doutor Antonio Joao Abdalla, 3945, Sem Complemento, Empresarial Colina, Cajamar/SP, Brasil, 07750-020;78639.38;1;Direito de propriedade;0.09082694992899;Renda
+11.839.593/0001-09;2023-12-31;1;BTLG Cajamar III;Avenida Doutor Antonio Joao Abdalla, 2010, Sem Complemento, Empresarial Colina, Cajamar/SP, Brasil, 07750-020;57071.72;1;Direito de propriedade;0.07883712440645;Renda
+11.839.593/0001-09;2023-12-31;1;BTLG Campinas - Dom Pedro;Estrada Municipal Jose Sedano, 854, Sem Complemento, Residencial Quilombo Ii, Campinas/SP, Brasil, 13069-387;102722.77;5;Direito de propriedade;0.07759325355513;Renda
+12.005.956/0001-65;2023-09-29;1;5º Andar Edifício Athenas;Rua Dr. Fernandes Coelho, 64, Pinheiros, São Paulo - SP;479.2;2;-;0.00151893438537681;Renda
+12.927.767/0001-40;2023-09-29;1;Não possui informação apresentada;;;;;;
+13.320.290/0001-00;2023-12-29;1;HANGAR;Av Luis Viana Filho, nº 13.223, São Cristovão- Salvador BA - Torre 4 - Sala 711 a 715;207.54;5;2º Registro de Imóveis de Salvador - BA Matricula 182.520 / 182.521 / 182.522 / 182.523 / 182.524;0.005281;Renda
+13.598.226/0001-88;2023-03-31;1;ID 181;Avenida Manoel Bento da Cruz, 568;493.8;1;MATRICULA 4349 - PENAPOLIS;1;Venda
+13.598.226/0001-88;2023-03-31;1;ID 155;Rua Alfredo Maia,647;4210;1;MATRICULA 46005 - ITAPETININGA;1;Venda
+15.006.267/0001-63;2023-09-30;1;Edificio Iguatemi Alphaville - Itower;Alameda Xingu, 350, Sem Complemento, Alphaville Centro Industrial E Empresarialalphaville, Barueri/SP, Brasil, 06455-030;5986.56;6;Direito de Propriedade;0.14884623775499;Renda
+15.006.267/0001-63;2023-09-30;1;Edificio Box 298;Rua Wisard, 298,  Vila Madalena, Sao Paulo/SP, Brasil, 05434-000;2233480;4;Direito de Propriedade;0.08404644094598;Renda
+15.006.267/0001-63;2023-09-30;1;Edificio Modulo Reboucas;Rua Capote Valente, 39, Pinheiros, Sao Paulo/SP, Brasil, 05409-000;2802478;4;Direito de Propriedade;0.21872951381108;Renda
+15.489.509/0001-17;2023-09-30;1;MAT10124;V. RIO BRANCO MG;400;1;Não se aplica;0.00051;Renda
+15.576.907/0001-70;2023-06-30;1;CEF - Rio Claro;Av. 1, 500 - Rio Claro - SP;542.7;1;N/A;0.003734;Renda
+15.576.907/0001-70;2023-06-30;1;CEF - Jundiapeba;Alameda Santo Ângelo, 118 - Mogi das Cruzes - SP;905.75;1;N/A;0.003523;Renda
+17.098.794/0001-70;2023-09-29;1;Não possui informação apresentada.;;;;;;
+17.161.979/0001-82;2023-06-30;1;Shopping Diamond Mall;R. Gonçalves Dias, 2400 e Av. Olegário Maciel, 1600;4788.93;172;24,95% do Shopping Diamond Mall = 24,95% do imóvel constituído pelo prédio comercial sito à R. Gonçalves Dias nº 2400, R. Bernardo Guimarães nº 2408, e Av. Olegário Maciel nº 1600, e seu terreno, constituído pelo lotes 01 a 24, do quarteirão 13, da 9ª seção urbana, descrito e caracterizado na matrícula nº 61506 do Cartório do 1º Ofício de Registro de Imóveis de Belo Horizonte/MG. A área indicada corresponde somente aos 24,95% pertencente ao fundo. A área total é de 19.194,11;1;Renda
+17.554.274/0001-25;2023-12-29;1;Shopping Conjunto Nacional;SDN, CNB - Asa Norte, Brasilia - DF;43271;0;Área total construida 43.271 m²;0;Renda
+17.554.274/0001-25;2023-12-29;1;Shopping Madureira;Estr. do Portela, 222 - Madureira, Rio de Janeiro - RJ;0;0;Área total construida;0;Renda
+17.554.274/0001-25;2023-12-29;1;Shopping Estação Curitiba;Avenida Sete de Setembro nº 2.775 - Curitiba - PR;294.6;0;Área total construida;0;Renda
+17.554.274/0001-25;2023-12-29;1;Shopping Via Sul;Av. Washington Soares, 4335 - Lagoa Sapiranga - Fortaleza - CE;26018;0;Área total construida;0;Renda
+20.680.775/0001-62;2023-06-30;1;Jockey Corporate - Sala 91;Rua Bento Frias, 155, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05423-050;0;1;Direito de propriedade;0.00468604491816;Renda
+20.680.775/0001-62;2023-06-30;1;Edificio JK1600;Avenida Presidente Juscelino Kubitschek, 1600, Sem Complemento, Vila Nova Conceição, São Paulo/SP, Brasil, 04543-000;5200.86;1;Direito de propriedade;0.00483407673157;Renda
+20.680.775/0001-62;2023-06-30;1;WTorre Nacoes Unidas - Torre III;Rua Eugenio De Medeiros, 303, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05425-000;2305.41;2;Direito de propriedade;0.01193705927041;Renda
+20.680.775/0001-62;2023-06-30;1;WTorre Nacoes Unidas - Torre III;Rua Eugenio De Medeiros, 303, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05425-000;2305.41;1;Direito de propriedade;0.00116977276634;Renda
+20.680.775/0001-62;2023-06-30;1;WTorre Nacoes Unidas - Torre III;Rua Eugenio De Medeiros, 303, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05425-000;2305.41;1;Direito de propriedade;0.00047971753825;Renda
+20.680.775/0001-62;2023-09-30;1;Ed Moncoes da Gastao;Avenida Doutor Gastao Vidigal, 1305, Sem Complemento, Vila Leopoldina, Sao Paulo/SP, Brasil, 05314-000;5210;42;Não possui caracteristicas que destoem dos demais;0.01251783213456;Renda
+26.614.291/0001-00;2023-12-29;1;RIZOBACTER DO BRASIL;Rod. Celso Garcia Cid, 3577 Londrina, PR;40277;1;Industrial / Logística - Galpão Matrícula nº 136.528;0.0628;Renda
+27.538.422/0001-71;2023-06-30;1;IM.MARINGÁ;sem informação apresentada;43655.34;1;Sem informação apresentada;0;Renda
+27.538.422/0001-71;2023-06-30;1;IM. CASTANHA;sem informação apresentada;30000;1;Sem informação apresentada;0;Renda
+27.538.477/0001-81;2023-03-31;1;COL T01 301;Av Eduardo Andrea Matarazzo, 6050T01 Apto 301;0;1;Mat 204.118;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T01 402;Av Eduardo Andrea Matarazzo, 6050T01 Apto 402;0;1;Mat 204.123;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T01 502;Av Eduardo Andrea Matarazzo, 6050T01 Apto 502;0;1;Mat. 204.127;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T01 601;Av Eduardo Andrea Matarazzo, 6050T01 Apto 601;0;1;Mat. 204.130;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T02 303;Av Eduardo Andrea Matarazzo, 6050T02 Apto 303;0;1;Mat. 204.152;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T02 402;Av Eduardo Andrea Matarazzo, 6050T02 Apto 402;0;1;Mat. 204.155;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T02 503;Av Eduardo Andrea Matarazzo, 6050T02 Apto 503;0;1;Mat 204.160;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T02 603;Av Eduardo Andrea Matarazzo, 6050T02 Apto 603;0;1;Mat. 204.164;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T03 301;Av Eduardo Andrea Matarazzo, 6050T03 Apto 301;0;1;Mat. 204.182;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T03 404;Av Eduardo Andrea Matarazzo, 6050T03 Apto 404;0;1;Mat. 204.189;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T03 503;Av Eduardo Andrea Matarazzo, 6050T03 Apto 503;0;1;Mat. 204.192;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T03 604;Av Eduardo Andrea Matarazzo, 6050T03 Apto 604;0;1;Mat. 204.197;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T04 301;Av Eduardo Andrea Matarazzo, 6050T04 Apto 301;0;1;Mat. 204.214;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T04 402;Av Eduardo Andrea Matarazzo, 6050T04 Apto 402;0;1;Mat. 204.219;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T04 501;Av Eduardo Andrea Matarazzo, 6050T04 Apto 501;0;1;Mat. 204.222;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T04 604;Av Eduardo Andrea Matarazzo, 6050T04 Apto 604;0;1;Mat 204.229;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T05 302;Av Eduardo Andrea Matarazzo, 6050T05 Apto 302;0;1;Mat. 204.247;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T05 402;Av Eduardo Andrea Matarazzo, 6050T05 Apto 402;0;1;Mat. 204.241;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T05 503;Av Eduardo Andrea Matarazzo, 6050T05 Apto 503;0;1;Mat. 204.256;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T05 602;Av Eduardo Andrea Matarazzo, 6050T05 Apto 602;0;1;Mat. 204.259;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T06 304;Av Eduardo Andrea Matarazzo, 6050T06 Apto 304;0;1;Mat. 204.281;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T06 403;Av Eduardo Andrea Matarazzo, 6050T06 Apto 403;0;1;Mat. 204.284;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T06 503;Av Eduardo Andrea Matarazzo, 6050T06 Apto 503;0;1;Mat. 204.288;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T06 604;Av Eduardo Andrea Matarazzo, 6050T06 Apto 604;0;1;Mat. 204.293;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T07 301;Av Eduardo Andrea Matarazzo, 6050T07 Apto 301;0;1;Mat. 204.310;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T07 401;Av Eduardo Andrea Matarazzo, 6050T07 Apto 401;0;1;Mat. 204.314;0.015653;Venda
+27.538.477/0001-81;2023-03-31;1;COL T07 504;Av Eduardo Andrea Matarazzo, 6050T07 Apto 504;0;1;Mat. 204.321;0.015653;Venda
+27.538.477/0001-81;2023-12-31;1;PQ OL L08Q04;Rua Pastor Napoleão Pereira Lins, 8. Parque das Oliveiras, Ribeirão Preto - SP;0;1;Mat. 102588;0;Venda
+27.538.477/0001-81;2023-12-31;1;CHIANTI 1007;Al Dr Newton Mendes Garcia, 185 - Apto 1007 - Ribeirão Preto;113.1575;196;Mat. 200.804;0;Venda
+27.538.477/0001-81;2023-12-31;1;CHIANTI 1205;Al Dr Newton Mendes Garcia, 185 - Apto 1205 - Ribeirão Preto;113.1575;196;Mat. 200.804;0;Venda
+27.538.477/0001-81;2023-12-31;1;CHIANTI 1206;Al Dr Newton Mendes Garcia, 185 - Apto 1206 - Ribeirão Preto;113.1575;196;Mat. 200.804;0;Venda
+27.538.477/0001-81;2023-12-31;1;CHIANTI 1306;Al Dr Newton Mendes Garcia, 185 - Apto 1306 - Ribeirão Preto;113.1575;196;Mat. 200.804;0;Venda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_11;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_31;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_41;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_51;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_61;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_71;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.152.272/0001-26;2023-06-30;1;MORUMBI PLAZA_81;Edifício Morumbi Plaza Avenida Dr. Chucri Zaidan, 150 -Bloco A;1695.34;1;Matrículas 115.383, 101.340, 101.464, 101.840, 101.676, 101.538 e 101.447, do 15º Cartório de Registro de Imóveis de São Paulo;0;Renda
+28.267.696/0001-36;2023-03-31;1;Empreendimento Votorantim - Splice;Avenida Juscelino Kubitschek De Oliveira, 154, Blocos A, B, C, Centro, Votorantim/SP, Brasil, 18110-901;13719.34;1;Direito de Propriedade;0.11605128008258;Renda
+28.516.650/0001-03;2023-09-30;1;YOU Unlimited;R. Oscar Freire, 1597 -Cerqueira César  - São Paulo - SP;2598.07;6;N/A;0.6;Venda
+28.548.288/0001-52;2023-06-30;1;DRS_BELEM - GRUPO MATEUS;Estrada do Benguí, n° 386 Benguí - Belém - PA;30661.99;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2023-06-30;1;OBRAMAX_SUZANO;Rua Prudente de Moraes, s/nº - Vila Amorim - Suzano - SP;33000;1;Matrículas nº 66.390 e 78.083 - Cartório de Registro de Imóveis de Suzano - SP.;0;Renda
+28.737.771/0001-85;2023-09-30;1;Emprendimento Pueri Domus;Rua Ministro Godoi, 1697, Sem Complemento, Perdizes, Sao Paulo/SP, Brasil, 05015-001;8016;1;Não possui caracteristicas que destoem dos demais;0.07688043415877;Renda
+29.641.226/0001-53;2023-03-31;1;Makro Serra;Rod. Governador Mário Covas, 4284, km 267, Serra, ES;9041;1;-;0.008301;Renda
+30.567.216/0001-02;2023-06-30;1;Edifício Plaza I;Rua James Joule, 92 - cj. 62;306.35;1;vagas de garagem com matrículas individualizadas;0.840485036952789;Renda
+30.567.216/0001-02;2023-06-30;1;Edifício Plaza I;Rua James Joule, 92 - vagas de garagem 07, 08, 39, 43, 44;49.35;5;vagas de garagem com matrículas individualizadas;0.0886196014933169;Renda
+30.567.216/0001-02;2023-06-30;1;Edifício Plaza I;Rua James Joule, 92 - vagas de garagem 57-58 (vaga dupla) e 58-59 (vaga dupla);39.48;2;vagas de garagem com matrículas individualizadas;0.0708953615538939;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Atrium IV;Rua  Helena, 260 - São Paulo/SP;198.14;2;cjs. 21 e 23;0.028571;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Atrium Jardins;Rua Cristiano Viana, 401 - São Paulo/SP;989.13;11;Salas 1501 a 1511 (mais 2 vagas duplas e 9 vagas simples objeto de matrículas específicas);0.128705;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Atrium VIII;Rua Fidêncio Ramos, 213 - São Paulo/SP;582.92;2;cjs. 11 e 12;0.079892;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Atrium VIII;Rua Fidêncio Ramos, 213 - São Paulo/SP;291;1;cj. 51;0.043708;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Bueno Business Tower;Avenida Doutor Cardoso de Melo, 1336 - São Paulo/SP;606.65;2;cjs. 141 e 142;0.092163;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício JF 100;Rua  Joaquim Floriano, 100 - São Paulo/SP;489.06;2;cjs. 121 e 122;0.077384;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Millenium;Avenida Brigadeiro Faria Lima, 3015 - São Paulo/SP;181.17;1;cj. 132 (adquirido por meio da incorporação do fundo Brazil Victory);0.036095;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Millenium;Avenida Brigadeiro Faria Lima, 3015 - São Paulo/SP;181.17;1;cj. 131 ( (adquirido por meio da incorporação do fundo Brazil Victory);0.036095;Renda
+30.567.216/0001-02;2023-09-30;1;Edificio Mykonos;Rua Gomes de Carvalho, 1356 - São Paulo/SP;572.07;2;cjs. 51 e 52;0.095477;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Parque Paulista;Alameda Santos, 1940 - São Paulo/SP;575.6;2;cjs. 101 e 102;0.108374;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Plaza I;Rua James Joule, 92 - São Paulo/SP;306.25;1;cj. 41;0.047828;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Result Corporate Plaza;Rua  Joaquim Floriano, 413 - São Paulo/SP;241.06;1;cj. 111;0.042544;Renda
+30.567.216/0001-02;2023-09-30;1;Edificio Spazio Centrale;Alameda Itu, 852 - São Paulo/SP;276.6;2;cjs. 71 e 72;0.04335;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Brasif;Rua Luigi Galvani, 146;319.1;1;Cj. 31;0.039406;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício The Taj Office Tower;Rua Casa do Ator, 1.117;340.41;3;Cj. 111, 113 e 114;0.059022;Renda
+30.567.216/0001-02;2023-09-30;1;Edifício Conselheiro Paranguá;Avenida Brigadeiro Faria Lima, 1234;281.92;5;cjs. 52 a 56 (até o segundo trimestre estava como opção de compra aquisição concluída no terceiro trimestre);0.041387;Renda
+30.567.216/0001-02;2023-12-31;2;Edifício Beira Rio;Rua Beira Rio, 57 - São Paulo/SP;286.13;1;Cj. 51;0.120696;Renda
+30.567.216/0001-02;2023-12-31;2;Edifício Setin Tower;Rua Fidêncio Ramos, 100 - São Paulo/SP;244.39;1;Cj. 14;0.124027;Renda
+30.567.216/0001-02;2023-12-31;2;Edifício Francisco Lopes;Avenida Doutor Cardoso de Melo, 1460 - São Paulo/SP;384.81;1;Cj. 51;0.188572;Renda
+30.567.216/0001-02;2023-12-31;2;Edifício Santa Filippa;Avenida Paulista, 688 - São Paulo/SP;467.8;2;Cj. 120 - Salas 1 e 2;0.23811;Renda
+30.567.216/0001-02;2023-12-31;2;Edifício Atrium II;Rua Helena, 235 - São Paulo/SP;661.63;1;Cj. 111;0.328595;Renda
+30.846.692/0001-54;2023-06-30;1;Av. das Américas nº 500;Av. das Américas nº 500, L 122;87;1;Localizado no Shopping Downtown, Barra da Tijuca - RJ;;
+30.846.692/0001-54;2023-06-30;1;Av. Érico Veríssimo, nº 725;Av. Érico Veríssimo, nº 725;588;1;Imóvel urbano a ser demolido;;
+30.846.692/0001-54;2023-06-30;1;Praça Edmundo Rego, 26 - ap. 202;Praça Edmundo Rego, 26 - ap. 202;86;1;Imóvel urbano a ser demolido;;
+30.846.692/0001-54;2023-06-30;1;Estrada da Cachamorra;Estrada da Cachamorra, nº 656;509;1;Terreno parcialmente edificado;;
+30.846.692/0001-54;2023-09-30;1;MAT 114.633;AV. MARACANÃ 1350;143;1;TÉRREO E 1º PAVIMENTO;0.005355;Renda
+30.846.692/0001-54;2023-09-30;1;MAT 114.634;AV. MARACANÃ 1354;176;1;TÉRREO E 1º PAVIMENTO;0.006255;Renda
+30.846.692/0001-54;2023-09-30;1;MAT 77322;RUA URUGUAI 351 - TIJUCA - RJ;305.55;1;LOJA;0.022289;Renda
+30.846.692/0001-54;2023-12-29;1;MAT 114.633;AV. MARACANÃ 1350;143;1;TÉRREO E 1º PAVIMENTO;0.005355;Renda
+30.846.692/0001-54;2023-12-29;1;MAT 114.634;AV. MARACANÃ 1354;176;1;TÉRREO E 1º PAVIMENTO;0.006255;Renda
+30.846.692/0001-54;2023-12-29;1;MAT 77322;RUA URUGUAI 351 - TIJUCA - RJ;305.55;1;LOJA;0.022289;Renda
+31.547.782/0001-07;2023-03-31;1;FAZENDA AMBROSIO;Fazenda Itacolomi - Estrada vicinal, com acesso pelasRodovias BR 040 e LMG 690 - Paracatu MG;148.6312;1;Matricula de Registro de Imóveis de Paracatu MG Nº 35.647 e 11.739.;0;Renda
+32.274.553/0001-29;2023-12-29;2;MINERVA_IMOV;Rua Minerva 64, Perdizes -SP;1498.42;1;Matricula nº 139.625 2º Oficial de Registro de Imoves de Comarca da Capital do Estado de SP;0;Renda
+32.274.553/0001-29;2023-12-29;2;SKR REBOUÇAS;Rua Luminarias, 37 e 39;1889;1;Matricula nº 103.959 13º Oficial de Registro de Imoves de Comarca da Capital do Estado de SP;0;Renda
+34.835.191/0001-23;2023-03-31;1;Residencial Luggo Tipuana;Rua Tenente Brito Melo, 472, bairro Barro Preto - Belo Horizonte - MG;1605.5;38;N/A;0.09094;Renda
+35.652.102/0001-76;2023-03-31;1;Vila Olimpia Corporate;Rua Fidencio Ramos, 302, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-010;17282.16;24;Direito de Propriedade;0.14904553119928;Renda
+35.652.102/0001-76;2023-09-30;2;Empreendimento The One;Rua Ministro Jesuino Cardoso, 454, Sem Complemento, Vila Nova Conceicao, Sao Paulo/SP, Brasil, 04544-051;1610;4;Não possui caracteristicas que destoem dos demais;0.04007453325588;Renda
+35.652.102/0001-76;2023-09-30;2;Vila Olimpia Corporate;Rua Fidencio Ramos, 302, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-010;17282.16;4;Não possui caracteristicas que destoem dos demais;0.03072373151242;Renda
+35.652.102/0001-76;2023-12-31;1;Condominio The One;Rua Ministro Jesuino Cardoso, 454, 1º, 2º, 7º E 10º Pavimentos, Vila Nova Conceicao, Sao Paulo/SP, Brasil, 04544-051;11740.37;16;Não possui caracteristicas que destoem dos demais;0.10407712950488;Renda
+35.652.278/0001-28;2023-03-31;1;Imovel Vitoria da Conquista;Avenida Anel De Contorno, S/n, Lote J-13b, Ayrton Senna, Vitoria Da Conquista/BA, Brasil, 45057-000;20000;1;Não possui características que destoem dos demais;0.0114168334573;Renda
+35.652.278/0001-28;2023-09-30;1;Imovel Querencia;Estrada R-1, Na Esquina Com A Estrada R-4, S/n,  Querencia/MT, Brasil, 78643-000;5716.7;1;Direito de Propriedade;0.06648170718423;Renda
+35.755.044/0001-06;2023-03-31;1;XP EXETER JANDIRA;Estrada Velha de Itu, 1045 - Jandira, São Paulo;17051;1;N/A;;Venda
+35.755.044/0001-06;2023-06-30;1;XP EXETER JANDIRA;Estrada Velha de Itu, 1045 - Jandira, São Paulo;17051;1;N/A;;Venda
+35.755.044/0001-06;2023-09-30;1;XP EXETER JANDIRA;Estrada Velha de Itu, 1045 - Jandira, São Paulo;17051;1;N/A;;Venda
+35.765.907/0001-26;2023-06-30;1;GOLGI GRAVAT;Estrada Henrique Closs, nº 455, Galpão 01-B, Distrito do Ipiranga, Gravataí/RS;150644.61;1;N/A;0.0588;Renda
+35.765.907/0001-26;2023-06-30;1;GOLGI SAO JO;Alameda Bom Pastor, nº 1.816, Ouro Fino, São José dos Pinhais/PR;51122.5;3;N/A;0.0322;Renda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 13 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 14 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 15 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 16 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 18 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 21 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 24 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 32 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 49 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 50 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 09 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;Loteamento n 10 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-03-31;1;Casa;;332;1;0;0.0067;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 13 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 14 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 15 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 16 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 18 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 21 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 24 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 32 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 49 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 50 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 09 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;Loteamento n 10 quadra 37 Campos do Conde Campina Grande, Fazenda Quilombo, Distrito de Sta Terezinha;332;1;0;0.004;Venda
+36.731.458/0001-68;2023-06-30;1;Casa;;332;1;0;0.0067;Venda
+36.885.948/0001-19;2023-03-31;2;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
+36.885.948/0001-19;2023-06-30;2;CONDOMÍNIO BUSCA VIDA;Catu de Abrantes, distrito de Abrantes, município de Camaçari-BA;11907.5;1;.;1;Renda
+36.885.948/0001-19;2023-09-29;1;Apartamento 36;Rua Elvira Ferraz n° 250 e 256, Jd Paulista;164.979;1;imovel;;Renda
+36.885.948/0001-19;2023-12-31;1;Polo Empresarial de Goiás;Rua 12, Município de Aparecida de Goiânia GO;13964.3;0;Quadra 11 Lote 01;1;Renda
+36.885.948/0001-19;2023-12-31;1;Condomínio Jardins França LT 01;Rua Ana Jungmann, JD França Goiania;448.44;0;Lote de terras número 01, da quadra 31;1;Renda
+36.885.948/0001-19;2023-12-31;1;Condomínio Jardins França LT 10;Rua Ana Jungmann, JD França Goiania;543.72;0;Lote de terras número 10, da quadra 31;1;Renda
+38.456.508/0001-71;2023-12-31;1;EDIFICIO BELVEDERE;Avenida Celso Da Silva Ribeiro, 338, Qd 05, Lt 04, Parque Imperial, Itumbiara/GO, Brasil, 75524-140;1066.91;16;Direito de Propriedade;0.04887879959824;Venda
+38.456.508/0001-71;2023-12-31;1;EDIFICIO BELLA VISTA;Avenida Jk, S/n, Quadra 38, Lote S/l, Jardim America, Itumbiara/GO, Brasil, 75523-425;4785.6;110;Direito de Propriedade;0.2147180511404;Venda
+40.575.940/0001-23;2023-06-30;1;ALVOAR;Avenida Fernão Dias, nº 2003, Lagoa da Prata - MG, CEP 35591-378;35127.93;1;Matrícula 49.103. Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.;1;Renda
+40.575.940/0001-23;2023-12-29;1;SERRA;Rodovia ES-010, nº 3.697 - Jardim Limoeiro - Serra, ES, CEP: 29.164-140;7748.64;1;Matrícula 88.812. Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.;1;Renda
+40.886.241/0001-02;2023-03-31;1;GRUPO MATEUS - CAXANGÁ - PE;Av. Caxangá, 3.942, Caxangá, Recife / PE;11200;1;Matrícula nº 25.860, do Registro de Imóveis da 4ª Circunscrição de Recife / PE;0;Renda
+40.886.241/0001-02;2023-03-31;1;GRUPO MATEUS PAULISTA PE;Av. Antônio Cabral de Souza (Rod. PE-22), Maranguape, Paulista / PE;18999.48;1;Matrícula nº 51.914.;0;Renda
+40.886.241/0001-02;2023-12-31;1;Pão de Açúcar São João;Av. Santos Dumont, 1.169 - Fortaleza/CE;4.496;19;Direito de Propriedade;1;Renda
+40.886.241/0001-02;2023-12-31;1;Lagoa;Av. Bernardo Manuel, 11.000 - Fortaleza/CE;13.95;2;Direito de Propriedade;1;Renda
+40.886.241/0001-02;2023-12-31;1;Drogasil Santos Dumont;Av. Santos Dumont, 3.030 - Fortaleza/CE;291;1;Direito de Propriedade;1;Renda
+40.886.521/0001-02;2023-03-31;1;Parque Jockey- FASE 2;Rua Bento Frias, 155 - Cidade Jardim, São Paulo-SP;1955.6;20;Direito de propriedade;0;Renda
+40.886.521/0001-02;2023-06-30;1;Parque Jockey- FASE 2;Rua Bento Frias, 155 - Cidade Jardim, São Paulo-SP;1955.6;20;Direito de propriedade;0;Renda
+40.886.521/0001-02;2023-09-30;1;Parque Jockey- FASE 2;Rua Bento Frias, 155 - Cidade Jardim, São Paulo-SP;1955.6;20;Direito de propriedade;0;Renda
+40.886.521/0001-02;2023-12-29;1;Parque Jockey- FASE 2;Rua Bento Frias, 155 - Cidade Jardim, São Paulo-SP;1955.6;20;Direito de propriedade;0;Renda
+41.081.336/0001-03;2023-12-29;1;SÃO BERNARDO DO CAMPO- SP INFILL I_MAT_164.153;R. Mal. Deodoro, 2785 - Centro;63988.67;1;Matrícula nº 76 841 do 1 º Registro de Imóveis de São Bernardo do Campo/SP;0;Renda
+41.199.975/0001-78;2023-03-31;1;Cond Rio Res - Ap 1310B - Estrada Adhemar Bebiano nº 275;Estrada Adhemar Bebiano, 275, Sem Complemento, Del Castilho, Rio De Janeiro/RJ, Brasil, 21051-071;50;1;Não possui caracteristicas que destoem dos demais;0.00411864863188;Venda
+41.199.975/0001-78;2023-06-30;1;Condominio Feel Nice - Apto 35 - Torre B;Rua Da Chibata, 61, Apto 35, Vila Andrade, Sao Paulo/SP, Brasil, 05734-100;73.24;1;Direito de propriedade;0.00396025579998;Renda
+41.218.404/0001-33;2023-03-31;2;Lorena MT36369;Alameda Lorena, 1867 - apto 83 e 84 - duplex 8 e 9 andar;261.98;1;Matrícula 36369;1;Venda
+41.218.404/0001-33;2023-03-31;2;R Caraibas;Rua Caraibas. 383, apto 71 - 7 andar;369.85;1;Matrícula 86177;1;Venda
+41.218.404/0001-33;2023-06-30;1;R. Capitao Pinto Ferreira;Rua Capitão Pinto Ferreira, 80, apto 91 - 9º andar;136.8;1;Matrícula Imobiliária nº 20.689 (apartamento) e nº 20.690 (vaga) ambos do 4º Cartório de Registro de Imóveis de São Paulo/SP;1;Venda
+41.218.404/0001-33;2023-06-30;1;R. Borebi;Rua Borebi, 177, Apto Duplex 132 - Edifício Graciliano Ramos - Chácara Klabin, CEP 04120-130;160.8;1;Matrícula Imobiliária nº 126.356 do 14º Registro de Imóveis de São Paulo/SP;1;Venda
+41.218.404/0001-33;2023-06-30;1;Al. Guaramomis;Al Guaramomis, 815 - apto. 11 - 1o and - Edif. Primcipe Del Piemonte - Indianópolis;249.37;1;Matrícula Imobiliária nº 176.852 do 14º Registro de Imóveis de São Paulo/SP;1;Venda
+41.325.993/0001-59;2023-03-31;2;IVC Jh Palhano;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;169.19;2;matrícula 60.110 do 1º Ofício de Registro de Imóveis - unidades 2005, 2207;0.058876;Venda
+41.325.993/0001-59;2023-06-30;1;IVC Jh Palhano;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;41.79;1;matrícula 60.110 do 1º Ofício de Registro de Imóveis - unidade 2106;0.014543;Venda
+41.325.993/0001-59;2023-06-30;1;IVC Greenwich Park;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;125.33;1;matrícula 80.137 do 2º Ofício de Registro de Imóveis - unidade 2703;0.041114;Venda
+41.325.993/0001-59;2023-06-30;1;IVC R.Campo Verde;Rua Campo Verde, 385;572.59;1;matrícula 103.936 do 13º Cartório de Registro de Imóveis de São Paulo-SP;1;Venda
+41.325.993/0001-59;2023-12-31;1;Casa Av Europa, 310;Avenida Europa, 310;1315;1;matrícula 43.141;1;Renda
+41.325.993/0001-59;2023-12-31;1;Plaza JK;Rua Minas de Prata, 30;1438.05;5;matrículas 169.024, 169.025, 169.026, 169.027, 169.028 - conjuntos 22, 31, 32, 41, 42;1;Renda
+41.394.946/0001-67;2023-03-31;1;PIZZARIA - RUA VER. JOSÉ DINIZ;Av. Vereador José Diniz, 3401, Santo Amaro, São Paulo -SP;472;1;Matrícula: 68.966;0;Renda
+41.394.946/0001-67;2023-06-30;1;VIVA CAMPO BELO;Av. Vereador José Diniz, 3465 - Campo Belo, São Paulo - SP;22687.57;1;O imóvel avaliando trata-se de uma área para incorporação, localizada na zona sul da cidade de São Paulo - SP.;0;Renda
+41.394.946/0001-67;2023-09-30;1;VIVA CAMPO BELO;Av. Vereador José Diniz, 3465 - Campo Belo, São Paulo - SP;22687.57;1;O imóvel avaliando trata-se de uma área para incorporação, localizada na zona sul da cidade de São Paulo - SP.;0;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 1;Lote de terras nº 42, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;;1;Lote de terras nº 42, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 2;Patrimônio Municipal n º 02, Lote de terras nº 2, quadra nº 6, Bairro Aparecida, Boa vista, Roraima.;;1;Patrimônio Municipal n º 02, Lote de terras nº 2, quadra nº 6, Bairro Aparecida, Boa vista, Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 3;Lote de terras nº 98, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;;1;Lote de terras nº 98, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 4;Av. Max Teixeira, nº 3676, lote BD, Manaus, Amazonas.;;1;Av. Max Teixeira, nº 3676, lote BD, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 5;Lote nº 4, quadra nº 8, Parque residencial Campos Eliseos, Manaus, Amazonas.;;1;Lote nº 4, quadra nº 8, Parque residencial Campos Eliseos, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 6;Lote de terras nº 83, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;;1;Lote de terras nº 83, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 7;Patrimônio Municipal n º 370, quadra nº 146, Bairro Aparecida, Boa vista, Roraima.;;1;Patrimônio Municipal n º 370, quadra nº 146, Bairro Aparecida, Boa vista, Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 8;Lote de terras nº 1, Avenida Autaz Mirim, Manaus, Amazonas.;;1;Lote de terras nº 1, Avenida Autaz Mirim, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 9;Lote de terras A1, Rua Nossa Sra da Conceição e Rua Sta Luzia, Cidade Nova, Manaus, Amazonas.;;1;Lote de terras A1, Rua Nossa Sra da Conceição e Rua Sta Luzia, Cidade Nova, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 10;Rua dos Barés, 269, Centro, Manaus, Amazonas.;;1;Rua dos Barés, 269, Centro, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 11;Avenida Noel Nutels, lote BP02, Manaus, Amazonas.;;1;Avenida Noel Nutels, lote BP02, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 12;Rua Saldanha Marinho, nº 402, Manaus, Amazonas.;;1;Rua Saldanha Marinho, nº 402, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 13;Lote de terras nº 62, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;;1;Lote de terras nº 62, quadra nº 146, zona 6, Bairro Aparecida, Boa vista , Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 14;Lote nº 1, Avenida Coronel Texeira nº 4081, Ponta Negra, Manaus, Amazonas.;;1;Lote nº 1, Avenida Coronel Texeira nº 4081, Ponta Negra, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 15;Patrimônio Municipal n º 428, quadra nº 146, zona 06, Bairro Aparecida, Boa vista, Roraima.;;1;Patrimônio Municipal n º 428, quadra nº 146, zona 06, Bairro Aparecida, Boa vista, Roraima.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 16;Avenida Tancredo Neves, Parque 10 de novembro, Manaus, Amazonas.;;1;Avenida Tancredo Neves, Parque 10 de novembro, Manaus, Amazonas.;1;Renda
+41.650.310/0001-39;2023-03-31;1;IMOVEL 17;Avenida Torquato Tapajós, nº 6584, Colônia Terra Nova, Manaus, Amazonas.;;1;Avenida Torquato Tapajós, nº 6584, Colônia Terra Nova, Manaus, Amazonas.;1;Renda
+41.820.693/0001-46;2023-06-30;1;ED ILSE;Rua Humberto I , N°220,236;398.02;7;Conjuto de escritorios no bloco A, Cj 61- matricula 72.153// Cj 63 - matricula 72.181//Cj 64- matricula 72.195//Cj 101- matricula 72.157// Cj 102 - matricula 72.171//Cj 103 - matricula 72.185//Cj 104 - matricula 72.199.;;
+41.820.693/0001-46;2023-06-30;1;ED ARTHUR;Rua Humberto I , N°220,236;3185.36;17;Conjuto de escritorios no bloco B, Cj 11- matricula 72.204// Cj 12 - matricula 72.216//Cj 21 - matricula 72.205//Cj 22- matricula 72.217//Cj 31- matricula 72.206//Cj 32 - matricula 72.218//Cj 41- matricula 72.207// Cj 42 - matricula 72.219//Cj 51 - matricula 72.211// Cj 52 - matricula 72.220//Cj 61 - matricula 72.212// Cj 62 - matricula 72.208// Cj 71 - matricula 72.213//Cj 72 - matricula 72.209//Cj 81 - matricula 72.214//Cj 82 - matricula 72.210//Cj 91 - matricula 72.215.;;
+41.820.693/0001-46;2023-06-30;1;FAZ ILSELANDIA;Rodovia via dutra na altura do 180 km localizado na margem direita  sentido São Paulo;24019;1;Um imovel rural denominado "Fazenda Ilselandia - Guararema/ Matricula 10.428;;
+41.820.693/0001-46;2023-06-30;1;PIRAPORI;No bairro Piraporinha fazendo frente para o lado esquerdo da estrada de Rodagem;42000;1;Um galpão de industria  - São Bernardo - Estacionamento/ Matricula 2081;;
+41.820.693/0001-46;2023-06-30;1;SHOPPING VILA MARIANA; R. Pelotas, 83 - Vila Mariana, São Paulo - SP;11472;1;São lojas no shoppig, Matrícula nº 51.113, 51.774, 61.121, 61.495 e 62.633;;
+41.820.693/0001-46;2023-06-30;1;Jacareí;Faz Nosso Racho III Rodov Pres. Dutra km 176;764062.4;1;Matricula 69.312;;
+41.820.693/0001-46;2023-06-30;1;Jacareí;Faz Nosso Racho III Rodovia Pres. Dutra km 176;575949.53;1;Matricula 51.435;;
+41.820.693/0001-46;2023-06-30;1;Jacareí;Faz Nosso Rancho - Estrada Velha Via Dutra -Santa Isabel;86761.01;1;Matricula 85.714;;
+41.820.693/0001-46;2023-06-30;1;Jacareí;Faz Nosso Rancho - Estrada Velha Via Dutra;197697;1;Matricula 98.576 (antiga 85.715);;
+41.820.693/0001-46;2023-06-30;1;Jacareí;Faz. Figueira, localizada na Estrada Parateí do Meio;210000;1;Matricula 39.225;;
+41.833.763/0001-09;2023-09-30;1;Imóvel Loja 1382 - Sorocaba;Rua Maria Aparecida Pessutti Melego, nº 250 - Sorocaba/SP;80118.97;1;Imóvel comercial - hipermecado varejista;0.223357;Renda
+42.869.892/0001-01;2023-12-29;1;FONSECA RODRIGUES- 50.218 - 10º RI;Av. Prof. Fonseca Rodrigues, 143/197, Alto de Pinheiros - São Paulo / SP;3785;1;Matricula nº 50.218 do 10º Cartório de Registro de Imóveis de São Paulo / SP;0;Renda
+43.009.610/0001-69;2023-12-31;1;Shopping Plaza Sul;Praça Leonor Kaupa, nº 100, São Paulo - SP, CEP: 04151-100;23871.3;273;Não possui características que destoem dos demais;0.1;Renda
+43.010.485/0001-07;2023-06-30;1;Shopping Vitoria;Avenida Americo Buaiz, 200, Gleba A, Enseada Do Sua, Vitoria/ES, Brasil, 29050-902;87829.53;1;Direito de Propriedade;0.90306858212626;Renda
+43.010.844/0001-26;2023-03-31;1;Hotel Selina;Avenida Vieira De Carvalho, 99, Sem Complemento, Republica, Sao Paulo/SP, Brasil, 01210-010;5394;1;Não possui características relevantes;0.04591904053838;Renda
+43.010.844/0001-26;2023-06-30;1;Kasa;Rua Casa do Ator, 99 - Vila Olimpia - São Paulo/SP CEP 04546-000;9294.68;243;Direito de propriedade;0.29710250797225;Renda
+44.002.561/0001-03;2023-09-30;1;MT154324;Rua Joao Ribeiro de Barros 1411/1412 - Sorocaba, SP;32561.65;1;matricula 154.324;1;Renda
+44.002.561/0001-03;2023-09-30;1;MT45592;R.Patativa 280 - São Jose dos Campos - SP;17849.73;1;matricula 45.592;1;Renda
+44.002.561/0001-03;2023-09-30;1;MT55763;Rua Carlos Barattino - Mogi das Cruzes;21147.48;1;matricula 55.763;1;Renda
+44.002.561/0001-03;2023-09-30;1;MT58817;Av Joaquim Constantino, 7204 - Presidente Prudente , SP;20697.73;1;matricula 58.817;1;Renda
+44.002.561/0001-03;2023-09-30;1;MT71279;Rua Carlos Leal Evans, 252 - Guarulhos, SP;20593;1;matricula 71.279;1;Renda
+44.002.561/0001-03;2023-12-31;1;MT11995;Av R B Cazare;17839;1;Matrícula 11.995;1;Renda
+44.669.674/0001-59;2023-03-31;1;TAMUATÁ;Rua Tamuata, 45;136;1;Matrícula 72.997;0.013575;Renda
+44.669.674/0001-59;2023-03-31;1;CAJAMAR;Rodovia Anhanguera, KM 32 + 490 ao KM 35, Cajamar  - SP;305132.63;1;Matrícula 110.584;0.383551;Renda
+44.669.674/0001-59;2023-06-30;1;PARADA PINTO;Rua Almir Rodrigues, 30, São Paulo - SP;131.2;1;Matrícula 145.806;1;Renda
+44.669.674/0001-59;2023-12-31;1;SAOVICE_SP;Rua Manoel Nascimento Estevan Furtado, 49 e 55, São Vicente, SP, CEP 11350-040;414.5;1;Matrícula 37202;0;Renda
+44.669.674/0001-59;2023-12-31;1;CAMPINAS;Av Ruy Rodrigues, Campinas São Paulo;3875.65;1;Matrícula 251.249;0;Renda
+44.669.674/0001-59;2023-12-31;1;CANOAS;Rua Antonio Frederico Ozanam, 1901 Canoas-RS;28013.74;1;Matrícula 23.374;0;Renda
+44.669.674/0001-59;2023-12-31;1;CARIACICA;Rod BR 101 Norte Contorno - Km 287,3 287 Cariacica-ES;8000;1;Matrícula 9.759;0;Renda
+44.669.674/0001-59;2023-12-31;1;FRANC MORATO;Rua Geronimo Caetano Garcia, 129 - Centro - Francisco Morato;366;1;Matrícula 7.794;0;Renda
+44.669.674/0001-59;2023-12-31;1;GOIANIA;Avenida Frei Miguelino S/N - Goiânia-GO;635.39;1;Matrícula 190.714;0;Renda
+44.669.674/0001-59;2023-12-31;1;GUARUJÁ;AV. Thiago Ferreira, 652 - Guarujá;420;1;Matrícula 58.999;0;Renda
+44.669.674/0001-59;2023-12-31;1;IPIRANGA 111719;Rua Silva Bueno, 2.387 Ipiranga - São Paulo-SP;337;1;Matrícula 111.719;0;Renda
+44.669.674/0001-59;2023-12-31;1;IPIRANGA 17217;Rua Silva Bueno, 2.387 Ipiranga - São Paulo-SP;375;1;Matrícula 17.217;0;Renda
+44.669.674/0001-59;2023-12-31;1;ITAPEVI;Av Cezário de Abreu, 34 - Itapevi-SP;921.79;1;Matrícula 5.190;0;Renda
+44.669.674/0001-59;2023-12-31;1;LAPA;Av. Embaixador Macedo Soares, 899 - Lapa - São Paulo;5556;1;Matrícula 112.817;0;Renda
+44.669.674/0001-59;2023-12-31;1;M DAS CRUZES 27307;Avenida Voluntário Pinheiro Franco, 252 - Mogi da Cruzes;278.4;1;Matrícula 27.307;0;Renda
+44.669.674/0001-59;2023-12-31;1;M DAS CRUZES 27308;Avenida Voluntário Pinheiro Franco, 252 - Mogi da Cruzes;278.4;1;Matrícula 27.308;0;Renda
+44.669.674/0001-59;2023-12-31;1;M DAS CRUZES 27310;Avenida Voluntário Pinheiro Franco, 252 - Mogi da Cruzes;278.4;1;Matrícula 27.310;0;Renda
+44.669.674/0001-59;2023-12-31;1;OSASCO;Avenida dos Autonomistas, 2344 - Osasco;4285;1;Matrícula 16.920;0;Renda
+44.669.674/0001-59;2023-12-31;1;PAULINIA 10275;Gleba 1-B Sítio de Paullinia-SP -;21361.75;1;Matrícula 10.275;0;Renda
+44.669.674/0001-59;2023-12-31;1;PAULÍNIA 22142;Rua Eitor Valentino de Souza (Laba), 337 - Paulínia;4980.99;1;Matrícula 22.142;0;Renda
+44.669.674/0001-59;2023-12-31;1;SENAD CANEDO 20934;Av Progresso - Rua Botafogo Mod 01 APM 02 Nº 1 Goiânia -GO;15096.35;1;Matrícula 20.934;0;Renda
+44.669.674/0001-59;2023-12-31;1;SENAD CANEDO 20935;Av Progresso - Rua Botafogo Mod 01 APM 02 Nº 1 Goiânia -GO;3126.31;1;Matrícula 20.935;0;Renda
+44.669.674/0001-59;2023-12-31;1;SAO VICENTE;Av Manoel de Abreu, 790 - Náutica - São Vicente;7924;1;Matrícula 60.691;0;Renda
+44.669.674/0001-59;2023-12-31;1;UBERLANDIA;R. Wandervalt Faria Marques, 500 - Uberlândia;48950;1;Matrícula 37.162;0;Renda
+44.669.674/0001-59;2023-12-31;1;VILLA 13;Porto Seguro -Bahia;405.63;1;Matrícula 49115;0;Renda
+44.669.674/0001-59;2023-12-31;1;VILLA 21;Porto Seguro -Bahia;539.86;1;Matrícula 49123;0;Renda
+44.680.449/0001-13;2023-12-31;1;Imóvel N° 81.892;Rua  Hermann  Blumenau, 110, centro Florianopolis SC;;3;NA;0.3854;Venda
+44.705.818/0001-85;2023-09-29;1;Imóvel Barra Funda;Rua Doraci, nº 36 - São Paulo - SP;270;0;Matrícula 108.652;1;Renda
+44.705.818/0001-85;2023-09-29;1;Imóvel Bom Retiro;Rua Sérgio Tomás, nº 740 - São Paulo - SP;96225.78;0;Matrículas 13.695, 28.933, 36.382 e 96.514;1;Renda
+44.705.818/0001-85;2023-09-29;1;Imóvel Porto Alegre;Avenida São Paulo, nº 722 - Porto Alegre - RS;;0;Matrícula 88.926;1;Renda
+44.705.818/0001-85;2023-09-29;1;Imóvel Uberlândia;Rua Ângelo Testa, nº 425 - São Paulo - SP;1769.79;0;Matrícula 21.400;1;Renda
+44.728.520/0001-90;2023-12-31;1;EDIFICIO SAINT PAUL;Rua Frederic Chopin, nº 215;1992.123;;Matrícula 102.138;;Renda
+45.063.985/0001-32;2023-09-30;1;Antares;Av. Menino Marcelo, n. 5300, Antares, Maceió;;1;Imóvel Comercial;0;Renda
+45.188.033/0001-45;2023-12-31;1;EDIFICIO E CARDOSO;Rua Jose Antonio Coelho, 484, Sem Complemento, Vila Mariana, Sao Paulo/SP, Brasil, 04011-061;1695.4;20;Direito de Propriedade;0.37676068731104;Venda
+45.188.033/0001-45;2023-12-31;1;EDIFICIO A CARDOSO;Rua Jose Antonio Coelho, 486, Sem Complemento, Vila Mariana, Sao Paulo/SP, Brasil, 04011-061;4324.89;21;Direito de Propriedade;0.48622508377915;Venda
+46.285.299/0001-79;2023-03-31;1;LEPIE501;Rua Artur Rocha, 111 - Boa Vista, Porto Alegre, RS;407.32;1;Futuras unidades autônomas compromissadas localizadas no Edifício Residencial Le Pierre ("Edifício") que correspondem à fração ideal de 0,16579 do Imóvel descrito e caracterizado na matrícula n° 205.521, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel"):;1;Venda
+46.285.299/0001-79;2023-03-31;1;LEPIE901;Rua Artur Rocha, 111 - Boa Vista, Porto Alegre, RS;407.32;1;Futuras unidades autônomas compromissadas localizadas no Edifício Residencial Le Pierre ("Edifício") que correspondem à fração ideal de 0,16579 do Imóvel descrito e caracterizado na matrícula n° 205.521, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel"):;1;Venda
+46.285.299/0001-79;2023-03-31;1;LUMI501;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;345.65;1;Futuras unidades autônomas compromissadas localizadas no Condomínio Residencial Lumi ("Edifício") que correspondem à fração ideal de 0,097839 do Imóvel descrito e caracterizado namatrícula n° 205.340, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel");1;Venda
+46.285.299/0001-79;2023-03-31;1;LUMI602;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;345.65;1;Futuras unidades autônomas compromissadas localizadas no Condomínio Residencial Lumi ("Edifício") que correspondem à fração ideal de 0,097839 do Imóvel descrito e caracterizado namatrícula n° 205.340, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel");1;Venda
+46.285.299/0001-79;2023-03-31;1;LUMI701;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;345.65;1;Futuras unidades autônomas compromissadas localizadas no Condomínio Residencial Lumi ("Edifício") que correspondem à fração ideal de 0,097839 do Imóvel descrito e caracterizado namatrícula n° 205.340, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel");1;Venda
+47.085.640/0001-05;2023-03-31;1;214 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1615 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;35.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1803 A Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;92;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1316 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1602 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;38.75;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1014 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1303 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1606 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.79;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1102 B Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;24 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1608 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;46.94;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;21 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1315 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;35.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1516 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;801 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;63;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;144 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1816 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;509 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;44.38;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1116 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;143 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1202 B Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1304 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.83;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;31 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;42 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;134 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1616 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1607 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;43.02;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1309 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;44.38;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;64 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;152 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1610 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.62;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;406 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.79;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1605 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.48;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;133 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1417 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;71.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;162 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1617 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;71.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;916 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1602 B Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1604 A Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1411 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;40.97;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1311 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;40.97;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;22 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;807 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;43.02;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1601 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;63;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;123 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;815 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;35.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;402 B Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1808 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;46.94;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1317 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;71.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1813 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.54;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;11 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;163 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1613 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.54;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;905 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.48;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;32 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1314 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1107 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;43.02;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1313 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.54;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1612 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.54;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1614 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;516 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1301 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;63;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;62 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;404 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;40.97;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1603 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1609 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;44.38;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;141 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;12 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1815 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;35.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1809 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;44.38;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1217 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;71.93;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;411 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.54;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;114 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;803 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1611 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;40.97;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;13 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;402 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;38.75;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;121 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;34 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1312 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;33.54;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;44 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;53 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1208 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;46.94;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1005 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.48;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1207 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;43.02;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;33 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1807 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;43.02;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1307 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;43.02;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1306 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.79;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1310 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.62;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;403 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;73 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;124 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1308 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;46.94;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;142 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;302 A Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1803 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.73;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1009 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;44.38;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;103 A Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;92;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;606 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.79;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1604 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;41.83;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;408 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;46.94;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;23 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1702 A Thiago de Mello;Rua Almirante Maximiano,Dom Pedro I,Manaus-AM;110.46;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;41 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;102 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;81 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;82 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;308 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;46.94;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1305 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.48;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1302 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;38.75;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;1206 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;42.79;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;14 Viva Verde;Avenida Jacira Reis,Dom Pedro I,Manaus-AM;110;1;N/A;0;Venda
+47.085.640/0001-05;2023-03-31;1;316 Cristal Tower;Avenida Jornalista Umberto Calderaro Filho,Parque 10 de Novembro,Manaus-AM;39.73;1;N/A;0;Venda
+47.154.849/0001-83;2023-03-31;1;GA_501A;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_801A;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_205A;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1005A;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_206A;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_211B;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_203B;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1105B;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1306B;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_507B;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_909B;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_401C;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_711C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_306C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_406C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_606C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_906C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1106C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1206C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_207C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_607C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_907C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1007C;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_910D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_202D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_502D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_203D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_403D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_809D;Av. Farroupilha, 5508;97.8;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GA_1110D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_310D;Av. Farroupilha, 5508;123.2;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GA_05BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_16BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_17BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_21BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_24BV;Av. Farroupilha, 5508;38.1;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_45BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_46BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_62BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_75BV;Av. Farroupilha, 5508;17.9;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_84BV;Av. Farroupilha, 5508;17.9;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_100BV;Av. Farroupilha, 5508;17.9;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_116BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_125BV;Av. Farroupilha, 5508;19;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_213BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_277BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_239BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_313BV;Av. Farroupilha, 5508;59.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_329BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_369BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_383BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_465BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_475BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_489BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_507BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_512BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_558BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_572BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_573BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_590BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GA_607BV;Av. Farroupilha, 5508;29.6;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_202A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_312A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_303A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_204A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_304A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_404A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_804A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_305A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_505A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_206A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_406A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_706A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1106A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_507A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_209A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_409A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_609A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_809A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_909A;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1210A;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_212B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_302B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_602B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1002B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_403B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_603B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_503B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_903B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1104B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_304B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_504B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1304B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_205B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_605B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1005B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1205B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_306B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_706B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1106B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_207B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_307B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_507B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_807B;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_208B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_508B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_409B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_509B;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_210C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_410C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_510C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_610C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_201C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_202C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_301C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_401C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_501C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_901C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_211C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_311C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_411C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_511C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_512C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_212C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_612C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1012C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1112C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_203C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_205C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_305C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_206C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_406C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_806C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_407C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_707C;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_308C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_208C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_309C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_409C;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_210D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_310D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_410D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_201D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_301D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_501D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_211D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_311D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_212D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_312D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_512D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_402D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_202D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_302D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_502D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_602D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_702D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_802D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1102D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_203D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_303D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_403D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_703D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_903D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_204D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_304D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1204D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_205D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_305D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_805D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_206D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_407D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_507D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_707D;R. Aurora, 1250;121.8;1;Nenhuma característica relevante;0.003547;Venda
+47.154.849/0001-83;2023-03-31;1;GR_208D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_608D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_708D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_808D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_908D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1108D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_409D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_709D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_909D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_1009D;R. Aurora, 1250;96.7;1;Nenhuma característica relevante;0.002801;Venda
+47.154.849/0001-83;2023-03-31;1;GR_02AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_03AV;R. Aurora, 1250;34.4;1;Nenhuma característica relevante;0.0003;Venda
+47.154.849/0001-83;2023-03-31;1;GR_04AV;R. Aurora, 1250;34.9;1;Nenhuma característica relevante;0.0003;Venda
+47.154.849/0001-83;2023-03-31;1;GR_05AV;R. Aurora, 1250;34.9;1;Nenhuma característica relevante;0.0003;Venda
+47.154.849/0001-83;2023-03-31;1;GR_14AV;R. Aurora, 1250;22.3;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_19AV;R. Aurora, 1250;22.3;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_21AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_26AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_27AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_32AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_37AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_42AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_47AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_54AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_55AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_56AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_57AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_60AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_61AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_62AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_63AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_65AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_69AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_71AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_72AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_74AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_75AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_78AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_80AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_81AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_82AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_83AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_84AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_91AV;R. Aurora, 1250;22.3;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_93AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_96AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_482AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_490AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_498AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_506AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_508AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_518AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_519AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_537AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_546AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_549AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_555AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_558AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_559AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_560AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_561AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_567AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_568AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_593AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_598AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_604AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_617AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_619AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_620AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_99AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_459AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_460AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_470AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_478AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_454AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_395AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_396AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_409AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_425AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_426AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_431AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_433AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_436AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_392AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_390AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_386AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_382AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_372AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_369AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_366AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_364AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_363AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_361AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_360AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_358AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_356AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_348AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_344AV;R. Aurora, 1250;55;1;Nenhuma característica relevante;0.0003;Venda
+47.154.849/0001-83;2023-03-31;1;GR_332AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_320AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_316AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_310AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_302AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_298AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_295AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_280AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_272AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_271AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_270AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_267AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_261AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_245AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_234AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_231AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_197AV;R. Aurora, 1250;55;1;Nenhuma característica relevante;0.0003;Venda
+47.154.849/0001-83;2023-03-31;1;GR_186AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_172AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_170AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_147AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_144AV;R. Aurora, 1250;27.5;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_133AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_127AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_121AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_115AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_113AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_111AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_110AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_107AV;R. Aurora, 1250;18.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_105AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_103AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_101AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-03-31;1;GR_98AV;R. Aurora, 1250;17.2;1;Nenhuma característica relevante;0.0002;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_503;R. Noronha Torrezão, 160 - Niterói, RJ;38.7;1;Nenhuma característica relevante;0.000939;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1301;R. Noronha Torrezão, 160 - Niterói, RJ;41.1;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_301;R. Noronha Torrezão, 160 - Niterói, RJ;41.1;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_402;R. Noronha Torrezão, 160 - Niterói, RJ;26.8;1;Nenhuma característica relevante;0.000654;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_505;R. Noronha Torrezão, 160 - Niterói, RJ;33.4;1;Nenhuma característica relevante;0.000803;Venda
+47.154.849/0001-83;2023-12-29;1;RI_95A;R. Amália Bernardino de Souza, 532 - Recife, PE;97.3;1;Nenhuma característica relevante;0.002316;Venda
+47.154.849/0001-83;2023-12-29;1;RI_193A;R. Amália Bernardino de Souza, 532 - Recife, PE;109.7;1;Nenhuma característica relevante;0.002687;Venda
+47.154.849/0001-83;2023-12-29;1;RI_16B;R. Amália Bernardino de Souza, 532 - Recife, PE;97.3;1;Nenhuma característica relevante;0.002316;Venda
+47.154.849/0001-83;2023-12-29;1;RI_326B;R. Amália Bernardino de Souza, 532 - Recife, PE;97.3;1;Nenhuma característica relevante;0.002316;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_16;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_17;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;131.9;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_29;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_34;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;192.7;1;Nenhuma característica relevante;0.002971;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_36;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_49;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_51;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;154.3;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_86;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;166.3;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_102;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;188.8;1;Nenhuma característica relevante;0.002971;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_106;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;178;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_108;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;135.8;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_115;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;143.4;1;Nenhuma característica relevante;0.002619;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_139;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;147.3;1;Nenhuma característica relevante;0.002619;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_202;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_401;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_605;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_805;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_817;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1003;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1015;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1105;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1315;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1502;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1518;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;102;1;Nenhuma característica relevante;0.001983;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_109;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;56.3;1;Nenhuma característica relevante;0.001871;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_111;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;66.6;1;Nenhuma característica relevante;0.00223;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_603;R. Noronha Torrezão, 160 - Niterói, RJ;38.7;1;Nenhuma característica relevante;0.000939;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1308;R. Noronha Torrezão, 160 - Niterói, RJ;28.1;1;Nenhuma característica relevante;0.000691;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_801;R. Noronha Torrezão, 160 - Niterói, RJ;41.1;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_907;R. Noronha Torrezão, 160 - Niterói, RJ;31.1;1;Nenhuma característica relevante;0.000753;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_506;R. Noronha Torrezão, 160 - Niterói, RJ;30.1;1;Nenhuma característica relevante;0.000741;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1305;R. Noronha Torrezão, 160 - Niterói, RJ;33.4;1;Nenhuma característica relevante;0.000803;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_702;R. Noronha Torrezão, 160 - Niterói, RJ;26.8;1;Nenhuma característica relevante;0.000654;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1005;R. Noronha Torrezão, 160 - Niterói, RJ;33.4;1;Nenhuma característica relevante;0.000803;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_504;R. Noronha Torrezão, 160 - Niterói, RJ;40.9;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1007;R. Noronha Torrezão, 160 - Niterói, RJ;31.1;1;Nenhuma característica relevante;0.000753;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_904;R. Noronha Torrezão, 160 - Niterói, RJ;40.9;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1001;R. Noronha Torrezão, 160 - Niterói, RJ;41.1;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1008;R. Noronha Torrezão, 160 - Niterói, RJ;28.1;1;Nenhuma característica relevante;0.000679;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_808;R. Noronha Torrezão, 160 - Niterói, RJ;28.1;1;Nenhuma característica relevante;0.000679;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_302;R. Noronha Torrezão, 160 - Niterói, RJ;26.8;1;Nenhuma característica relevante;0.000654;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1102;R. Noronha Torrezão, 160 - Niterói, RJ;26.8;1;Nenhuma característica relevante;0.000654;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1006;R. Noronha Torrezão, 160 - Niterói, RJ;30.1;1;Nenhuma característica relevante;0.000741;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1109;R. Noronha Torrezão, 160 - Niterói, RJ;27.3;1;Nenhuma característica relevante;0.000926;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1003;R. Noronha Torrezão, 160 - Niterói, RJ;38.7;1;Nenhuma característica relevante;0.000939;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1303;R. Noronha Torrezão, 160 - Niterói, RJ;38.7;1;Nenhuma característica relevante;0.000939;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_803;R. Noronha Torrezão, 160 - Niterói, RJ;38.7;1;Nenhuma característica relevante;0.000939;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_906;R. Noronha Torrezão, 160 - Niterói, RJ;30.1;1;Nenhuma característica relevante;0.000741;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_807;R. Noronha Torrezão, 160 - Niterói, RJ;31.1;1;Nenhuma característica relevante;0.000753;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_606;R. Noronha Torrezão, 160 - Niterói, RJ;30.1;1;Nenhuma característica relevante;0.000741;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_507;R. Noronha Torrezão, 160 - Niterói, RJ;31.1;1;Nenhuma característica relevante;0.000753;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1306;R. Noronha Torrezão, 160 - Niterói, RJ;30.1;1;Nenhuma característica relevante;0.000741;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_401;R. Noronha Torrezão, 160 - Niterói, RJ;41.1;1;Nenhuma característica relevante;0.001;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_1108;R. Noronha Torrezão, 160 - Niterói, RJ;28.1;1;Nenhuma característica relevante;0.000691;Venda
+47.154.849/0001-83;2023-12-29;1;OFX_605;R. Noronha Torrezão, 160 - Niterói, RJ;33.4;1;Nenhuma característica relevante;0.000803;Venda
+47.154.849/0001-83;2023-12-29;1;RI_175A;R. Amália Bernardino de Souza, 532 - Recife, PE;97.3;1;Nenhuma característica relevante;0.002316;Venda
+47.154.849/0001-83;2023-12-29;1;RI_223A;R. Amália Bernardino de Souza, 532 - Recife, PE;109.7;1;Nenhuma característica relevante;0.002687;Venda
+47.154.849/0001-83;2023-12-29;1;RI_14B;R. Amália Bernardino de Souza, 532 - Recife, PE;109.7;1;Nenhuma característica relevante;0.002687;Venda
+47.154.849/0001-83;2023-12-29;1;RI_43B;R. Amália Bernardino de Souza, 532 - Recife, PE;109.7;1;Nenhuma característica relevante;0.002687;Venda
+47.154.849/0001-83;2023-12-29;1;RI_95B;R. Amália Bernardino de Souza, 532 - Recife, PE;97.3;1;Nenhuma característica relevante;0.002316;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_11;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_18;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;131.9;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_19;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_21;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_25;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_29;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_34;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;188.8;1;Nenhuma característica relevante;0.002971;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_39;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_41;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_45;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_47;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;131.9;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_52;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;198.4;1;Nenhuma característica relevante;0.002971;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_65;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_69;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;149.6;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_78;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;131.9;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_84;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;192.7;1;Nenhuma característica relevante;0.002971;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_85;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;179.5;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_91;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;179.5;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_95;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;179.5;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_99;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;179.5;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_102;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;188.8;1;Nenhuma característica relevante;0.002971;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_106;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;178;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_107;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;140.6;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_109;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;187.5;1;Nenhuma característica relevante;0.002761;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_116;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;143.4;1;Nenhuma característica relevante;0.002619;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_121;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;148.2;1;Nenhuma característica relevante;0.002619;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_128;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;148.2;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_128;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;131.9;1;Nenhuma característica relevante;0.002353;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_129;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;148.2;1;Nenhuma característica relevante;0.002619;Venda
+47.154.849/0001-83;2023-12-29;1;NR1_131;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;147.3;1;Nenhuma característica relevante;0.002619;Venda
+47.154.849/0001-83;2023-12-29;1;NR2_103;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;106.6;1;Nenhuma característica relevante;0.001686;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_201;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.4;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_203;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_405;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_607;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_801;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_820;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1002;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1018;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;102;1;Nenhuma característica relevante;0.001983;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1101;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1116;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1117;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1304;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;102;1;Nenhuma característica relevante;0.001983;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1309;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1320;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1404;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;102;1;Nenhuma característica relevante;0.001983;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1415;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1416;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1503;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1504;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;102;1;Nenhuma característica relevante;0.001983;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1506;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1515;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;84.6;1;Nenhuma característica relevante;0.001538;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_1517;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;106.1;1;Nenhuma característica relevante;0.002088;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_101;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;87.9;1;Nenhuma característica relevante;0.002965;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_103;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;56.3;1;Nenhuma característica relevante;0.001871;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_104;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;56.3;1;Nenhuma característica relevante;0.001871;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_105;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;56.3;1;Nenhuma característica relevante;0.001871;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_108;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;56.3;1;Nenhuma característica relevante;0.001871;Venda
+47.154.849/0001-83;2023-12-29;1;NO1_110;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;56.3;1;Nenhuma característica relevante;0.001871;Venda
+47.896.665/0001-99;2023-03-31;1;Catarina Fashion Outlet;Rodovia Castelo Branco, KM 60, Sao Roque/SP, Brasil, 18130-100;29529;140;Direito de Propriedade;1;Renda
+47.896.665/0001-99;2023-09-30;1;Iguatemi Bosque Shopping - Fortaleza;Avenida Washington Soares, 85, Sem Complemento, Edson Queiroz, Fortaleza/CE, Brasil, 60811-900;190785.78;1;Não possui caracteristicas que destoem dos demais;0.31662686666365;Renda
+47.896.665/0001-99;2023-12-31;1;Shopping Metro Tatuape;Rua Goncalves Crespo, 78,  Tatuape, Sao Paulo/SP, Brasil, 03066-030;112148.12;1;Direito de Propriedade;0.09048607087381;Renda
+47.896.665/0001-99;2023-12-31;1;Shopping Metro Boulevard Tatuape;Rua Goncalves Crespo, 78,  Tatuape, Sao Paulo/SP, Brasil, 03066-030;64918;1;Direito de Propriedade;0.04141114377938;Renda
+47.896.665/0001-99;2023-12-31;1;Shopping Praia das Belas;Avenida Praia De Belas, 1181, Praia De Belas, Porto Alegre/RS, Brasil, 90110-001;119699;2;Direito de Propriedade;0.09556417795241;Renda
+48.565.175/0001-72;2023-03-31;1;Fazenda Tabuleiro I - C (Mat 5.372);Zona rural de Correntina;5092891;1;Direito de propriedade;0.040822;Renda
+48.565.175/0001-72;2023-03-31;1;Fazenda Tabuleiro I- D (Mat 5.373);Zona rural de Correntina;8090684;1;Direito de propriedade;0.06485;Renda
+48.565.175/0001-72;2023-03-31;1;Fazenda Tabuleiro I-E (Mat 5.374);Zona rural de Correntina;8199028;1;Direito de propriedade;0.065718;Renda
+48.565.175/0001-72;2023-03-31;1;Fazenda Tabuleiro I-F (Mat 5.375);Zona rural de Correntina;7662191;1;Direito de propriedade;0.061415;Renda
+48.565.175/0001-72;2023-03-31;1;Fazenda Tabuleiro IV (Mat 5.378);Zona rural de Correntina;28815726;1;Direito de propriedade;0.250959;Renda
+48.565.175/0001-72;2023-03-31;1;Fazenda Tabuleiro V (Mat 5.379);Zona rural de Correntina;24431774;1;Direito de propriedade;0.195831;Renda
+48.565.175/0001-72;2023-03-31;1;Gleba-V-A-1 (Mat 14.061);Zona rural de Correntina;9386030;1;Direito de propriedade;0.075233;Renda
+48.565.175/0001-72;2023-03-31;1;QUINHAO  n 01 - V-A-3 (Mat 14.059);Zona rural de Correntina;6850801;1;Direito de propriedade;0.054912;Renda
+48.565.175/0001-72;2023-03-31;1;GLEBA V-A-2 (Mat 14.058);Zona rural de Correntina;9361585;1;Direito de propriedade;0.075037;Renda
+48.565.175/0001-72;2023-03-31;1;GLEBA V-A-4 (Mat 14.060);Zona rural de Correntina;7352611;1;Direito de propriedade;0.058934;Renda
+48.565.175/0001-72;2023-03-31;1;FAZENDA NATAL (Mat 14.070);Zona rural de Correntina;4538872;1;Direito de propriedade;0.036381;Renda
+48.565.175/0001-72;2023-03-31;1;FAZENDA BEIRA LAGO I (Mat 14.068);Zona rural de Correntina;2483725;1;Direito de propriedade;0.019908;Renda
+48.916.699/0001-60;2023-03-31;1;Edificio Modulo Reboucas;Rua Capote Valente, 39,Pinheiros, Sao Paulo/SP, Brasil, 05409-000;1053;1;Direito de Propriedade;0.08742083777245;Renda
+48.916.699/0001-60;2023-03-31;1;Edificio Leblon;Rua Almirante Guilhem, 378, Leblon, Rio De Janeiro/RJ, Brasil, 22440-000;3693.42;1;Direito de Propriedade;0.98671331432801;Renda
+48.916.699/0001-60;2023-03-31;1;Edificio Iguatemi Alphaville - Itower;Alameda Xingu, 350, Alphaville Centro Industrial e Empresarial Alphaville, Barueri/SP, Brasil, 06455-030;15952;1;Direito de Propriedade;0.09492231642289;Renda
+48.916.699/0001-60;2023-03-31;1;Condominio Faria Lima Plaza - FLP;Avenida Brigadeiro Faria Lima, 929, Pinheiros, Sao Paulo/SP, Brasil, 05426-100;9372;1;Direito de Propriedade;0.5009149461114;Renda
+48.916.699/0001-60;2023-03-31;1;Edificio Box 298;Rua Wisard, 298, Vila Madalena, Sao Paulo/SP, Brasil, 05434-000;1173.94;1;Direito de Propriedade;0.03340001454572;Renda
+48.916.699/0001-60;2023-12-31;1;Edificio Oscar Freire Office;Avenida Jornalista Roberto Marinho, 85, Conj. 242 - Sala N° 35, Cidade Moncoes, Sao Paulo/SP, Brasil, 04576-010;5243.3;10;Direito de Propriedade;0.34652595554172;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 801-A;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;318.62;;;0.17510490356059;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 801-A1;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;317.85;;;0.17468173246103;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 801-A2;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;260.09;;;0.146045691501964;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 801-B;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;328.42;;;0.184414341201412;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 801-C;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;138.51;;;0.0817855402222712;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 801-D;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;112.16;;;0.067435744625463;Renda
+48.961.539/0001-33;2023-03-31;2;Sala 802;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;253.5;;;0.141410567148532;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 319;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 320;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 321;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 322;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 323;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 324;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 325;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 326;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 327;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 328;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 329;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 330;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 331;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 332;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 401;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+48.961.539/0001-33;2023-03-31;2;Vaga 402;Praia de Botafogo, 228, Botafogo, Rio de Janeiro - RJ;20;;;0.00182009245492108;Renda
+49.184.940/0001-77;2023-12-31;1;Loja Reboucas;Avenida Reboucas, 2492, Números: 2492, 2516, 2538, Jardim Residencial Veccon, Sumare/SP, Brasil, 13170-700;455.62;1;Direito de Propriedade;0.09118251439669;Renda
+49.489.928/0001-70;2023-03-31;1;TAB A (Mat 5.365);Zona rural de Correntina;5390848;1;Direito de propriedade;0.039835;Renda
+49.489.928/0001-70;2023-03-31;1;TAB B (Mat 5.366);Zona rural de Correntina;4519023;1;Direito de propriedade;0.033393;Renda
+49.489.928/0001-70;2023-03-31;1;TAB VI - A (Mat 5.367);Zona rural de Correntina;6701638;1;Direito de propriedade;0.049521;Renda
+49.489.928/0001-70;2023-03-31;1;TAB VI - B (Mat 5.368);Zona rural de Correntina;10218030;1;Direito de propriedade;0.075505;Renda
+49.489.928/0001-70;2023-03-31;1;TAB VI - C (Mat 5.369);Zona rural de Correntina;4153403;1;Direito de propriedade;0.030691;Renda
+49.489.928/0001-70;2023-03-31;1;TAB - II (Mat 5.376);Zona rural de Correntina;32352090;1;Direito de propriedade;0.239064;Renda
+49.489.928/0001-70;2023-03-31;1;TAB - III (Mat 5.377);Zona rural de Correntina;37222554;1;Direito de propriedade;0.275054;Renda
+49.489.928/0001-70;2023-03-31;1;Gleba-V-A-5 (Mat 14.072);Zona rural de Correntina;4675170;1;Direito de propriedade;0.034546;Renda
+49.489.928/0001-70;2023-03-31;1;Gleba-V-A-5 (Mat 14.073);Zona rural de Correntina;3580385;1;Direito de propriedade;0.026457;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Chapada  (Mat 6.468);Zona rural de Correntina;4170112;1;Direito de propriedade;0.030814;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Chapada  (Mat 6.469);Zona rural de Correntina;4401554;1;Direito de propriedade;0.032525;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Chapada  (Mat 6.467);Zona rural de Correntina;5128697;1;Direito de propriedade;0.037898;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Chapada  (Mat 6.466);Zona rural de Correntina;634487;1;Direito de propriedade;0.0046885;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Chapada  (Mat 6.465);Zona rural de Correntina;7817345;1;Direito de propriedade;0.057765;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Tabuleiro  I - A (Mat 5.370);Zona rural de Correntina;2233238;1;Direito de propriedade;0.016502;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Tabuleiro I - B (Mat 5.371);Zona rural de Correntina;2129496;1;Direito de propriedade;0.015741;Renda
+49.489.928/0001-70;2023-03-31;1;Fazenda Tabuleiro I - B (Mat 5.371);Zona rural dos munícipios de Correntina;2129496;;Direito de propriedade;0.015741;
+49.553.783/0001-20;2023-09-30;1;YOU Unlimited;R. Oscar Freire, 1597 -Cerqueira César  - São Paulo - SP;1297.8;3;N/A;0.6;Venda
+49.553.783/0001-20;2023-12-31;1;Haia Boa Vista - GRM;Av. Boa Vista B, 140 - Boa Vista - Sorocaba - SP;26570.32;7;N/A;0.7376;Venda
+49.553.783/0001-20;2023-12-31;1;Residencial Lisboa;Rua Eugênio Medeiros, Nº 639 - Pinheiros - CEP: 05.425-001;398.896;2;N/A;1;Renda
+50.255.690/0001-06;2023-06-30;1;TER - FSP01;ROD GO 174 KM 35 A DIREITA;81.6809;1;Matrícula 94364;1;Venda
+50.255.690/0001-06;2023-06-30;1;TER - FSP02;ROD GO 174 KM 36 A DIREITA;289.5923;1;Matrícula 49116;1;Venda
+50.255.690/0001-06;2023-06-30;1;TER - FSP03;ROD GO 174 KM 35 A DIREITA;250.1115;1;Matrícula 68188;1;Venda
+50.375.550/0001-63;2023-06-30;2;Apt 41 - Edifício Palm Springs;Rua Jose de Cristo Moreira. 517 - Vila Morumbi;538.478;1;Matrícula 120.722;;
+50.375.550/0001-63;2023-06-30;2;Apt 31 - Edifício Ibiza;Avenida Casa Verde, 2839;112.7568;1;Matrícula 152.414;;
+50.375.550/0001-63;2023-06-30;2;Apt 51 - Edifício Residencial Zani;Rua Dr. Ernesto Vergara. 308 - Balneário Alvorada;96.5925;1;Matrícula 169.199;;
+50.375.550/0001-63;2023-06-30;2;Apt 31 - Edifício Gilda Terzini D´Amélio;Rua Coronel Rodovalho, 355;84.98;1;Matrícula 195.300;;
+50.375.550/0001-63;2023-06-30;2;Apt 133 - Condomínio Residencial Vida Plena Guarulhos;Avenida benjamin Harris Hannicut, 200 - Vila Rio de Janeiro;125.701;1;Matrícula 116.699;;
+50.375.550/0001-63;2023-06-30;2;Apt 106 - Condomínio Equador;Rua Almirante Ernesto de Mello Junior, 201;35.01;1;Matrícula 59.246;;
+50.375.550/0001-63;2023-06-30;2;Sala comercial 22 - Edifício Eldorado;Rua Floriano Peixoto, 120;59.06;1;Matrícula 51.352;;
+50.375.550/0001-63;2023-06-30;2;Casa Morumbi;Rua Carlos Cyrillo Junior - Lote 11 Quadra 67;693;1;Matrícula 109.636;;
+50.399.189/0001-05;2023-09-30;2;Hesa 177;DUO CORPORATE, LIFESTTYLE & MALL - FIII UNIDADES AUTÔNOMAS;0;48;NA;0.281200641050381;Venda
+50.399.189/0001-05;2023-09-30;2;Hesa 150;VILA OLIMPIA HOME & STAY  - FIII UNIDADES AUTÔNOMAS;0;25;NA;0.321846735150049;Venda
+50.399.189/0001-05;2023-09-30;2;Hesa 135;RESIDENCIAL HELBOR B LIV - FIII UNIDADES AUTÔNOMAS;0;36;NA;0.107349595634488;Venda
+50.399.189/0001-05;2023-09-30;2;Hesa 183;OPEN MIND - FIII UNIDADES AUTÔNOMAS;0;70;NA;0.28960302755444;Venda
+50.399.189/0001-05;2023-12-31;1;Hesa 183;OPEN MIND - FIII UNIDADES AUTÔNOMAS;0;7;NA;0.1042;Venda
+50.479.122/0001-80;2023-06-30;1;LOG RECIFE;Rodovia Br101 Sul, 2308, Sem Complemento, Distrito Industrial Santo Estevao, Cabo De Santo Agostinho/PE, Brasil, 54503-010;73885.46;1;Direito de propriedade;0.71804036580093;Renda
+50.479.122/0001-80;2023-06-30;1;LOG GOIANIA;Km 518, S/n, Br-153, Br-153, Hidrolandia/GO, Brasil, 75340-000;49289.31;28;Direito de propriedade;0.24828660323906;Renda
+50.479.122/0001-80;2023-06-30;1;LOG FORTALEZA II;Rodovia 4o Anel Viario, 4343, Sem Complemento, Ancuri, Itaitinga/CE, Brasil, 61880-000;94380.54;13;Direito de propriedade;0.52392123349177;Renda
+50.479.122/0001-80;2023-09-30;1;LOG ARACAJU;Avenida Chesf, S/n, Parque Dos Faróis, Nossa Senhora Do Socorro/SE, Brasil, 49160-000;32080.14;15;Não possui caracteristicas que destoem dos demais;0.0750123615683;Renda
+50.479.122/0001-80;2023-09-30;1;LOG LONDRINA;Avenida Tiradentes, 7100, Jardim Rosicler, Londrina/PR, Brasil, 86072-000;60879.69;11;Não possui caracteristicas que destoem dos demais;0.13932694860481;Renda
+50.492.450/0001-17;2023-06-30;1;ATC 18 - Guarulhos - Dutra;Rodovia Presidente Dutra, Km 213, Quadra GL 3, Cumbica, Guarulhos/SP;18148.4;1;Matrícula 47.522;0.3374;Renda
+50.492.450/0001-17;2023-06-30;1;ATC 164 - Santo André;Av. dos Estados, 5200, Vila Metalúrgica - Santo André/SP;14948.45;1;Matrícula 10.0651;0.3136;Renda
+50.492.450/0001-17;2023-06-30;1;ATC 190 - Jandira;Av. Alziro Soares, 400, Núcleo Micro Industrial Presidente Wilson - Barueri/SP;13455.73;1;Matrícula 19.9619;0.349;Renda
+50.659.134/0001-97;2023-06-30;1;CD Muribeca;Rua República Eslovaca, nº 1.623, Muribeca, Jaboatão dos Guararapes/PE;85323;1;Imóvel urbano, logístico, galpão - Matrícula 8.162;0.1942;Renda
+50.659.134/0001-97;2023-06-30;1;CD Jacareí e loja;Rodovia Presidente Dutra, km 161, Jardim Santa Maria, Jacareí - SP;87761.82;1;Imóvel urbano, logístico, galpão, monousuário - Matrícula 6.843;0.2345;Renda
+50.659.134/0001-97;2023-06-30;1;CD Pirajá;Rodovia Salvador Feira, BR 324, Km 08 - Salvador/BA;90265;1;Imóvel urbano, logístico, galpão, monousuário - Matrículas nºs 4.425, 40.100 e 75.862;0.242;Renda
+50.659.134/0001-97;2023-06-30;1;CD Anhanguera;Av. Doutor Mauro Lindemberg Monteiro, nº 628, Osasco/SP;101875;1;Imóvel urbano, logístico, galpão, monousuário - Matrícula 26.812;0.2848;Renda
+50.659.134/0001-97;2023-06-30;1;CD Pinhais;Rua Salgado Filho, 750, Jardim Amélia, Pinhais/PR;17649.44;1;Imóvel urbano, logístico, galpão, monousuário - Matrículas nºs 19.353 e 21.949;0.0445;Renda
+50.808.042/0001-21;2023-06-30;1;ED FARIA LIMA 4.440;Avenida Brigadeiro Faria Lima, nº 4.440, na Cidade e Estado de São Paulo;6924.93;1;Direito de propriedade;0;Renda
+50.808.042/0001-21;2023-09-29;1;ED FARIA LIMA 4.440;Avenida Brigadeiro Faria Lima, nº 4.440, na Cidade e Estado de São Paulo;6924.93;1;Direito de propriedade;0;Renda
+50.876.919/0001-11;2023-06-30;2;Apt Condomínio Al Mare Beach Front;Avenida Nereu Ramos, 4770 - Piçarras, SC;353.28;4;.;;
+50.876.919/0001-11;2023-06-30;2;Apt Condomínio Otto Sky;Rua Otto Boehm - Joinville, SC;107.394;1;.;;
+50.876.919/0001-11;2023-09-29;1;GE04 EMPREENDIMENTO;Rua Otto Boehm;3566.55;1;apt 1.201;1;Venda
+50.957.247/0001-79;2023-09-29;1;DARCI_BUBLITZ_69;RUA DARCI BUBLITZ, 69, VILA NOVA, JOINVILLE/SC;16971.33;1;Matricula n° 56.321;0;Renda
+50.957.247/0001-79;2023-09-29;1;MARECHAL_LUZ_1100;RUA MARECHAL LUZ, 1100, FATIMA, JOINVILLE/SC;5188.37;1;Matrícula n° 51.914;0;Renda
+50.957.247/0001-79;2023-09-29;1;MONSENHOR_GERCINO_4248;RUA MONSENHOR GERCINO, 4248, JOÃO COSTA, JOINVILLE/SC;9662.95;1;Matrículas n° 22.347 e 30.312;0;Renda
+50.957.247/0001-79;2023-09-29;1;RODOVIA_280;SC-A280A ESQUINA COM A - LOTEAMENTO VILLAGE DO SOL - QUADRA 002 - LOTE 001 - ITINGA, ARAQUARI/SC;8752.05;1;Matrículas n° 20.436;0;Renda
+50.957.247/0001-79;2023-09-29;1;WALDEMIRO_JOSE_BORGE_740;RUA WALDEMIRO JOSÉ BORGES, 740 - PROFIPO - JOINVILLE/SC;52900;1;Matricula n° 27.654;0;Renda
+51.392.366/0001-94;2023-09-29;1;Philus Engenharia;Ponta Grossa-PR".;17292.68;;Matrícula nº 75.080;;
+51.822.097/0001-59;2023-09-29;1;LEILAO VERGU;Rua Vergueiro, 470, Liberdade, São Paulo - SP;12777;1;Ativo Público adquirido Via Leilão;1;Venda
+52.101.897/0001-43;2023-09-29;2;ALVOAR;Avenida Fernão Dias, nº 2003, Lagoa da Prata - MG, CEP 35591-378;35127.93;1;Matrícula 49.103. Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.;1;Renda
+52.219.978/0001-42;2023-12-29;1;Alameda Santos;Alameda Santos, 2477, Jardim Paulista, São Paulo - SP;6467.71;21;Proprietário do ativo;0.097703;Renda
+52.219.978/0001-42;2023-12-29;1;Corporate Plaza;Rua Alexandre Dumas, 2100, Santo Amaro, São Paulo - SP;10489.07;64;Proprietário de 89% do ativo;0.088626;Renda
+52.219.978/0001-42;2023-12-29;1;Centro Empresarial Botafogo;Praia de Botafogo, 300, Botafogo, Rio de Janeiro - RJ;23439.78;59;Proprietário do ativo;0.508353;Renda
+52.219.978/0001-42;2023-12-29;1;Morumbi Office Tower;Avenida Roque Petroni Junior, 999, Jardim das Acacias, São Paulo - SP;18478.993;54;Proprietário de 82% do ativo;0.234398;Renda
+52.321.885/0001-24;2023-12-31;1;BRASÍLIA - 494;Sítio Boa vista , Pirauba, Guarani MG;1393.92;1;BRASÍLIA - 494;1;Renda
+52.321.885/0001-24;2023-12-31;1;BRASÍLIA -306;Fazenda Corumbá - Luziania - GO;306900;1;BRASÍLIA -306;1;
+52.321.885/0001-24;2023-12-31;1;MATRÍ 038729;Imóvel rural (Gleba), com área de 13.92,92 ha ou 4,5 alq mineiro.;1393.92;1;MATRÍ 038729;1;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 12310;a Praça Atílio Bonfante, nº 117, Bairro Centro, na cidade de Astolfo Dutra;5850;1;MATRÍ 12310;1;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 38.050;Av.Prefeito Telesforo Cândido Resende, 142;568.56;1;MATRÍ 38.050;0.7;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 38.053;Av.Prefeito Telesforoc Resende, 142;9.59;1;MATRÍ 38.053;1;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 42.196;Av Comendador Jacinto Soares de Souza Lima;1114.75;1;MATRÍ 42.196;1;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 44.263;R Antônio Cimini 84, na cidade de Caratinga;1158.01;1;MATRÍ 44.263;0.625;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 5.241;Fazenda da Cachoeirinha, Urucuia;86;1;MATRÍ 5.241;1;Renda
+52.321.885/0001-24;2023-12-31;1;MATRÍ 5.241 FCG;Fazenda Coroa Grande 01;146;1;MATRÍ 5.241 FCG;1;Renda
+52.324.762/0001-47;2023-12-31;1;Hesa 150;CONDOMÍNIO HELBOR VILA OLÍMPIA HOME & STAY;0;7;NA;0.392663090556862;Venda
+52.324.762/0001-47;2023-12-31;1;Hesa 156;CONDOMÍNIO HELBOR SIGNATURE;0;8;NA;0.225161488436271;Venda
+52.324.762/0001-47;2023-12-31;1;Hesa 177;CONDOMÍNIO HELBOR SIGNATURE;0;4;NA;0.0601077963306654;Venda
+52.324.762/0001-47;2023-12-31;1;Hesa 183;CONDOMÍNIO EDIFÍCIO RESIDENCE QUANTUM HBR CORPORATE & MALL;0;24;NA;0.322067624676202;Venda
+53.076.746/0001-45;2023-12-31;2;LOTEAMENTO BONFIM BR-101;RIO GRANDE DO NORTE;50910.27;1;Imóvel urbano;0.4001;Renda
+53.309.565/0001-11;2023-12-31;1;Imovel Rio de Janeiro - Centro Empresarial Barra;Avenida Das Americas, 4200, Bloco 3, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22640-102;10000;7;Direito de Propriedade;0.26543748774024;Renda
+53.309.565/0001-11;2023-12-31;1;Imovel Santo Andre - Hospital Next;Avenida Dom Pedro Ii, 665, Sem Complemento, Jardim, Santo Andre/SP, Brasil, 09080-110;10000;1;Direito de Propriedade;0.06406721528397;Renda
+53.309.565/0001-11;2023-12-31;1;Imovel Sao Paulo - Hospital Paulistano;Rua Martiniano De Carvalho, 741, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01321-001;10000;1;Direito de Propriedade;0.63366668677734;Renda

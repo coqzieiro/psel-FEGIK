@@ -1,0 +1,493 @@
+CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
+07.789.135/0001-27;2024-06-30;1;NAT - NATAL SHOPPING;Av. Senador Salgado Filho, nº 2.234 - Candelária - Natal/Rio Grande do Norte;1;1;Através de redução de capital parcial da SPE Mônaco Participações S.A. ocorrida em 31/01/2024 e efetivada em 05/2024 - 55% do Natal Shoppong Center;0.0196;Renda
+07.789.135/0001-27;2024-06-30;1;NSF - NORTH SHOPPING FORTALEZA;Av. Bezerra de Menezes, 2450 - Presidente Kennedy - Fortaleza - CE;1;1;Através de redução de capital parcial da CE Shopping S.A. ocorrida em 29/02/2024 e efetivada em 05/2024 - 100% do North Shoppong Fortaleza;0.142;Renda
+07.789.135/0001-27;2024-09-30;1;NSF - NORTH SHOPPING FORTALEZA;Av. Bezerra de Menezes, 2450 - Presidente Kennedy - Fortaleza - CE;1;1;Através de redução de capital parcial da CE Shopping S.A. ocorrida em 29/02/2024 e efetivada em 05/2024 - 100% do North Shoppong Fortaleza;0.142;Renda
+08.431.747/0001-06;2024-06-30;1;SHOPPING JARDIM SUL - 50%;Av. Giovanni Gronchi, 5819, Morumbi, São Paulo - SP;28739.03;173;-;0.0898;Renda
+08.431.747/0001-06;2024-12-31;1;Shopping Jaraguá Araraquara;Avenida Alberto Benassi, 2.270, Jardim dos Manacas, Araraquara, SP;21098.8;122;-;0.25;Renda
+08.706.065/0001-69;2024-06-30;1;Ibis Ibirapuera;Avenida Santo Amaro, 1411, Vila Nova Conceição, São Paulo/SP, Brasil, 04506-000;796.34;40;Direito de Propriedade;0.06180484267137;Renda
+10.456.799/0001-89;2024-03-31;3;Terreno;São Leopoldo-RS, Bairro Morro do Espelho, lotes 03, 04 e 05 da quadra 556 no quarteirão formado pelas Ruas Raimundo Corrêa e Dietrich Hilbk, Avenida Mauá e propriedade de Industrial Japs Ltda.;1302.12;3;Terreno;0.027412;Renda
+11.179.118/0001-45;2024-03-31;1;Anhanguera Educacional - Valinhos 2;Alameda Maria Tereza, 2000, Dois Córregos, Dois Córregos, Valinhos/SP, Brasil, 13278-181;7700;1;Não possui caracteristicas que destoem dos demais;0.04573289583257;Renda
+11.728.688/0001-47;2024-06-30;1;Aquisição Syslog Galeão - 49%;Parque Duque, Duque de Caxias - RJ, 25085-009;27946.44;1;-;0.015236;Renda
+11.728.688/0001-47;2024-09-30;1;Aquisição Galpões - Goiânia / GO;BR-153, Km 5.5 Fazenda Retiro, Goiânia - GO , 74620-430;78223;1;-;0.042339;Renda
+11.728.688/0001-47;2024-12-31;1;Aquisição Syslog Galeão - 49%;Parque Duque, Duque de Caxias - RJ, 25085-009;27946.4392250412;1;-;0.015236;Renda
+11.728.688/0001-47;2024-12-31;1;Aquisição galpões - Goiânia /GO;Rodovia BR 153, Fazenda Retiro, Goiânia - GO, 74620-430;78223;1;-;0.042339;Renda
+11.728.688/0001-47;2024-12-31;1;Aquisição HGLG CONE MM2 - Fração de 2.61%;Rodovia BR 101, 5225, Cabo de Santo Agostinho, PE;4515.3;1;-;0.0017;Renda
+11.769.604/0001-13;2024-03-31;1;Parque Shopping Barueri;R. Gen. de Divisão Pedro Rodrigues da Silva, 400 - Aldeia, Barueri - SP, 06440-180;38438;162;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI;0.312;Renda
+11.769.604/0001-13;2024-06-30;1;Parque Shopping Barueri;R. Gen. de Divisão Pedro Rodrigues da Silva, 400 - Aldeia, Barueri - SP, 06440-180;38438;162;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI;0.312;Renda
+11.769.604/0001-13;2024-09-30;1;Parque Shopping Barueri;R. Gen. de Divisão Pedro Rodrigues da Silva, 400 - Aldeia, Barueri - SP, 06440-180;38438;162;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI;0.104;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Itapevi II;Avenida Portugal, 1100, Sem Complemento, Itaqui, Itapevi/SP, Brasil, 06696-060;73242;2;Direito de Propriedade;0.06413607295333;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira I;Avenida Jose Luiz Mazzali, 450, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-002;137255;6;Direito de Propriedade;0.0772830757628;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira II;Avenida Jose Luiz Mazzali, 480, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-002;6503.19;1;Direito de Propriedade;0.00291007624729;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira III;Estrada Cruz Grande, 1700, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-900;31632;1;Direito de Propriedade;0.01630862876069;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira IV;Estrada Cruz Grande, 1500, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-004;18702.16;1;Direito de Propriedade;0.00847893937558;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira V VI e VII;Estrada Cruz Grande, 1700, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-004;87003.47;3;Direito de Propriedade;0.04646960001819;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira VIII;Rua Wagner Luis Bevilaqua, 525, 525, Sem Complemento, Parque Dos Estados, Louveira/SP, Brasil, 13290-901;73020;16;Direito de Propriedade;0.03969892630566;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Louveira IX;Rua Wagner Luis Bevilaqua, 525, Sem Complemento, Parque Dos Estados, Louveira/SP, Brasil, 13290-901;7807;1;Direito de Propriedade;0.00309098051027;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Queimados;Rua Minas Gerais - Quadra 10, Lote 0007, 000007, Quadra 10, Lote 0007, Distrito Industrial, Queimados/RJ, Brasil, 26373-280;52234.16;1;Direito de Propriedade;0.00518292973264;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - SBC III;Estrada Dos Alvarengas, 630, Sem Complemento, Assunção, São Bernardo Do Campo/SP, Brasil, 09850-550;47751.6;1;Direito de Propriedade;0.03842200433375;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Suape II;Rodovia Pe- 60 - Km 22, S/n, , Distrito Industrial De Ipojuca - Suape, Ipojuca/PE, Brasil, 55598-078;35962;1;Direito de Propriedade;0.01015961888608;Renda
+11.839.593/0001-09;2024-12-31;1;BTLG - Caieiras;Rua Adamo Zambelli, 190, Sem Complemento, Calcárea, Caieiras/SP, Brasil, 07723-000;51109.8;15;Direito de Propriedade;0.02955474941444;Renda
+12.005.956/0001-65;2024-09-30;1;Edifício Rochaverá - Torre Crystal;Av. Nações Unidas, 14.171 , São Paulo - SP;53400;124;Proprietário de 57% do ativo;0.130406;Renda
+12.681.340/0001-04;2024-12-31;1;Loja Moema;Avenida Indianópolis, 476 - Moema;444;1;Instituição financeira;0.0274;Renda
+12.681.340/0001-04;2024-12-31;1;Loja Pinheiros;Rua Inácio Pereira da Rocha, 597 - Pinheiros, São Paulo - SP;685;1;Instituição financeira;0.0289;Renda
+13.320.290/0001-00;2024-03-28;1;HANGAR;Av Luis Viana Filho, nº 13.223, São Cristovão- Salvador BA - Torre 4 - Sala 711 a 715;207.54;5;2º Registro de Imóveis de Salvador - BA Matricula 182.520 / 182.521 / 182.522 / 182.523 / 182.524;0.005281;Renda
+13.320.290/0001-00;2024-06-30;1;Fazendo Saco da Barauna Grande;Propriedade rural denominada "SACO DA BARAUNA GRANDE" no município de carnaúba dos Dantas/RN;2331029.0527;1;Propriedade denominada fazenda Saco da Baraúna Grande  - Matrícula Nc 1.709;1;Renda
+13.320.290/0001-00;2024-09-30;1;1738_FAZ. MADRILENA;Imóvel rural, denominado "Fazenda Madrilena", Comarca de Valença - BA;1864930;1;Matrícula nº. 1.738, do Ofício de Registro de Imóveis e Hipotecas da Comarca de Valença - BA;1;Renda
+13.320.290/0001-00;2024-09-30;1;3184_FAZ. CANDEIAS;Imóvel rural, denominado "Fazenda Candeias", Comarca de Valença - BA;1986996;1;a Matrícula nº. 3.184, do Ofício de Registro de Imóveis e Hipotecas da Comarca de Valença - BA;1;Renda
+13.320.290/0001-00;2024-09-30;1;3194_FAZ. JANGADA;Imóvel rural, denominado "Fazenda Jangada", Comarca de Valença - BA;1525200;1;Matrícula nº. 3.194, do Ofício de Registro de Imóveis e Hipotecas da Comarca de Valença - BA;1;Renda
+13.320.290/0001-00;2024-12-31;1;1738_FAZ. MADRILENA;Imóvel rural, denominado "Fazenda Madrilena", Comarca de Valença - BA;1864930;1;Matrícula nº. 1.738, do Ofício de Registro de Imóveis e Hipotecas da Comarca de Valença - BA;1;Renda
+13.320.290/0001-00;2024-12-31;1;3184_FAZ. CANDEIAS;Imóvel rural, denominado "Fazenda Candeias", Comarca de Valença - BA;1986996;1;a Matrícula nº. 3.184, do Ofício de Registro de Imóveis e Hipotecas da Comarca de Valença - BA;1;Renda
+13.320.290/0001-00;2024-12-31;1;3194_FAZ. JANGADA;Imóvel rural, denominado "Fazenda Jangada", Comarca de Valença - BA;1525200;1;Matrícula nº. 3.194, do Ofício de Registro de Imóveis e Hipotecas da Comarca de Valença - BA;1;Renda
+13.598.226/0001-88;2024-03-31;1;NOVA YORK;RUA NOVA YORK 833;1500;1;ID 99 - MATRICULA 273.992;1;Venda
+13.598.226/0001-88;2024-06-30;2;ID 338;RUA DO HIPODROMO, 600;4540;1;MATRICULA 125.042;1;Venda
+13.598.226/0001-88;2024-06-30;2;ID 36;RUA BARRA FUNDA, 930;20055.5;1;MATRICULA 141.051;1;Venda
+13.598.226/0001-88;2024-12-31;1;PEDRO AMÉRICO;RUA PEDRO AMÉRICO, 32 - 13ANDAR;962.1;1;ID 101 MATRICULA 95066;0.0209;Venda
+13.598.226/0001-88;2024-12-31;1;TEN. PENA;RUA TENENTE PENA, 212;872;1;ID 107 MATRICULA 95693;0.0103;Venda
+13.598.226/0001-88;2024-12-31;1;CAMPOS SALES;RUA CAMPOS SALES, 24 - 72;979;1;ID 173 MATRICULA 13867;0.0066;Venda
+13.598.226/0001-88;2024-12-31;1;PÇ ANTONIO PRADO;PÇ ANTONIO PRADO, 9;14764.97;1;ID 25 MATRICULA 23350;0.1588;Venda
+13.598.226/0001-88;2024-12-31;1;ARIZONA;RUA ARIZONA, 715;153.73;1;ID 32 MATRICULA 92411;0.0024;Venda
+17.554.274/0001-25;2024-03-28;1;Plaza Sul Shopping;Praça Leonor Kaupa, 100 - Jardim da Saude, São Paulo - SP;28050;285;Área total construida 28.050 m²;0;Renda
+17.554.274/0001-25;2024-06-30;1;Plaza Sul;Praça Leonor Kaupa, 100 - Jardim da Saúde, São Paulo - SP;23500;207;Área total contruida 26.870 m²;0.027956;Renda
+17.554.274/0001-25;2024-06-30;1;Carioca Shopping;Av Vicente de Carvalho, 909 - Vila da Penha - RJ;33918;212;Área total construida 33.918 m²;0.073691;Renda
+17.554.274/0001-25;2024-06-30;1;Villagio Caxias;Rodovia RSC 453, 2780 - Desvio Rizzo, Caixas do Sul - RS;29685;132;Área total contruida 29.685 m²;0.040938;Renda
+17.554.274/0001-25;2024-06-30;1;Shopping Bangu;Rua Fonseca, 240 - Bangu, Rio de Janeiro - RJ;57982;200;Área total contruida 57.982 m²;0.038212;Renda
+18.950.957/0001-64;2024-09-30;1;Sumaré - SP;Prédio Comercial, n° 830, com frente para a Rua Cesar Moranza;15780;1;Contrato de locação longo prazo;0.0192;Renda
+18.950.957/0001-64;2024-12-31;1;Sumaré - SP;Prédio Comercial, n° 830, com frente para a Rua Cesar Moranza;15780;1;Contrato de locação longo prazo;0.0192;Renda
+19.722.048/0001-31;2024-03-31;1;Não possui informação apresentada.;;;;;;
+19.872.887/0001-36;2024-03-31;1;Imovel Vila Mascote - Escola;Rua Gustavo Da Silveira - Ate 946 - Lado Par, 164, Vila Santa Catarina, São Paulo/SP, Brasil, 04376-004;1000;1;Direito de Propriedade;0.08403469006521;Renda
+20.680.775/0001-62;2024-06-30;1;Subcondominio Parque Jockey Corporate;Rua Bento Frias, 155, Sem Complemento, Pinheiros, São Paulo/SP, Brasil, 05423-050;1260.02;1;Direito de Propriedade;0.00340281558231;Renda
+20.680.775/0001-62;2024-06-30;1;Condominio P-11 Pinheiros;Rua Dos Pinheiros, 603, 607, 619 E 623, E Rua Auriflama, Nºs 67, 87 E 91, Pinheiros, São Paulo/SP, Brasil, 05422-012;501;3;Direito de Propriedade;0.00251296385289;Renda
+24.796.967/0001-90;2024-03-31;1;Não possui informação apresentada.;;;;;;
+24.796.967/0001-90;2024-06-30;2;Não possui informação apresentada.;;;;;;
+24.796.967/0001-90;2024-09-30;1;Não possui informação apresentada.;;;;;;
+24.796.967/0001-90;2024-12-31;1;Não possui informação apresentada.;;;;;;
+26.499.833/0001-32;2024-03-31;2;Caxias Shopping;Rodovia Washington Luiz, nº 2.895, Parque Duque,Duque de Caxias - RJ;0;0;fração ideal de 17,5%;0.175;Renda
+26.499.833/0001-32;2024-03-31;2;Shopping Metropolitano Barra;Avenida Embaixador Abelardo Bueno, 1300, Barra da Tijuca, Rio de Janeiro - RJ;0;0;fração ideal de 20%;0.2;Renda
+26.502.794/0001-85;2024-06-30;1;REC GRAVATA_;Rodovia RS118, km 11, Gravataí - RS;105270.92;1;Matrícula 95.965;0.49;Renda
+26.502.794/0001-85;2024-09-30;1;2260_49076;Avenida Comendador Leopoldo Dedini, nº 2.260 - Piracicaba, SP;149499.36;1;Matrícula 49076;0.0443;Renda
+26.681.370/0001-25;2024-03-31;1;Salas Comerciais - FL 1355;Avenida Brigadeiro Faria Lima, 1355 - 6º ao 10º andares - Jardim Paulistano - São Paulo - SP;4757.4;10;Matrícula 38.461;0;Renda
+26.681.370/0001-25;2024-06-30;1;Edifício GPA;Av. Brigadeiro. Luís Antônio, nº 3.172 x Al. Lorena- Jardim Paulista - São Paulo - SP;11224.79;1;N/A;0;Renda
+28.267.696/0001-36;2024-03-31;1;Total Ville Planaltina;Brasilia, Quadra 24, Módulo 1, Setor Habitacional Mestre D'armas (planaltina), Brasília/DF, Brasil, 00073-405;7510.47;1;Direito de propriedade.;0.07970158853779;Renda
+28.267.696/0001-36;2024-12-31;1;Imovel Porto dos Gauchos MT;Lote 47 A, Sn, Sem Complemento, Porto Dos Gaúchos, Porto Dos Gaúchos/MT, Brasil, 78560-000;87607;1;Direito de propriedade;0.1282055345975;Renda
+28.737.771/0001-85;2024-09-30;1;OBA Hortifruti - SBC;Avenida Francisco Prestes Maia, 1497, Sem Complemento, Centro, São Bernardo Do Campo/SP, Brasil, 09770-000;4428;1;Direito de propriedade;0.01010963903799;Renda
+28.737.771/0001-85;2024-09-30;1;OBA Hortifruti - SJRP;Avenida Presidente Juscelino Kubitschek De Oliveira, 3530, Sem Complemento, Jardim Moysés Miguel Haddad, São José Do Rio Preto/SP, Brasil, 15093-215;2722;2;Direito de propriedade;0.0155372328578;Renda
+28.737.771/0001-85;2024-09-30;1;OBA Hortifruti - CD Sumare;Avenida Americo Ribeiro Dos Santos, 385, Sem Complemento, Parque Bandeirantes I (nova Veneza), Sumaré/SP, Brasil, 13181-715;33795.13;1;Direito de propriedade;0.06486272834109;Renda
+28.737.771/0001-85;2024-12-31;1;CDB - Ana Rosa;Avenida Conselheiro Rodrigues Alves, 300, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04014-000;1597.95;1;Não possui características que destoem dos demais;0.00949276948414;Renda
+28.737.771/0001-85;2024-12-31;1;CDB - Morumbi;Rua Pasquale Gallupi, 7, Sem Complemento, Paraisópolis, São Paulo/SP, Brasil, 05660-000;5741;1;Não possui características que destoem dos demais;0.02999188694903;Renda
+28.757.546/0001-00;2024-12-31;1;Catarina Fashion Outlet;Rodovia Castelo Branco, 0, Sem Complemento, Dona Catarina, Sao Roque/SP, Brasil, 18132-900;29529;1;Não possui caracteristicas que destoem dos demais;0.02118283625452;Renda
+28.757.546/0001-00;2024-12-31;1;Shopping Bela Vista;Alameda Euvaldo Luz, 92, Sem Complemento, Horto Bela Vista, Salvador/BA, Brasil, 41098-020;51143;1;Não possui caracteristicas que destoem dos demais;0.03057279858746;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Paulista 2000;Avenida Paulista, 1.998/2.000, São Paulo, SP;6089;1;-;0.022878;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Una Aimorés;Rua dos Aimorés, 1451;9738;1;-;0.015041;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Escola Parque;Rua Pedra de Itauna, 111;5588;1;-;0.010938;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Colégio POP;Praça Padre Aleixo Monteiro Mafra, 18;4225.76;1;-;0.003565;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Arapiraca;Rua Maria Genusir Soares, nº 308;11503;1;-;0.015891;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Camaçari;Av. Jorge Amado, s/n;12732;1;-;0.019099;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Castanhal;Av. Presidente Vargas, 5600;11070;1;-;0.012499;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Curitiba;Av. Juscelino Kubitschek de Oliveira, 2511;12880;1;-;0.025928;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Guanambi;Estrada Lagoa Patos (BR 030), km 6;10806;1;-;0.012904;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Palmas;Av. Joaquim Teotônio Segurado, s/n;15789;1;-;0.019129;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Taubaté;Av. Dom Pedro I, E-630;12950;1;-;0.019905;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Iguatu;Av. Carlos Roberto Costa, 180;11257;1;-;0.013062;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Petrópolis;Estrada União e Indústria, 870;14196;1;-;0.021493;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Rondonópolis;Av. Bandeirantes, nº 4.335;14415;1;-;0.021871;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Porto Velho;Rodovia BR 364, s/n, Km 3,5;7910;1;-;0.005402;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Rio Branco;Rua São João, 2500, Floresta;7710;1;-;0.006162;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja São Luis;Av. Jerônimo de Albuquerque, 260;7867.87;1;-;0.00789;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja São  Paulo - Brooklin;Rua Joaquim Nabuco, 112/126 - Brooklin;1056.82;1;-;0.004831;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja São Paulo - Rua Direita;Rua Direita, 226 - Centro;2611.29;1;-;0.006525;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja São Paulo - Teodoro Sampaio;Rua Teodoro Sampaio, 2.160 - Pinheiros;4887.67;1;-;0.0085;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja São Paulo - Tucuruvi;Av. Tucuruvi, 400 - Tucuruvi;2750;1;-;0.003409;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Registro;Av. Prof. Jonas Banks Leite, 497 - Centro;3020.96;1;-;0.003341;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Caraguatatuba;Praça Dr. Cândido Mota, 145 - Centro;2549.59;1;-;0.00351;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Ribeirão Preto - Campos Elíseos;Av. da Saudade, 1.119/1.129 - Centro;2330.62;1;-;0.003303;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Botucatu;Rua Amando de Barros, 470 - Centro;2422.42;1;-;0.002775;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Guarapuava;Rua XV de Novembro, 7.795 - Centro;3802.42;1;-;0.003587;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Muzambinho;Av. Dr. Américo Luz, 172 - Centro;790.7;1;-;0.001232;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Ituiutaba;Rua Vinte e Dois, 798 - Centro;806;1;-;0.001053;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Jaboticabal;Rua Barão do Rio Branco, 665 - Centro;1560.95;1;-;0.002084;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Pirassununga;Rua Duque de Caxias, 1.412 - Centro;1445.12;1;-;0.001798;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Jales;Av. Francisco Jales, 2.367 - Centro;1310.35;1;-;0.001779;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Paranaíba;Rua Coronel Carlos, 1.595 - Centro;1823.51;1;-;0.001313;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Taquaritinga;Rua Prudente de Moraes, 485 - Centro;1160.54;1;-;0.001477;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Aquidauana;Rua Sete de Setembro, 585 - Centro;1836.52;1;-;0.001149;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Jardim;Av. Duque de Caxias, 436 - Centro;867.28;1;-;0.000699;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Concórdia;Rua do Comércio, 173 - Centro;656.86;1;-;0.0011;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Foz do Iguaçu;Av. Brasil, 1.015 - Centro;3524.82;1;-;0.002553;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Jacarezinho;R. Paraná, 889 - Centro;1218.24;1;-;0.001033;Renda
+29.641.226/0001-53;2024-12-31;1;Aquisição Loja Campo Mourão;Av. Cap. Índio Bandeira, 1.421 - Centro;1132;1;-;0.001307;Renda
+30.178.506/0001-56;2024-03-31;1;BARRA DO BUG;Rod. MT 247, Barra a Lambari - Barra do Bugres - MT;12500;1;n/a;0;Renda
+30.178.506/0001-56;2024-03-31;1;PIRAPOZINHO;Rod. Assis Chateaubriand, km 476 - Presidente Epitácio - SP;120000;1;n/a;0;Renda
+30.178.506/0001-56;2024-03-31;1;FAZENDA BANDEIRANTES;Presidente Epitácio - SP;1;1;n/a;0;Venda
+30.178.506/0001-56;2024-03-31;1;PRES PRUDENT;José de Sales Macuci, 215, Lote 008 e 009, quadra A - SP;1840;1;n/a;0;Venda
+30.492.505/0001-81;2024-06-30;1;Imóvel Dona Mariana;Rua Dona Mariana, nº 63, Botafogo - Rio de Janeiro - RJ;1161.6;1;Prédio de 2 pavimentos e domínio útil de terreno medindo: 66m de comprimento e 17,60 de frente e fundos. Terreno com área de 1.161,60.  Objeto da matrícula 0045301 do 3° Ofício de Registro de Imóveis da Comarca do Rio de Janeiro - RJ;0.173248;Venda
+30.492.505/0001-81;2024-06-30;1;Imóvel Jornalista Henrique Cordeiro;Rua Jornalista Henrique Cordeiro, nº 200, Barra da Tijuca - Rio de Janeiro - RJ;2560;1;Lote 2 do PAL 49230 situado na Rua Jornalista Henrique Cordeiro, lado par. Área de terreno: 2.560m². Objeto da matrícula 476786 do 9° Ofício de Registro de Imóveis da Comarca do Rio de Janeiro - RJ;0.213617825524719;Venda
+30.492.505/0001-81;2024-06-30;1;Imóvel Prof. Pereira Reis;Rua Professor Pereira Reis, nº 119, Santo Cristo - Rio de Janeiro - RJ;1869.86;1;Prédio e domínio útil de terreno. Área do terreno=1.869,86. Objeto da matrícula 19771 do 2° Ofício de Registro de Imóveis da Comarca do Rio de Janeiro - RJ;0.084552;Venda
+30.567.216/0001-02;2024-03-31;1;Edifício Wilson Mendes Caldeira;Av. das Nações Unidas, 10.989;559.89;1;Cj. 82;0.379611;Renda
+30.567.216/0001-02;2024-03-31;1;Edifício Ronaldo Sampaio;Praça João Duran Alonso, 34;380.785;1;Cj. 42;0.348516;Renda
+30.567.216/0001-02;2024-03-31;1;Edifício Business Center;Rua Teixeira da Silva, 650/660;257.39;2;Cjs. 133 e 134;0.10491;Renda
+30.567.216/0001-02;2024-03-31;1;Edifício The Taj;Rua Casa do Ator, 1117;101.77;1;Cjs. 112;0.166963;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Francisco Lopes;Avenida Doutor Cardoso de Melo, 1855;769.62;2;Cj. 11 e 12 e Box do Cj. Manager Center, à R. Dr. Cardoso de Mello, esquina da Rua Funchal, sendo: Box 145 a 147 do 1º subsolo e Box 136 a 146 do 2º subsolo;0.096005;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Monumento;Avenida Brigadeiro Faria Lima, 1478;312.88;8;cjs. 801 a 808;0.097348;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Setin Tower;Rua Fidêncio Ramos, 100;515.29;1;cj. 17;0.168361;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Naur Martins;Rua Professor Artur Ramos, 96;398.12;2;cj. 51 e 52;0.113003;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Gold Center;Rua Arizona, 1426;484.65;3;Cj. 21, 22 e 32;0.141749;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Trade Tower e Business;Rua Helena, 218;532.88;12;cjs.301 a 312 e vagas de garagem cobertas, nº 47 a 58;0.156088;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Florida;Rua Florida, 1738;350.06;2;cjs.11 e 12;0.086914;Renda
+30.567.216/0001-02;2024-06-30;1;Edifício Brasif;Rua Luigi Galvani, 146;216.5;1;Cj. 11;0.080096;Renda
+30.567.216/0001-02;2024-06-30;1;Ed. Veranda Berrini Gran Estan - Veranda Loft Office Service;Rua Ribeiro do Vale, 152;184.19;3;cjs. 71, 72 e 77;0.060436;Renda
+30.567.216/0001-02;2024-09-30;1;Ed. Condomínio Tangram, laje 401;Rua Ibirajá, nº 244,282,292,322 e 342, Vila Guarani, Jabaquara;683.04;1;Laje corporativa nº 401,com área privativa de 683,04, localizada no 4º pav. da Torre 2, objeto da matrícula 207.663 do 8º oficial de registro de imóveis.;0.012599;Renda
+30.567.216/0001-02;2024-09-30;1;Ed. Condomínio Tangram, área de estacionamento;Rua Ibirajá, nº 244,282,292,322 e 342, Vila Guarani, Jabaquara;503.33;1;Unidade autônoma de estacionamento localizada no térreo da torre 2, com área privativa de 503,33, objeto da matrícula 207.660 do 8º oficial de registro de imóveis.;0.004032;Renda
+30.567.216/0001-02;2024-12-31;1;Edd. Bolsa de Imóveis -SP;Av. das Nações Unidas, 11.541 - São Paulo - SP;513.1;1;Conjunto 142, localizado no 14º andar ou 11º pav., com área privativa de 513,10 m², incluidas 11 vagas de garagem, objeto da matrícula 155.960 15º registro de imóveis. Mais duas vagas individualizadas: vaga 34, área privativa 10,00m²  1º subsolo, objeto da matrícula 155.958 15º registro de imóveis e vaga 52,  área privativa 10,00m²  1º subsolo, objeto da matrícula 155.959 15º registro de imóveis.;0.014395;Renda
+30.567.216/0001-02;2024-12-31;1;Ed. Cons. Paranaguá - Cj 61 a 66;Avenida Brigadeiro Faria Lima, nº 1.234, Pinheiros, São Paulo - SP;351.8;6;Conjuntos de uso corporativo, nº 61 a 66, no 6º andar, registrados no 10º Cartório de Registro de Imóveis de São Paulo - Capital - sob as matrículas nº 17.934 (cj 61) e 30.315 à 30.319 (cjs 62 ao 66 respectivamente). Cada um inclui uma vaga de garagem, total 6 vagas.;0.018042;Renda
+30.567.216/0001-02;2024-12-31;1;Ed. Luxor Center Cj. 8A;Rua Arizona, nº 1349, Jardim Edith - Brooklin, São Paulo - SP;143.28;1;Conjunto de uso corporativo, tipo "A" localizado no 8º: 8A -  matrícula 149.036  registrada no 15º cartório do registro de imóveis. Inclui 3 vagas de garagem;0.006594;Renda
+30.567.216/0001-02;2024-12-31;1;Ed. Luxor Center Cj. 9A;Rua Arizona, nº 1349, Jardim Edith - Brooklin, São Paulo - SP;143.28;1;Conjunto de uso corporativo, tipo "A" localizado no 9º pavimento. 9A - área privativa 143,28m² e matrícula 149.033 registrada no 15º cartório do registro de imóveis. Inclui 3 vagas de garagem;0.006594;Renda
+30.567.216/0001-02;2024-12-31;1;Ed. Luxor Center Cj. 9B;Rua Arizona, nº 1349, Jardim Edith - Brooklin, São Paulo - SP;141;1;Conjunto de uso corporativo, tipo "B", localizado no 9º pavimento:9B - matrícula 149.039 registrada no 15º cartório do registro de imóveis. Inclui 3 vagas de garagem.;0.006489;Renda
+30.846.692/0001-54;2024-03-31;1;MAT 114.633;AV. MARACANÃ 1350;143;1;TÉRREO E 1º PAVIMENTO;0.005355;Renda
+30.846.692/0001-54;2024-03-31;1;MAT 114.634;AV. MARACANÃ 1354;176;1;TÉRREO E 1º PAVIMENTO;0.006255;Renda
+30.846.692/0001-54;2024-03-31;1;MAT 77322;RUA URUGUAI 351 - TIJUCA - RJ;305.55;1;LOJA;0.022289;Renda
+30.846.692/0001-54;2024-06-30;1;MAT 13.628;PRACA SAENS PENA 55;201;1;LOJA A;0.16929;Renda
+30.982.974/0001-89;2024-09-30;1;Shopping Iguatemi São Carlos;Rua Passeio dos Flamboyants, nª 200 - Parque Faber Castel II - São Carlos/SP;70000.07;;Edificado sobre o Imóvel o empreendimento shopping, com área construída de 35.101,27m².;0.0564;Renda
+32.000.013/0001-57;2024-09-30;1;Bres Raposo Empreendimentos Imobiliários Ltda.;Rodovia Raposo Tavares, km 28.250, Cotia, São Paulo - SP;9756.76;1;Imóvel Industrial;;Venda
+32.892.018/0001-31;2024-12-31;1;Área Complexo Shopping Uberaba;Av. Barão do Rio Branco c/ Rua Varginha;6464;;Não há;0.0161492304071923;Renda
+34.691.520/0001-00;2024-09-30;1;Assai Bauru-SP;Rua General Marcondes Salgado, 8-55, Sem Complemento, Centro, Bauru/SP, Brasil, 17010-040;6912.5;1;Direito de Propriedade;0.07939011234756;Renda
+34.691.520/0001-00;2024-09-30;1;Assai Macae - RJ;Rodovia 168 E Na Estrada Linha Azul, Rodovia Rj 168, Sem Complemento, Rodovia Rj 168, Macaé/RJ, Brasil, 00027-910;14830.54;1;Direito de Propriedade;0.09366381049093;Renda
+34.691.520/0001-00;2024-09-30;1;ASSAI DOURADOS-MS;Rua Coronel Ponciano De Mattos Pereira, 785, Lote Pte Fazenda Coqueiros Do Lot. Chácara N°101, Parque Dos Jequitibás, Dourados/MS, Brasil, 79839-600;13876.35;1;Direito de Propriedade;0.06337159583834;Renda
+34.691.520/0001-00;2024-09-30;1;Assai Aracatuba-SP;Avenida Waldemar Alves, 230, Sem Complemento, São Vicente, Araçatuba/SP, Brasil, 16050-005;13189.14;1;Direito de Propriedade;0.07835927543636;Renda
+34.691.520/0001-00;2024-09-30;1;ASSAI PORTO VELHO-RO;Avenida Governador Jorge Teixeira, 3500, Sem Complemento, Aeroporto, Porto Velho/RO, Brasil, 76803-250;16085.54;1;Direito de Propriedade;0.08902873721335;Renda
+34.691.520/0001-00;2024-09-30;1;PAO DE ACUCAR AGUAS CLARAS-DF;Quadra 206, Lote 02, Praça Tuim, Sul (águas Claras), Brasília/DF, Brasil, 00071-925;5004.94;1;Direito de Propriedade;0.02320528742586;Renda
+35.652.102/0001-76;2024-03-31;2;Condominio Edificio Vera Cruz II;Rua Elvira Ferraz, 68, Sem Complemento, Vila Olímpia, São Paulo/SP, Brasil, 04552-040;21847.16;8;Não possui caracteristicas que destoem dos demais;0.149081;Renda
+35.652.102/0001-76;2024-06-30;1;Edificio Cidade Jardim;Avenida Cidade Jardim, 803, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 01453-000;6157;8;Não possui caracteristicas que destoem dos demais;0.09746735945803;Renda
+35.652.102/0001-76;2024-09-30;1;Cidade Jardim;Avenida Cidade Jardim, 803,  Itaim Bibi, Sao Paulo/SP, Brasil, 01453-000;694.91;1;Não possui caracteristicas que destoem dos demais;1;Renda
+35.652.174/0001-13;2024-03-31;1;Kalea Jardins;Rua Da Consolacao, 3290, Sem Complemento, Cerqueira César, São Paulo/SP, Brasil, 01416-000;1843.65;1;Direito de Propriedade;0.57097530040245;Venda
+35.652.278/0001-28;2024-09-30;1;Galpao - Quatro Barras;Avenida Prefeito Domingos Mocelin Neto, 2600, 555,  Borda Do Campo, Quatro Barras/PR, Brasil, 83425-970;38082;1;Direito de Propriedade;0.04171853148946;Renda
+35.652.278/0001-28;2024-09-30;1;Galpao Aurora;Avenida Pl Do Brasil, 3001, Fontes, Aruja/SP, Brasil, 07415-000;23066.61;1;Direito de Propriedade;1.236E-11;Renda
+36.501.159/0001-37;2024-03-31;2;IMÓVEL CAUCAIA;Rodovia BR-222, n.º 7.100, entre Km. 04 e 05, Tabapuã - Caucaia/CE;43367.94;1;Imóvel Urbano Para Fins Não Residenciais (direito de uso da superfície);1;Renda
+36.885.948/0001-19;2024-06-28;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
+38.293.862/0001-22;2024-12-31;1;Scala Data Center;Rua Arabutan, 266, Sem Complemento, Navegantes, Porto Alegre/RS, Brasil, 90240-470;5310.59;1;Não há características que destoem dos demais;0.66142597615611;Renda
+39.714.024/0001-48;2024-09-30;1;Edifício Mykonos - escritório 51;Rua Gomes de Carvalho, 1356 - São Paulo/SP;289.55;1;Conjunto 51, localizado no 5º pavimento tipo. Matrícula 113.538 do 4º Cartório de Registro de Imóveis de São Paulo;0.021219;Renda
+39.714.024/0001-48;2024-09-30;1;Edifício Mykonos - escritório 52;Rua Gomes de Carvalho, 1356 - São Paulo/SP;282.52;1;Conjunto 52, localizado no 5º pavimento tipo. Matrícula 113.539 do 4º Cartório de Registro de Imóveis de São Paulo;0.021219;Renda
+39.714.024/0001-48;2024-09-30;1;Centro de Tratamento de Olhos;R. Desemb. Nelson Nunes Guimarães,  esquina com R. Camboriú - Joinville/SC;10200.72;1;Imóvel destinado à Instituição e Comércio, com frente para a R. Camboriú, confrontando com o lado esquerdo de quem olha a R. Desemb. Nelson Nunes Guimarães, e seu respectivo terreno, Joinville - SC, matrícula 30.127;0.222619;Renda
+40.011.234/0001-59;2024-06-30;1;Imovel Vila Mariana;Avenida Conselheiro Rodrigues Alves, 923, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04014-012;1901;1;Direito de Propriedade;0.20919046668225;Renda
+40.011.234/0001-59;2024-06-30;1;Imovel Campo Belo;Rua Antonio De Macedo Soares, 1544, Sem Complemento, Campo Belo, São Paulo/SP, Brasil, 04607-003;1403;1;Direito de Propriedade;0.16925468411663;Renda
+40.054.838/0001-82;2024-03-31;1;225930;Rua Itacema 291 - 41;137;1;Apartamento para venda;0.0243560108286845;Venda
+40.886.241/0001-02;2024-03-31;1;Loja de Rua - Bernardo Manuel nº 207;Avenida Bernardo Manuel - Ate 7801 - Lado Impar, 207, Sem Complemento, Serrinha, Fortaleza/CE, Brasil, 60741-605;235.5;1;Direito de Propriedade;0.00191774669376;Renda
+40.886.241/0001-02;2024-03-31;1;Loja de Rua - Bezerra de Menezes nº 1409;Avenida Bezerra De Menezes, 1409, Sem Complemento, Parquelandia, Fortaleza/CE, Brasil, 60325-004;292.45;1;Direito de Propriedade;0.00246283157942;Renda
+40.886.241/0001-02;2024-03-31;1;Strip Mall Lago Jacarey;Avenida Pedro Lazar, 877, Sem Complemento, Cambeba, Fortaleza/CE, Brasil, 60822-240;2593.66;7;Direito de Propriedade;0.02771207245888;Renda
+40.886.521/0001-02;2024-03-28;1;Parque Jockey- FASE 2;Rua Bento Frias, 155 - Cidade Jardim, São Paulo-SP;1955.6;20;Direito de propriedade;0;Renda
+40.886.521/0001-02;2024-06-30;1;Parque Jockey- FASE 2;Rua Bento Frias, 155 - Cidade Jardim, São Paulo-SP;1955.6;20;Direito de propriedade;0;Renda
+41.076.564/0001-95;2024-12-31;1;Edificio Villa Jardim Sul - unidades 2505 2806 2902 2908;Rua Da Constituicao, 161, Sem Complemento, Loteamento Jambalaia Ii, Rondonópolis/MT, Brasil, 78700-535;504.48;4;;0.00999870040453;Venda
+41.088.458/0001-21;2024-03-31;1;Kalea Jardins;Rua Da Consolacao, 3290, Sem Complemento, Cerqueira César, São Paulo/SP, Brasil, 01416-000;1843.65;1;Direito de Propriedade;0.08534914553166;Venda
+41.325.993/0001-59;2024-09-30;1;ALTOS22B;Rua Ampelio Dionizio Zocchi, 136, Bairro Cidade Jardim;201.14;1;matrícula 112.651 | unidade 22B - vagas 29, 30, e 6;1;Venda
+41.325.993/0001-59;2024-09-30;1;ALTOS32B;Rua Ampelio Dionizio Zocchi, 136, Bairro Cidade Jardim;256.23;1;matrícula 112.651 | unidade 32B - vagas 25, 26 e 8;1;Venda
+41.325.993/0001-59;2024-09-30;1;ALTOS41A;Rua Ampelio Dionizio Zocchi, 136, Bairro Cidade Jardim;263.67;1;matrícula 112.651 | unidade 41A - vagas 15, 16 e 11;1;Venda
+41.325.993/0001-59;2024-12-31;1;IVA Patio Malzoni;Avenida Brigadeiro Faria Lima, nº 3.477, no 28º Subdistrito - Jardim Paulista, Município de São Paulo, Estado de São Paulo;985.71;3;matrículas 183.552, 183.553, 183.554 - unidades 32, 33, 34 - 3º pavimento do Edifício Condomínio Pátio Victor Malzoni, bloco Torre Norte;0.538;Venda
+41.820.693/0001-46;2024-03-31;2;SHOPPING VILAMARIANA;Rua Pelotas, 83 - São Paulo - SP;0;1;-;;
+41.820.693/0001-46;2024-06-30;1;SHOPPING VILAMARIANA;Rua Pelotas, 83 - São Paulo - SP;;;-;;
+42.517.145/0001-04;2024-03-31;1;AUTO POSTO ML;Rua Francisco Palheta, Freguesia de São Cristóvão - Rio de Janeiro - RJ;6500;1;-;1;Renda
+42.517.145/0001-04;2024-06-30;1;AUTO POSTO ML;Rua Francisco Palheta, Freguesia de São Cristóvão - Rio de Janeiro - RJ;6500;1;-;1;Renda
+42.517.145/0001-04;2024-09-30;1;AUTO POSTO ML;Rua Francisco Palheta, Freguesia de São Cristóvão - Rio de Janeiro - RJ;6500;1;-;1;Renda
+42.537.540/0001-59;2024-12-31;1;Edificio Vila Valqueire;Rua Luiz Beltrao, 118,  Vila Valqueire, Rio De Janeiro/RJ, Brasil, 21321-230;228;4;Direito de Propriedade;0.02350909641219;Renda
+42.537.540/0001-59;2024-12-31;1;Ed Vila Valqueire - 130;Rua Luiz Beltrao, 130, Vila Valqueire, Rio De Janeiro/RJ, Brasil, 21321-230;480;1;Direito de Propriedade;0.02384767348126;Renda
+42.754.342/0001-47;2024-03-28;1;São Luiz;Avenida Presidente Juscelino Kubitschek, 1.830, São Paulo - SP;13187.02;14;Proprietário de 14 conjuntos distribuídos entre as Torres I, II e III;0.11;Renda
+42.754.342/0001-47;2024-06-28;1;Edifício HL Faria Lima;Avenida Horácio Lafer, 160, São Paulo - SP;3162.918;14;Proprietário de 14 conjuntos;0.0718;Renda
+42.754.342/0001-47;2024-09-30;1;Edifício Condomínio São Luiz, Torre I, II e III;Avenida Presidente Juscelino Kubitschek, 1.830, São Paulo - SP;1896;2;Aquisição de 2 conjuntos;0.013471077604126;Renda
+42.754.342/0001-47;2024-12-31;1;Shopping Uberaba;Avenida Santa Beatriz da Silva, 1501 - São Benedito Uberaba MG;7893.75;157;.;;
+43.617.702/0001-21;2024-06-30;1;REGENTSPARK  - CONJUNTO 82;Av. Brigadeiro Faria Lima, 1544 - Conjunto 82;153;1;Matricula 1.520 - 13º Registro de Imoveis de São Paulo;1;Renda
+43.617.702/0001-21;2024-06-30;1;REGENTSPARK  - CONJUNTO 92;Av. Brigadeiro Faria Lima, 1544 - Conjunto 92;153;1;Matricula 1.520 - 13º Registro de Imoveis de São Paulo;1;Renda
+43.740.825/0001-55;2024-12-31;1;IMÓVEL RUA NICARÁGUA;RUA VENEZUELA, N279 E N254- JARDIM AMÉRICA;1225;1;0;0;Renda
+43.740.825/0001-55;2024-12-31;1;BOA VISTA - FASE II;BOA VISTA - FASE II;0;0;0;0;Renda
+43.740.825/0001-55;2024-12-31;1;LOTE 78 640 HASTA PU;Lote nº 78 da 640ª Hasta Pú;0;0;0;0;Renda
+44.002.561/0001-03;2024-03-31;1;MT16508;Av Imigrantes;21200;1;Matricula 16.508;1;Renda
+44.002.561/0001-03;2024-03-31;1;MT286460;R C L Carlucci;23402.9;1;Matricula 286.460;1;Renda
+44.002.561/0001-03;2024-03-31;1;MT30499;Av F A Cabrera;18000;1;Matricula 30.499;1;Renda
+44.002.561/0001-03;2024-06-30;1;MT14277;Av. Tupi, 3233 - Pato Branco, PR;6217.54;1;Matrícula 14.277;1;Renda
+44.584.965/0001-44;2024-12-31;1;SALA 31;Rua curuça 1.111 - Vila Maria -  São Paulo;0.032482162761251;1;matricula 68185;0.032482162761251;Renda
+44.584.965/0001-44;2024-12-31;1;SALA 32;Rua curuça 1.111 - Vila Maria -  São Paulo;0.0323739235096025;1;matricula 68186;0.0323739235096025;Renda
+44.584.965/0001-44;2024-12-31;1;SALA 33;Rua curuça 1.111 - Vila Maria -  São Paulo;0.032384326681064;1;matricula 68187;0.032384326681064;Renda
+44.584.965/0001-44;2024-12-31;1;SALA 34;Rua curuça 1.111 - Vila Maria -  São Paulo;0.0323900046872252;1;matricula 68188;0.0323900046872252;Renda
+44.584.965/0001-44;2024-12-31;1;SALA 35;Rua curuça 1.111 - Vila Maria -  São Paulo;0.0323969420627182;1;matricula 68189;0.0323969420627182;Renda
+44.584.965/0001-44;2024-12-31;1;SALA 36;Rua curuça 1.111 - Vila Maria -  São Paulo;0.0325095319944123;1;matricula 68190;0.0325095319944123;Renda
+44.669.674/0001-59;2024-03-31;1;Fashion Outlet;Av. Pedro I, E800, Itaim, Taubaté - SP.;2024670;1;Matrícula 156802;;Renda
+44.669.674/0001-59;2024-03-31;1;Tatuapé 235759;Rua Visconde de Itaboraí, 90 - Vila Azevedo - São Paulo-SP - 03308-050;352.12;1;Matricula 235759;0;Renda
+44.669.674/0001-59;2024-03-31;1;Tatuapé 48169;Rua Visconde de Itaboraí, 90 - Vila Azevedo - São Paulo-SP - 03308-050;354;1;Matrícula 48169;0;Renda
+44.669.674/0001-59;2024-06-30;1;17086_100;Av. Pedro Celestino Leite Penteado,415. Sítio Taboão, no Bairro dos Cristais, distrito de Jordanésia, Município de Cajamar;11780;1;Matrícula 17086;1;Venda
+44.669.674/0001-59;2024-12-31;1;83500_44669;Rodovia Bauru/Marilia, KM 07, Marilia. CEP: 17063-060.;240000;1;Matricula 83.500;1;Renda
+44.669.674/0001-59;2024-12-31;1;105410_44669;Rodovia Waldomiro Correa de Camargo SP-79, Bairro Taperá Grande, Itu - SP.;34460.1;1;Matricula 105410;1;Venda
+44.669.674/0001-59;2024-12-31;1;131744_LOTE8;Green Valley I, Avenida Delmar, Lote n 8, QD B, Barueri, SP;6063.71;1;Matricula 131744;1;Venda
+44.669.674/0001-59;2024-12-31;1;133541_LOTE7;Green Valley I, Avenida Delmar, Lote n 7, QD B, Barueri, SP.;4063.25;1;Matricula 133541;1;Venda
+44.669.674/0001-59;2024-12-31;1;136894_44669;Chacara Chão de Estrelas, Rodovia Washington Luis, São José do Rio Preto/SP;74597.92;1;Matricula 136894;1;Venda
+44.728.520/0001-90;2024-03-28;2;IMÓVEL RUA CUBA;RUA CUBA, 211;600;1;matrícula nº 77.677;0;Renda
+45.188.066/0001-95;2024-12-31;1;Imovel General Olimpio;Rua General Olimpio, 100, Sem Complemento, Santa Cruz, Rio De Janeiro/RJ, Brasil, 23515-126;16207;1;Direito de Propriedade;0.328427;Renda
+45.188.099/0001-35;2024-12-31;1;Apartamento Duplex nº 04 - Condominio Reboucinhas;Avenida Reboucas, 3600, Sem Complemento, Pinheiros, São Paulo/SP, Brasil, 05402-600;235.57;1;Direito de propriedade;0.13601774059079;Venda
+46.027.189/0001-07;2024-09-30;1;Imóvel Pompéia;Av. Pompéia, nº 973 e 985, Pompéia, São Paulo - SP;4771.86;1;Objeto da matrícula 122.779 do 2º Cartório de Registro de Imóveis da Capital do estado de São Paulo. Área de terreno: 1.393,39 m². Área construída conforme indicado no projeto aprovado:  4.771,86m².;1;Renda
+46.078.492/0001-39;2024-03-28;1;SUÍTE 1640 CID MATARAZZO;Torre Mata Atlântica do Subcondomínio Hotel de empreendimento denominado Cidade Matarazzo, Alameda Rio Claro, 190, Jardim Paulistana - SP;;1;Matrícula n° 190.798;0;Renda
+46.965.606/0001-62;2024-03-28;1;IMÓVEL TUPYNAMBÁS;Rua Delorme Louzada, 32 - Santa Tereza - Juiz de Fora / MG;19243;1;Matrícula 36.476;1;Renda
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;Rua Delome Louzada, nº 32;19243;0;Bairro Santa Tereza - Juiz de Fora/MG - matricula 36.476;0.931446;Renda
+46.965.606/0001-62;2024-12-31;1;Imóvel Tupynambás;Rua Delome Louzada, nº 32;19243;0;Bairro Santa Tereza - Juiz de Fora/MG - matricula 36.476;0.931446;Renda
+47.154.849/0001-83;2024-03-28;1;Nex2_30;Av Chácara das Nascentes, s/n;220.4;1;Nenhuma característica relevante;0.000859;Venda
+47.154.849/0001-83;2024-03-28;1;Nex8_36;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex11_39;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex12_40;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex14_42;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex15_43;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex17_45;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex20_48;Av Chácara das Nascentes, s/n;229.6;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex24_52;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex25_53;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex26_54;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex28_56;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex30_58;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
+47.154.849/0001-83;2024-03-28;1;Nex8_70;Av Chácara das Nascentes, s/n;225;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex34_96;Av Chácara das Nascentes, s/n;225;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex2_99;Av Chácara das Nascentes, s/n;204.3;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex3_00;Av Chácara das Nascentes, s/n;193.8;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex4_01;Av Chácara das Nascentes, s/n;183.3;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex6_03;Av Chácara das Nascentes, s/n;212.7;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex7_04;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex8_05;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex9_06;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex10_07;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex11_08;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex13_10;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex14_11;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex15_12;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex16_13;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex17_14;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex18_15;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex19_16;Av Chácara das Nascentes, s/n;212.9;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex21_18;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex22_19;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex24_21;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex26_23;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex27_24;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex28_25;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex29_26;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex30_27;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex31_28;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.001185;Venda
+47.154.849/0001-83;2024-03-28;1;Nex_3132;Av Chácara das Nascentes, s/n;400;1;Nenhuma característica relevante;0.001867;Venda
+47.154.849/0001-83;2024-03-28;1;Nex_0304;Av Chácara das Nascentes, s/n;566.7;1;Nenhuma característica relevante;0.002371;Venda
+47.154.849/0001-83;2024-03-28;1;Nex_0102;Av Chácara das Nascentes, s/n;706.9;1;Nenhuma característica relevante;0.002371;Venda
+47.154.849/0001-83;2024-09-30;1;MID_304;R. José de Alencar, 1281;75.3;1;Nenhuma característica relevante;0.004467;Venda
+47.154.849/0001-83;2024-09-30;1;MID_504;R. José de Alencar, 1281;75.3;1;Nenhuma característica relevante;0.005507;Venda
+47.154.849/0001-83;2024-09-30;1;MID_901;R. José de Alencar, 1281;70.6;1;Nenhuma característica relevante;0.00545;Venda
+47.154.849/0001-83;2024-09-30;1;MID_1001;R. José de Alencar, 1281;70.6;1;Nenhuma característica relevante;0.00545;Venda
+47.154.849/0001-83;2024-09-30;1;MID_1005;R. José de Alencar, 1281;60.98;1;Nenhuma característica relevante;0.004888;Venda
+47.154.849/0001-83;2024-09-30;1;MID_1;R. José de Alencar, 1281;10.6;1;Nenhuma característica relevante;0.00033;Venda
+47.154.849/0001-83;2024-09-30;1;MID_2;R. José de Alencar, 1281;10.6;1;Nenhuma característica relevante;0.00033;Venda
+47.154.849/0001-83;2024-09-30;1;MID_3;R. José de Alencar, 1281;10.6;1;Nenhuma característica relevante;0.00033;Venda
+47.154.849/0001-83;2024-09-30;1;MID_4;R. José de Alencar, 1281;10.6;1;Nenhuma característica relevante;0.00033;Venda
+47.154.849/0001-83;2024-09-30;1;MID_23;R. José de Alencar, 1281;21.2;1;Nenhuma característica relevante;0.000495;Venda
+47.154.849/0001-83;2024-09-30;1;MID_48;R. José de Alencar, 1281;10.6;1;Nenhuma característica relevante;0.00033;Venda
+47.154.849/0001-83;2024-09-30;1;MID_52;R. José de Alencar, 1281;21.2;1;Nenhuma característica relevante;0.000495;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH202;R. Bancário Francisco M Sobreira, 51;203.8;1;Nenhuma característica relevante;0.0047401985603774;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH1503;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00473138876362998;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2203;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00481446609127048;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2302;R. Bancário Francisco M Sobreira, 51;203.8;1;Nenhuma característica relevante;0.00510020031348625;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2304;R. Bancário Francisco M Sobreira, 51;150.7;1;Nenhuma característica relevante;0.00396465241445167;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2503;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2504;R. Bancário Francisco M Sobreira, 51;150.7;1;Nenhuma característica relevante;0.00403849892790989;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2603;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2604;R. Bancário Francisco M Sobreira, 51;153.4;1;Nenhuma característica relevante;0.00411451375961953;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2702;R. Bancário Francisco M Sobreira, 51;207.1;1;Nenhuma característica relevante;0.00519515862206076;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2703;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2804;R. Bancário Francisco M Sobreira, 51;153.4;1;Nenhuma característica relevante;0.00411451375961953;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2903;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2904;R. Bancário Francisco M Sobreira, 51;153.4;1;Nenhuma característica relevante;0.00411451375961953;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH3003;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH3004;R. Bancário Francisco M Sobreira, 51;153.4;1;Nenhuma característica relevante;0.00411451375961953;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH1207;R. Bancário Francisco M Sobreira, 51;203.8;1;Nenhuma característica relevante;0.00492481484402296;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH1808;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00342763743010664;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2208;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00349225312938258;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2506;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2508;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00355686882865853;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2606;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2608;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00355686882865853;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2705;R. Bancário Francisco M Sobreira, 51;153.4;1;Nenhuma característica relevante;0.00411451375961953;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2708;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00355686882865853;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2808;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00355686882865853;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2905;R. Bancário Francisco M Sobreira, 51;153.4;1;Nenhuma característica relevante;0.00411451375961953;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH2908;R. Bancário Francisco M Sobreira, 51;134.9;1;Nenhuma característica relevante;0.00355686882865853;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH3006;R. Bancário Francisco M Sobreira, 51;192.8;1;Nenhuma característica relevante;0.00489754341891098;Venda
+47.154.849/0001-83;2024-12-31;1;GOGH3007;R. Bancário Francisco M Sobreira, 51;207.1;1;Nenhuma característica relevante;0.00519515862206076;Venda
+47.896.665/0001-99;2024-03-31;1;I Fashion Outlet Novo Hamburgo;Br-116, Km 236, S/n, Operário, Novo Hamburgo/RS, Brasil, 93310-460;34663.09;1;Direito de Propriedade;0.02758594517418;Renda
+47.896.665/0001-99;2024-03-31;1;I Fashion Outlet Novo Hamburgo;Br-116, Km 236, S/n, Operário, Novo Hamburgo/RS, Brasil, 93310-460;34663.09;1;Direito de Propriedade;0.02667398015723;Renda
+47.896.665/0001-99;2024-06-30;1;Shopping Iguatemi Alphaville;Alameda Xingu, 350, 200/350, Alphaville Industrial, Barueri/SP, Brasil, 06455-911;49102.88;1;Direito de Propriedade;0.13558187182955;Renda
+48.916.699/0001-60;2024-09-30;1;Condominio Edificio Alamedas;Alameda Santos, 1039, Cerqueira César, São Paulo/SP, Brasil, 01419-001;2320.18;8;Direito de Propriedade;0.07295930857619;Renda
+49.184.940/0001-77;2024-09-30;1;IMOVEL MORUMBI;Rua Professor Hilario Veiga De Carvalho, 60,  Vila Suzana, Sao Paulo/SP, Brasil, 05641-070;969.66;1;Direito de Propriedade;0.05955559172456;Renda
+49.553.783/0001-20;2024-03-31;1;Vista Madalena, By You, Inc;Rua Senador Cesar Lacerda Vergueiro, n.º 534, Vila Madalena - São Paulo - SP;494.51;6;N/A;0.5;Venda
+49.553.783/0001-20;2024-06-30;1;Evolve Vila Mariana;Rua Manuel de Paiva, 129 - Vila Mariana - São Paulo;8067.04;17;N/A;0.95;Venda
+49.592.781/0001-40;2024-12-31;1;Centro Logístico Igarassu;Av. Alfredo Bandeira de Melo, s/n - Quadra Area - Lote C - Vila Rural, Igarassu-PE;57505.89;1;Galpão térreo, mezanino, recepção, abrigo de cozinha, refeitório e áera de descanso e lazer, edificação de apoio aos motoristas/depósito de lixo e gás e edificação para suporte de oficina e pequenos reparos automotivos com um posto de abastecimento diesel/g.n.v. e casa de bomba.;1;Renda
+50.275.622/0001-09;2024-09-30;1;183565_257;R. Dr. Saulo de Castro Bicudo, 257, - Interlagos. SP/SP;256.5;1;Matrícula 183565;;Venda
+50.275.622/0001-09;2024-09-30;1;18470_151;Rua Sebastião Claudiano, 151, - Recanto Imperial. - SI - SP;192.6;1;Matrícula 18470;;Venda
+50.275.622/0001-09;2024-09-30;1;20707_84;R. Guaicurus, 84, 78/84 (2 RES) - (2 COM) Sp, Sp;225.6;1;Matrícula 20707;;Venda
+50.275.622/0001-09;2024-09-30;1;251437_03072;Rua Cedalion, 241, Jardim Itajaí, Bairro de Cocaia, São Paulo, SP;310;1;Matrícula 251437;;Venda
+50.275.622/0001-09;2024-09-30;1;2605_03004;Av. Belo Horizonte, 65 - Jardim São Caetano, São Caetano do Sul - SP;437;1;Matrícula 2605;;Venda
+50.275.622/0001-09;2024-09-30;1;30359_69;R. Eixu, 69, - Jardim Planalto. CEP: 03984130. São Paulo - SP;250;1;Matrícula 30359;;Venda
+50.275.622/0001-09;2024-09-30;1;40435_56;R. Borges Medeiros, 56, Lote do Condomínio São Paulo II - SP/SP;367.9;1;Matrícula 40435;;Venda
+50.275.622/0001-09;2024-09-30;1;49071_227;Rua Iriri-Mirim, 227 5 IMOV Jardim Santa Teresinha - SP/SP;270;1;Matrícula 49071;;Venda
+50.275.622/0001-09;2024-09-30;1;64570_749;Estr. Fernando Nobre, 749, - Parque Rincão. Cotia - SP;2198;1;Matrícula 64570;;Venda
+50.275.622/0001-09;2024-09-30;1;9431_05026;Avenida Valentim Gentil, 542, Butanta - SP;1320;1;Matrícula 9431;;Venda
+50.479.122/0001-80;2024-06-30;1;LOG SALVADOR;Avenida Engenheiro Elmo Serejo De Farias, 3333, Cia I, Simões Filho/BA, Brasil, 04370-000;109530.52;3;Direito de Propriedade;0.21630486783673;Renda
+50.479.122/0001-80;2024-06-30;1;LOG BETIM;Avenida Engenheiro Darcy Nogueira Do Pinho, 3201, São Luiz, Betim/MG, Brasil, 32675-585;50545.28;1;Direito de Propriedade;0.11173635728648;Renda
+50.479.122/0001-80;2024-12-31;1;LOG FORTALEZA III;Rodovia Quarto Anel Viario, 3955, Ancuri, Itaitinga/CE, Brasil, 61886-170;98630;1;Direito de Propriedade;0.14317499747502;Renda
+50.479.122/0001-80;2024-12-31;1;LOG VIANA II;Rodovia Governador Mario Covas, S/n, Km 09, Vila Bethânia, Viana/ES, Brasil, 29136-010;50973;1;Direito de Propriedade;0.0804500650469;Renda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 1802B;Av. Macuco, 715 - Moema, São Paulo;147.5;1;Unidade de projeto residencial de 345 unidades;0.145233514348028;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 2102B;Av. Macuco, 715 - Moema, São Paulo;147.5;1;Unidade de projeto residencial de 345 unidades;0.145233514348028;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 530C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.145233514348028;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 328C;Av. Macuco, 715 - Moema, São Paulo;26.11;1;Unidade de projeto residencial de 345 unidades;0.145233514348028;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 643C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 228C;Av. Macuco, 715 - Moema, São Paulo;26.11;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 528C;Av. Macuco, 715 - Moema, São Paulo;26.11;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 632C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 2201B;Av. Macuco, 715 - Moema, São Paulo;147.5;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 633C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 226C;Av. Macuco, 715 - Moema, São Paulo;26.81;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 330C;Av. Macuco, 715 - Moema, São Paulo;23.96;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 534C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.025826720141337;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 1902B;Av. Macuco, 715 - Moema, São Paulo;147.5;1;Unidade de projeto residencial de 345 unidades;0.0281559775737081;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 229C;Av. Macuco, 715 - Moema, São Paulo;24.81;1;Unidade de projeto residencial de 345 unidades;0.0259068782289017;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 631C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.0250192981494445;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 624C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.0250192981494445;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 635C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.0279953019452714;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 531C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.027264353644542;Venda
+50.750.438/0001-65;2024-12-31;1;Moma Moema - Unidade 530C;Av. Macuco, 715 - Moema, São Paulo;23.95;1;Unidade de projeto residencial de 345 unidades;0.027264353644542;Venda
+50.957.247/0001-79;2024-03-31;1;GETULIO VARGAS;AVENIDA GETÚLIO VARGAS, 1446 LOJA A - ANITA GARIBALDI - JOINVILLE/SC;33445.39;1;Matrícula n° 10.528-18.012;0;Renda
+51.295.092/0001-15;2024-06-30;1;APARTAMENTO EDIFICIO COIMBRA;Rua Prudente de Morais 1713, Ribeirão Preto/SP;163.9358;1;Matricula 79.283;0.0054;Renda
+51.295.092/0001-15;2024-06-30;1;VILLAGE MONET;Rua Luciana Mara Ignacio 575 - Ribeirão Preto/SP;1666.4303;1;Matricula 117.972;0.2586;Renda
+51.295.092/0001-15;2024-06-30;1;CASA MORADA;Com frente para rua Dona Maria Pires 659 Cajuru/SP;649.25;1;Matricula 9.367;0.1244;Renda
+51.295.092/0001-15;2024-12-31;1;Apartamento - Edifício Coimbra;Rua Prudente de Morais n° 1.713 - Ribeirão Preto - SP;163.9358;1;matrícula nº 79.277;0.005;Venda
+51.303.221/0001-70;2024-03-31;1;SJRL;Av. Francisco das C. Oliveira, 2550, casa 27, Chácara Mun., São José do Rio Preto - SP, CEP: 15085-485.;95.76;1;matrícula do RGI 67.386 do 2º Ofício de São José do Rio Preto/SP;0.0843;Venda
+51.303.221/0001-70;2024-03-31;1;CAÇU;R. Vicente Soares x Av. Padre Brom, s/n, Lote 1, 2, 3, 4, 5 e APP;527;6;matrícula do RGI 8.838, 8.839, 8.840, 8.841, 8.842, 8.843 do Ofício de Caçu/GO;0.1257;Venda
+51.303.221/0001-70;2024-03-31;1;FRUTAL;Rua dos Pinheiros, 31 Lote 22, Quadra O,  - Village dos Buritis, Planura/MG, CEP: 38220-000;443.47;1;matrícula do RGI 29.315 do Ofício de Frutal/MG;0.039;Venda
+51.666.294/0001-26;2024-03-31;1;Condominio E-Tower Sao Paulo;Rua Funchal, 418, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-060;8944;13;Não possui caracteristicas que destoem dos demais;0.99114543723028;Renda
+51.870.412/0001-13;2024-09-30;1;Residencial Aldana Jardim - Maximo Aldana;R. Kara, 140 - Jardim do Mar, São Bernardo do Campo - SP, 09750-300;746.04;12;N/A;0.25;Venda
+51.870.412/0001-13;2024-09-30;1;Varandas Joy - Realiza;Vila Formosa, Anápolis - GO, 75115-490;1643.19;22;N/A;0.15;Venda
+51.870.412/0001-13;2024-09-30;1;Residencial Vida Habitat;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;677.87;10;N/A;0.82;Venda
+51.870.412/0001-13;2024-09-30;1;Residencial Aquarela Habitat;Rua Antônio Brochado, nº 1.005, Nova Divinéia - Unaí / MG.;1156.5;19;N/A;0.5;Venda
+51.870.412/0001-13;2024-12-31;1;Duo Living Complex - Catamarã;Rua Pioneiro Domingos Salgueiro, nº 264 e Avenida Joaquim Moleirinho, nº 2225 - Maringá / PR.;1871.05;10;N/A;0.71;Venda
+51.870.412/0001-13;2024-12-31;1;Residencial Habitat Zoe;R. Oito, Qd: 10, Lts. 184 a 190, remembrados, CEP 75.907-274, Parque Solar do Agreste "A" - Rio Verde / GO.;918;9;N/A;0.41;Venda
+51.870.412/0001-13;2024-12-31;1;Sky Pinheiros - AAM;Rua Cardeal Arco Verde, nº 137, CEP 05407-000, Pinheiros - São Paulo / SP.;473.66;18;N/A;0.95;Venda
+51.870.412/0001-13;2024-12-31;1;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, Estado de Santa Catarina, CEP 88.838-000.;817.17;5;N/A;0.88;Venda
+51.870.412/0001-13;2024-12-31;1;Green View - Patrimônio;Rua São Sebastião, 318, Brooklin - São Paulo / SP.;1009.02;15;N/A;0.62;Venda
+51.870.412/0001-13;2024-12-31;1;Derby Central - Max Plural;Rua Carlos Porto Carreiro, n° 61, bairro de Boa Vista - Recife / PE.;811.47;27;N/A;0.28;Venda
+51.870.412/0001-13;2024-12-31;1;Seven Living - Maximo Aldana;Avenida General San Martin, nº 132, bairro de Ponta da Praia - Santos / SP.;1106.4;19;N/A;0.65;Venda
+51.889.479/0001-08;2024-12-31;2;CANOAS Finkler - mat. 23.955;Rua Roberto Francisco Behrens;1015.57;1;CANOAS Finkler - mat. 23.955;0.0164;Renda
+51.889.479/0001-08;2024-12-31;2;CANOAS Klopsh- mat. 39.823;Rua Roberto Francisco Behrens;19964.08;1;CANOAS Klopsh- mat. 39.823;0.1283;Renda
+51.889.479/0001-08;2024-12-31;2;VENANCIO AIRES - mat. 55.026;Av. Imperatriz Dona Leopoldina, 4785 - Leopoldina - Venâncio Aires - RS;31282.50;1;VENANCIO AIRES - mat. 55.026;0.0317;Renda
+51.889.479/0001-08;2024-12-31;2;ERECHIM - Mat. 10.897;Rua Luiz Cavagni - Bela Vista, Erechim - RS;16381.75;1;ERECHIM - Mat. 10.897;0.0715;Renda
+51.889.479/0001-08;2024-12-31;2;ERECHIM - Mat.10.898;Rua Luiz Cavagni - Bela Vista, Erechim - RS;16381.75;1;ERECHIM - Mat.10.898;0.0186;Renda
+52.356.865/0001-99;2024-03-31;1;IMÓVEL JARAGUÁ DO SUL;localizado no lado ímpar da Rua 501 - Pastor Albert Scheider,;18952.9;1;MATRICULA 69377;1;Renda
+52.551.605/0001-74;2024-06-30;1;ARMAZEM B 04;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Armazém B Unid. 04;1715.25;1;Matrícula 11.545 113.404 113.408 113.411;0.0492680766037148;Renda
+52.551.605/0001-74;2024-06-30;1;ARMAZEM B 05;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Armazém B Unid. 05;1715.25;1;Matrícula 11.545 113.404 113.408 113.411;0.0492680766037148;Renda
+52.551.605/0001-74;2024-06-30;1;ARMAZEM B 06;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Armazém B Unid. 06;1715.25;1;Matrícula 11.545 113.404 113.408 113.411;0.0492680766037148;Renda
+52.551.605/0001-74;2024-06-30;1;ARMAZEM B 07;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Armazém B Unid. 07;1715.25;1;Matrícula 11.545 113.404 113.408 113.411;0.0492680766037148;Renda
+52.551.605/0001-74;2024-06-30;1;ARMAZEM B 08;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Armazém B Unid. 08;1715.25;1;Matrícula 11.545 113.404 113.408 113.411;0.0492680767068576;Renda
+52.551.605/0001-74;2024-06-30;1;ED. ESCRITOR;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edifício de Escritórios;2203.86;1;Matrícula 31512;0.0887491841620165;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.A AGUIA;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. A - AGUIA Unid. 01 a 03;8030.28;1;Matrícula 101105;0.167440841526867;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.C GEM A;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. C - Geminni Unid. 07 - A;8037.6;1;Matrícula 133478;0.20308698890488;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.C GEM B;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. C - Geminni Unid. 07 - B;2696.06;1;Matrícula 133478;0.0681216666038136;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.F TO 17;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. F - Topázio Unid. 17;2759.71;1;Matrícula 91322;0.0526592163538224;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.F TO 18;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. F - Topázio Unid. 18;2791.91;1;Matrícula 9132;0.0532736383766194;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.F TO 19;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. F - Topázio Unid. 19;2781.35;1;Matrícula 91324;0.0530721384834289;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.I MO 29;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. I - Monet Unid. 29;736.18;1;Matrícula 105603;0.014044200121084;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.I MO 30;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. I - Monet Unid. 30;762.02;1;Matrícula 105604;0.0138503740567496;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.L CAM A;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. L - Camões Unid. 40 - A;1031.41;1;Matrícula 106948;0.0196806841445009;Renda
+52.551.605/0001-74;2024-06-30;1;EDIF.L CAM B;Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. L - Camões Unid. 40 - B;1031.41;1;Matrícula 106948;0.0196806841445009;Renda
+52.589.406/0001-55;2024-03-28;2;GALPÃO LOGÍSTICO;Guarulhos - SP;1;1;Matrículas nº 119.123, 119.124 e 119.125;1;Renda
+52.713.882/0001-36;2024-06-30;2;Shopping Jardim Sul;Av. Giovanni Gronchi, 5819, Morumbi, São Paulo/SP;28739.03;173;Direito de Propriedade;1;Renda
+52.904.581/0001-90;2024-03-28;2;IMOVEL SP;Lote sob no 05 da Quadra H-2 - ALPHAVILLE CAMPINA;238;;sem informações relevantes;0.6579;Venda
+52.904.581/0001-90;2024-03-28;2;IMOVEL RJ;AV. EPITÁCIO PESSOA, Nº 4.180, BL. 02, APT.101;925.39;;sem informações relevantes;0.3421;Venda
+52.904.581/0001-90;2024-06-28;2;IMOVEL SP;Lote sob no 05 da Quadra H-2 - ALPHAVILLE CAMPINA;238;;sem informações relevantes;0.6579;Venda
+52.904.581/0001-90;2024-06-28;2;IMOVEL RJ;AV. EPITÁCIO PESSOA, Nº 4.180, BL. 02, APT.101;925.39;;sem informações relevantes;0.3421;Venda
+52.904.581/0001-90;2024-12-31;1;IMOVEL RJ;Condomínio Grand Hyatt;238;1;IMOVEL RENDA FUTURA;0.95;Venda
+53.076.746/0001-45;2024-03-31;2;LOTEAMENTO BONFIM BR-101;RIO GRANDE DO NORTE;50910.27;1;Imóvel urbano;0.4001;Renda
+53.178.634/0001-03;2024-06-30;1;15555_21050;Rua Caçapava, 76, Jardim Paulista. São Paulo - SP;195.97;1;n/a;0.334086860032635;Venda
+53.178.634/0001-03;2024-06-30;1;3140-51_5;Alameda Casa Branca, 1025, Jardim Paulista. São Paulo - SP.;199.4;1;n/a;0.292893803345109;Venda
+53.178.634/0001-03;2024-06-30;1;3140_62;Alameda Santos, 2359, Jardim Paulista. São Paulo - SP.;192.32;1;n/a;0.373019336622256;Venda
+53.372.824/0001-59;2024-03-30;1;IMÓVEL SALVADOR -;Rodovia BR-324, 13750, GL, Palestina;151000;1;MATRICULA 15040;1;Venda
+53.391.653/0001-05;2024-09-30;1;JHA Corporate Boutique;Rua Iaia, 52, Sem Complemento, Itaim Bibi, São Paulo/SP, Brasil, 04542-060;4322.18;1;Direito de Propriedade;0.16723040631246;Renda
+53.466.467/0001-98;2024-06-30;1;Centro Logístico e Industrial Salto;Rodovia Engenheiro Ermínio de Oliveira Penteado, SP-073, Salto - SP;31400;21;Centro Logístico Industrial Salto com 31.400,00m2 de área construída.;0.949731;Renda
+53.645.729/0001-81;2024-03-31;1;Hesa 156;Rua Otto Boehm - Joinville -SC;1633.7;10;na;0;Venda
+53.645.729/0001-81;2024-03-31;1;Hesa 150;Rua Funchal, nº 65, Vila Olímpia, São Paulo/SP;658.7;10;na;0;Venda
+53.645.729/0001-81;2024-03-31;1;Hesa 186;Rua Enxovia - Vila São Francisco - São Paulo;1547.77;38;na;0;Venda
+53.654.501/0001-58;2024-12-31;1;Spression - CGH;Rua Renascença, 113 - Vila Congonhas, São Paulo - SP;3333.45;114;Imóvel residencial;0.220905940462223;Renda
+53.656.482/0001-07;2024-03-31;1;Cidade Jardim;Avenida Cidade Jardim, nº 803, Jardim Paulistano, Cidade de São Paulo, Estado de São Paulo, CEP 01453-000;7458.17;10;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.;0.294648;Renda
+53.656.482/0001-07;2024-03-31;1;Paulista;Avenida Paulista, n.º 1.374, Bela Vista, Cidade de São Paulo, Estado de São Paulo, CEP 01310-100;10878.86;19;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.;0.210951;Renda
+53.656.482/0001-07;2024-03-31;1;Transatlantico;Rua Verbo Divino, nº 1.488 e Rua José Guerra, nº 130, Chácara Santo Antônio, 29º Subdistrito - Santo Amaro, Cidade de São Paulo, Estado de São Paulo, CEP 04719-904;4564.8;8;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.;0.027841;Renda
+53.656.482/0001-07;2024-03-31;1;Volkswagem;Rua Volkswagen, n.º 291, Jabaquara, Cidade de São Paulo, Estado de São Paulo, CEP 04344-020;12560;10;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.;0.163337;Renda
+53.656.482/0001-07;2024-03-31;1;Burity;Avenida Indianópolis, n.º 3.096, Indianópolis, Cidade de São Paulo, Estado de São Paulo, CEP 04062-003;10550;15;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.;0.134685;Renda
+54.088.529/0001-38;2024-06-30;1;TAUBATE IMOV;Av. Charles Schenneider, 2.222. Parque Senhor Bonfim. Taubaté - SP.;704532.17;1;132.334,48 m2 de construção (galpão), Matricula n. 167.962 RGI Taubaté;1;Venda
+54.250.610/0001-72;2024-12-31;1;SANTAINS_MA;Avenida Castelo Branco, S/N, Lado Impar, Bairro Coheb, Santa Ines - MA;30000.07;1;Matrícula 19546;;Venda
+54.250.610/0001-72;2024-12-31;1;RAPOSA_MA;Avenida Principal (Pescador), Inhaúma, Itapeua, Raposa - MA;10000.47;1;Matrícula 2465;;Venda
+54.250.610/0001-72;2024-12-31;1;CAFETEIRA_MA;Rua Retangulo, s/n, Lote 0404, Quadra 347, Bairro Loteamento Alto Bonito do Sabiá, Imperatriz - MA;10613;1;Matrícula 77179;;Venda
+54.419.040/0001-00;2024-06-30;1;DAMHA 6J;Rua Irere 251  lote 6 Quadra J - Parque Residencial Damha - Araraquada SP;436.5;1;MATRICULA 101.863;1;Renda
+54.419.040/0001-00;2024-12-31;1;DHAMA 16-N;Avenida Mayr Staufackar, 1.119, Lote 16, Quadra N, ParqueResidencial Damha, Araraquara - SP.;596;1;MATRICULA 101.954;0.7575;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 105R;RUA CHANES/ALAMEDA DOS MARACATINS;131.537;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 102R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 61R;RUA CHANES/ALAMEDA DOS MARACATINS;139.502;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 111R;RUA CHANES/ALAMEDA DOS MARACATINS;139.502;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 72R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 62R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 43R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 45R;RUA CHANES/ALAMEDA DOS MARACATINS;131.537;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 53R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 73R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;IGUATEMI MAT.83327;IGUATEMI MAT.83327;0;1;MATRICULA 83327;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 105R;RUA CHANES/ALAMEDA DOS MARACATINS;131.537;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 102R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 61R;RUA CHANES/ALAMEDA DOS MARACATINS;139.502;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 111R;RUA CHANES/ALAMEDA DOS MARACATINS;139.502;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 72R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 62R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 43R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 45R;RUA CHANES/ALAMEDA DOS MARACATINS;131.537;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 53R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;AUTORAL MOEMA UNID. 73R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-12-31;1;IGUATEMI MAT.83327;IGUATEMI MAT.83327;0;1;MATRICULA 83327;0;Renda
+54.557.596/0001-54;2024-06-30;1;BM 336;Avenida Bartolomeu Mitre, 336, Sem Complemento, Leblon, Rio De Janeiro/RJ, Brasil, 22431-002;6830.66;1;Não possui caracteristicas que destoem dos demais;0.96120286673386;Renda
+55.177.440/0001-00;2024-09-30;1;153.915;Olhos D'agua, Betim - MG;49606.2;1;limites e confrontações: 405,00 metros de frente para a Rodovia 381, 169,30 metros do lado direito a Rua Dirceu Jose Alvarenga, 155,90 metros do lado esquerdo com a Rua Bela Vista e 321,16 metros nos fundos com a Rua Leonarda Ferreira de Oliveira, com área, limites e confrontações de acordo com planta respectiva aprovada, sendo 43.638,20 metros quadrados de área edificável e 5.968,00 metros quadrados de área não edificável;0.633315799212643;Renda
+55.177.440/0001-00;2024-09-30;1;30.499;Fazenda Retiro - Goiania - GO;12800.03;23;localizada na zona de expansão urbana, em Goiania, com a área total de 12.800,03m²;0.339003458102602;Renda
+55.314.271/0001-03;2024-06-30;1;Imovel Santo Andre - Hospital Next;Avenida Dom Pedro Ii, 665, Sem Complemento, Jardim, Santo Andre/SP, Brasil, 09080-110;10000;1;Não possui caracteristicas que destoem dos demais;0.51730675281991;Renda
+56.191.016/0001-83;2024-09-30;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Fazenda Boa Vista, Serra das Velas, no Distrito e Município de Carangola/MG, inscrito no NIRF sob o nº 4.046.733-3, INCRA sob o nº 437.034.009.814-1, CCIR sob o nº 61147292249;92706.0032;1;Aquisição do Direito Real de Superfície onde está instalada uma usina solar fotovoltaica que se encontra locada para um consórcio de consumidores.;1;Renda
+56.303.820/0001-07;2024-12-31;1;ILHEUS;Gestor preencher endereço;0;0;MATR PULV;0.3611;Renda
+56.303.820/0001-07;2024-12-31;1;IMOV BELEM;Gestor preencher endereço;0;0;MATR 314698;0.0016;Renda
+56.303.820/0001-07;2024-12-31;1;SARANDI;Gestor preencher endereço;0;0;MATR 16632;0.0043;Renda
+56.303.820/0001-07;2024-12-31;1;SARANDI EXP;Gestor preencher endereço;0;0;MATR 8016;0.0003;Renda
+56.303.820/0001-07;2024-12-31;1;SARANDI RS;Gestor preencher endereço;0;0;MATR 23423;0.0006;Renda
+56.303.820/0001-07;2024-12-31;1;SICREDI II;Gestor preencher endereço;0;0;MATR 7935;0.1057;Renda
+56.303.820/0001-07;2024-12-31;1;SICREDI RJ;Gestor preencher endereço;0;0;MATR 37849;0.0126;Renda
+56.303.820/0001-07;2024-12-31;1;SICREDI SC;Gestor preencher endereço;0;0;MATR 61264;0.4073;Renda
+56.524.816/0001-79;2024-09-30;1;GALPÃO;GUARULHOS;58000;0;0;1;Renda
+56.805.391/0001-76;2024-12-31;1;Edificio Metropolitan;Rua Amauri, 225, Sem Complemento, Jardim Europa, São Paulo/SP, Brasil, 01448-000;10155.55;37;Direito de Propriedade;0.67306379076649;Renda
+56.805.391/0001-76;2024-12-31;1;Edificio Platinum;Rua Jeronimo Da Veiga, 384, Sem Complemento, Jardim Europa, São Paulo/SP, Brasil, 04536-001;2520.48;11;Direito de Propriedade;0.18195225213799;Renda
+56.978.773/0001-00;2024-09-30;1;EMPREENDIMENTO PORTO DA BARRA;Avenida José Bento Ribeiro Dantas, Manguinhos - Armação de Búzios;11286;48;48 construções: (i) 44 unidades autônomas de lojas numeradas de 1 a 43 (ii) 1 unidade autônoma denominada Bloco 09 (iii) 1 unidade autônoma denominada Bloco 10 (iv) 1 unidade autônoma denominada administração e (v) 1 unidade autônoma denominada WC, que faz parte da área comum do Porto da Barra.;1;Renda
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;8223.93;1;Imóvel destinado à uso corporativo.;0.899237;Renda
+57.216.258/0001-47;2024-12-31;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;8223.93;1;Imóvel destinado à uso corporativo.;0.899237;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO CEA;NA;0;1;N/A;0.137191804330785;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO CEA;NA;0;1;N/A;0.0564381800454561;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.07981131668759;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0798113092426558;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0576302384048411;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0576507529210555;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0682440711189492;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0781418060115925;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0626801377961613;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0649611872593424;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.071125769188397;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.071125769188397;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO BARÃO DE MAUÁ;NA;0;1;N/A;0.0587494777593211;Renda
+57.231.494/0001-32;2024-09-30;2;CONDOMÍNIO CEA;NA;0;1;N/A;0.0564381800454561;Renda
+57.285.563/0001-90;2024-09-30;1;EDIFÍCIO BARATA RIBEIRO;Rua Barata Ribeiro, 573, Copacabana, RJ;362.6;1;Imóvel: 2 pavimentos e 1 subsolo e o respectivo terreno próprio;1;Venda
+57.285.563/0001-90;2024-12-31;1;EDIFÍCIO ALBERTO DE CAMPOS;Rua Barata Ribeiro, 573, Copacabana, RJ;362.6;1;prédio e respectivo terreno, subdividido em unidades 101, 102, 201 e 202, medindo de frente e de fundos 10m, com extensão de frente a fundo de 33,10m, matrícula nº 18741;0.1897;Venda
+57.285.563/0001-90;2024-12-31;1;PRINCESA JANUARIA;Rua Alberto de Campos, 130 - Ipanema, RJ;33.1;1;imovel;0.5;Venda
+57.495.006/0001-02;2024-12-31;1;Imóvel Angélica;Av. Angélica, nº 745, Santa Cecília - São Paulo;10330;238;O edifício foi adquirido para realização de retrofit com acréscimo de área. A área indicada corresponde à área construída após a conclusão do retrofit, já incluindo o acréscimo de área previsto no projeto. O projeto está em desenvolvimento e aprovação, podendo ter a área alterada. O número de unidades indicado corresponde à quantidade de unidades residenciais previstas no projeto, o qual ainda poderá passar por alterações.;1;Venda
+57.593.613/0001-05;2024-12-31;1;Fazenda Santa Paula - Bataguassu MS;Rodovia 267, Km36, Sn, Sem Complemento, Bataguassu, Bataguassu/MS, Brasil, 79780-000;2047.51;1;Direito de propriedade;0.59958198628475;Renda
+57.882.804/0001-89;2024-12-31;1;Terreno - Afonso Baccari 189;Rua Doutor Afonso Baccari, 189, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;500;1;Não possui características que destoem das demais;0.12631033373981;Renda
+57.882.804/0001-89;2024-12-31;1;Afonso Baccari 191;Rua Doutor Afonso Baccari, 191, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;250;1;Não possui características que destoem das demais;0.06315516681669;Renda
+57.882.804/0001-89;2024-12-31;1;Afonso Baccari 199;Rua Doutor Afonso Baccari, 199, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;250;1;Não possui características que destoem das demais;0.06315516681669;Renda
+57.882.804/0001-89;2024-12-31;1;Afonso Baccari 205;Rua Doutor Afonso Baccari, 205, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;250;1;Não possui características que destoem das demais;0.06315516681669;Renda
+57.882.804/0001-89;2024-12-31;1;Afonso Baccari 209;Rua Doutor Afonso Baccari, 209, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;250;1;Não possui características que destoem das demais;0.06315516681669;Renda
+57.882.804/0001-89;2024-12-31;1;Afonso Baccari 219 221;Rua Doutor Afonso Baccari, 219221, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;500;1;Não possui características que destoem das demais;0.12631033373981;Renda
+57.882.804/0001-89;2024-12-31;1;Afonso Baccari 225;Rua Doutor Afonso Baccari, 225, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-030;2157;1;Não possui características que destoem das demais;0.45791790530799;Renda
+58.054.129/0001-62;2024-12-31;1;Imóvel Mat 127563;Avenida João Cavalari, rua Anton Philips e rua Primeiro Tenente Aviador Aurélio Viêira Sampaio - Ponte Grande, Guarulhos-SP;46526.57;9;Complexo Comercial, constitúido por terreno e construções, composto de 9 edifícios.;1;Renda
+58.263.012/0001-99;2024-12-31;1;Fabrica Uberlandia;Rua Terezinha Segadães, nº 45, Tibery,Cidade de Uberlândia, Estado de Minas;0;1;matrícula de nº 180.230;1;Renda

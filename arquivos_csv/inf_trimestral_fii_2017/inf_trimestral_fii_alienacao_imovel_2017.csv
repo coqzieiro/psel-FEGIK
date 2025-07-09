@@ -1,0 +1,142 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
+01.235.622/0001-61;2017-03-31;1;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;;204;6;Construção propia;0.0032;0.001
+01.235.622/0001-61;2017-03-31;1;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;;215;6;Construção propia;0.0033;0.001
+01.235.622/0001-61;2017-03-31;1;Fusion;Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;503;17;Construção propia;0.0054;0.0017
+01.235.622/0001-61;2017-03-31;1;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;546;18;Construção propia;0.0066;0.0021
+01.235.622/0001-61;2017-03-31;1;Le Quartier;Bloco "A", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;99;1;Construção propia;0.0011;0.004
+01.235.622/0001-61;2017-03-31;1;Innovitá;Rua do Matoso, 104, Tijuca, Rio de Janeiro - RJ;;;;Aquisição de unidades prontas;0;0
+01.235.622/0001-61;2017-03-31;1;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;;355;5;Aquisição de unidades prontas;0.0036;0.0011
+01.235.622/0001-61;2017-03-31;1;Seasons;Estrada dos Bandeirantes, 5837 - Jacarepaguá - Rio de Janeiro - RJ;;59;1;Aquisição de unidades prontas;0.0005;0.0002
+01.235.622/0001-61;2017-03-31;1;Riserva;Rua Constante Sodré, 1313 - Praia do Canto, Vitória - ES;;482;3;Aquisição de unidades prontas;0.0082;0.0026
+01.235.622/0001-61;2017-03-31;1;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;;207;2;Aquisição de unidades prontas;0;0
+01.235.622/0001-61;2017-03-31;1;Dação Riserva;Vários;;106;1;n.a;0.001;0.0003
+01.235.622/0001-61;2017-06-30;1;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;;114.03;3;Construção própia;0.012545;5E-06
+01.235.622/0001-61;2017-06-30;1;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;;262.94;7;Construção própia;0.028964;1.2E-05
+01.235.622/0001-61;2017-06-30;1;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;324.43;11;Construção própia;0.024473;1E-06
+01.235.622/0001-61;2017-06-30;1;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;535.42;17;Construção própia;0.04481;1.9E-05
+01.235.622/0001-61;2017-06-30;1;Gift - Vila Isabel;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;;250.28;3;Construção própia;0.017434;7E-06
+01.235.622/0001-61;2017-06-30;1;São Clemente;Rua São Clemente, nº 159, Botafogo, Rio de Janeiro - RJ;;112;1;Construção própia;0.01324;5E-06
+01.235.622/0001-61;2017-06-30;1;Riserva;Rua Constante Sodré, 1313 - Praia do Canto, Vitória - ES;;481.92;3;Construção própia;0.054144;2.4E-05
+01.235.622/0001-61;2017-06-30;1;Dação Allegro;Rua Ludwik Macal, 1166 - Jardim da Penha, Vitória - ES;;70.14;1;Aquisição de unidades prontas;0.004464;1E-06
+01.235.622/0001-61;2017-06-30;1;Dação Riserva;Rua Constante Sodré, nº 1.404, Praia do Canto, Vitória - ES;;130.23;1;Aquisição de unidades prontas;0.006585;2E-06
+01.235.622/0001-61;2017-09-29;2;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;;274.99;8;Construção própia;0.00453994121031656;0.00132599277418368
+01.235.622/0001-61;2017-09-29;2;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;;253.62;7;Construção própia;0.00410448303489426;0.00119880733998531
+01.235.622/0001-61;2017-09-29;2;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;37.01;1;Construção própia;0.000411369956137088;0.000120149923552865
+01.235.622/0001-61;2017-09-29;2;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;;411.7;13;Construção própia;0.00429109198542364;0.00125331071536772
+01.235.622/0001-61;2017-09-29;2;Gift - Vila Isabel;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;;141.72;2;Construção própia;0.0014101293870413;0.000411860262338165
+01.235.622/0001-61;2017-09-29;2;Allegro;Rua Ludwik Macal, 1166 - Jardim da Penha, Vitória - ES;;83.7;1;Aquisição de unidades prontas;0.00102006371237245;0.000297932737265233
+01.235.622/0001-61;2017-09-29;2;Dação Riserva;Rua Constante Sodré, nº 1.404, Praia do Canto, Vitória - ES;;115.38;1;Aquisição de unidades prontas;0.000526754212126759;0.000153850511866473
+01.235.622/0001-61;2017-12-29;2;Allegro;Av. Adalberto Simão Nader, 117, Mata da Praia, Vitória - ES;2017-12-29;182.68;2;Construção própia;0.0169;0.0005
+01.235.622/0001-61;2017-12-29;2;Estoque Diversos;Av. Carlos Moreira Lima, nº 460, Vitória-ES /  Av. Central, nº 265, Colinas de Laranjeiras, Serra-ES / Rua Dona Tereza Cristina, no. 179, Colinas de Laranjeiras, Município da Serra/ES;2017-12-29;150;1;Aquisição de unidades prontas;0.0099;0.0003
+01.235.622/0001-61;2017-12-29;2;Due Capri;Projeção "C" da  SQNW 307, do SHCNW, Brasília - DF;2017-12-29;810.15;15;Construção própia;0.067;0.0023
+01.235.622/0001-61;2017-12-29;2;Due Murano;Projeção "D" da  SQNW 307, do SHCNW, Brasília - DF;2017-12-29;550.05;15;Construção própia;0.0713;0.0024
+01.235.622/0001-61;2017-12-29;2;Fusion;Bloco "D", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2017-12-29;379.81;7;Construção própia;0.0193;0.0006
+01.235.622/0001-61;2017-12-29;2;Gift;Rua 8 de Dezembro,  517, Vila Isabel, Rio de Janeiro - RJ;2017-12-29;347.71;5;Aquisição de unidades prontas;0.029;0.001
+01.235.622/0001-61;2017-12-29;2;Riserva;Rua Constante Sodré, 1313 - Praia do Canto, Vitória - ES;2017-12-29;321.28;2;Construção própia;0.045;0.0015
+01.235.622/0001-61;2017-12-29;2;Vision;Bloco "F", do conjunto "A", do Edifício "Fusion Work & Live" da quadra 01, do SH/Norte, Brasília - DF;2017-12-29;1140.05;18;Construção própia;0.059;0.002
+01.235.622/0001-61;2017-12-29;2;Highline Square;Rua José Alexandre Buaiz, 230, Enseada do Suá, Vitória - ES;2017-12-29;2255.11;30;Construção própia;0.2881;0.0099
+03.683.056/0001-86;2017-03-31;4;NEW CENTURY;Rua Leopoldo Couto de M. Jr, 758, Itaim Bibi, São Paulo/SP;2017-02-20;999;1;Laje Corporativa;0.074797;0.063487
+07.583.627/0001-61;2017-03-31;1;Não Aplicavel;Não Aplicavel;1899-12-31;0;1;;0;0
+07.583.627/0001-61;2017-06-30;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2017-09-30;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+07.583.627/0001-61;2017-12-31;1;Não Aplicavel;0;1899-12-31;0;1;0;0;0
+08.098.114/0001-28;2017-09-30;1;Edifício Santa Catarina;Av. Paulista, 283 - 9º andar;2017-09-29;1032.3;2;Direito de Propriedade;0.016576;0.0345466
+08.706.065/0001-69;2017-06-30;4;Ibis Budget Paulista (ap. 1111);Rua da Cosolação, 2303 - São Paulo - SP;2017-04-25;12.7;1;Ibis Budget Paulista (ap. 1111);0.0005;0.0005
+08.706.065/0001-69;2017-06-30;4;Ibis São Paulo Paulista (ap. 615);Av Paulista, 2355  - São Paulo - SP;2017-06-07;17.7;1;Ibis São Paulo Paulista (ap. 615);0.0009;0.0009
+08.706.065/0001-69;2017-06-30;4;Ibis Budget Paulista (ap. 1120);Rua da consolação, 2303 -  - São Paulo - SP;2017-05-30;12.7;1;Ibis Budget Paulista (ap. 1120);0.0005;0.0005
+08.706.065/0001-69;2017-06-30;4;Ibis São Paulo Paulista (ap. 804);Av Paulista, 2355  - São Paulo - SP;2017-05-29;17.7;1;Ibis São Paulo Paulista (ap. 804);0.0009;0.0009
+08.706.065/0001-69;2017-06-30;4;Ibis Budget Paulista (ap. 603);Rua da Cosolação, 2303  - São Paulo - SP;2017-05-29;12.7;1;Ibis Budget Paulista (ap. 603);0.0005;0.0005
+08.706.065/0001-69;2017-09-30;1;Comfort Nova Paulista;Rua Vergueiro,2740 - Vila Marina São Paulo - CEP: 04102-001;2017-07-24;47.33;1710;Comfort Nova Paulista;0.00076;0.000781
+08.706.065/0001-69;2017-09-30;1;Ibis Budget Jardins;Av. Nove de Julho, 3957 - Jardins - São Paulo - CEP: 01407-000;2017-08-25;12.72;1009;Ibis Budget Jardins;0.000309;0.000316
+08.706.065/0001-69;2017-12-31;2;Ibis Budget Paulista;Rua da Consolação, nº 2.303 - unid 303 - Sao Paulo;2017-11-29;29.91;1;Ibis Budget Paulista;0.000511;0.000566
+08.706.065/0001-69;2017-12-31;2;Ibis Congonhas;Avenida Washington Luiz nº 6.771 - unidade 409 - São Paulo;2017-11-29;58.94;1;Ibis Congonhas;0.000873;0.000968
+08.706.065/0001-69;2017-12-31;2;Ibis Budget Jardins;Avenida Nove de Julho, nº 3.611 - unid 806;2017-12-15;29.65;1;Ibis Budget Jardins;0.000354;0.00036
+08.706.065/0001-69;2017-12-31;2;Ibis Budget Jardins;Avenida Nove de Julho, nº 3.611 - unid 703;2017-12-15;29.65;1;Ibis Budget Jardins;0.00034;0.000346
+08.706.065/0001-69;2017-12-31;2;Ibis Budget Jardins;Avenida Nove de Julho, nº 3.611 - unid 1016;2017-12-14;29.65;1;Ibis Budget Jardins;0.000339;0.000345
+09.072.017/0001-29;2017-03-31;1;Edifício Plaza JK;Rua Minas da Prata 30 - São Paulo - SP;2016-08-16;575.22;2;-;0.006124;0.006044
+09.072.017/0001-29;2017-06-30;1;Decathlon Praia Grande;Avenida Ayrton Senna da Silva 333;2017-07-14;4247.76;1;-;0.0133285777333097;0.0132971865077681
+09.072.017/0001-29;2017-12-31;2;Itamambuca 31 e 32;Rua Luigi Galvani, 200;2017-12-14;446;2;-;0.002441;0.002288
+09.072.017/0001-29;2017-12-31;2;Itamambuca 91 e 92;Rua Luigi Galvani, 200;2017-10-11;446;2;-;0.002391;0.002281
+10.456.810/0001-00;2017-06-30;4;ED. BERRINI 1511;Av. Eng. Luís Carlos Berrini, 1.511, São Paulo/SP;2017-04-21;437;2;Renda;0.0991;0.0722
+11.701.400/0001-40;2017-03-31;1;Cores da Lapa, 1031;RUA DO RIACHUELO, 92, APTO 1031, LAPA, RIO DE JANEIRO/RJ;2017-01-17;77.27;1;Este imóvel foi permutadoo com o Cores da Lapa, 640;0.0391;0.0191
+11.945.604/0001-27;2017-06-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-05-10;58.02;1;TORRE 2, 74;0.00841025641025641;0.003
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-05-03;76.93;1;TORRE 2, 42;0.0109411764705882;0.0038
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-05-17;76.93;1;TORRE 2, 102;0.0109411764705882;0.0039
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-05-15;76.93;1;TORRE 2, 104;0.0109411764705882;0.0039
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-05-25;76.93;1;TORRE 2, 112;0.0109411764705882;0.0039
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-06-16;76.93;1;TORRE 2, 132;0.0109411764705882;0.004
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-05-02;76.93;1;TORRE 2, 134;0.0109411764705882;0.0038
+11.945.604/0001-27;2017-06-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-05-25;76.93;1;TORRE 2, 144;0.0109411764705882;0.0039
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-07-12;58.02;1;TORRE 1, 34;0.006843;0.003458
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-09-15;56.19;1;TORRE 2, 43;0.006843;0.003062
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-09-29;58.02;1;TORRE 2, 144;0.006843;0.003467
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-08-24;58.02;1;TORRE 3, 54;0.006843;0.003242
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-09-29;58.02;1;TORRE 3, 111;0.006843;0.00306
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-08-23;58.02;1;TORRE 4, 101;0.006843;0.003486
+11.945.604/0001-27;2017-09-30;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-08-23;58.02;1;TORRE 4, 132;0.006843;0.00362
+11.945.604/0001-27;2017-09-30;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-08-17;76.93;1;TORRE 2, 152;0.008453;0.004577
+11.945.604/0001-27;2017-09-30;1;Empreendimento The View;R. Bimbarra, 215 - Tatuapé, Sao Paulo;2017-08-15;53.66;1;TORRE 1, 133;0.010878;0.004946
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-11-16;58.02;1;TORRE 1, 4;0.006843;0.003427
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-11-24;56.19;1;TORRE 1, 33;0.006843;0.003344
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-11-01;56.19;1;TORRE 1, 73;0.006843;0.003596
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-12-01;56.19;1;TORRE 1, 83;0.006843;0.003617
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-12-06;56.19;1;TORRE 2, 3;0.006843;0.003276
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-12-04;58.02;1;TORRE 3, 22;0.006843;0.00367
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-12-06;58.02;1;TORRE 3, 32;0.006843;0.003561
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-12-13;56.19;1;TORRE 3, 86;0.006843;0.003439
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-10-24;58.02;1;TORRE 4, 52;0.006843;0.003518
+11.945.604/0001-27;2017-12-31;1;Empreendimento Sapopemba;Avenida Vila Ema nº 5.446, 5.470, 5.478 e 5.490 - Vila Prudente;2017-11-03;56.19;1;TORRE 4, 76;0.006843;0.00354
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-12-22;59.97;1;TORRE 1, 1;0.008453;0.003043
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-10-09;66.41;1;TORRE 1, 66;0.008453;0.003892
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-10-19;76.93;1;TORRE 1, 75;0.008453;0.004507
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-11-10;60;1;TORRE 1, 83;0.008453;0.003177
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-11-06;66.41;1;TORRE 2, 33;0.008453;0.004018
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-11-30;66.41;1;TORRE 2, 76;0.008453;0.003806
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-11-09;76.93;1;TORRE 2, 114;0.008453;0.004846
+11.945.604/0001-27;2017-12-31;1;Empreendimento Elizabeta Lips;Rua Elizabeta Lips, 304 - Taboão da Serra - Jardim Bom Tempo;2017-10-05;76.93;1;TORRE 2, 175;0.008453;0.005022
+11.945.604/0001-27;2017-12-31;1;Empreendimento The View;R. Bimbarra, 215 - Tatuapé, Sao Paulo;2017-11-24;53.66;1;TORRE 1, 73;0.010878;0.005113
+12.005.956/0001-65;2017-12-29;1;Gomes Freire;Avenida Gomes Freire, 471, Centro, Rio de Janeiro - RJ;2017-12-22;4959.47;8;N/A;1.47479154300847;0.0192447023586982
+14.056.001/0001-62;2017-03-31;1;Focus Business Center;Avenida Geremario Dantas 1401;2017-02-21;19.71;1;Sala comercial;0.0037;0.0034
+14.056.001/0001-62;2017-06-30;1;Villaggio Lake & Gardens;Estrada de Barra da Tijuca 345, Barra da Tijuca , Rio de Janeiro;2017-05-29;111;1;apartamento de 3 quartos;0.017943;0.0213599772027372
+14.056.001/0001-62;2017-09-30;1;Villaggio Lake & Gardens;Estrada de Barra da Tijuca 345, Barra da Tijuca , Rio de Janeiro;2017-05-29;111;1;apartamento de 3 quartos;0.017943;0.0213599772027372
+14.665.312/0001-29;2017-03-31;1;HAPPY PRAIA APTO 608;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;2017-01-10;69.96;1;;1;0.011501
+14.665.312/0001-29;2017-03-31;1;HAPPY PRAIA APTO 708;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;2017-01-10;69.96;1;;1;0.01089
+14.665.312/0001-29;2017-03-31;1;HAPPY VIDA APTO 401;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;2017-01-17;69.96;1;;1;0.011501
+14.665.312/0001-29;2017-03-31;1;HAPPY PRAIA APTO 1008;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;2017-01-17;69.96;1;;1;0.01089
+14.665.312/0001-29;2017-03-31;1;MHR - ILHA DE CRETA 304;Santa Catarina,Florianópolis, Rua VE-1000 N 156, Empreendimento Marine Home Resort;2017-03-21;397.2;1;;1;0.096537
+14.665.312/0001-29;2017-06-30;1;MHR - ILHA DE SANTORINE 304;Santa Catarina,Florianópolis, Rua VE-1000 N 156, Empreendimento Marine Home Resort;2017-01-10;397.2;1;;1;0.011501
+14.665.312/0001-29;2017-06-30;1;MHR - ILHA DE MIKONOS 304;Santa Catarina,Florianópolis, Rua VE-1000 N 156, Empreendimento Marine Home Resort;2017-01-10;397.2;1;;1;0.01089
+14.665.312/0001-29;2017-06-30;1;MHR - ILHA DE KARPATHOS 302;Santa Catarina,Florianópolis, Rua VE-1000 N 156, Empreendimento Marine Home Resort;2017-01-17;503.15;1;;1;0.011501
+14.665.312/0001-29;2017-06-30;1;HAPPY CLUBE APTO 103;Espírito Santo,Serra, Loteamento Portal de Manguinhos, Empreendimento Condomínio Happy Days Manguinhos;2017-01-17;93.3;1;;1;0.01089
+14.665.312/0001-29;2017-12-31;1;VERIFICAR ESDRAS;;;;;;;
+17.209.378/0001-00;2017-03-31;1;Unidade 2010 - Helbor Trend Higienópolis;Rua Santa Isabel, 272 - São Paulo/SP;2016-12-24;45.15;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0032;0.0031
+17.209.378/0001-00;2017-06-30;1;Unidade 1407 - Helbor Trend Higienópolis;Rua Santa Isabel, 272 - São Paulo/SP;2017-06-30;40.5;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0028;0.0029
+17.209.378/0001-00;2017-06-30;1;Unidade 2109 - Helbor Trend Higienópolis;Rua Santa Isabel, 272 - São Paulo/SP;2017-04-03;96.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0031;0.0032
+17.209.378/0001-00;2017-06-30;1;Unidade 1306 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2017-04-28;39.33;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0039;0.004
+17.209.378/0001-00;2017-06-30;1;Unidade 2403 - Torre 1 - Urban Resort;Rua Vitória e Praça Júlio de Mesquita - São Paulo;2017-04-05;41;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0027;0.0028
+17.209.378/0001-00;2017-06-30;1;Unidade 710 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2017-05-05;52.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0052;0.0054
+17.209.378/0001-00;2017-09-30;1;Unidade 2309 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2017-06-21;52.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0054;0.006
+17.209.378/0001-00;2017-09-30;1;Unidade 2310 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2017-07-21;52.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0056;0.0062
+17.209.378/0001-00;2017-12-31;1;Recreio dos Bandeirantes;Lotes 2, 3, 4 e 5 do PAL 45696 na Avenida das Américas - freguesia de Jacarapaguá - Matrícula 425234 do RG 9o Ofício do Rio de Janeiro;2017-12-21;2957.79;1;Unidades residenciais a receber por permuta realizada com terreno anteriormente possuído pelo Fundo. A incorporadora é a HESA 158 - Investimentos Imobiliários SPE Ltda. (do grupo Helbor Empreendimentos Imobiliários S.A.) que tinha a obrigação de entregá-las prontas e desimpedidas. O Fundo possuia carta fiança do Banco Bradesco que assegurava o cumprimento das obrigações da incorporadora, no entanto, o empreendimento  não foi lançado dentro do prazo avençado, cabendo ao Fundo o exercício da opção de venda.;0.1455;0.1679
+17.209.378/0001-00;2017-12-31;1;Unidade 2109 - NUN Vila Nova;Avenida Santo Amaro, nº 604 - São Paulo;2017-12-29;52.88;1;Alienada através de Instrumento Particular de Contrato de Promessa de Cessão de Direitos e Obrigações Sobre Unidade Condominial a ser Contruída e Outras Avenças;0.0062;0.0072
+17.655.102/0001-48;2017-06-30;1;SÃO JOÃO DE MERETI;Avenida Automóvel Club, no 1065, Centro, São João de Meriti - RJ;2017-05-30;14534.31;1;Galpão de uso geral. Está posicionado a uma distância aproximada de 200m da Rodovia Presidente Dutra.;1;0.218
+17.655.102/0001-48;2017-06-30;1;IMÓVEL SANTA CRUZ;AVENIDA ANTARES nº 2346, Lote 1, PAL 43121 - Rio de Janeiro - RJ;2017-04-18;124150;1;Não há.;1;0.5381
+18.497.672/0001-10;2017-03-31;1;Visage Arena 801;Rua 52, quadra B-10, lote 07, Jardim Goiás, Goiânia, Goiás;2016-11-16;77.76;;;0.0118;0.0114
+18.497.672/0001-10;2017-03-31;1;Visage Arena 2702;Rua 52, quadra B-10, lote 07, Jardim Goiás, Goiânia, Goiás;2017-10-01;78.39;;;0.0109;0.0182
+18.497.672/0001-10;2017-06-30;1;Lac de Rose 402;Rua R-12, quadra R-21, lote 19, Setor Oeste, Goiânia, Goiás;2017-04-03;92.0745;;;0.027;0.0322
+18.579.302/0001-21;2017-03-31;1;Campo Grande;Rua Campo Grande, 120 , Lote 08 do PAL 47.371 - Campo Grande - Rio de Janeiro - RJ;2017-01-17;9790.14;1;Predio Comercial;0.6984;0.622
+20.265.467/0001-70;2017-12-31;1;Ville Celestine - Residence Service 1201;Rua Guaicui, 594, Luxemburgo, Belo horizonte.;2017-10-02;77.23;1;Promessa de compra e venda da unidade 1201. A matricula da unidade é 140.509. A unidade tem área privativa real de 77,23m²;0.0209;0.0185
+22.646.161/0001-90;2017-09-30;1;Empreendimento Tijuca Royale - Unidade 604;Rua Carvalho Alvim, 136 - Tijuca - Rio de Janeiro - RJ;2017-07-07;187.8;1;Nada a declarar.;0.008;0.008
+22.888.670/0001-29;2017-03-31;1;Condomínio VN Casa Alameda Campinas;Alameda Campinas,708 - unidade 101 - São Paulo  - CEP: 01404-001;2017-03-31;50415;1;Condomínio VN Casa Alameda Campinas;0.083;0.053
+22.888.670/0001-29;2017-06-30;1;Tag Décor- Unidade 163;Rua General Chagas Santos, 277 a 241 - unidade 163 - São Paulo - CEP: 04146-050;2017-05-05;82211;1;Tag Décor- Unidade 163;0.059;0.042
+22.888.670/0001-29;2017-12-31;2;Pax Perdizes;R. Urbanizadora, 232 -Apto 81 - Sumaré, São Paulo - SP, 01252-020;2017-11-01;55;1;Pax Perdizes;0.1617;0.0986
+26.132.504/0001-59;2017-03-31;1;Edifício Metro Office II;Rua Butantã, nº 194, Pinheiros - São Paulo;2017-02-23;1322.906;4;Imóvel correspondente as futuras unidades nº 31, 32,33 e 34 localizadas no 3º andar do imóvel, sendo que as unidades 32 e 33 farão jus ao uso de 6 vagas de garagem cada e as unidades 31 e 34 farão jus ao uso de 5 vagas de garagem cada.;0.638338159;0.821279439
+26.132.504/0001-59;2017-09-30;1;Condomínio San Gustavo;Rua Marie Nade Calfat, nº 249, Jardim Ampliação - São Paulo, SP;2017-08-14;2301.5;18;Foi desfeita a compra;0.4251;0.3185
+26.395.660/0001-02;2017-03-31;1;Unidade 72;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;;46.16;1;Predio Residencial;;
+26.395.660/0001-02;2017-03-31;1;Unidade 83;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;;64.87;1;Predio Residencial;;
+26.395.660/0001-02;2017-03-31;1;Unidade  267;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;;63.81;1;Predio Residencial;;
+26.395.660/0001-02;2017-12-29;2;ART-102;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;2017-12-29;46.16;1;Helbor Paulista Art;0.00429;0.001686
+26.395.660/0001-02;2017-12-29;2;ART-116;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;2017-12-29;64.03;1;Helbor Paulista Art;0.0062;0.002437
+26.395.660/0001-02;2017-12-29;2;ART-211;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;2017-12-13;100.45;1;Helbor Paulista Art;0.006746;0.002652
+26.395.660/0001-02;2017-12-29;2;ART-241;Rua  Aguiar de Barros, 36 x Av. Brigadeiro Luiz Antônio, Bela Vista - São Paulo/SP;2017-12-13;46.84;1;Helbor Paulista Art;0.004862;0.001911
+28.152.272/0001-26;2017-12-31;3;Não aplicável;Não aplicável;1899-12-31;0;1;Não aplicável;0;0

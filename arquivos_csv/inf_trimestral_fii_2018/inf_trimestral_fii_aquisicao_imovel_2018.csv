@@ -1,0 +1,549 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
+01.235.622/0001-61;2018-12-31;3;Itabira;Confluências das Ruas Guarda Mor Custódio, Dr. Sinzenandro de Barros e Av. Daniel Jardim de Grisolia, Itabira - MG;1528;1;N/A;0.009408;Renda
+01.235.622/0001-61;2018-12-31;3;Itumbiara;Av. Santos Dumont, Quadra 64 - Lote 1B, Bairro Santos Dumont, Itumbiara - GO;4900.01;1;N/A;0.004458;Renda
+03.683.056/0001-86;2018-09-30;2;PARQUE SANTOS;Alameda Santos, 1163, Cerqueira César, São Paulo/SP;5135;1;Laje Corporativa;0.178325;Renda
+03.683.056/0001-86;2018-09-30;2;CETENCO;Avenida Paulista 1842, Cerqueira Cesar, São Paulo/SP;1067.68;11;Laje Corporativa;0.044951;Renda
+03.683.056/0001-86;2018-12-31;1;PARQUE SANTOS;Alameda Santos, 1163, Cerqueira César, São Paulo/SP;5135;1;Laje Corporativa;0.178325;Renda
+03.683.056/0001-86;2018-12-31;1;CETENCO;Avenida Paulista 1842, Cerqueira Cesar, São Paulo/SP;1067.68;11;Laje Corporativa;0.044951;Renda
+07.224.019/0001-60;2018-12-31;2;Loja Shopping Parque Dom Pedro;Av. Guilherme de Campos, 500 - Campinas.;3322.42;1;Não possui caracteristicas que destoem dos demais;0.0535;Renda
+07.583.627/0001-61;2018-03-31;1;Não Aplicavel;Não Aplicavel;0;1;0;0;Renda
+07.583.627/0001-61;2018-06-30;1;Não Aplicavel;Não Aplicavel;0;1;0;0;Renda
+07.583.627/0001-61;2018-09-30;1;Não Aplicavel;Não Aplicavel;0;1;0;0;Renda
+07.583.627/0001-61;2018-12-31;1;Não Aplicavel;Não Aplicavel;0;1;0;0;Renda
+08.706.065/0001-69;2018-03-31;1;Estanplaza Berrini;Av. Eng. Luís Carlos Berrini, 853 - Apto 905;30.38;1;Estanplaza Berrini;0.001548;Renda
+08.706.065/0001-69;2018-03-31;1;Estanplaza International;Rua Fernandes Moreira, 1293 - Apto 908;26.29;1;Estanplaza International;0.001517;Renda
+08.706.065/0001-69;2018-06-29;1;Estanplaza International;Rua Fernandes Moreira, 1293 - Apto 905;26.29;1;Estanplaza International;0.0015;Renda
+09.072.017/0001-29;2018-06-30;1;Mario Garnero cj. 161;Avenida Brigadeiro Faria Lima 1.485;730.84;1;-;0.007424;Renda
+09.072.017/0001-29;2018-09-30;1;Berrini One;Avenida Eng. Carlos Berrini 105;8657.22;13;-;0.119232;Renda
+10.869.155/0001-12;2018-12-31;2;Loja Shopping Parque Dom Pedro;Av. Guilherme de Campos, 500 - Campinas.;3322.42;1;Não possui caracteristicas que destoem dos demais;0.0535;Renda
+11.728.688/0001-47;2018-06-30;1;Gerdau RJ;Estrada do Pedregoso, 900, Campo Grande, RJ;16532;1;Imóvel detido pela  SPE CAMPO GRANDE, adquirida integralmente pelo Fundo no trimestre;0.104772;Renda
+11.728.688/0001-47;2018-06-30;1;Tetra Pak;Rua Tobias Bueno de Oliveira, 701, Monte Mor, SP;24696;1;Imóvel detido pela  REAL ESTATE XIII INV IMOB E PARTICIP SA, adquirida integralmente pelo Fundo no trimestre;0.148823;Renda
+11.728.688/0001-47;2018-09-30;2;Lojas Americanas Uberlândia;BR-497, Km 1480, Uberlândia, MG;89187;1;-;0.264055;Renda
+11.728.688/0001-47;2018-12-31;1;Lojas Americanas Uberlândia;BR-497, Km 1480, Uberlândia, MG;89187;1;-;0.257978;Renda
+12.005.956/0001-65;2018-12-31;1;Boulevard Corporate Tower;Avenida dos Andradas, 3000, Santa Efigênia, Belo Horizonte - MG;10813.86;36;NA;1;Renda
+13.726.079/0001-84;2018-03-31;1;AV GOIAS;Rua Tapajós e Rua Capiberibe, Vila Barcelona, São Caetano do Sul, SP;18424;2;Imóveis compostos por terreno e áreas construídas.;0.3548;Renda
+13.726.079/0001-84;2018-06-30;1;AV GOIAS;Rua Tapajós e Rua Capiberibe, Vila Barcelona, São Caetano do Sul, SP;18424;2;Imóveis compostos por terreno e áreas construídas.;0.3548;Renda
+13.726.079/0001-84;2018-09-30;2;AV GOIAS;Rua Tapajós e Rua Capiberibe, Vila Barcelona, São Caetano do Sul, SP;18424;2;Imóveis compostos por terreno e áreas construídas.;0.3548;Renda
+13.726.079/0001-84;2018-12-31;1;AV GOIAS;Rua Tapajós e Rua Capiberibe, Vila Barcelona, São Caetano do Sul, SP;18424;2;Imóveis compostos por terreno e áreas construídas.;0.3808;Venda
+15.576.907/0001-70;2018-06-30;2;Bonsucesso;Av. Carmela Thomeu, 557 - Guarulhos - SP;938.02;1;Agência bancária;0;Renda
+15.576.907/0001-70;2018-06-30;2;Ferraz de Vasconcelos;R. Santos Dumont, 599 - Ferraz de Vasconcelos - SP;954;1;Agência bancária;0;Renda
+15.576.907/0001-70;2018-06-30;2;Itaquera;Av. Maria Luiza Americano, 1688 - São Paulo - SP;912;1;Agência bancária;0;Renda
+15.576.907/0001-70;2018-06-30;2;Jaraguá;Estrada de Taipas, 355 - São Paulo - SP;1335.14;1;Agência bancária;0;Renda
+15.576.907/0001-70;2018-06-30;2;São Mateus;Av. Mateo Bei, 413 - São Paulo - SP;938.02;1;Agência bancária;0;Renda
+15.576.907/0001-70;2018-06-30;2;São Miguel Paulista;Av. do Imperador, 3892 - São Paulo - SP;1024.8;1;Agência bancária;0;Renda
+16.671.412/0001-93;2018-12-28;1;One Park;Rodovia Índio Tibiriçá, nº 6.000;86313.48;7;N/A;0.625;Renda
+16.924.913/0001-34;2018-12-31;1;Edifício V House;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP;;14;Unidades do imóvel adquiridas pelo Fundo como dação em pagamento de parte de redução de capital da Companhia Investida VRE D2 S.A;0.102;Renda
+17.161.979/0001-82;2018-09-30;1;Imovel Rua Amazonas;Av. Amazonas, 4338, 4350, 43360 e 4368 e Rua Junquilhas, 113, 119, 151, 155-F, 159 e 183;9551.57;1;3,01529m² que corresponde à 31,5677% da area total do imovel de 9.551,57m²;1;Renda
+17.554.274/0001-25;2018-12-31;2;Shopping Center Tacaruna;Av. Governador Agamenon Magalhães, nº 153, Santo Amaro, Recife, PE;50110;259;NA;0.16670737;Renda
+17.554.274/0001-25;2018-12-31;2;Shopping Iguatemi Fortaleza;Av. Washington Soares, nº 95, CEP 60810-060, Fortaleza, Ceará;90000;432;NA;0.15;Renda
+17.655.115/0001-17;2018-03-31;1;WT Morumbi;Av. das Nações Unidas, 14261 - ALA A, São Paulo - SP;19320.31;12;401 a 1501 ala "A".;0.201;Renda
+18.950.957/0001-64;2018-06-30;1;Gaspar - SC;Rua Anfiloquio Nunes Pires, 49, Bela Vista;14468.92;1;Contrato de locação Built to Suit longo prazo;0.0567;Renda
+18.950.957/0001-64;2018-06-30;1;Indaial - SC;Rodovia BR 470 s/n, Encano do Norte;39674;1;Contrato de locação Built to Suit longo prazo;0.1195;Renda
+18.950.957/0001-64;2018-09-30;1;Campo Mourão - PR;Av. Perimetral Presidente Tancredo de Almeida Neves, 1.757;26895.2;1;Contrato de locação longo prazo;0.0099;Renda
+19.131.224/0001-60;2018-12-31;1;CEO - CORPORATE;Avenida João Cabral de Mello Neto nº 850, 5º, 6º e 7º andares, Barra da Tijuca, na Cidade e Estado do Rio de Janeiro;4781.898;24;;0.048121;Renda
+19.722.048/0001-31;2018-12-31;2;CPF 95 73;Rua Capitão Pinto Ferreira, 95 - Apto 73;102;1;Apartamento residencial pronto para venda;;Venda
+20.748.515/0001-81;2018-03-31;1;EMBU DAS ARTES;Avenida Helio Ossamu Daikuara nº 1.135,  Embu da Artes - SP;9331.06;1;Matrícula 5.086, RGI de Embu das Artes/SP;0.0335;Renda
+20.748.515/0001-81;2018-06-30;1;EMBU DAS ARTES;Avenida Helio Ossamu Daikuara nº 1.135,  Embu da Artes - SP;9331.06;1;Matrícula 5.086, RGI de Embu das Artes/SP;0.0335;Renda
+21.044.600/0001-21;2018-12-31;1;Edifício Barão de Tefé;Empreendimento comercial Edifício Barão de Tefé, localizado na região do Porto Maravilha no Rio de Janeiro.;8993.78;5;Empreendimento comercial Edifício Barão de Tefé, localizado na região do Porto Maravilha no Rio de Janeiro, com 17 pavimentos de escritórios, térreo, quatro subsolos e quatro sobressolos de garagem. O Imóvel tem área construída de 29.279,26m2 e foi construido pela Brookfield para a locação da Loreal.;0.3;Renda
+21.067.825/0001-01;2018-09-28;1;CABREUVA 1.204;RODOVIA DOM GABRIEL PAULINO BUENO COUTO, KM 83;135868.88;1;DESENVOLVIDO UM EMPREENDIMENTO LOGISTICO COM AREA BRUTA LOCAVEL DE 135.868,88M², COM METRAGEM DO TERRENO DE 315.831,77M²;0.6068;Renda
+21.067.825/0001-01;2018-09-28;1;CABREUVA 1.203;RODOVIA DOM GABRIEL PAULINO BUENO COUTO, KM 83;135868.88;1;DESENVOLVIDO UM EMPREENDIMENTO LOGISTICO COM AREA BRUTA LOCAVEL DE 135.868,88M², COM METRAGEM DO TERRENO DE 315.831,77M²;0.6068;Renda
+21.067.825/0001-01;2018-09-28;1;GUARULHOD 101.301;RUA ESTRELA DO OESTE, N° 124;55686;1;DESENVOLVIDO UM CENTRO DISTRIBUIÇÃO DOM ÁREA BRUTA LOCÁVEL DE 55.686M²;0.3931;Renda
+21.642.282/0001-09;2018-03-31;1;Edifício São Luiz;Av. Juscelino Kubitschek, 1830;9654;12;Empreendimento comercial;0.971;Renda
+22.340.978/0001-35;2018-09-30;1;PENHA;Rua Dr. João Ribeiro, 428/440/452;0;1;0;0.0404;Renda
+22.340.978/0001-35;2018-12-31;2;PENHA;Rua Dr. João Ribeiro, 428/440/452;0;1;0;0.0404;Renda
+22.646.161/0001-90;2018-03-31;1;Frad.E - Unid. 202 - Bl 9 - Village Acqua;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;250.6;1;Direitos de aquisição formalizados por meio de PCV datada de 24-10-2017.;0.0145;Venda
+22.646.161/0001-90;2018-03-31;1;Frad.E - Unid. 203 - Bl 6 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160.7;1;Direitos de aquisição formalizados por meio de PCV datada de 22-11-2017.;0.0089;Venda
+22.646.161/0001-90;2018-03-31;1;Frad.E - Unid. 103 - Bl 4 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160.7;1;Direitos de aquisição formalizados por meio de PCV datada de 13-12-2017.;0.009;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 202;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;63.66;1;Direitos de aquisição formalizados por meio de PCV datada de 10-04-2018.;0.00345261727149264;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 302;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;79.33;1;Direitos de aquisição formalizados por meio de PCV datada de 10-04-2018.;0.00444717522828969;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 402;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;74.3;1;Direitos de aquisição formalizados por meio de PCV datada de 10-04-2018.;0.00437305947615215;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 601;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 10-04-2018.;0.00547534333889041;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 701;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 10-04-2018.;0.00547534333889041;Venda
+22.646.161/0001-90;2018-06-30;1;Frad.E - Unid. 201-  Bl 1 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160.7;1;Direitos de aquisição formalizados por meio de PCV datada de 15-05-2018.;0.00825300369263297;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 801;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 05-07-2018.;0.00547534333889041;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 1001;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 05-07-2018.;0.00547534333889041;Venda
+22.646.161/0001-90;2018-06-30;1;Cond. Concept Living Boutique - Apto 1101;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 05-07-2018.;0.00547534333889041;Venda
+22.646.161/0001-90;2018-09-30;1;Cond. Concept Living Boutique - Apto 801;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 05-07-2018.;0.00532793141474943;Venda
+22.646.161/0001-90;2018-09-30;1;Cond. Concept Living Boutique - Apto 1001;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 05-07-2018.;0.00532793141474943;Venda
+22.646.161/0001-90;2018-09-30;1;Cond. Concept Living Boutique - Apto 1101;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 05-07-2018.;0.00532793141474943;Venda
+22.646.161/0001-90;2018-09-30;1;Frad.E - Unid. 101 - Bl 1 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160.7;1;Direitos de aquisição formalizados por meio de cessão de PCV de 09-07-2018.;0.00763575073308107;Venda
+22.646.161/0001-90;2018-09-30;1;Cond. Concept Living Boutique - Apto 901;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;89.1;1;Direitos de aquisição formalizados por meio de PCV datada de 14-08-2018.;0.00539722803671997;Venda
+22.646.161/0001-90;2018-09-30;1;Frad.E - Unid. 201 - Bl 6 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160.7;1;Direitos de aquisição formalizados por meio de PCV datada de 30-08-2018.;0.00673717158046947;Venda
+22.646.161/0001-90;2018-09-30;1;Frad.E - Unid. 102 - Bl 5 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160.7;1;Direitos de aquisição formalizados por meio de PCV datada de 30-08-2018.;0.00673717158046947;Venda
+22.646.161/0001-90;2018-12-31;1;Cond. Concept Living Boutique - Apto 501;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;119.9;1;Direitos de aquisição formalizados por meio de PCV datada de 25-10-2018.;0.00783354279379668;Venda
+22.646.161/0001-90;2018-12-31;1;Frad.E - Unid. 201 - Bl 5 - Village Natura;"Fazenda do Frade" - 2º Distrito de Angra dos Reis - Rio de Janeiro;160;1;Escritura Definitiva de Compra e Venda datada de 25-10-2018.;0.00940057610514161;Venda
+22.646.161/0001-90;2018-12-31;1;Cond. Concept Living Boutique - Apto 803;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;98.28;1;Direitos de aquisição formalizados por meio de PCV datada de 20-12-2018.;0.00634195087146506;Venda
+23.740.595/0001-17;2018-09-30;1;Shopping Bay Market;Av. Visconde do Rio Branco, 360 - Centro, Niterói - RJ;25407;78;não há;;Renda
+23.740.595/0001-17;2018-09-30;1;Shopping Hortolândia;Remanso Campineiro, Hortolândia - SP;20055;91;não há;;Renda
+23.740.595/0001-17;2018-09-30;1;Shopping Valinhos;R. Paiquerê, 200 - Jardim Paiquere, Valinhos - SP;28647;89;não há;;Renda
+23.781.211/0001-04;2018-09-30;1;Hosp Sabará;Av Angelica;14600.67;1;Hospital;1;Renda
+23.781.211/0001-04;2018-12-31;2;Hosp Sabará;Av Angelica;14600.67;1;Hospital;1;Renda
+24.796.967/0001-90;2018-12-31;1;TIE 621 142;Alameda Tietê, 621 - 142;203;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2018-12-31;1;CPA 69 41;Rua Caçapava, 69 - 41;250;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2018-12-31;1;JML 1096 31;Rua José Maria Lisboa, 1096 -31;286;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2018-12-31;1;JEL 1496 51;Alameda Joaquim Eugênio de Lima, 1496 - 51;220;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2018-12-31;1;SAR 186 51;Alameda Sarutaiá, 186 - 51;193;1;Apartamento residencial pronto para venda;;
+24.796.967/0001-90;2018-12-31;1;MRA 1274 31;Alameda Ministro Rocha Azevedo, 1274 - 31;249;1;Apartamento residencial pronto para venda;;
+26.195.121/0001-20;2018-09-30;1;Edificio Plaza I  -  conj. 41;Rua  James Joue, 92 - São Paulo/SP;631.191;1;Area  comum 324,841 m², na qual se inclui 7 vagas de garagem coletiva do Edificio;1;Renda
+26.195.121/0001-20;2018-12-31;1;Edificio Plaza I  -  conj. 41;Rua  James Joue, 92 - São Paulo/SP;631.191;1;Area  comum 324,841 m², na qual se inclui 7 vagas de garagem coletiva do Edificio;1;Renda
+26.502.761/0001-35;2018-09-28;1;Casa Jd. Quedala;Rua Padre Madureira, 393, São Paulo, SP;808.05;1;Casa;;Venda
+26.502.761/0001-35;2018-12-31;1;EDIFÍCIO PARIS;RUA DR. EDUARDO DE SOUZA ARANHA, 255 AP 130, SÃO PAULO - SP;442.39;1;Apartamento residencial;;Venda
+26.502.794/0001-85;2018-06-29;1;Galpão Logístico;Estrada Municipal doMandu, 250Bairro: Faz. Sta. Inês I;23454;1;Galpão;1;Renda
+26.502.794/0001-85;2018-06-29;1;Galpão Logístico;Rua Lenine Queiroz, 333Bairro: Distrito Industrial;38410;1;Galpão;1;Renda
+26.502.794/0001-85;2018-06-29;1;Galpão Logístico;Rua João de Pádula, 245;3009;1;Galpão;1;Renda
+27.771.586/0001-44;2018-09-28;1;Apartamento Parques das Águas 902;Estrada dos Menezes nº 400 - Bairro Mutondo, São Gonçalo - Rio de Janeiro;57.62;1;Apartamento com uma vaga na garagem;0.3529;Venda
+27.771.586/0001-44;2018-09-28;1;Apartamento Parques das Águas 2106;Estrada dos Menezes nº 400 - Bairro Mutondo, São Gonçalo - Rio de Janeiro;126.32;1;Apartamento com uma vaga na garagem;0.6471;Venda
+28.152.272/0001-26;2018-03-31;2;Não aplicável;Não aplicável;0;1;Não aplicável;0;Renda
+28.152.272/0001-26;2018-06-30;1;N/A;N/A;0;1;N/A;0;Renda
+28.216.384/0001-01;2018-09-30;1;Imóvel Urbano;Rua Quatro nº 272 Bairro Saúde Rio Claro SP;586.41;1;Não se aplica.;1;Renda
+28.516.650/0001-03;2018-03-31;1;Não aplicável;Não aplicável;0;1;Não aplicável;0;Renda
+28.516.650/0001-03;2018-06-30;1;N/A;N/A;0;1;N/A;0;Renda
+28.516.650/0001-03;2018-09-30;1;N/A;N/A;0;1;N/A;0;Renda
+28.516.650/0001-03;2018-12-31;1;N/A;N/A;0;1;N/A;0;Renda
+28.693.595/0001-27;2018-03-31;1;Loja;Avenida das Nações Unidas, 12551;258.91;1;-;0.0029;Renda
+28.693.595/0001-27;2018-03-31;1;Clube;Avenida das Nações Unidas, 12551;6085.26;1;-;0.0431;Renda
+28.693.595/0001-27;2018-03-31;1;Show Trade;Avenida das Nações Unidas, 12551;17547.9;1;-;0.1222;Renda
+28.693.595/0001-27;2018-03-31;1;Edifício Centro Empresarial;Avenida das Nações Unidas, 12551;8472.11;49;15,16,17,18 e 19 andares;0.0596;Renda
+28.693.595/0001-27;2018-03-31;1;Edifício Centro Empresarial;Avenida das Nações Unidas, 12551;8908.46;32;21,22,23,24 e 25 andares;0.0626;Renda
+28.693.595/0001-27;2018-03-31;1;Shopping Center;Avenida das Nações Unidas, 12551;29023.54;158;-;0.2013;Renda
+28.693.595/0001-27;2018-03-31;1;Hotel Meliá São Paulo;Avenida das Nações Unidas, 12551;31215.79;300;-;0.2111;Renda
+28.693.595/0001-27;2018-03-31;1;Centro de Convenções;Avenida das Nações Unidas, 12551;5105.65;1;-;0.0363;Renda
+28.693.595/0001-27;2018-03-31;1;Terminal Aéreo;Avenida das Nações Unidas, 12551;776.29;1;-;0.0063;Renda
+28.693.595/0001-27;2018-03-31;1;Centro de Exposições;Avenida das Nações Unidas, 12551;374.31;1;-;0.0037;Renda
+28.693.595/0001-27;2018-03-31;1;Garagem;Avenida das Nações Unidas, 12551;67708.41;2111;-;0.2509;Renda
+28.693.595/0001-27;2018-06-30;1;N/A;N/A;0;1;N/A;0;Renda
+28.693.595/0001-27;2018-09-30;1;N/A;N/A;0;1;N/A;0;Renda
+28.693.595/0001-27;2018-12-31;1;N/A;N/A;0;1;N/A;0;Renda
+28.737.771/0001-85;2018-03-31;3;Air Liquide São Paulo/SP;Av. Presidente Wilson  5.874, São Paulo/SP;5008;1;Locatários: Air Liquide São Paulo/SP;0.448;Renda
+28.737.771/0001-85;2018-03-31;3;Atento Rio de Janeiro/RJ;Avenida Dom Hélder Câmara 3.203 e 3.229, Rio de Janeiro/RJ;8178;1;Locatários: Atento Rio de Janeiro/RJ;0.552;Renda
+28.757.546/0001-00;2018-03-31;1;Caxias Shopping;od. Washington Luíz, 2895 - Duque de Caxias/RJ - CEP: 25085-008;44.03;1;Caxias Shopping;0.24;Renda
+28.757.546/0001-00;2018-12-31;1;Shopping Cidade Jardim;Av. Magalhães de Castro, 12.000, São Paulo/SP.;37671;166;Não possui caracteristicas que destoem dos demais;0.254575;Renda
+28.757.546/0001-00;2018-12-31;1;Catarina Fashion Outlet;Rodovia Presidente Castelo Branco, Km 60, São Roque/SP.;29506;131;Não possui caracteristicas que destoem dos demais;0.143208;Renda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86366;Rua Capitão Paulino Freire, 300, 1º Andar, Apto 12, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86368;Rua Capitão Paulino Freire, 300, 1º Andar, Apto 14, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86386;Rua Capitão Paulino Freire, 300, 6º Andar, Apto 63, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86394;Rua Capitão Paulino Freire, 300, 8º Andar, Apto 83, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86404;Rua Capitão Paulino Freire, 300, 11º Andar, Apto 111, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86410;Rua Capitão Paulino Freire, 300, 12º Andar, Apto 123, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86422;Rua Capitão Paulino Freire, 300, 15º Andar, Apto 153, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86426;Rua Capitão Paulino Freire, 300, 16º Andar, Apto 163, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86430;Rua Capitão Paulino Freire, 300, 17º Andar, Apto 173, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86432;Rua Capitão Paulino Freire, 300, 18º Andar, Apto 181, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;ALLEGRO_86434;Rua Capitão Paulino Freire, 300, 18º Andar, Apto 183, Centro, Mogi das Cruzes - SP;70.76;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72439;Rua Presidente Campos Salles, 1370, 1º Andar, Apto 13, Alto Ipiranga, Mogi das Cruzes / SP;126.60;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72440;Rua Presidente Campos Salles, 1370, 1º Andar, Apto 14, Alto Ipiranga, Mogi das Cruzes - SP;126.60;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72442;Rua Presidente Campos Salles, 1370, 2º Andar, Apto 22, Alto Ipiranga, Mogi das Cruzes - SP;126.60;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72454;Rua Presidente Campos Salles, 1370, 6º Andar, Apto 63, Alto Ipiranga, Mogi das Cruzes - SP;126.60;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72466;Rua Presidente Campos Salles, 1370, 11º Andar, Apto 111, Alto Ipiranga, Mogi das Cruzes - SP;126.60;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72474;Rua Presidente Campos Salles, 1370, 13º Andar, Apto 132, Alto Ipiranga, Mogi das Cruzes - SP;126.60;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;FELICITTA_72497;Rua Presidente Campos Salles, 1370, 20º Andar, Apto 202 Alto Ipiranga, Mogi das Cruzes - SP;217.36;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75143;Avenida Engenheiro Miguel Gemma, 1399, 2º Andar, Apto 22, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75145;Avenida Engenheiro Miguel Gemma, 1399, 2º Andar, Apto 24, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75146;Avenida Engenheiro Miguel Gemma, 1399, 3º Andar, Apto 32, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75148;Avenida Engenheiro Miguel Gemma, 1399, 3º Andar, Apto 34, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75150;Avenida Engenheiro Miguel Gemma, 1399, 4º Andar, Apto 42, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75151;Avenida Engenheiro Miguel Gemma, 1399, 4º Andar, Apto 44, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75152;Avenida Engenheiro Miguel Gemma, 1399, 5º Andar, Apto 51, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75154;Avenida Engenheiro Miguel Gemma, 1399, 5º Andar, Apto 53, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75154;Avenida Engenheiro Miguel Gemma, 1399, 6º Andar, Apto 62, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75160;Avenida Engenheiro Miguel Gemma, 1399, 7º Andar, Apto 71, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75163;Avenida Engenheiro Miguel Gemma, 1399, 8º Andar, Apto 81, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75164;Avenida Engenheiro Miguel Gemma, 1399, 8º Andar, Apto 82, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75168;Avenida Engenheiro Miguel Gemma, 1399, 9º Andar, Apto 92, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75175;Avenida Engenheiro Miguel Gemma, 1399, 11º Andar, Apto 112, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75178;Avenida Engenheiro Miguel Gemma, 1399, 12º Andar, Apto 122, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75179;Avenida Engenheiro Miguel Gemma, 1399, 12º Andar, Apto 123, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75182;Avenida Engenheiro Miguel Gemma, 1399, 13º Andar, Apto 132, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75185;Avenida Engenheiro Miguel Gemma, 1399, 14º Andar, Apto 141, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75188;Avenida Engenheiro Miguel Gemma, 1399, 15º Andar, Apto 151, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-03-29;1;LUMIERE_75191;Avenida Engenheiro Miguel Gemma, 1399, 15º Andar, Apto 154, Socoro, Mogi das Cruzes - SP;100.12;1;Nenhuma característica relevante.;0;Venda
+28.893.734/0001-66;2018-06-29;1;RESERVATTO_121029;Rua Estácio de Sá, 755- Apto nº 1203 - 12 andar - Gutierrez - Belo Horizonte - MG;159.64;1;Nenhuma característica relevante.;0.026474;Venda
+28.893.734/0001-66;2018-06-29;1;RESERVATTO_121030;Rua Estácio de Sá, 755- Apto nº 1301 - 13 andar - Gutierrez - Belo Horizonte - MG;154.84;1;Nenhuma característica relevante.;0.025713;Venda
+28.893.734/0001-66;2018-06-29;1;RESERVATTO_121032;Rua Estácio de Sá, 755- Apto nº 1303 - 13 andar - Gutierrez - Belo Horizonte - MG;159.64;1;Nenhuma característica relevante;0.026474;Venda
+28.893.734/0001-66;2018-06-29;1;RESERVATTO_121039;Rua Estácio de Sá, 755- Apto nº 1601 - 16 andar - Gutierrez - Belo Horizonte - MG;154.84;1;Nenhuma característica relevante.;0.025713;Venda
+28.893.734/0001-66;2018-06-29;1;RESERVATTO_121048;Rua Estácio de Sá, 755- Apto nº 1901 - 19 andar - Gutierrez - Belo Horizonte - MG;15484.00;1;Nenhuma característica relevante;0.025764;Venda
+28.893.734/0001-66;2018-06-29;1;RESERVATTO_121053;Rua Estácio de Sá, 755- Apto nº 2003 - 20 andar - Gutierrez - Belo Horizonte - MG;325.09;1;Nenhuma característica relevante;0.045579;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158370;Av. Nossa Senhora do Carmo, 644 - Apto nº 1003 - 10 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158371;Av. Nossa Senhora do Carmo, 644 - Apto nº 1004 - 10 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158372;Av. Nossa Senhora do Carmo, 644 - Apto nº 1101 - 11 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158373;Av. Nossa Senhora do Carmo, 644 - Apto nº 1102 - 11 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158374;Av. Nossa Senhora do Carmo, 644 - Apto nº 1103 - 11 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158376;Av. Nossa Senhora do Carmo, 644 - Apto nº 1201 - 12 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158379;Av. Nossa Senhora do Carmo, 644 - Apto nº 1204 - 12 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158380;Av. Nossa Senhora do Carmo, 644 - Apto nº 1301 - 13 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158381;Av. Nossa Senhora do Carmo, 644 - Apto nº 1302 - 13 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158382;Av. Nossa Senhora do Carmo, 644 - Apto nº 1303 - 13 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158383;Av. Nossa Senhora do Carmo, 644 - Apto nº 1304 - 13 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158385;Av. Nossa Senhora do Carmo, 644 - Apto nº 1402 - 14 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158386;Av. Nossa Senhora do Carmo, 644 - Apto nº 1403 - 14 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158387;Av. Nossa Senhora do Carmo, 644 - Apto nº 1404 - 14 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158389;Av. Nossa Senhora do Carmo, 644 - Apto nº 1502 - 15 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158390;Av. Nossa Senhora do Carmo, 644 - Apto nº 1503 - 15 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158391;Av. Nossa Senhora do Carmo, 644 - Apto nº 1504 - 15 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158393;Av. Nossa Senhora do Carmo, 644 - Apto nº 1602 - 16 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158394;Av. Nossa Senhora do Carmo, 644 - Apto nº 1603 - 16 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158395;Av. Nossa Senhora do Carmo, 644 - Apto nº 1604 - 16 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158396;Av. Nossa Senhora do Carmo, 644 - Apto nº 1701 - 17 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158397;Av. Nossa Senhora do Carmo, 644 - Apto nº 1702 - 17 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005672;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158341;Av. Nossa Senhora do Carmo, 644 - Apto nº 302 - 3 andar -Centro - Betim - MG;75.88;1;Nenhuma característica relevante;0.005597;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158342;Av. Nossa Senhora do Carmo, 644 - Apto nº 303 - 3 andar -Centro - Betim - MG;75.88;1;Nenhuma característica relevante;0.005597;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158343;Av. Nossa Senhora do Carmo, 644 - Apto nº 304 - 3 andar -Centro - Betim - MG;75.88;1;Nenhuma característica relevante;0.005597;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158344;Av. Nossa Senhora do Carmo, 644 - Apto nº 401 - 4 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158345;Av. Nossa Senhora do Carmo, 644 - Apto nº 402 - 4 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158349;Av. Nossa Senhora do Carmo, 644 - Apto nº 502 - 5 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158350;Av. Nossa Senhora do Carmo, 644 - Apto nº 503 - 5 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158352;Av. Nossa Senhora do Carmo, 644 - Apto nº 601 - 6 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158353;Av. Nossa Senhora do Carmo, 644 - Apto nº 602 - 6 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158354;Av. Nossa Senhora do Carmo, 644 - Apto nº 603 - 6 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158356;Av. Nossa Senhora do Carmo, 644 - Apto nº 701 - 7 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158357;Av. Nossa Senhora do Carmo, 644 - Apto nº 702 - 7 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158359;Av. Nossa Senhora do Carmo, 644 - Apto nº 704 - 7 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158360;Av. Nossa Senhora do Carmo, 644 - Apto nº 801 - 8 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158361;Av. Nossa Senhora do Carmo, 644 - Apto nº 802 - 8 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158362;Av. Nossa Senhora do Carmo, 644 - Apto nº 803 - 8 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158363;Av. Nossa Senhora do Carmo, 644 - Apto nº 804 - 8 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.00537;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158364;Av. Nossa Senhora do Carmo, 644 - Apto nº 901 - 9 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158366;Av. Nossa Senhora do Carmo, 644 - Apto nº 903 - 9 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOD_158367;Av. Nossa Senhora do Carmo, 644 - Apto nº 904 - 9 andar -Centro - Betim - MG;72.18;1;Nenhuma característica relevante;0.005663;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158428;Av. Nossa Senhora do Carmo, 644 - Apto nº 1001 - 10 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158429;Av. Nossa Senhora do Carmo, 644 - Apto nº 1002 - 10 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158430;Av. Nossa Senhora do Carmo, 644 - Apto nº 1003 - 10 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158431;Av. Nossa Senhora do Carmo, 644 - Apto nº 1004 - 10 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158432;Av. Nossa Senhora do Carmo, 644 - Apto nº 1101 - 11 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158433;Av. Nossa Senhora do Carmo, 644 - Apto nº 1102 - 11 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158434;Av. Nossa Senhora do Carmo, 644 - Apto nº 1103 - 11 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158435;Av. Nossa Senhora do Carmo, 644 - Apto nº 1104 - 11 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158436;Av. Nossa Senhora do Carmo, 644 - Apto nº 1201 - 12 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158438;Av. Nossa Senhora do Carmo, 644 - Apto nº 1203 - 12 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158439;Av. Nossa Senhora do Carmo, 644 - Apto nº 1204 - 12 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158440;Av. Nossa Senhora do Carmo, 644 - Apto nº 1301 - 13 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158442;Av. Nossa Senhora do Carmo, 644 - Apto nº 1303 - 13 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158443;Av. Nossa Senhora do Carmo, 644 - Apto nº 1304 - 13 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158446;Av. Nossa Senhora do Carmo, 644 - Apto nº 1403 - 14 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158447;Av. Nossa Senhora do Carmo, 644 - Apto nº 1404 - 14 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158449;Av. Nossa Senhora do Carmo, 644 - Apto nº 1502 - 15 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158451;Av. Nossa Senhora do Carmo, 644 - Apto nº 1504 - 15 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158452;Av. Nossa Senhora do Carmo, 644 - Apto nº 1601 - 16 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158455;Av. Nossa Senhora do Carmo, 644 - Apto nº 1604 - 16 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158400;Av. Nossa Senhora do Carmo, 644 - Apto nº 301 - 3 andar -Centro - Betim - MG;121.26;1;Nenhuma característica relevante;0.007925;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158401;Av. Nossa Senhora do Carmo, 644 - Apto nº 302 - 3 andar -Centro - Betim - MG;99.26;1;Nenhuma característica relevante;0.006695;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158403;Av. Nossa Senhora do Carmo, 644 - Apto nº 304 - 3 andar -Centro - Betim - MG;111.76;1;Nenhuma característica relevante;0.007358;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158404;Av. Nossa Senhora do Carmo, 644 - Apto nº 401 - 4 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158405;Av. Nossa Senhora do Carmo, 644 - Apto nº 402 - 4 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158407;Av. Nossa Senhora do Carmo, 644 - Apto nº 404 - 4 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158409;Av. Nossa Senhora do Carmo, 644 - Apto nº 502 - 5 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158411;Av. Nossa Senhora do Carmo, 644 - Apto nº 504 - 5 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158412;Av. Nossa Senhora do Carmo, 644 - Apto nº 601 - 6 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158413;Av. Nossa Senhora do Carmo, 644 - Apto nº 602 - 6 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158415;Av. Nossa Senhora do Carmo, 644 - Apto nº 604 - 6 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158416;Av. Nossa Senhora do Carmo, 644 - Apto nº 701 - 7 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158418;Av. Nossa Senhora do Carmo, 644 - Apto nº 703 - 7 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158420;Av. Nossa Senhora do Carmo, 644 - Apto nº 801 - 8 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158422;Av. Nossa Senhora do Carmo, 644 - Apto nº 803 - 8 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158423;Av. Nossa Senhora do Carmo, 644 - Apto nº 804 - 8 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.006222;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158424;Av. Nossa Senhora do Carmo, 644 - Apto nº 901 - 9 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158426;Av. Nossa Senhora do Carmo, 644 - Apto nº 903 - 9 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-06-29;1;SELETTOS_158427;Av. Nossa Senhora do Carmo, 644 - Apto nº 904 - 9 andar -Centro - Betim - MG;84.36;1;Nenhuma característica relevante;0.0066;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_203;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 203, 2º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001168;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_205;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 205, 2º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001169;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_304;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 304, 3º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_308;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 308, 3º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001501;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_403;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 403, 4º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_406;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 406, 4º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_408;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 408, 4º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001501;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_504;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 504, 5º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_505;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 505, 5º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_506;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 506, 5º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_508;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 508, 5º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_601;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 601, 6º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_606;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 606, 6º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_607;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 607, 6º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_608;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 608, 6º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_706;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 706, 7º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_708;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 708, 7º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001575;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_803;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 803, 8º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_804;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 804, 8º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_808;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 808, 8º Andar -  Bloco - 1 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001575;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_903;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 903, 9º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_904;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 904, 9º Andar -  Bloco - 1 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_905;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 905, 9º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAIA_906;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 906, 9º Andar -  Bloco - 1 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001316;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_103;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 103, 1º Andar -  Bloco - 2 - Vita Felice;51.97;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_104;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 104, 1º Andar -  Bloco - 2 - Vita Felice;51.97;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_204;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 204, 2º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001171;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_205;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 205, 2º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001168;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_206;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 206, 2º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_301;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 301, 3º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_305;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 305, 3º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001168;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_307;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 307, 3º Andar -  Bloco - 2 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001501;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_402;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 402, 4º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001168;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_403;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 403, 4º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_407;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 407, 4º Andar -  Bloco - 2 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001501;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_502;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 502, 5º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_503;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 503, 5º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_506;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 506, 5º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_508;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 508, 5º Andar -  Bloco - 2 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_602;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 602, 6º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_703;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 703, 7º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_704;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 704, 7º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_802;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 802, 8º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_803;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 803, 8º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_804;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 804, 8º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_807;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 807, 8º Andar -  Bloco - 2 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001575;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_903;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 903, 9º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_904;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 904, 9º Andar -  Bloco - 2 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI2_905;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 905, 9º Andar -  Bloco - 2 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_202;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 202, 2º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001095;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_203;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 203, 2º Andar -  Bloco - 3 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_301;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 301, 3º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_302;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 302, 3º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_304;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 304, 3º Andar -  Bloco - 3 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00124;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_307;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 307, 3º Andar -  Bloco - 3 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_401;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 401, 4º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_402;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 402, 4º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_404;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 404, 4º Andar -  Bloco - 3 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_407;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 407, 4º Andar -  Bloco - 3 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_408;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 408, 4º Andar -  Bloco - 3 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_505;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 505, 5º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_601;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 601, 6º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_602;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 602, 6º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_605;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 605, 6º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001131;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_606;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 606, 6º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_702;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 702, 7º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001168;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_703;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 703, 7º Andar -  Bloco - 3 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001168;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_901;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 901, 9º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001315;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_904;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 904, 9º Andar -  Bloco - 3 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_906;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 906, 9º Andar -  Bloco - 3 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001316;Venda
+28.893.734/0001-66;2018-12-31;1;GAI3_908;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 908, 9º Andar -  Bloco - 3 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001612;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_206;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 206, 2º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_208;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 208, 2º Andar -  Bloco - 4 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001464;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_302;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 302, 3º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_304;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 304, 3º Andar -  Bloco - 4 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_305;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 305, 3º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_308;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 308, 3º Andar -  Bloco - 4 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001501;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_605;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 605, 6º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_701;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 701, 7º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_708;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 708, 7º Andar -  Bloco - 4 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_807;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 807, 8º Andar -  Bloco - 4 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_901;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 901, 9º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_905;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 905, 9º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001316;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_906;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 906, 9º Andar -  Bloco - 4 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI4_908;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 908, 9º Andar -  Bloco - 4 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001575;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_201;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 201, 2º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001208;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_202;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 202, 2º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_204;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 204, 2º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_205;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 205, 2º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_303;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 303, 3º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_305;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 305, 3º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001241;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_306;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 306, 3º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001204;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_308;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 308, 3º Andar -  Bloco - 5 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_407;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 407, 4º Andar -  Bloco - 5 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001501;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_502;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 502, 5º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_503;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 503, 5º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_505;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 505, 5º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_508;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 508, 5º Andar -  Bloco - 5 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001538;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_601;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 601, 6º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_603;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 603, 6º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_604;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 604, 6º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_608;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 608, 6º Andar -  Bloco - 5 - Vita Felice;70.83;1;Nenhuma característica relevante;0.001539;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_704;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 704, 7º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001316;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_705;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 705, 7º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_706;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 706, 7º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_801;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 801, 8º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_803;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 803, 8º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001316;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_805;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 805, 8º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_806;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 806, 8º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_901;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 901, 9º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.001316;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_903;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 903, 9º Andar -  Bloco - 5 - Vita Felice;58.86;1;Nenhuma característica relevante;0.001352;Venda
+28.893.734/0001-66;2018-12-31;1;GAI5_906;Rua Adelina Leal, 358, Centro, Itaboraí - RJ -  Unid 906, 9º Andar -  Bloco - 5 - Vita Felice;57.78;1;Nenhuma característica relevante;0.00128;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_11;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 11 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.00418;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_14;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 14 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.00418;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_22;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 22 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_24;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 24 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_31;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 31 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_32;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 32 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_41;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 41 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_72;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 72 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_74;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 74 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_81;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 81 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_111;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 111 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_112;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 112 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_131;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 131 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_132;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 132 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_151;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 151 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_172;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 172 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004913;Venda
+28.893.734/0001-66;2018-12-31;1;GAR1_202;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 202 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004913;Venda
+28.893.734/0001-66;2018-12-31;1;GAR2_13;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 13 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.00418;Venda
+28.893.734/0001-66;2018-12-31;1;GAR2_82;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 82 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004327;Venda
+28.893.734/0001-66;2018-12-31;1;GAR2_152;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 152 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR2_172;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 172 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004913;Venda
+28.893.734/0001-66;2018-12-31;1;GAR2_202;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 202 - Apartamento Residencial;121.33;1;Nenhuma característica relevante;0.004913;Venda
+28.893.734/0001-66;2018-12-31;1;GAR3_33;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 33 - Apartamento Residencial;155.42;1;Nenhuma característica relevante;0.005515;Venda
+28.893.734/0001-66;2018-12-31;1;GAR3_134;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 134 - Apartamento Residencial;155.42;1;Nenhuma característica relevante;0.00583;Venda
+28.893.734/0001-66;2018-12-31;1;GAR3_192;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 192 - Apartamento Residencial;155.42;1;Nenhuma característica relevante;0.006087;Venda
+28.893.734/0001-66;2018-12-31;1;GAR3_203;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 203 - Apartamento Residencial;155.42;1;Nenhuma característica relevante;0.006087;Venda
+28.893.734/0001-66;2018-12-31;1;GAR3_234;Avenida Brasil, 1.415, no loteamento Jardim São Paulo, Americana - SP - Rio Verde Condomínio Garnet Unidade 234 - Apartamento Residencial;155.42;1;Nenhuma característica relevante;0.00638;Venda
+28.893.734/0001-66;2018-12-31;1;BELLE_51;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 51 - Casa Residencial;121.10;1;Nenhuma característica relevante;0.003388;Venda
+28.893.734/0001-66;2018-12-31;1;BELLE_54;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 54 - Casa Residencial;121.10;1;Nenhuma característica relevante;0.003388;Venda
+28.893.734/0001-66;2018-12-31;1;BELLE_55;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 55 - Casa Residencial;121.10;1;Nenhuma característica relevante;0.003388;Venda
+28.893.734/0001-66;2018-12-31;1;BELLE_61;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 61 - Casa Residencial;121.10;1;Nenhuma característica relevante;0.003388;Venda
+28.893.734/0001-66;2018-12-31;1;BELLE_62;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 62 - Casa Residencial;121.10;1;Nenhuma característica relevante;0.003388;Venda
+28.893.734/0001-66;2018-12-31;1;BELLE_77;Rua Padre Elias Fadul, n. 855, bairro Jardim Montezuma, Limeira - SP - Belle Vie Residencial Versailles Unidade 77 - Casa Residencial;121.10;1;Nenhuma característica relevante;0.003388;Venda
+28.893.734/0001-66;2018-12-31;1;MAG1_41;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 41 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG1_52;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 52 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG1_53;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 53 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG1_84;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 84 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG1_103;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 103 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG1_124;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 124 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_21;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 21 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002567;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_24;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 24 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002567;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_32;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 32 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002567;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_34;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 34 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002567;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_62;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 62 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_64;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 64 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_81;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 81 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_91;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 91 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_92;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 92 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_93;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 93 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_94;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 94 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_101;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 101 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_103;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 103 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_104;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 104 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_111;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 111 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG2_113;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 113 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_31;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 31 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002567;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_51;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 51 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_61;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 61 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.002713;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_81;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 81 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_111;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 111 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_113;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 113 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAG3_121;Rua João Amato, 1.285, bairro Jardim São Roque, Limeira - SP - Rio Verde Residencial Maggiore Unidade 121 - Apartamento Residencial;97.76;1;Nenhuma característica relevante;0.00286;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_11;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 11 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003021;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_14;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 14 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003021;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_64;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 64 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003131;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_144;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 144 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003337;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_182;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 182 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003337;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_192;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 192 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003337;Venda
+28.893.734/0001-66;2018-12-31;1;MAI1_203;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 203 - Apartamento Residencial;98.67;1;Nenhuma característica relevante;0.003337;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_11;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 11 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_12;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 12 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_13;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 13 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_14;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 14 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_21;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 21 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_22;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 22 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_23;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 23 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_24;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 24 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_32;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 32 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_33;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 33 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003557;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_181;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 181 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003923;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_191;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 191 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003923;Venda
+28.893.734/0001-66;2018-12-31;1;MAI2_203;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 203 - Apartamento Residencial;121.18;1;Nenhuma característica relevante;0.003923;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_12;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 12 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004532;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_13;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 13 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004532;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_14;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 14 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004532;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_22;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 22 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004532;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_43;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 43 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004693;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_54;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 54 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004693;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_61;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 61 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004693;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_64;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 64 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004693;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_91;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 91 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004693;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_101;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 101 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004693;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_111;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 111 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_113;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 113 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_121;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 121 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_122;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 122 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_124;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 124 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_131;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 131 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_142;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 142 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_152;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 152 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.00484;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_171;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 171 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004987;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_181;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 181 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004987;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_191;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 191 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004987;Venda
+28.893.734/0001-66;2018-12-31;1;MAI3_193;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 193 - Apartamento Residencial;146.26;1;Nenhuma característica relevante;0.004987;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_99;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 99 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_100;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 100 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_101;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 101 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_103;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 103 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_104;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 104 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_105;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 105 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_112;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 112 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_113;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 113 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_114;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 114 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_115;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 115 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_119;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 119 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_199;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 199 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_200;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 200 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_201;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 201 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_202;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 202 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_203;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 203 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_204;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 204 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;MAIG_205;Rua Mário Aparecido Cortez, n. 120, bairro Vila Santa Josefa, Limeira - SP - Rio Verde Maison D'Art Residencial - Dali Unidade 205 - Vaga de Garagem;12.50;1;Nenhuma característica relevante;0.000147;Venda
+28.893.734/0001-66;2018-12-31;1;EASY110;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 110 - Apartamento Residencial;72.87;1;Nenhuma característica relevante;0.002731;Venda
+28.893.734/0001-66;2018-12-31;1;EASY301;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 301 - Apartamento Residencial;73.12;1;Nenhuma característica relevante;0.002731;Venda
+28.893.734/0001-66;2018-12-31;1;EASY402;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 402 - Apartamento Residencial;96.50;1;Nenhuma característica relevante;0.003686;Venda
+28.893.734/0001-66;2018-12-31;1;EASY408;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 408 - Apartamento Residencial;96.62;1;Nenhuma característica relevante;0.003687;Venda
+28.893.734/0001-66;2018-12-31;1;EASY508;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 508 - Apartamento Residencial;96.62;1;Nenhuma característica relevante;0.003687;Venda
+28.893.734/0001-66;2018-12-31;1;EASY608;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 608 - Apartamento Residencial;96.62;1;Nenhuma característica relevante;0.003687;Venda
+28.893.734/0001-66;2018-12-31;1;EASY612;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 612 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001929;Venda
+28.893.734/0001-66;2018-12-31;1;EASY711;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 711 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001929;Venda
+28.893.734/0001-66;2018-12-31;1;EASY712;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 712 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001929;Venda
+28.893.734/0001-66;2018-12-31;1;EASY905;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 905 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY911;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 911 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY912;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 912 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1005;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1005 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1006;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1006 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1011;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1011 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1012;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1012 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1110;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1110 - Apartamento Residencial;123.07;1;Nenhuma característica relevante;0.004789;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1112;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1112 - Apartamento Residencial;50.20;1;Nenhuma característica relevante;0.002165;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1204;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1204 - Apartamento Residencial;94.68;1;Nenhuma característica relevante;0.004045;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1205;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1205 - Apartamento Residencial;50.65;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1206;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1206 - Apartamento Residencial;50.60;1;Nenhuma característica relevante;0.001965;Venda
+28.893.734/0001-66;2018-12-31;1;EASY1211;Rua Acre, 820, Nossa Senhora das Graças, Manaus/Amazonas Unipar Easy Residence Unidade 1211 - Apartamento Residencial;59.61;1;Nenhuma característica relevante;0.002364;Venda
+28.893.734/0001-66;2018-12-31;1;REN_101;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 101 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_102;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 102 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_103;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 103 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_201;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 201 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_202;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 202 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_203;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 203 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_301;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 301 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_302;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 302 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_304;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 304 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_602;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 602 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_702;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 702 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_703;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 703 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_903;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 903 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_904;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 904 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1003;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1003 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1004;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1004 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004283;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1103;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1103 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004463;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1503;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1503 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004463;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1703;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1703 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004463;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1904;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1904 - Apartamento Residencial;155.00;1;Nenhuma característica relevante;0.004463;Venda
+28.893.734/0001-66;2018-12-31;1;REN_1804;R. dos Passos, 240 - Vila Edmundo, Taubaté  Coli Condomínio Renaissance Unidade 1804 - Apartamento Residencial;114.00;1;Nenhuma característica relevante;0.003275;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_103;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 103 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001152;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_105;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 105 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001152;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_106;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 106 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001152;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_108;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 108 - Apartamento Residencial;64.70;1;Nenhuma característica relevante;0.001512;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_208;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 208 - Apartamento Residencial;64.70;1;Nenhuma característica relevante;0.001512;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_307;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 307 - Apartamento Residencial;64.70;1;Nenhuma característica relevante;0.001512;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_505;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 505 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001152;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_605;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 605 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001188;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_803;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 803 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001188;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_805;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 805 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001188;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_903;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 903 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001188;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1003;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1003 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001188;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1105;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1105 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001188;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1208;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1208 - Apartamento Residencial;64.70;1;Nenhuma característica relevante;0.001691;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1505;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1505 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001209;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1603;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1603 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001209;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1703;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1703 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001209;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1704;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1704 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001209;Venda
+28.893.734/0001-66;2018-12-31;1;TAR_1705;Vila Nossa Senhora das Graças, na cidade de Taubaté, Estado de São Paulo Coli Residencial Tarsila do Amaral Unidade 1705 - Apartamento Residencial;49.88;1;Nenhuma característica relevante;0.001209;Venda
+29.641.226/0001-53;2018-06-30;1;IBMEC -RJ;Av. Armando Lombardi, 940 - Barra da Tijuca - RJ;8040;1;Imóvel detido pela  SPE JARDIM OCEANICO, adquirida integralmente pelo Fundo no trimestre;0.841635;Renda
+30.492.505/0001-81;2018-06-30;1;Escritório;Rua Almirante Heraclito da Graça, 234 - Barra da Tijuca - Rio de Janeiro - RJ;6525;1;Imovel constituido de uma área de terreno com 6.525,00 m² e suas benfeitorias, conforme descrito na matricula 403.479 do Registro de Imóveis do 9º Oficio;1;Renda
+30.629.603/0001-18;2018-12-31;1;Galpão - Guarulhos;Rua Manoel Borba Gato, 100 - Esplanada das Bandeiras;24415.99;1;Fundo de Renda;0.2421;Renda
+30.629.603/0001-18;2018-12-31;1;Galpão - Extrema;Rodovia Fernão Dias, KM 947.50 - Bairro Dos Pires;97822.22;12;Fundo de Renda;0.7579;Renda
